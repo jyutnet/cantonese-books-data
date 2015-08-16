@@ -22,3 +22,4 @@
 | 分部分音廣話九聲字宗 | 1914_fan_bo_fan_yam_data.txt |
 | 民眾識字粵語拼音字彙 | 1931_man_chung_sik_chi_data.txt | 
 | 道漢字音（粵語音典部份） | 1939_to_hon_chi_yam_data.txt |
+| 道字典（粵音義典部份） | 1941_to_dictionary_data.txt |
