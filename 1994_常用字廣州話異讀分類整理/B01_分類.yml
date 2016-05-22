@@ -1,0 +1,1419 @@
+categories:
+    1:
+        title: 聲母歧異
+        subitems:
+            1:
+                title: Ø、ng
+                subitems:
+                    1: 建議讀「Ø」
+            2:
+                title: Ø、g
+                subitems:
+                    1: 建議讀「Ø＋註」
+            3:
+                title: b、f
+                subitems:
+                    1: 建議讀「b」
+            4:
+                title: b、f、p
+                subitems:
+                    1: 建議讀「p＋註」
+            5:
+                title: b、m
+                subitems:
+                    1: 建議讀「m」
+            6:
+                title: b、p
+                subitems:
+                    1: 建議讀「b＋註」
+                    2: 建議讀「b」
+                    3: 建議讀「p」
+                    4: 建議讀「p＋註」
+            7:
+                title: d、l
+                subitems:
+                    1: 建議讀「d＋註」
+            8:
+                title: d、n
+                subitems:
+                    1: 建議讀「d」
+            9:
+                title: d、t
+                subitems:
+                    1: 建議讀「d＋註」
+                    2: 建議讀「t」
+                    3: 建議「不收此破讀」
+            10:
+                title: d、z
+                subitems:
+                    1: 建議讀「z＋註」
+            11:
+                title: z、j
+                subitems:
+                    1: 建議讀「j＋註」
+            12:
+                title: z、s
+                subitems:
+                    1: 建議讀「z」
+                    2: 建議讀「z＋註」
+                    3: 建議讀「s」
+            13:
+                title: z、c
+                subitems:
+                    1: 建議讀「z」
+                    2: 建議讀「z＋註」
+                    3: 建議讀「c」
+                    4: 建議讀「c＋註」
+                    5: 建議「保留二讀」
+            14:
+                title: f、k
+                subitems:
+                    1: 建議讀「k＋註」
+            15:
+                title: f、p
+                subitems:
+                    1: 建議讀「f＋註」
+                    2: 建議讀「p」
+            16:
+                title: f、w
+                subitems:
+                    1: 建議讀「w＋註」
+            17:
+                title: g、gw
+                subitems:
+                    1: 建議讀「g」
+            18:
+                title: g、h
+                subitems:
+                    1: 建議讀「h＋註」
+                    2: 建議讀「g」
+            19:
+                title: g、j
+                subitems:
+                    1: 建議讀「j」
+            20:
+                title: g、k
+                subitems:
+                    1: 建議讀「g」
+                    2: 建議讀「g＋註」
+                    3: 建議讀「k」
+                    4: 建議讀「k＋註」
+            21:
+                title: g、ng
+                subitems:
+                    1: 建議讀「ng」
+                    2: 建議讀「ng＋註」
+            22:
+                title: gw、kw
+                subitems:
+                    1: 建議讀「gw」
+                    2: 建議讀「kw＋註」
+            23:
+                title: h、k
+                subitems:
+                    1: 建議讀「h＋註」
+                    2: 建議讀「k」
+                    3: 建議讀「k＋註」
+            24:
+                title: j、n
+                subitems:
+                    1: 建議讀「n」
+            25:
+                title: j、s
+                subitems:
+                    1: 建議讀「s＋註」
+            26:
+                title: j、w
+                subitems:
+                    1: 建議讀「j」
+            27:
+                title: k、l
+                subitems:
+                    1: 建議「不收此破讀」
+            28:
+                title: h、ng
+                subitems:
+                    1: 建議讀「h」
+            29:
+                title: h、l
+                subitems:
+                    1: 建議讀「h」
+            30:
+                title: j、z
+                subitems:
+                    1: 建議讀「j」
+                    2: 建議讀「c＋註」
+            31:
+                title: k、kw
+                subitems:
+                    1: 建議讀「kw＋註」
+            32:
+                title: l、n
+                subitems:
+                    1: 建議讀「n」
+            33:
+                title: m、n
+                subitems:
+                    1: 建議讀「n＋註」
+                    2: 建議讀「n＋註」
+            34:
+                title: n、t
+                subitems:
+                    1: 建議讀「t」
+            35:
+                title: s、c
+                subitems:
+                    1: 建議讀「s」
+                    2: 建議讀「s＋註」
+                    3: 建議讀「c」
+    2:
+        title: 韻母歧異
+        subitems:
+            1:
+                title: aa、aak
+                subitems:
+                    1: 建議讀「aa」
+            2:
+                title: aa、o
+                subitems:
+                    1: 建議讀「aa」
+                    2: 建議讀「o」
+            3:
+                title: aa、u
+                subitems:
+                    1: 建議讀「u」
+                    2: 建議讀「aa」
+            4:
+                title: aai、ai
+                subitems:
+                    1: 建議讀「aai」
+                    2: 建議讀「ai＋註」
+            5:
+                title: aai、ei
+                subitems:
+                    1: 建議讀「ei」
+            6:
+                title: aai、oi
+                subitems:
+                    1: 建議讀「aai＋註」
+            7:
+                title: aak、ak
+                subitems:
+                    1: 建議讀「aak」
+                    2: 建議讀「ak」
+                    3: 建議讀「ak＋註」
+            8:
+                title: aak、ok
+                subitems:
+                    1: 建議讀「aak」
+                    2: 建議讀「ok＋註」
+            9:
+                title: aak、uk
+                subitems:
+                    1: 建議讀「uk＋註」
+            10:
+                title: aam、aan
+                subitems:
+                    1: 建議讀「aan＋註」
+            11:
+                title: aam、im
+                subitems:
+                    1: 建議讀「am＋註」
+            12:
+                title: aan、im
+                subitems:
+                    1: 建議讀「an」
+                    2: 建議讀「im」
+            13:
+                title: aang、ang
+                subitems:
+                    1: 建議讀「aang」
+                    2: 建議讀「ang」
+                    3: 建議讀「ang＋註」
+                    4: 建議讀「ang（入註）」
+            14:
+                title: aang、ong
+                subitems:
+                    1: 建議讀「aang」
+            15:
+                title: aang、aat
+                subitems:
+                    1: 建議讀「aat」
+            16:
+                title: aap、ap
+                subitems:
+                    1: 建議讀「ap＋註」
+            17:
+                title: aat、at
+                subitems:
+                    1: 建議讀「at」
+            18:
+                title: aat、ut
+                subitems:
+                    1: 建議讀「ut＋註」
+            19:
+                title: aau、au
+                subitems:
+                    1: 建議讀「aau」
+                    2: 建議讀「au」
+                    3: 建議讀「au＋註」
+            20:
+                title: aau、ou
+                subitems:
+                    1: 建議讀「aau」
+                    2: 建議讀「ou」
+            21:
+                title: ai、ei
+                subitems:
+                    1: 建議讀「ai＋註」
+                    2: 建議讀「ei」
+                    3: 建議讀「ei＋註」
+            22:
+                title: ai、ei、i
+                subitems:
+                    1: 建議讀「ei」
+            23:
+                title: aai、i
+                subitems:
+                    1: 建議讀「i」
+            24:
+                title: ai、ing
+                subitems:
+                    1: 建議讀「ai」
+            25:
+                title: ai、oi
+                subitems:
+                    1: 建議讀「ai＋註」
+            26:
+                title: am、an
+                subitems:
+                    1: 建議「不收此破讀」
+            27:
+                title: an、ang
+                subitems:
+                    1: 建議讀「ang（入註）」
+            28:
+                title: an、in
+                subitems:
+                    1: 建議讀「in＋註」
+            29:
+                title: an、ang
+                subitems:
+                    1: 建議讀「an」
+                    2: 建議讀「ing」
+            30:
+                title: ap、at、eot
+                subitems:
+                    1: 建議讀「ap＋註」
+                    2: 建議讀「eot＋註」
+            31:
+                title: ap、ik
+                subitems:
+                    1: 建議讀「ik」
+            32:
+                title: aat、it
+                subitems:
+                    1: 建議讀「it」
+            33:
+                title: at、ut
+                subitems:
+                    1: 建議讀「at」
+            34:
+                title: au、ou
+                subitems:
+                    1: 建議讀「au」
+            35:
+                title: au、eoi
+                subitems:
+                    1: 建議讀「au＋註」
+            36:
+                title: e、ei
+                subitems:
+                    1: 建議讀「e＋註」
+            37:
+                title: e、i
+                subitems:
+                    1: 建議讀「i」
+            38:
+                title: ei、i
+                subitems:
+                    1: 建議讀「ei」
+                    2: 建議讀「ei＋註」
+                    3: 建議讀「i」
+                    4: 建議讀「i＋註」
+            39:
+                title: ei、eoi
+                subitems:
+                    1: 建議讀「ei」
+                    2: 建議「破讀」
+            40:
+                title: ei、oi
+                subitems:
+                    1: 建議讀「oi」
+            41:
+                title: ei、ui
+                subitems:
+                    1: 建議讀「ui」
+                    2: 建議讀「ui＋註」
+            42:
+                title: ek、ik
+                subitems:
+                    1: 建議讀「ek」
+                    2: 建議讀「ek＋註」
+            43:
+                title: eng、ing
+                subitems:
+                    1: 建議讀「eng」
+                    2: 建議讀「eng＋註」
+                    3: 建議讀「ing」
+                    4: 建議讀「ing＋註」
+            44:
+                title: im、in
+                subitems:
+                    1: 建議讀「im」
+                    2: 建議讀「in」
+                    3: 建議讀「in＋註」
+            45:
+                title: im、in、an
+                subitems:
+                    1: 建議讀「in＋註」
+            46:
+                title: in、ing
+                subitems:
+                    1: 建議讀「in＋註」
+            47:
+                title: ip、it
+                subitems:
+                    1: 建議讀「ip＋註」
+                    2: 建議讀「it」
+            48:
+                title: o、oe
+                subitems:
+                    1: 建議讀「o＋註」
+            49:
+                title: o、eoi
+                subitems:
+                    1: 建議讀「eoi＋註」
+            50:
+                title: o、ou
+                subitems:
+                    1: 建議讀「ou」
+            51:
+                title: oe、eoi
+                subitems:
+                    1: 建議讀「eoi＋註」
+            52:
+                title: oek、ok
+                subitems:
+                    1: 建議讀「oek＋註」
+            53:
+                title: oek、yut
+                subitems:
+                    1: 建議讀「oek＋註」
+            54:
+                title: eon、yun
+                subitems:
+                    1: 建議讀「eon」
+            55:
+                title: eoi、ou
+                subitems:
+                    1: 建議讀「ou＋註」
+            56:
+                title: eoi、yu
+                subitems:
+                    1: 建議讀「eoi」
+                    2: 建議讀「yu＋註」
+            57:
+                title: eoi、yun
+                subitems:
+                    1: 建議讀「yun＋註」
+            58:
+                title: oi、eoi
+                subitems:
+                    1: 建議讀「eoi＋註」
+            59:
+                title: ou、ui
+                subitems:
+                    1: 建議讀「ou＋註」
+    3:
+        title: 聲調歧異
+        subitems:
+            1:
+                title: 1、2調
+                subitems:
+                    1: 建議讀「1調」
+                    2: 建議讀「1調」
+                    3: 建議讀「1調＋註」
+                    4: 建議讀「2調」
+                    5: 建議讀「2調＋註」
+                    6: 建議「不收此讀音」
+            2:
+                title: 1、2、3調
+                subitems:
+                    1: 建議讀「1調＋註」
+                    2: 建議讀「2調＋註」
+            3:
+                title: 1、3調
+                subitems:
+                    1: 建議讀「1調」
+                    2: 建議讀「1調＋註」
+                    3: 建議讀「3調」
+                    4: 建議讀「3調＋註」
+            4:
+                title: 1、4調
+                subitems:
+                    1: 建議讀「1調」
+                    2: 建議讀「1調＋註」
+                    3: 建議讀「1調（入註）」
+                    4: 建議讀「4調」
+                    5: 建議讀「4調＋註」
+                    6: 建議「破讀」
+            5:
+                title: 1、5調
+                subitems:
+                    1: 建議讀「1調」
+                    2: 建議讀「5調」
+            6:
+                title: 1、6調
+                subitems:
+                    1: 建議讀「1調」
+                    2: 建議讀「1調＋註」
+                    3: 建議讀「6調」
+            7:
+                title: 2、3調
+                subitems:
+                    1: 建議讀「2調＋註」
+                    2: 建議讀「3調」
+                    3: 建議讀「3調＋註」
+            8:
+                title: 2、3、5調
+                subitems:
+                    1: 建議讀「5調＋註」
+            9:
+                title: 2、3、6調
+                subitems:
+                    1: 建議讀「3調＋註」
+                    2: 建議讀「6調＋註」
+            10:
+                title: 2、4調
+                subitems:
+                    1: 建議讀「2調」
+                    2: 建議讀「2調＋註」
+                    3: 建議讀「4調」
+                    4: 建議讀「4調＋註」
+            11:
+                title: 2、5調
+                subitems:
+                    1: 建議讀「2調」
+                    2: 建議讀「2調＋註」
+                    3: 建議讀「5調」
+                    4: 建議讀「5調＋註」
+            12:
+                title: 2、5、6調
+                subitems:
+                    1: 建議讀「2調＋註」
+            13:
+                title: 3、5、6調
+                subitems:
+                    1: 建議讀「5調＋註」
+            14:
+                title: 2、6調
+                subitems:
+                    1: 建議讀「2調」
+                    2: 建議讀「2調＋註」
+                    3: 建議讀「6調」
+                    4: 建議讀「6調＋註」
+            15:
+                title: 3、4調
+                subitems:
+                    1: 建議讀「4調＋註」
+                    2: 建議「破讀」
+            16:
+                title: 3、5調
+                subitems:
+                    1: 建議讀「4調＋註」
+                    2: 建議讀「5調」
+            17:
+                title: 3、6調
+                subitems:
+                    1: 建議讀「3調」
+                    2: 建議讀「3調＋註」
+                    3: 建議讀「6調」
+                    4: 建議讀「6調＋註」
+            18:
+                title: 4、5調
+                subitems:
+                    1: 建議讀「4調」
+                    2: 建議讀「4調＋註」
+                    3: 建議讀「5調」
+                    4: 建議讀「5調＋註」
+            19:
+                title: 4、6調
+                subitems:
+                    1: 建議讀「4調」
+                    2: 建議讀「4調＋註」
+                    3: 建議讀「6調」
+                    4: 建議讀「6調＋註」
+            20:
+                title: 5、6調
+                subitems:
+                    1: 建議讀「5調」
+                    2: 建議讀「5調＋註」
+                    3: 建議讀「6調」
+                    4: 建議讀「6調＋註」
+            21:
+                title: 7、8調
+                subitems:
+                    1: 建議讀「7調」
+                    2: 建議讀「8調」
+            22:
+                title: 7、9調
+                subitems:
+                    1: 建議讀「7調＋註」
+                    2: 建議讀「9調」
+                    3: 建議讀「9調＋註」
+            23:
+                title: 8、9調
+                subitems:
+                    1: 建議讀「8調」
+                    2: 建議讀「8調＋註」
+                    3: 建議讀「9調」
+                    4: 建議讀「9調＋註」
+    4:
+        title: 聲、韻均異
+        subitems:
+            1:
+                title: aa1、jo1
+                subitems:
+                    1: 建議讀「jo1」
+            2:
+                title: bam1、pong1
+                subitems:
+                    1: 建議讀「pong1＋註」
+            3:
+                title: bou6、fau6
+                subitems:
+                    1: 建議讀「fau6」
+            4:
+                title: bik7、fuk7
+                subitems:
+                    1: 建議讀「bik7」
+            5:
+                title: dai2、zi2
+                subitems:
+                    1: 建議讀「dai2」
+            6:
+                title: dau2、gau2、giu2
+                subitems:
+                    1: 建議讀「gau2」
+                    2: 建議讀「gau2＋註」
+            7:
+                title: dim2、zam2
+                subitems:
+                    1: 建議讀「zam2」
+            8:
+                title: dit9、jat9
+                subitems:
+                    1: 建議讀「jat9」
+            9:
+                title: diu6、zaau6
+                subitems:
+                    1: 建議讀「diu6」
+            9:
+                title: diu6、zaau6
+                subitems:
+                    1: 建議讀「diu6」
+            10:
+                title: zin1、gaam1
+                subitems:
+                    1: 建議讀「gaam1＋註」
+            11:
+                title: zin1、saan1
+                subitems:
+                    1: 建議讀「zin1」
+            12:
+                title: zyut8、ceot8
+                subitems:
+                    1: 建議讀「zyut8」
+            13:
+                title: fu2、pou2
+                subitems:
+                    1: 建議讀「fu2」
+            14:
+                title: fui1、kwai1
+                subitems:
+                    1: 建議讀「fui1」
+            15:
+                title: gau1、kau1、keoi1
+                subitems:
+                    1: 建議讀「keoi1」
+            16:
+                title: hek8、jaak8
+                subitems:
+                    1: 建議讀「hek8」
+            17:
+                title: heoi3、jyu3
+                subitems:
+                    1: 建議讀「jyu3」
+            18:
+                title: hong1、kwaang1
+                subitems:
+                    1: 建議讀「hong1」
+                    2: 建議讀「hong1＋註」
+            19:
+                title: hung3、cau3
+                subitems:
+                    1: 建議讀「cau3」
+            20:
+                title: jaa6、nim6
+                subitems:
+                    1: 建議讀「jaa6＋註」
+            21:
+                title: je4、ngaa4
+                subitems:
+                    1: 建議讀「je4」
+            22:
+                title: ji1、taa1
+                subitems:
+                    1: 建議讀「taa1」
+            23:
+                title: jik9、ngaak9
+                subitems:
+                    1: 建議讀「jik9」
+            24:
+                title: jim4、ngaam4
+                subitems:
+                    1: 建議讀「ngaam4」
+            25:
+                title: jiu4、naau4
+                subitems:
+                    1: 建議讀「jiu4」
+            26:
+                title: jyun2、wun2
+                subitems:
+                    1: 建議讀「jyun2」
+            27:
+                title: jyun4、wun4
+                subitems:
+                    1: 建議讀「wun4＋jyun4」
+            28:
+                title: lam4、maa4
+                subitems:
+                    1: 建議讀「maa4」
+            29:
+                title: leot9、wat9
+                subitems:
+                    1: 建議讀「wat9＋註」
+            30:
+                title: leoi6、wai6、wui6
+                subitems:
+                    1: 建議讀「wai6＋註」
+            31:
+                title: ngung3、ung3
+                subitems:
+                    1: 建議讀「ung3」
+            32:
+                title: seng4、sing4、cing4
+                subitems:
+                    1: 建議讀「sing4」
+            33:
+                title: seoi6、wai6
+                subitems:
+                    1: 建議讀「seoi6」
+            34:
+                title: tung1、cung1
+                subitems:
+                    1: 建議讀「cung1＋註」
+    5:
+        title: 聲、調均異
+        subitems:
+            1:
+                title: aa1、ngaai6
+                subitems:
+                    1: 建議讀「aai1」
+            2:
+                title: au1、au2、ngau1
+                subitems:
+                    1: 建議讀「au1」
+            3:
+                title: ban3、pan4
+                subitems:
+                    1: 建議讀「ban3」
+            4:
+                title: bei2、pei4
+                subitems:
+                    1: 建議讀「pei4」
+            5:
+                title: bing3、bing6、ping3
+                subitems:
+                    1: 建議讀「bing3」
+            6:
+                title: biu1、piu5
+                subitems:
+                    1: 建議讀「piu5」
+            7:
+                title: bo3、po4
+                subitems:
+                    1: 建議讀「po4＋註」
+            8:
+                title: bun6、pun5
+                subitems:
+                    1: 建議讀「bun6」
+            9:
+                title: but9、put8
+                subitems:
+                    1: 建議讀「but9」
+            10:
+                title: daam6、taam5
+                subitems:
+                    1: 建議讀「daam6」
+            11:
+                title: dai6、tai5、tai6
+                subitems:
+                    1: 建議讀「tai5＋註」
+            12:
+                title: dik9、tik7
+                subitems:
+                    1: 建議讀「dik9」
+            13:
+                title: din1、tin4
+                subitems:
+                    1: 建議讀「tin4」
+            14:
+                title: diu6、tiu5
+                subitems:
+                    1: 建議讀「tiu5」
+            15:
+                title: doi6、doi5
+                subitems:
+                    1: 建議讀「toi5＋註」
+            16:
+                title: dong1、nong6
+                subitems:
+                    1: 建議讀「dong1」
+            17:
+                title: zan3、san1
+                subitems:
+                    1: 建議讀「san1＋註」
+            18:
+                title: zi6、ci4
+                subitems:
+                    1: 建議讀「ci4」
+            19:
+                title: zim3、cim1、cim3、cim5
+                subitems:
+                    1: 建議讀「cim3」
+            20:
+                title: zin2、nin5
+                subitems:
+                    1: 建議讀「zin2」
+            21:
+                title: zin2、sin6、cin2
+                subitems:
+                    1: 建議讀「zin2＋註」
+            22:
+                title: zin6、cin4
+                subitems:
+                    1: 建議讀「cin4」
+            23:
+                title: zin6、cin5
+                subitems:
+                    1: 建議讀「cin5＋註」
+            24:
+                title: zo2、co6
+                subitems:
+                    1: 建議讀「zo6＋註」
+            25:
+                title: zou2、cou3
+                subitems:
+                    1: 建議讀「cou3＋註」
+            26:
+                title: zyu1、syu4
+                subitems:
+                    1: 建議讀「zyu1＋註」
+            27:
+                title: zuk9、cuk7
+                subitems:
+                    1: 建議讀「cuk7」
+            28:
+                title: zung1、cung4
+                subitems:
+                    1: 建議讀「cung4」
+            29:
+                title: zung6、cung4
+                subitems:
+                    1: 建議讀「zung6」
+            30:
+                title: fat1、gwat9、wat7
+                subitems:
+                    1: 建議讀「fat7」
+            31:
+                title: fo1、fo2、po1
+                subitems:
+                    1: 建議讀「fo2」
+            32:
+                title: fo2、fo3、lo2
+                subitems:
+                    1: 建議讀「fo2」
+            33:
+                title: fu1、fu4、wu4
+                subitems:
+                    1: 建議讀「fu4」
+            34:
+                title: fun2、gun3
+                subitems:
+                    1: 建議讀「gun3＋註」
+            35:
+                title: gaai1、haai4
+                subitems:
+                    1: 建議讀「gaai1」
+            36:
+                title: gaai3、haai6
+                subitems:
+                    1: 建議讀「haai6」
+            37:
+                title: gaau3、haau1、haau3
+                subitems:
+                    1: 建議讀「haau1」
+            38:
+                title: gan3、ngan6
+                subitems:
+                    1: 建議讀「gan3」
+            39:
+                title: gan6、kam5
+                subitems:
+                    1: 建議讀「gan6＋註」
+            40:
+                title: gat7、ngat9
+                subitems:
+                    1: 建議讀「ngat9＋註」
+            41:
+                title: goeng6、koeng3、koeng5
+                subitems:
+                    1: 建議讀「koeng5＋註」
+            42:
+                title: gin2、jin2
+                subitems:
+                    1: 建議讀「jin2」
+            43:
+                title: giu2、giu6、kiu2
+                subitems:
+                    1: 建議讀「giu2＋註」
+            44:
+                title: giu6、hiu3
+                subitems:
+                    1: 建議讀「giu6＋註」
+            45:
+                title: geoi6、keoi5
+                subitems:
+                    1: 建議讀「keoi5＋註」
+            46:
+                title: geoi6、keoi1
+                subitems:
+                    1: 建議讀「keoi1＋註」
+            47:
+                title: gou2、hou6
+                subitems:
+                    1: 建議讀「hou6」
+            48:
+                title: gu2、ku1
+                subitems:
+                    1: 建議讀「gu2」
+            50:
+                title: gwong2、kong4、kwong2、kwong4
+                subitems:
+                    1: 建議讀「kong4＋註」
+            51:
+                title: gwang6、kwang3
+                subitems:
+                    1: 建議讀「kwaang3＋註」
+            52:
+                title: hat7、ngat9
+                subitems:
+                    1: 建議讀「ngat9」
+            53:
+                title: hiu1、kiu2、kiu3
+                subitems:
+                    1: 建議讀「kiu2」
+            54:
+                title: hiu3、kiu3、kiu4
+                subitems:
+                    1: 建議讀「kiu4」
+            55:
+                title: hong4、kong3、ong1、ong3
+                subitems:
+                    1: 建議讀「ong1」
+            56:
+                title: hyun1、syun1、syun3
+                subitems:
+                    1: 建議讀「hyun1」
+            57:
+                title: hyun3、jyun4、jyun6
+                subitems:
+                    1: 建議讀「jyun4＋註」
+            58:
+                title: jing4、wing1
+                subitems:
+                    1: 建議讀「jing4＋註」
+            59:
+                title: jiu2、miu5
+                subitems:
+                    1: 建議讀「miu5＋註」
+            60:
+                title: kui2、kui3、wui6
+                subitems:
+                    1: 建議讀「wui6＋註」
+            61:
+                title: laai2、saai2、saai5
+                subitems:
+                    1: 建議讀「saai2」
+            62:
+                title: ngou4、ou1
+                subitems:
+                    1: 建議讀「ngou4＋註」
+            63:
+                title: ping3、cing2
+                subitems:
+                    1: 建議讀「cing2」
+            64:
+                title: saam1、caam3
+                subitems:
+                    1: 建議讀「caam3＋註」
+            65:
+                title: seon4、ceon1
+                subitems:
+                    1: 建議讀「ceon1＋註」
+            66:
+                title: si6、ci5
+                subitems:
+                    1: 建議讀「si6＋註」
+            67:
+                title: syu3、cyu5、cyu5
+                subitems:
+                    1: 建議讀「cyu5＋註」
+            68:
+                title: tung4、cung1
+                subitems:
+                    1: 建議讀「cung1＋註」
+    6:
+        title: 調、韻均異
+        subitems:
+            1:
+                title: bai1、bo2
+                subitems:
+                    1: 建議讀「bo2＋註」
+            2:
+                title: bang2、bat7、bong2、bung2
+                subitems:
+                    1: 建議讀「bung2」
+            3:
+                title: bei2、pei3
+                subitems:
+                    1: 建議讀「pei3」
+            4:
+                title: bek8、bik7
+                subitems:
+                    1: 建議讀「bik7＋註」
+            5:
+                title: dan1、dan2、deon1
+                subitems:
+                    1: 建議讀「deon1」
+            6:
+                title: do2、do3、doek8
+                subitems:
+                    1: 建議讀「doek8＋註」
+            7:
+                title: zaa1、zaam2、zaap8、zaap9
+                subitems:
+                    1: 建議讀「zaap8＋註」
+            8:
+                title: zaa1、zaau2
+                subitems:
+                    1: 建議讀「zaau2＋註」
+            9:
+                title: zaak9、zaap8
+                subitems:
+                    1: 建議讀「zaap8」
+            10:
+                title: zaang1、zaang3、zang1、zang3
+                subitems:
+                    1: 建議讀「zang3」
+            11:
+                title: zeng2、zing6
+                subitems:
+                    1: 建議讀「zing6＋註」
+            12:
+                title: zi3、zik7
+                subitems:
+                    1: 建議讀「zik7」
+            13:
+                title: fai2、fai3、fai6、fei2
+                subitems:
+                    1: 建議讀「fai2＋註」
+            14:
+                title: fai6、fei4
+                subitems:
+                    1: 建議讀「fei4」
+            15:
+                title: gap8、gap9、got8
+                subitems:
+                    1: 建議讀「gap9（入註）」
+            16:
+                title: gau3、gou1
+                subitems:
+                    1: 建議讀「gau3」
+            17:
+                title: gwik7、gwing2
+                subitems:
+                    1: 建議讀「gwing2」
+            18:
+                title: haai5、hoi4、hoi5
+                subitems:
+                    1: 建議讀「haai5」
+            19:
+                title: haap8、hap8、hap9
+                subitems:
+                    1: 建議讀「hap8」
+            20:
+                title: haau1、hau1、hau3
+                subitems:
+                    1: 建議讀「haau1」
+            21:
+                title: ham2、hap9
+                subitems:
+                    1: 建議讀「hap9」
+            22:
+                title: jan2、jan5、jing2
+                subitems:
+                    1: 建議讀「jan5」
+            23:
+                title: jim1、jip8
+                subitems:
+                    1: 建議讀「jim1＋註」
+            24:
+                title: juk9、jyu6
+                subitems:
+                    1: 建議讀「jyu6＋註」
+            25:
+                title: lau5、leoi5
+                subitems:
+                    1: 建議讀「lau5＋註」
+            26:
+                title: liu4、lou5、lou6
+                subitems:
+                    1: 建議讀「liu4」
+            27:
+                title: lo5、leon2、leon5
+                subitems:
+                    1: 建議讀「leon2」
+            28:
+                title: maau1、miu4
+                subitems:
+                    1: 建議讀「maau1」
+            29:
+                title: mai4、mai5、mei1
+                subitems:
+                    1: 建議讀「mei1＋註」
+            30:
+                title: man4、mong4、mong5
+                subitems:
+                    1: 建議讀「man4或mong4」
+            31:
+                title: mau4、mou6、muk9
+                subitems:
+                    1: 建議讀「mau4」
+            32:
+                title: mo1、mo2、mok7、mok8
+                subitems:
+                    1: 建議讀「mo2＋註」
+            33:
+                title: sam6、sap9
+                subitems:
+                    1: 建議讀「sam6」
+            34:
+                title: saan1、saan2、sim2
+                subitems:
+                    1: 建議讀「saan1」
+            35:
+                title: sau1、sau2、sou2
+                subitems:
+                    1: 建議讀「sau2＋註」
+            36:
+                title: sau1、suk7
+                subitems:
+                    1: 建議讀「sau1」
+            37:
+                title: sok8、sou3
+                subitems:
+                    1: 建議讀「sou3」
+            38:
+                title: seot7、seoi1
+                subitems:
+                    1: 建議讀「seot7」
+            39:
+                title: taai5、to4、to5
+                subitems:
+                    1: 建議讀「to4」
+            40:
+                title: caang4、coeng1
+                subitems:
+                    1: 建議讀「caang4＋註」
+            41:
+                title: coek8、cik7、cik8
+                subitems:
+                    1: 建議讀「cek8」
+            42:
+                title: wai2、wui1
+                subitems:
+                    1: 建議讀「wai2＋註」
+    7:
+        title: 聲、韻、調均異
+        subitems:
+            1:
+                title: aai3、ai3、ngaai3
+                subitems:
+                    1: 建議讀「aai3」
+            2:
+                title: aai3、ai3、ngai3
+                subitems:
+                    1: 建議讀「ai3」
+            3:
+                title: aai1、ngaai1、oi1
+                subitems:
+                    1: 建議讀「oi1＋註」
+            4:
+                title: aam1、hap7
+                subitems:
+                    1: 建議讀「hap7」
+            5:
+                title: aan2、jim3
+                subitems:
+                    1: 建議讀「jim3」
+            6:
+                title: aat8、daai2
+                subitems:
+                    1: 建議讀「daai2」
+            7:
+                title: aau1、aau3、nap7、waa1
+                subitems:
+                    1: 建議讀「nap7」
+            8:
+                title: ap7、hap7、hap9、haap9
+                subitems:
+                    1: 建議讀「hap7」
+            9:
+                title: baak8、bok9、paa8
+                subitems:
+                    1: 建議讀「bok9＋註」
+            10:
+                title: baang6、bang1、bong2、maang1
+                subitems:
+                    1: 建議讀「bang1」
+            11:
+                title: be1、pei4
+                subitems:
+                    1: 建議讀「be1」
+            12:
+                title: buk9、pok8
+                subitems:
+                    1: 建議讀「buk9＋註」
+            13:
+                title: dang1、dang4、dang6、cing4
+                subitems:
+                    1: 建議讀「dang1」
+            14:
+                title: dat9、gu2
+                subitems:
+                    1: 建議讀「dat9」
+            15:
+                title: deon6、tan1、tan4
+                subitems:
+                    1: 建議讀「tan1」
+            16:
+                title: zaa1、zaa3、caak7
+                subitems:
+                    1: 建議「破讀」
+            17:
+                title: zaap9、saan1、caak8
+                subitems:
+                    1: 建議讀「caak8」
+            18:
+                title: zai3、cit8
+                subitems:
+                    1: 建議讀「zai3＋註」
+            19:
+                title: zap9、zip8
+                subitems:
+                    1: 建議讀「zip8或zap9」
+            20:
+                title: zi1、zi2、kei4
+                subitems:
+                    1: 建議讀「kei4」
+            21:
+                title: zi1、zi2、kei4
+                subitems:
+                    1: 建議讀「kei4」
+                    2: 建議讀「zi1」
+            22:
+                title: zim1、zim2、tip8
+                subitems:
+                    1: 建議讀「zim1」
+            23:
+                title: zo2、zo3、zeoi2
+                subitems:
+                    1: 建議讀「zo3＋註」
+            24:
+                title: zong6、cong4
+                subitems:
+                    1: 建議讀「zong6」
+            25:
+                title: zeot7、zeot8、zyut8、ceot7
+                subitems:
+                    1: 建議讀「zyut8＋註」
+            26:
+                title: zeoi6、jyu4
+                subitems:
+                    1: 建議「破讀」
+            27:
+                title: zui3、cyun2
+                subitems:
+                    1: 建議讀「zui3」
+            28:
+                title: zuk9、sau2
+                subitems:
+                    1: 建議讀「sau2＋註」
+            29:
+                title: fok9、kut8
+                subitems:
+                    1: 建議讀「kut8」
+            30:
+                title: fu6、puk7
+                subitems:
+                    1: 建議讀「fu6」
+            31:
+                title: ging1、ging3、hang1、hang4
+                subitems:
+                    1: 建議讀「hang1＋註」
+            32:
+                title: gip8、haap9、haap9
+                subitems:
+                    1: 建議讀「haap9＋註」
+            33:
+                title: gip9、saap8、sap7、sik7
+                subitems:
+                    1: 建議讀「破讀」
+            34:
+                title: gwai3、kui2、kui3
+                subitems:
+                    1: 建議讀「kui2」
+            35:
+                title: gwai3、kyut8
+                subitems:
+                    1: 建議讀「gwai3＋註」
+            36:
+                title: gwat7、kyut8
+                subitems:
+                    1: 建議讀「kyut8」
+            37:
+                title: gwok8、kong3、kwok8
+                subitems:
+                    1: 建議讀「kwok8＋註」
+            38:
+                title: haak8、hei1、mak9
+                subitems:
+                    1: 建議讀「hei1」
+            39:
+                title: haak8、kaa1、kaa3
+                subitems:
+                    1: 建議讀「haak8」
+            40:
+                title: hai4、kai1
+                subitems:
+                    1: 建議讀「kai1」
+            41:
+                title: hang2、ngan2
+                subitems:
+                    1: 建議讀「hang2」
+            42:
+                title: hat7、kai2、kit8
+                subitems:
+                    1: 建議讀「hat7＋註」
+            43:
+                title: hat9、kit7、waat9
+                subitems:
+                    1: 建議讀「kit8」
+            44:
+                title: hiu1、ceoi3
+                subitems:
+                    1: 建議讀「hiu1＋註」
+            45:
+                title: heoi2、jyu2、jyu3
+                subitems:
+                    1: 建議讀「heoi2＋註」
+            46:
+                title: hong1、hong2、kong2
+                subitems:
+                    1: 建議讀「hong2＋註」
+            47:
+                title: jau2、jau4、jau6
+                subitems:
+                    1: 建議讀「jau2＋註」
+            48:
+                title: jit9、nip7、nip9
+                subitems:
+                    1: 建議讀「nip7」
+            49:
+                title: ji4、ngoi2、ngoi4
+                subitems:
+                    1: 建議讀「ngoi2＋註」
+            50:
+                title: ji4、nei2
+                subitems:
+                    1: 建議「破讀」
+            51:
+                title: joek9、jyu6
+                subitems:
+                    1: 建議讀「jyu6」
+            52:
+                title: jyu4、jyun5
+                subitems:
+                    1: 建議讀「jyu4」
+            53:
+                title: jyun4、jyun6、wun4
+                subitems:
+                    1: 建議讀「wun4或jyun4」
+            54:
+                title: mau1、pei2
+                subitems:
+                    1: 建議讀「pei2＋註」
+            55:
+                title: me2、waai1
+                subitems:
+                    1: 建議讀「waai1」
+            56:
+                title: saan1、cyun4
+                subitems:
+                    1: 建議讀「saan1」
+            57:
+                title: sik7、tau4
+                subitems:
+                    1: 建議讀「sik7＋註」
+            58:
+                title: tong3、wan6
+                subitems:
+                    1: 建議讀「tong3＋註」
+    8:
+        title: 破讀與否不一
+        subitems:
+            1:
+                title: 保留破讀
+                subitems:
+                    1: 建議讀音保留「全部破讀」
+                    2: 建議讀音保留「部分破讀」
+            2:
+                title: 不破讀
+                subitems:
+                    1: 「破讀之一為建議讀音」
+                    2: 建議讀音欄無破讀「備註欄收錄其他破讀或又音」
+    9:
+        title: 建議讀音（或者見於備註的讀音）不見於七種工具書
