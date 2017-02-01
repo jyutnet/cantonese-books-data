@@ -10,7 +10,7 @@
 　　　電話二一二五二 <br>
 年份：民國三十年冬季 <br>
 　　　西曆 1941 年 <br>
-查詢網站：http://jyut.net/to_hon_chi_yam/
+查詢網站：http://jyut.net/dou-hon-zi-jam/
 
 說明
 ----
