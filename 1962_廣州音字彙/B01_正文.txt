@@ -1,4 +1,4 @@
-# 資料庫版本: 2017-11-09
+# 資料庫版本: 2018-01-11
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	字條註
 1	1	1		a	上平		aa	1	1	aa1	鴉	
 2	1	2		a	上平		aa	1	1	aa1	雅	
@@ -4716,12 +4716,12 @@
 4714	26	3	sh	oey	下平	s	eoi	4	4	seoi4	倕	
 4715	26	4	sh	oey	下平	s	eoi	4	4	seoi4	陲	
 4716	26	5	sh	oey	下平	s	eoi	4	4	seoi4	圌	
-4717	27	1		ui	上平		ui	1	1	ui1	偎	
-4718	27	2		ui	上平		ui	1	1	ui1	煨	
-4719	27	3		ui	上平		ui	1	1	ui1	隈	
-4720	27	4		ui	上平		ui	1	1	ui1	渨	
-4721	27	5		ui	上平		ui	1	1	ui1	椳	
-4722	27	6		ui	上平		ui	1	1	ui1	倭	～遲
+4717	27	1		ui	上平	w	ui	1	1	wui1	偎	
+4718	27	2		ui	上平	w	ui	1	1	wui1	煨	
+4719	27	3		ui	上平	w	ui	1	1	wui1	隈	
+4720	27	4		ui	上平	w	ui	1	1	wui1	渨	
+4721	27	5		ui	上平	w	ui	1	1	wui1	椳	
+4722	27	6		ui	上平	w	ui	1	1	wui1	倭	～遲
 4723	27	1	b	ui	上平	b	ui	1	1	bui1	杯	
 4724	27	2	b	ui	上平	b	ui	1	1	bui1	盃	
 4725	27	3	b	ui	上平	b	ui	1	1	bui1	桮	
@@ -4739,7 +4739,7 @@
 4737	27	6	f	ui	上平	f	ui	1	1	fui1	悝	
 4738	27	7	f	ui	上平	f	ui	1	1	fui1	魁	
 4739	27	8	f	ui	上平	f	ui	1	1	fui1	奎	
-4740	27	1		ui	上上		ui	2	2	ui2	薈	
+4740	27	1		ui	上上	w	ui	2	2	wui2	薈	
 4741	27	1	f	ui	上上	f	ui	2	2	fui2	悔	～吝
 4742	27	2	f	ui	上上	f	ui	2	2	fui2	賄	
 4743	27	3	f	ui	上上	f	ui	2	2	fui2	洧	
@@ -4789,11 +4789,11 @@
 4787	27	4	f	ui	上去	f	ui	3	3	fui3	靧	
 4788	27	5	f	ui	上去	f	ui	3	3	fui3	頮	
 4789	27	6	f	ui	上去	f	ui	3	3	fui3	喙	
-4790	27	1		ui	下去		ui	6	6	ui6	回	～避
-4791	27	2		ui	下去		ui	6	6	ui6	會	
-4792	27	3		ui	下去		ui	6	6	ui6	燴	
-4793	27	4		ui	下去		ui	6	6	ui6	匯	
-4794	27	5		ui	下去		ui	6	6	ui6	滙	
+4790	27	1		ui	下去	w	ui	6	6	wui6	回	～避
+4791	27	2		ui	下去	w	ui	6	6	wui6	會	
+4792	27	3		ui	下去	w	ui	6	6	wui6	燴	
+4793	27	4		ui	下去	w	ui	6	6	wui6	匯	
+4794	27	5		ui	下去	w	ui	6	6	wui6	滙	
 4795	27	1	b	ui	下去	b	ui	6	6	bui6	焙	
 4796	27	2	b	ui	下去	b	ui	6	6	bui6	背	違～
 4797	27	1	m	ui	下去	m	ui	6	6	mui6	妹	
@@ -4812,16 +4812,16 @@
 4810	27	3	m	ui	下上	m	ui	5	5	mui5	苺	蛇毒，毒草
 4811	27	4	m	ui	下上	m	ui	5	5	mui5	浼	
 4812	27	5	m	ui	下上	m	ui	5	5	mui5	凂	
-4813	27	1		ui	下平		ui	4	4	ui4	囘	
-4814	27	2		ui	下平		ui	4	4	ui4	徊	
-4815	27	3		ui	下平		ui	4	4	ui4	洄	
-4816	27	4		ui	下平		ui	4	4	ui4	茴	
-4817	27	5		ui	下平		ui	4	4	ui4	蛔	
-4818	27	6		ui	下平		ui	4	4	ui4	廻	
-4819	27	7		ui	下平		ui	4	4	ui4	迴	
-4820	27	8		ui	下平		ui	4	4	ui4	蛕	蛔本字
-4821	27	9		ui	下平		ui	4	4	ui4	蚘	同蛔
-4822	27	10		ui	下平		ui	4	4	ui4	回	
+4813	27	1		ui	下平	w	ui	4	4	wui4	囘	
+4814	27	2		ui	下平	w	ui	4	4	wui4	徊	
+4815	27	3		ui	下平	w	ui	4	4	wui4	洄	
+4816	27	4		ui	下平	w	ui	4	4	wui4	茴	
+4817	27	5		ui	下平	w	ui	4	4	wui4	蛔	
+4818	27	6		ui	下平	w	ui	4	4	wui4	廻	
+4819	27	7		ui	下平	w	ui	4	4	wui4	迴	
+4820	27	8		ui	下平	w	ui	4	4	wui4	蛕	蛔本字
+4821	27	9		ui	下平	w	ui	4	4	wui4	蚘	同蛔
+4822	27	10		ui	下平	w	ui	4	4	wui4	回	
 4823	27	1	p	ui	下平	p	ui	4	4	pui4	培	
 4824	27	2	p	ui	下平	p	ui	4	4	pui4	陪	
 4825	27	3	p	ui	下平	p	ui	4	4	pui4	賠	
@@ -5020,17 +5020,17 @@
 5018	29	3	ts'	oi	下平	c	oi	4	4	coi4	財	
 5019	29	4	ts'	oi	下平	c	oi	4	4	coi4	裁	
 5020	29	5	ts'	oi	下平	c	oi	4	4	coi4	纔	
-5021	30	1		iu	上平		iu	1	1	iu1	腰	
-5022	30	2		iu	上平		iu	1	1	iu1	要	
-5023	30	3		iu	上平		iu	1	1	iu1	喓	
-5024	30	4		iu	上平		iu	1	1	iu1	葽	
-5025	30	5		iu	上平		iu	1	1	iu1	夭	
-5026	30	6		iu	上平		iu	1	1	iu1	妖	
-5027	30	7		iu	上平		iu	1	1	iu1	袄	
-5028	30	8		iu	上平		iu	1	1	iu1	幺	
-5029	30	9		iu	上平		iu	1	1	iu1	吆	
-5030	30	10		iu	上平		iu	1	1	iu1	徼	～福
-5031	30	11		iu	上平		iu	1	1	iu1	邀	
+5021	30	1		iu	上平	j	iu	1	1	jiu1	腰	
+5022	30	2		iu	上平	j	iu	1	1	jiu1	要	
+5023	30	3		iu	上平	j	iu	1	1	jiu1	喓	
+5024	30	4		iu	上平	j	iu	1	1	jiu1	葽	
+5025	30	5		iu	上平	j	iu	1	1	jiu1	夭	
+5026	30	6		iu	上平	j	iu	1	1	jiu1	妖	
+5027	30	7		iu	上平	j	iu	1	1	jiu1	袄	
+5028	30	8		iu	上平	j	iu	1	1	jiu1	幺	
+5029	30	9		iu	上平	j	iu	1	1	jiu1	吆	
+5030	30	10		iu	上平	j	iu	1	1	jiu1	徼	～福
+5031	30	11		iu	上平	j	iu	1	1	jiu1	邀	
 5032	30	1	b	iu	上平	b	iu	1	1	biu1	鏢	
 5033	30	2	b	iu	上平	b	iu	1	1	biu1	票	火飛也
 5034	30	3	b	iu	上平	b	iu	1	1	biu1	膘	
@@ -5072,11 +5072,11 @@
 5070	30	3	t	iu	上平	t	iu	1	1	tiu1	祧	
 5071	30	4	t	iu	上平	t	iu	1	1	tiu1	桃	
 5072	30	5	t	iu	上平	t	iu	1	1	tiu1	彫	語音
-5073	30	1		iu	上上		iu	2	2	iu2	夭	
-5074	30	2		iu	上上		iu	2	2	iu2	殀	
-5075	30	3		iu	上上		iu	2	2	iu2	舀	
-5076	30	4		iu	上上		iu	2	2	iu2	窅	
-5077	30	5		iu	上上		iu	2	2	iu2	窈	
+5073	30	1		iu	上上	j	iu	2	2	jiu2	夭	
+5074	30	2		iu	上上	j	iu	2	2	jiu2	殀	
+5075	30	3		iu	上上	j	iu	2	2	jiu2	舀	
+5076	30	4		iu	上上	j	iu	2	2	jiu2	窅	
+5077	30	5		iu	上上	j	iu	2	2	jiu2	窈	
 5078	30	1	b	iu	上上	b	iu	2	2	biu2	表	
 5079	30	2	b	iu	上上	b	iu	2	2	biu2	錶	
 5080	30	3	b	iu	上上	b	iu	2	2	biu2	俵	
@@ -5085,7 +5085,7 @@
 5083	30	1	p	iu	上上	p	iu	2	2	piu2	皫	
 5084	30	2	p	iu	上上	p	iu	2	2	piu2	𢶑	撕也
 5085	30	1	d	iu	上上	d	iu	2	2	diu2	屌	
-5086	30	1		iu	上去		iu	3	3	iu3	要	
+5086	30	1		iu	上去	j	iu	3	3	jiu3	要	
 5087	30	1	p	iu	上去	p	iu	3	3	piu3	票	
 5088	30	2	p	iu	上去	p	iu	3	3	piu3	剽	
 5089	30	3	p	iu	上去	p	iu	3	3	piu3	漂	
@@ -5105,9 +5105,9 @@
 5103	30	6	t	iu	上去	t	iu	3	3	tiu3	頫	
 5104	30	7	t	iu	上去	t	iu	3	3	tiu3	艞	～粄
 5105	30	8	t	iu	上去	t	iu	3	3	tiu3	糶	
-5106	30	1		iu	下去		iu	6	6	iu6	曜	
-5107	30	2		iu	下去		iu	6	6	iu6	燿	
-5108	30	3		iu	下去		iu	6	6	iu6	耀	
+5106	30	1		iu	下去	j	iu	6	6	jiu6	曜	
+5107	30	2		iu	下去	j	iu	6	6	jiu6	燿	
+5108	30	3		iu	下去	j	iu	6	6	jiu6	耀	
 5109	30	1	m	iu	下去	m	iu	6	6	miu6	妙	
 5110	30	2	m	iu	下去	m	iu	6	6	miu6	玅	
 5111	30	3	m	iu	下去	m	iu	6	6	miu6	廟	
@@ -5118,9 +5118,9 @@
 5116	30	2	d	iu	下去	d	iu	6	6	diu6	銚	有柄器
 5117	30	3	d	iu	下去	d	iu	6	6	diu6	調	～查
 5118	30	4	d	iu	下去	d	iu	6	6	diu6	窕	
-5119	30	1		iu	下上		iu	5	5	iu5	擾	
-5120	30	2		iu	下上		iu	5	5	iu5	繞	
-5121	30	3		iu	下上		iu	5	5	iu5	遶	
+5119	30	1		iu	下上	j	iu	5	5	jiu5	擾	
+5120	30	2		iu	下上	j	iu	5	5	jiu5	繞	
+5121	30	3		iu	下上	j	iu	5	5	jiu5	遶	
 5122	30	1	p	iu	下上	p	iu	5	5	piu5	殍	
 5123	30	2	p	iu	下上	p	iu	5	5	piu5	莩	
 5124	30	3	p	iu	下上	p	iu	5	5	piu5	摽	落也
@@ -5138,36 +5138,36 @@
 5136	30	9	m	iu	下上	m	iu	5	5	miu5	藐	
 5137	30	10	m	iu	下上	m	iu	5	5	miu5	邈	
 5138	30	1	t	iu	下上	t	iu	5	5	tiu5	窕	
-5139	30	1		iu	下平		iu	4	4	iu4	垚	
-5140	30	2		iu	下平		iu	4	4	iu4	堯	
-5141	30	3		iu	下平		iu	4	4	iu4	僥	僬～
-5142	30	4		iu	下平		iu	4	4	iu4	嬈	
-5143	30	5		iu	下平		iu	4	4	iu4	橈	
-5144	30	6		iu	下平		iu	4	4	iu4	蕘	
-5145	30	7		iu	下平		iu	4	4	iu4	饒	
-5146	30	8		iu	下平		iu	4	4	iu4	陶	皋～，人名
-5147	30	9		iu	下平		iu	4	4	iu4	傜	
-5148	30	10		iu	下平		iu	4	4	iu4	徭	
-5149	30	11		iu	下平		iu	4	4	iu4	猺	
-5150	30	12		iu	下平		iu	4	4	iu4	搖	
-5151	30	13		iu	下平		iu	4	4	iu4	遙	
-5152	30	14		iu	下平		iu	4	4	iu4	謠	
-5153	30	15		iu	下平		iu	4	4	iu4	繇	咎～
-5154	30	16		iu	下平		iu	4	4	iu4	颻	
-5155	30	17		iu	下平		iu	4	4	iu4	窰	
-5156	30	18		iu	下平		iu	4	4	iu4	窑	
-5157	30	19		iu	下平		iu	4	4	iu4	窯	
-5158	30	20		iu	下平		iu	4	4	iu4	瑤	
-5159	30	21		iu	下平		iu	4	4	iu4	鰩	
-5160	30	22		iu	下平		iu	4	4	iu4	鷂	
-5161	30	23		iu	下平		iu	4	4	iu4	珧	江～柱
-5162	30	24		iu	下平		iu	4	4	iu4	姚	
-5163	30	25		iu	下平		iu	4	4	iu4	銚	田器
-5164	30	26		iu	下平		iu	4	4	iu4	軺	
-5165	30	27		iu	下平		iu	4	4	iu4	洮	湖名
-5166	30	28		iu	下平		iu	4	4	iu4	𢋇	
-5167	30	29		iu	下平		iu	4	4	iu4	嶢	
-5168	30	30		iu	下平		iu	4	4	iu4	蟯	
+5139	30	1		iu	下平	j	iu	4	4	jiu4	垚	
+5140	30	2		iu	下平	j	iu	4	4	jiu4	堯	
+5141	30	3		iu	下平	j	iu	4	4	jiu4	僥	僬～
+5142	30	4		iu	下平	j	iu	4	4	jiu4	嬈	
+5143	30	5		iu	下平	j	iu	4	4	jiu4	橈	
+5144	30	6		iu	下平	j	iu	4	4	jiu4	蕘	
+5145	30	7		iu	下平	j	iu	4	4	jiu4	饒	
+5146	30	8		iu	下平	j	iu	4	4	jiu4	陶	皋～，人名
+5147	30	9		iu	下平	j	iu	4	4	jiu4	傜	
+5148	30	10		iu	下平	j	iu	4	4	jiu4	徭	
+5149	30	11		iu	下平	j	iu	4	4	jiu4	猺	
+5150	30	12		iu	下平	j	iu	4	4	jiu4	搖	
+5151	30	13		iu	下平	j	iu	4	4	jiu4	遙	
+5152	30	14		iu	下平	j	iu	4	4	jiu4	謠	
+5153	30	15		iu	下平	j	iu	4	4	jiu4	繇	咎～
+5154	30	16		iu	下平	j	iu	4	4	jiu4	颻	
+5155	30	17		iu	下平	j	iu	4	4	jiu4	窰	
+5156	30	18		iu	下平	j	iu	4	4	jiu4	窑	
+5157	30	19		iu	下平	j	iu	4	4	jiu4	窯	
+5158	30	20		iu	下平	j	iu	4	4	jiu4	瑤	
+5159	30	21		iu	下平	j	iu	4	4	jiu4	鰩	
+5160	30	22		iu	下平	j	iu	4	4	jiu4	鷂	
+5161	30	23		iu	下平	j	iu	4	4	jiu4	珧	江～柱
+5162	30	24		iu	下平	j	iu	4	4	jiu4	姚	
+5163	30	25		iu	下平	j	iu	4	4	jiu4	銚	田器
+5164	30	26		iu	下平	j	iu	4	4	jiu4	軺	
+5165	30	27		iu	下平	j	iu	4	4	jiu4	洮	湖名
+5166	30	28		iu	下平	j	iu	4	4	jiu4	𢋇	
+5167	30	29		iu	下平	j	iu	4	4	jiu4	嶢	
+5168	30	30		iu	下平	j	iu	4	4	jiu4	蟯	
 5169	30	1	p	iu	下平	p	iu	4	4	piu4	嫖	
 5170	30	2	p	iu	下平	p	iu	4	4	piu4	飄	
 5171	30	3	p	iu	下平	p	iu	4	4	piu4	薸	
@@ -10954,7 +10954,7 @@
 10952	71	1	w	ong	下平	w	ong	4	4	wong4	王	
 10953	71	2	w	ong	下平	w	ong	4	4	wong4	黃	
 10954	71	3	w	ong	下平	w	ong	4	4	wong4	潢	
-10955	71	4	w	ong	下平	w	ong	4	4	wong4	蜞	
+10955	71	4	w	ong	下平	w	ong	4	4	wong4	蟥	
 10956	71	5	w	ong	下平	w	ong	4	4	wong4	簧	
 10957	71	6	w	ong	下平	w	ong	4	4	wong4	璜	
 10958	71	7	w	ong	下平	w	ong	4	4	wong4	磺	
@@ -11014,10 +11014,10 @@
 11012	72	3	d	ung	上上	d	ung	2	2	dung2	畽	
 11013	72	4	d	ung	上上	d	ung	2	2	dung2	疃	俗音
 11014	72	5	d	ung	上上	d	ung	2	2	dung2	踵	
-11015	72	1		ung	上去		ung	3	3	ung3	甕	
-11016	72	2		ung	上去		ung	3	3	ung3	瓮	
-11017	72	3		ung	上去		ung	3	3	ung3	罋	
-11018	72	4		ung	上去		ung	3	3	ung3	蕹	
+11015	72	1		ung	上去	w	ung	3	3	wung3	甕	
+11016	72	2		ung	上去	w	ung	3	3	wung3	瓮	
+11017	72	3		ung	上去	w	ung	3	3	wung3	罋	
+11018	72	4		ung	上去	w	ung	3	3	wung3	蕹	
 11019	72	1	p	ung	上去	p	ung	3	3	pung3	掽	
 11020	72	2	p	ung	上去	p	ung	3	3	pung3	碰	
 11021	72	3	p	ung	上去	p	ung	3	3	pung3	𥕱	
@@ -11027,7 +11027,7 @@
 11025	72	1	d	ung	上去	d	ung	3	3	dung3	凍	
 11026	72	2	d	ung	上去	d	ung	3	3	dung3	棟	
 11027	72	3	d	ung	上去	d	ung	3	3	dung3	蝀	
-11028	72	1		ung	上入		uk	1	7	uk1	屋	
+11028	72	1		ung	上入	w	uk	1	7	wuk1	屋	
 11029	72	1	b	ung	上入	b	uk	1	7	buk1	卜	
 11030	72	1	p	ung	上入	p	uk	1	7	puk1	仆	語音
 11031	72	1	f	ung	上入	f	uk	1	7	fuk1	福	
