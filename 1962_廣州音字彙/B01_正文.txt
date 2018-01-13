@@ -11014,10 +11014,10 @@
 11012	72	3	d	ung	上上	d	ung	2	2	dung2	畽	
 11013	72	4	d	ung	上上	d	ung	2	2	dung2	疃	俗音
 11014	72	5	d	ung	上上	d	ung	2	2	dung2	踵	
-11015	72	1		ung	上去	w	ung	3	3	wung3	甕	
-11016	72	2		ung	上去	w	ung	3	3	wung3	瓮	
-11017	72	3		ung	上去	w	ung	3	3	wung3	罋	
-11018	72	4		ung	上去	w	ung	3	3	wung3	蕹	
+11015	72	1		ung	上去		ung	3	3	ung3	甕	
+11016	72	2		ung	上去		ung	3	3	ung3	瓮	
+11017	72	3		ung	上去		ung	3	3	ung3	罋	
+11018	72	4		ung	上去		ung	3	3	ung3	蕹	
 11019	72	1	p	ung	上去	p	ung	3	3	pung3	掽	
 11020	72	2	p	ung	上去	p	ung	3	3	pung3	碰	
 11021	72	3	p	ung	上去	p	ung	3	3	pung3	𥕱	
@@ -11027,7 +11027,7 @@
 11025	72	1	d	ung	上去	d	ung	3	3	dung3	凍	
 11026	72	2	d	ung	上去	d	ung	3	3	dung3	棟	
 11027	72	3	d	ung	上去	d	ung	3	3	dung3	蝀	
-11028	72	1		ung	上入	w	uk	1	7	wuk1	屋	
+11028	72	1		ung	上入		uk	1	7	uk1	屋	
 11029	72	1	b	ung	上入	b	uk	1	7	buk1	卜	
 11030	72	1	p	ung	上入	p	uk	1	7	puk1	仆	語音
 11031	72	1	f	ung	上入	f	uk	1	7	fuk1	福	
