@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-01-11
+# 資料庫版本: 2018-01-23
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	字條註
 1	1	1		a	上平		aa	1	1	aa1	鴉	
 2	1	2		a	上平		aa	1	1	aa1	雅	
@@ -276,11 +276,11 @@
 274	2	5	w	a	下去	w	aa	6	6	waa6	擭	
 275	2	6	w	a	下去	w	aa	6	6	waa6	畫	
 276	2	1	y	a	下去	j	aa	6	6	jaa6	廿	
-277	2	1	h	a	下上	h	aa	5	5	haa5	雅	
-278	2	2	h	a	下上	h	aa	5	5	haa5	疋	
-279	2	3	h	a	下上	h	aa	5	5	haa5	瓦	
-280	2	1	ch	a	下上	z	aa	5	5	zaa5	夏	
-281	2	2	ch	a	下上	z	aa	5	5	zaa5	下	
+277	2	1	ng	a	下上	ng	aa	5	5	ngaa5	雅	
+278	2	2	ng	a	下上	ng	aa	5	5	ngaa5	疋	
+279	2	3	ng	a	下上	ng	aa	5	5	ngaa5	瓦	
+280	2	1	h	a	下上	h	aa	5	5	haa5	夏	
+281	2	2	h	a	下上	h	aa	5	5	haa5	下	
 282	2	1	w	a	下上	w	aa	5	5	waa5	踝	
 283	2	1	y	a	下上	j	aa	5	5	jaa5	也	
 284	2	2	y	a	下上	j	aa	5	5	jaa5	釶	
@@ -894,17 +894,17 @@
 892	6	16	ch	ue	上平	z	yu	1	1	zyu1	豬	
 893	6	17	ch	ue	上平	z	yu	1	1	zyu1	瀦	
 894	6	18	ch	ue	上平	z	yu	1	1	zyu1	櫫	
-895	6	1	ts	ue	上平	z	yu	1	1	zyu1	書	
-896	6	2	ts	ue	上平	z	yu	1	1	zyu1	輸	
-897	6	3	ts	ue	上平	z	yu	1	1	zyu1	紓	
-898	6	4	ts	ue	上平	z	yu	1	1	zyu1	舒	
-899	6	5	ts	ue	上平	z	yu	1	1	zyu1	抒	
-900	6	6	ts	ue	上平	z	yu	1	1	zyu1	姝	
-901	6	7	ts	ue	上平	z	yu	1	1	zyu1	攄	
-902	6	8	ts	ue	上平	z	yu	1	1	zyu1	樞	
-903	6	9	ts	ue	上平	z	yu	1	1	zyu1	摴	
-904	6	10	ts	ue	上平	z	yu	1	1	zyu1	樗	
-905	6	11	ts	ue	上平	z	yu	1	1	zyu1	摢	
+895	6	1	sh	ue	上平	s	yu	1	1	syu1	書	
+896	6	2	sh	ue	上平	s	yu	1	1	syu1	輸	
+897	6	3	sh	ue	上平	s	yu	1	1	syu1	紓	
+898	6	4	sh	ue	上平	s	yu	1	1	syu1	舒	
+899	6	5	sh	ue	上平	s	yu	1	1	syu1	抒	
+900	6	6	sh	ue	上平	s	yu	1	1	syu1	姝	
+901	6	7	sh	ue	上平	s	yu	1	1	syu1	攄	
+902	6	8	sh	ue	上平	s	yu	1	1	syu1	樞	
+903	6	9	sh	ue	上平	s	yu	1	1	syu1	摴	
+904	6	10	sh	ue	上平	s	yu	1	1	syu1	樗	
+905	6	11	sh	ue	上平	s	yu	1	1	syu1	摢	
 906	6	1		ue	上上	j	yu	2	2	jyu2	傴	
 907	6	2		ue	上上	j	yu	2	2	jyu2	嫗	
 908	6	3		ue	上上	j	yu	2	2	jyu2	噢	～咻
@@ -918,10 +918,10 @@
 916	6	8	ch	ue	上上	z	yu	2	2	zyu2	翥	
 917	6	9	ch	ue	上上	z	yu	2	2	zyu2	䬡	
 918	6	1	ch'	ue	上上	c	yu	2	2	cyu2	處	～理
-919	6	1	ts	ue	上上	z	yu	2	2	zyu2	暑	
-920	6	2	ts	ue	上上	z	yu	2	2	zyu2	黍	
-921	6	3	ts	ue	上上	z	yu	2	2	zyu2	鼠	
-922	6	4	ts	ue	上上	z	yu	2	2	zyu2	癙	
+919	6	1	sh	ue	上上	s	yu	2	2	syu2	暑	
+920	6	2	sh	ue	上上	s	yu	2	2	syu2	黍	
+921	6	3	sh	ue	上上	s	yu	2	2	syu2	鼠	
+922	6	4	sh	ue	上上	s	yu	2	2	syu2	癙	
 923	6	1		ue	上去	j	yu	3	3	jyu3	瘀	
 924	6	2		ue	上去	j	yu	3	3	jyu3	棜	
 925	6	3		ue	上去	j	yu	3	3	jyu3	淤	
@@ -939,11 +939,11 @@
 937	6	8	ch	ue	上去	z	yu	3	3	zyu3	著	著作
 938	6	9	ch	ue	上去	z	yu	3	3	zyu3	鑄	
 939	6	10	ch	ue	上去	z	yu	3	3	zyu3	馵	
-940	6	1	ts	ue	上去	z	yu	3	3	zyu3	恕	
-941	6	2	ts	ue	上去	z	yu	3	3	zyu3	庶	
-942	6	3	ts	ue	上去	z	yu	3	3	zyu3	輸	
-943	6	4	ts	ue	上去	z	yu	3	3	zyu3	戍	
-944	6	5	ts	ue	上去	z	yu	3	3	zyu3	處	
+940	6	1	sh	ue	上去	s	yu	3	3	syu3	恕	
+941	6	2	sh	ue	上去	s	yu	3	3	syu3	庶	
+942	6	3	sh	ue	上去	s	yu	3	3	syu3	輸	
+943	6	4	sh	ue	上去	s	yu	3	3	syu3	戍	
+944	6	5	sh	ue	上去	s	yu	3	3	syu3	處	
 945	6	1		ue	下去	j	yu	6	6	jyu6	裕	
 946	6	2		ue	下去	j	yu	6	6	jyu6	峪	
 947	6	3		ue	下去	j	yu	6	6	jyu6	喻	
@@ -976,12 +976,12 @@
 974	6	1	ch	ue	下去	z	yu	6	6	zyu6	住	
 975	6	2	ch	ue	下去	z	yu	6	6	zyu6	箸	
 976	6	3	ch	ue	下去	z	yu	6	6	zyu6	筯	
-977	6	1	ts	ue	下去	z	yu	6	6	zyu6	竪	
-978	6	2	ts	ue	下去	z	yu	6	6	zyu6	豎	
-979	6	3	ts	ue	下去	z	yu	6	6	zyu6	裋	
-980	6	4	ts	ue	下去	z	yu	6	6	zyu6	尌	
-981	6	5	ts	ue	下去	z	yu	6	6	zyu6	澍	
-982	6	6	ts	ue	下去	z	yu	6	6	zyu6	樹	
+977	6	1	sh	ue	下去	s	yu	6	6	syu6	竪	
+978	6	2	sh	ue	下去	s	yu	6	6	syu6	豎	
+979	6	3	sh	ue	下去	s	yu	6	6	syu6	裋	
+980	6	4	sh	ue	下去	s	yu	6	6	syu6	尌	
+981	6	5	sh	ue	下去	s	yu	6	6	syu6	澍	
+982	6	6	sh	ue	下去	s	yu	6	6	syu6	樹	
 983	6	1		ue	下上	j	yu	5	5	jyu5	宇	
 984	6	2		ue	下上	j	yu	5	5	jyu5	汝	
 985	6	3		ue	下上	j	yu	5	5	jyu5	女	
@@ -1020,11 +1020,11 @@
 1018	6	12	ch'	ue	下上	c	yu	5	5	cyu5	褚	
 1019	6	13	ch'	ue	下上	c	yu	5	5	cyu5	儲	
 1020	6	14	ch'	ue	下上	c	yu	5	5	cyu5	處	
-1021	6	1	ts	ue	下上	z	yu	5	5	zyu5	署	
-1022	6	2	ts	ue	下上	z	yu	5	5	zyu5	曙	
-1023	6	3	ts	ue	下上	z	yu	5	5	zyu5	薯	
-1024	6	4	ts	ue	下上	z	yu	5	5	zyu5	藷	
-1025	6	5	ts	ue	下上	z	yu	5	5	zyu5	樹	
+1021	6	1	sh	ue	下上	s	yu	5	5	syu5	署	
+1022	6	2	sh	ue	下上	s	yu	5	5	syu5	曙	
+1023	6	3	sh	ue	下上	s	yu	5	5	syu5	薯	
+1024	6	4	sh	ue	下上	s	yu	5	5	syu5	藷	
+1025	6	5	sh	ue	下上	s	yu	5	5	syu5	樹	
 1026	6	1		ue	下平	j	yu	4	4	jyu4	予	
 1027	6	2		ue	下平	j	yu	4	4	jyu4	妤	
 1028	6	3		ue	下平	j	yu	4	4	jyu4	侈	
@@ -1100,10 +1100,10 @@
 1098	6	8	ch'	ue	下平	c	yu	4	4	cyu4	蜍	又讀
 1099	6	9	ch'	ue	下平	c	yu	4	4	cyu4	躇	又讀
 1100	6	10	ch'	ue	下平	c	yu	4	4	cyu4	儲	又讀
-1101	6	1	ts	ue	下平	z	yu	4	4	zyu4	殊	
-1102	6	2	ts	ue	下平	z	yu	4	4	zyu4	姝	又讀
-1103	6	3	ts	ue	下平	z	yu	4	4	zyu4	銖	
-1104	6	4	ts	ue	下平	z	yu	4	4	zyu4	殳	
+1101	6	1	sh	ue	下平	s	yu	4	4	syu4	殊	
+1102	6	2	sh	ue	下平	s	yu	4	4	syu4	姝	又讀
+1103	6	3	sh	ue	下平	s	yu	4	4	syu4	銖	
+1104	6	4	sh	ue	下平	s	yu	4	4	syu4	殳	
 1105	7	1		oh	上平		o	1	1	o1	柯	
 1106	7	2		oh	上平		o	1	1	o1	阿	
 1107	7	3		oh	上平		o	1	1	o1	娿	
@@ -2450,7 +2450,7 @@
 2448	14	5	d	ou	上平	d	ou	1	1	dou1	闍	
 2449	14	6	d	ou	上平	d	ou	1	1	dou1	忉	
 2450	14	1	t	ou	上平	t	ou	1	1	tou1	叨	
-2451	14	2	t	ou	上平	t	ou	1	1	tou1	切	
+2451	14	2	t	ou	上平	t	ou	1	1	tou1	忉	
 2452	14	3	t	ou	上平	t	ou	1	1	tou1	滔	
 2453	14	4	t	ou	上平	t	ou	1	1	tou1	慆	
 2454	14	5	t	ou	上平	t	ou	1	1	tou1	謟	
@@ -8906,12 +8906,12 @@
 8904	56	11	g	ang	中入	g	aak	3	8	gaak3	肐	
 8905	56	12	g	ang	中入	g	aak	3	8	gaak3	骼	
 8906	56	13	g	ang	中入	g	aak	3	8	gaak3	搿	
-8907	56	1	ch	ang	中入	z	aak	3	8	zaak3	客	
-8908	56	2	ch	ang	中入	z	aak	3	8	zaak3	喀	
-8909	56	3	ch	ang	中入	z	aak	3	8	zaak3	揢	
-8910	56	4	ch	ang	中入	z	aak	3	8	zaak3	赫	
-8911	56	5	ch	ang	中入	z	aak	3	8	zaak3	嚇	
-8912	56	6	ch	ang	中入	z	aak	3	8	zaak3	緙	
+8907	56	1	h	ang	中入	h	aak	3	8	haak3	客	
+8908	56	2	h	ang	中入	h	aak	3	8	haak3	喀	
+8909	56	3	h	ang	中入	h	aak	3	8	haak3	揢	
+8910	56	4	h	ang	中入	h	aak	3	8	haak3	赫	
+8911	56	5	h	ang	中入	h	aak	3	8	haak3	嚇	
+8912	56	6	h	ang	中入	h	aak	3	8	haak3	緙	
 8913	56	1	b	ang	下入	b	aak	6	9	baak6	白	
 8914	56	2	b	ang	下入	b	aak	6	9	baak6	帛	
 8915	56	3	b	ang	下入	b	aak	6	9	baak6	匐	
@@ -8922,17 +8922,17 @@
 8920	56	1	m	ang	下入	m	aak	6	9	maak6	麥	
 8921	56	1	l	ang	下入	l	aak	6	9	laak6	肋	
 8922	56	2	l	ang	下入	l	aak	6	9	laak6	砳	
-8923	56	1	h	ang	下入	h	aak	6	9	haak6	額	
-8924	56	2	h	ang	下入	h	aak	6	9	haak6	頟	
-8925	56	3	h	ang	下入	h	aak	6	9	haak6	詻	
-8926	56	4	h	ang	下入	h	aak	6	9	haak6	逆	～水
-8927	56	1	ch	ang	下入	z	aak	6	9	zaak6	嚇	
+8923	56	1	ng	ang	下入	ng	aak	6	9	ngaak6	額	
+8924	56	2	ng	ang	下入	ng	aak	6	9	ngaak6	頟	
+8925	56	3	ng	ang	下入	ng	aak	6	9	ngaak6	詻	
+8926	56	4	ng	ang	下入	ng	aak	6	9	ngaak6	逆	～水
+8927	56	1	h	ang	下入	h	aak	6	9	haak6	嚇	
 8928	56	1	b	ang	下去	b	aang	6	6	baang6	蹦	
 8929	56	1	p	ang	下去	p	aang	6	6	paang6	甏	
 8930	56	1	m	ang	下去	m	aang	6	6	maang6	孟	
 8931	56	1	gw	ang	下去	gw	aang	6	6	gwaang6	逛	
 8932	56	2	gw	ang	下去	gw	aang	6	6	gwaang6	桄	橫～
-8933	56	1	h	ang	下去	h	aang	6	6	haang6	硬	
+8933	56	1	ng	ang	下去	ng	aang	6	6	ngaang6	硬	
 8934	56	1	p	ang	下上	p	aang	5	5	paang5	棒	
 8935	56	2	p	ang	下上	p	aang	5	5	paang5	棓	
 8936	56	1	m	ang	下上	m	aang	5	5	maang5	蜢	
