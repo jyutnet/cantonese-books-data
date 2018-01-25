@@ -6,7 +6,6 @@
 書名：粵語同音字典 <br>
 出版：東聯學供社 <br>
 年份：1974/1原稿本；1996/2增訂排印本<br>
-查詢網站：http://jyut.net/a-chinese-dictionary-in-cantonese/
 
 說明
 ----

@@ -7,7 +7,6 @@
 作者：何國祥　主編 <br>
 出版：香港教育署語文教育學院中文系 <br>
 年份：1994年 <br>
-查詢網站：http://jyut.net/seung-jung-zi-gwong-zau-waa/
 
 正文格式
 --------

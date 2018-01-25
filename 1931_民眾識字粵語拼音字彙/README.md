@@ -11,4 +11,3 @@
 　　　電話一三三八○ <br>
 印刷：文光印務館 <br>
 實值：每冊弍角 <br>
-查詢網站：http://jyut.net/man-zung-sik-zi-jyut-jyu-ping-jam-zi-wui/

@@ -9,4 +9,3 @@
 年份：1916年<br>
 發行：隨1916年2月11日温哥華《大漢公報》附送<br>
 出處：http://ebooks.lib.hku.hk/exhibits/show/ebooks/item?id=593 <br>
-查詢網站：http://jyut.net/gwong-waa-gwok-jyu-jat-gun/<br>

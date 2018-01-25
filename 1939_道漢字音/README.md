@@ -6,7 +6,6 @@
 書名：道漢字音 <br>
 出版：道字總社 <br>
 年份：1939 <br>
-查詢網站：http://jyut.net/dou-hon-zi-jam/
 
 說明
 ----
