@@ -1715,8 +1715,8 @@
 1713	10	9	g	ao	上去	g	aau	3	3	gaau3	窖	
 1714	10	10	g	ao	上去	g	aau	3	3	gaau3	窌	
 1715	10	11	g	ao	上去	g	aau	3	3	gaau3	斠	
-1716	10	1	gw	ao	上去	gw	aau	3	3	gwaau3	靠	
-1717	10	2	gw	ao	上去	gw	aau	3	3	gwaau3	銬	手～
+1716	10	1	k	ao	上去	k	aau	3	3	kaau3	靠	
+1717	10	2	k	ao	上去	k	aau	3	3	kaau3	銬	手～
 1718	10	1	h	ao	上去	h	aau	3	3	haau3	孝	
 1719	10	2	h	ao	上去	h	aau	3	3	haau3	酵	
 1720	10	1	ch	ao	上去	z	aau	3	3	zaau3	罩	
@@ -2991,7 +2991,7 @@
 2989	17	13	g	ai	上平	g	aai	1	1	gaai1	荄	又讀
 2990	17	14	g	ai	上平	g	aai	1	1	gaai1	痎	
 2991	17	15	g	ai	上平	g	aai	1	1	gaai1	䕸	又讀
-2992	17	1	gw	ai	上平	gw	aai	1	1	gwaai1	乘	
+2992	17	1	gw	ai	上平	gw	aai	1	1	gwaai1	乖	
 2993	17	2	gw	ai	上平	gw	aai	1	1	gwaai1	䦱	門斜開
 2994	17	3	gw	ai	上平	gw	aai	1	1	gwaai1	絓	
 2995	17	1		ai	上上		aai	2	2	aai2	矮	
