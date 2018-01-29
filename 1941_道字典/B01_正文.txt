@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-01-13
+# 資料庫版本: 2018-01-28
 順序	編號	並見於道漢字音	頁碼	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字頭	釋義	兼容異體字	兼容異體字條	釋義本作「同上」	校訂註
 1	1	Y	1	z	i	1	1	i	zi1	之	嘅也，助詞				
 2	13	Y	1	z	i	1	1	i	zi1	知	～曉，識也				
@@ -2598,7 +2598,7 @@
 2597	8081	Y	55	j	oeng	4	4	oeng	joeng4	洋	～海，大～				
 2598	8077	Y	55	j	oeng	4	4	oeng	joeng4	羊	牛～				
 2599	8093	Y	55	j	oeng	4	4	oeng	joeng4	楊	～柳				
-2600	8087	Y	55	j	oeng	4	4	oeng	joeng4	陽	太～，陰～，				
+2600	8087	Y	55	j	oeng	4	4	oeng	joeng4	陽	太～，陰～				
 2601	8088	Y	55	j	oeng	4	4	oeng	joeng4	揚	宣～，發～				
 2602	8100	Y	55	j	oeng	4	4	oeng	joeng4	攘	奪也，偷也				
 2603	8114	Y	55	j	oeng	5	5	oeng	joeng5	養	～育				

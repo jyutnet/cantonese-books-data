@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-01-13
+# 資料庫版本: 2018-01-28
 編號	並見於道字典	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -4629,7 +4629,7 @@
 4630		22	s	at	1	7	an	sat1	厀		
 4631	Y	22	s	at	1	7	an	sat1	膝		
 4632		22	s	at	1	7	an	sat1	蝨		
-4633		22	s	at	1	7	an	sat1	膝		
+4633		22	s	at	1	7	an	sat1	𦡀		
 4634		22	s	at	6	9	an	sat6	寔		
 4635	Y	22	s	at	6	9	an	sat6	實		
 4636		22	j	an	1	1	an	jan1	囙		
@@ -8250,8 +8250,8 @@
 8252		42	s	aai	2	2	aai	saai2	蓏		
 8253		42	s	aai	2	2	aai	saai2	褷		
 8254		42	s	aai	2	2	aai	saai2	諰		
-8255		42	s	aai	2	2	aai	saai2	縱		
-8256		42	s	aai	2	2	aai	saai2	蹤		
+8255		42	s	aai	2	2	aai	saai2	縰		
+8256		42	s	aai	2	2	aai	saai2	蹝		
 8257	Y	42	s	aai	2	2	aai	saai2	璽		
 8258		42	s	aai	2	2	aai	saai2	襹		
 8259		42	s	aai	2	2	aai	saai2	纚		
