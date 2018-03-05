@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-01-28
+# 資料庫版本: 2018-02-28
 編號	並見於道字典	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -8207,7 +8207,7 @@
 8209		41	h	oeng	2	2	oeng	hoeng2	饟		
 8210	Y	41	h	oeng	3	3	oeng	hoeng3	向		
 8211		41	h	oeng	3	3	oeng	hoeng3	鄉		
-8212		41	h	oeng	3	3	oeng	hoeng3	昴		
+8212		41	h	oeng	3	3	oeng	hoeng3	曏		
 8213	Y	41	h	oeng	3	3	oeng	hoeng3	嚮		
 8214		42	z	aai	1	1	aai	zaai1	亝		
 8215		42	z	aai	1	1	aai	zaai1	斋		
