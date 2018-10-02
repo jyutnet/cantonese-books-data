@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-01-26
+# 資料庫版本: 2018-10-02
 序號	頁	粵拼	粵拼韻母	粵拼聲母	粵拼聲調	聲調(九聲)	字	可疑條目	據原書勘誤表修正	數碼化校訂者修正	校訂註
 1	1	m4	m		4	4	唔				
 2	1	ng4	ng		4	4	吾				
@@ -639,7 +639,7 @@
 637	23	gaang3	aang	g	3	3	逕				
 638	23	gaang3	aang	g	3	3	橄				
 639	23	ngaang1	aang	ng	1	1	罌				
-640	23	ngaang5	aang	ng	5	5	硬				
+640	23	ngaang6	aang	ng	6	6	硬				
 641	23	haang1	aang	h	1	1	坑				
 642	23	zaang1	aang	z	1	1	踭				
 643	24	saang2	aang	s	2	2	省				
@@ -678,7 +678,7 @@
 676	25	do6	o	d	6	6	墮				
 677	25	to1	o	t	1	1	拖				
 678	25	to1	o	t	1	1	拕				
-679	25	to2	o	t	2	2	唾				
+679	25	to3	o	t	3	3	唾				
 680	25	to4	o	t	4	4	沱				
 681	25	to4	o	t	4	4	陀				
 682	25	to4	o	t	4	4	駝				
@@ -1822,11 +1822,11 @@
 1820	55	am3	am		3	3	暗				
 1821	55	tam3	am	t	3	3	氹				
 1822	56	nam2	am	n	2	2	稔				
-1823	56	lam1	am	l	1	1	林				
-1824	56	lam1	am	l	1	1	淋				
-1825	56	lam1	am	l	1	1	霖				
-1826	56	lam1	am	l	1	1	琳				
-1827	56	lam1	am	l	1	1	臨				
+1823	56	lam4	am	l	4	4	林			Y	原書全條標讀「上平」調
+1824	56	lam4	am	l	4	4	淋			Y	原書全條標讀「上平」調
+1825	56	lam4	am	l	4	4	霖			Y	原書全條標讀「上平」調
+1826	56	lam4	am	l	4	4	琳			Y	原書全條標讀「上平」調
+1827	56	lam4	am	l	4	4	臨			Y	原書全條標讀「上平」調
 1828	56	lam5	am	l	5	5	稟				
 1829	56	lam5	am	l	5	5	凜				
 1830	56	lam5	am	l	5	5	廩				
@@ -4970,7 +4970,7 @@
 4968	145	wat1	at	w	1	7	蔚				
 4969	145	wat1	at	w	1	7	菀				
 4970	145	wat1	at	w	1	7	鬱				
-4971	145	gwat1	at	gw	1	7	汨				
+4971	145	gwat1	at	gw	1	7	汩				
 4972	145	gwat1	at	gw	1	7	窟				
 4973	145	gwat1	at	gw	1	7	骨				
 4974	145	gwat1	at	gw	1	7	橘				

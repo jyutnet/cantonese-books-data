@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-02-28
+# 資料庫版本: 2018-10-02
 編號	並見於道字典	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -4365,7 +4365,7 @@
 4366	Y	21	m	un	4	4	un	mun4	瞞		
 4367		21	m	un	4	4	un	mun4	蹣		
 4368		21	m	un	4	4	un	mun4	謾		
-4369		21	m	un	4	4	un	mun4	顜		
+4369		21	m	un	4	4	un	mun4	顢		
 4370		21	m	un	4	4	un	mun4	鰻		
 4371		21	m	un	4	4	un	mun4	虋		
 4372	Y	21	m	un	5	5	un	mun5	滿		
@@ -5211,7 +5211,7 @@
 5212		23	gw	an	3	3	an	gwan3	攟		
 5213	Y	23	gw	an	6	6	an	gwan6	郡		
 5214		23	gw	an	6	6	an	gwan6	𨛦		
-5215		23	gw	at	1	7	an	gwat1	汨		
+5215		23	gw	at	1	7	an	gwat1	汩		
 5216		23	gw	at	1	7	an	gwat1	扢		
 5217	Y	23	gw	at	1	7	an	gwat1	骨		
 5218		23	gw	at	1	7	an	gwat1	淈		
