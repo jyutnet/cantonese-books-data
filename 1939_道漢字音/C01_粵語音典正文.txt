@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-10-02
+# 資料庫版本: 2018-10-21
 編號	並見於道字典	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -772,7 +772,7 @@
 771		4	l	it	6	9	in	lit6	鴷		
 772	Y	4	l	at	1	7	an	lat1	甩		
 773		5	l	aam	2	2	aam	laam2	㩜		
-774		5	l	aam	2	2	aam	laam2	⿰扌覧		
+774		5	l	aam	2	2	aam	laam2	𭣄		
 775	Y	5	l	aam	2	2	aam	laam2	欖		
 776	Y	5	l	aam	2	2	aam	laam2	攬		
 777	Y	5	l	aam	4	4	aam	laam4	婪		
@@ -1753,7 +1753,7 @@
 1753		10	z	ik	6	9	ing	zik6	穸		
 1754	Y	10	z	ik	6	9	ing	zik6	席		
 1755	Y	10	z	ik	6	9	ing	zik6	值		
-1756		10	z	ik	6	9	ing	zik6	⊕		
+1756		10	z	ik	6	9	ing	zik6	𡨜		
 1757		10	z	ik	6	9	ing	zik6	埴		
 1758	Y	10	z	ik	6	9	ing	zik6	寂		
 1759		10	z	ik	6	9	ing	zik6	犆		
@@ -2661,7 +2661,7 @@
 2661	Y	12	s	ung	4	4	ung	sung4	崇		
 2662	Y	12	s	uk	1	7	ung	suk1	夙		
 2663		12	s	uk	1	7	ung	suk1	束		
-2664		12	s	uk	1	7	ung	suk1	⊕		
+2664		12	s	uk	1	7	ung	suk1	𠦑		
 2665	Y	12	s	uk	1	7	ung	suk1	叔		
 2666		12	s	uk	1	7	ung	suk1	倏		
 2667		12	s	uk	1	7	ung	suk1	倐		
@@ -11193,7 +11193,7 @@
 11195	Y	57		oi	3	3	oi	oi3	愛		
 11196		57		oi	3	3	oi	oi3	僾		
 11197		57		oi	3	3	oi	oi3	嬡		
-11198		57		oi	3	3	oi	oi3	⿰月愛		
+11198		57		oi	3	3	oi	oi3	𭩊		
 11199		57		oi	3	3	oi	oi3	薆		
 11200		57		oi	3	3	oi	oi3	瞹		
 11201		57		oi	3	3	oi	oi3	鑀		
@@ -11743,7 +11743,7 @@
 11745		62	z	iu	6	6	iu	ziu6	𠮥		
 11746	Y	62	z	iu	6	6	iu	ziu6	召		
 11747		62	z	iu	6	6	iu	ziu6	兆		
-11748		62	z	iu	6	6	iu	ziu6	⊕		
+11748		62	z	iu	6	6	iu	ziu6	𡊥		
 11749	Y	62	z	iu	6	6	iu	ziu6	趙		
 11750		62	z	iu	6	6	iu	ziu6	駣		
 11751		62	c	iu	1	1	iu	ciu1	弨		
@@ -11822,7 +11822,7 @@
 11824		62	s	iu	4	4	iu	siu4	齠		
 11825	Y	62	s	iu	6	6	iu	siu6	兆		
 11826		62	s	iu	6	6	iu	siu6	佋		
-11827		62	s	iu	6	6	iu	siu6	⊕		
+11827		62	s	iu	6	6	iu	siu6	𡊥		
 11828		62	s	iu	6	6	iu	siu6	劭		
 11829		62	s	iu	6	6	iu	siu6	⿰𠮥卩		
 11830	Y	62	s	iu	6	6	iu	siu6	邵		
