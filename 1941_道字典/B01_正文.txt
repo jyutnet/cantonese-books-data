@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-10-21
+# 資料庫版本: 2019-04-04
 順序	編號	並見於道漢字音	頁碼	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字頭	釋義	兼容異體字	兼容異體字條	釋義本作「同上」	校訂註
 1	1	Y	1	z	i	1	1	i	zi1	之	嘅也，助詞				
 2	13	Y	1	z	i	1	1	i	zi1	知	～曉，識也				
@@ -1027,7 +1027,7 @@
 1026	3148	Y	21	h	ung	4	4	ung	hung4	洪	大也。又姓				
 1027	3150	Y	21	h	ung	4	4	ung	hung4	虹	天～				
 1028	3157	Y	21	h	ung	4	4	ung	hung4	熊	～～。獸名				
-1029	50005		21	h	ung	4	4	ung	hung4	鴻	～雁				
+1029	3158	Y	21	h	ung	4	4	ung	hung4	鴻	～雁				
 1030	3152	Y	21	h	ung	4	4	ung	hung4	烘	大光也				
 1031	3161	Y	21	h	ung	6	6	ung	hung6	哄	眾聲也，喝聲也				
 1032	3166	Y	22	h	uk	1	7	ung	huk1	哭	～泣				
@@ -1209,7 +1209,7 @@
 1208	3588	Y	26	f	aat	3	8	aan	faat3	髮	毛～，頭～				
 1209	3591	Y	26	w	aan	1	1	aan	waan1	彎	曲也，攣也				
 1210	3592	Y	26	w	aan	1	1	aan	waan1	灣	水之曲處也				
-1211	50006		26	w	aan	2	2	aan	waan2	挽	持也，引也				
+1211	50005		26	w	aan	2	2	aan	waan2	挽	持也，引也				
 1212	3599	Y	26	w	aan	4	4	aan	waan4	頑	愚～，～童，～皮				
 1213	3602	Y	26	w	aan	4	4	aan	waan4	寰	～宇				
 1214	3603	Y	26	w	aan	4	4	aan	waan4	還	反復也，再也。交～				
@@ -1239,7 +1239,7 @@
 1238	3699	Y	26	z	in	1	1	in	zin1	煎	～炒				
 1239	3701	Y	26	z	in	1	1	in	zin1	箋	信～				
 1240	3700	Y	26	z	in	1	1	in	zin1	牋	仝箋				
-1241	50007		26	z	in	1	1	in	zin1	顫	四肢震動也				
+1241	50006		26	z	in	1	1	in	zin1	顫	四肢震動也				
 1242	3718	Y	26	z	in	2	2	in	zin2	剪	裁～，較～				
 1243	3716	Y	26	z	in	2	2	in	zin2	展	舒～，開也				
 1244	3731	Y	26	z	in	2	2	in	zin2	輾	～轉				
@@ -1297,7 +1297,7 @@
 1296	3905	Y	27	s	it	3	8	in	sit3	薛	～姓				
 1297	3887	Y	27	s	it	3	8	in	sit3	契	～闊				
 1298	3907	Y	27	s	it	3	8	in	sit3	褻	私狎，～凟				
-1299	50008		27	s	it	6	9	in	sit6	𧵳	～本				
+1299	50007		27	s	it	6	9	in	sit6	𧵳	～本				
 1300	3918	Y	28	j	in	1	1	in	jin1	烟	大～，～霞				
 1301	3921	Y	28	j	in	1	1	in	jin1	煙	仝烟				
 1302	3917	Y	28	j	in	1	1	in	jin1	胭	～脂，紅色				
@@ -1369,7 +1369,7 @@
 1368	4158	Y	29	b	in	1	1	in	bin1	辮	鬢～				
 1369	4164	Y	29	b	in	2	2	in	bin2	扁	不圓。又牌～				
 1370	4165	Y	29	b	in	2	2	in	bin2	貶	～抑，減除也				
-1371	50009		29	b	in	2	2	in	bin2	蝙	～蝠，飛鼠也				
+1371	50008		29	b	in	2	2	in	bin2	蝙	～蝠，飛鼠也				
 1372	4174	Y	29	b	in	3	3	in	bin3	變	更改也。～化				
 1373	4182	Y	29	b	in	6	6	in	bin6	便	方～，～利				
 1374	4186	Y	29	b	in	6	6	in	bin6	辨	分別				
@@ -1827,7 +1827,7 @@
 1826	5756	Y	39	j	im	2	2	im	jim2	掩	遮蓋，～護				
 1827	5765	Y	39	j	im	3	3	im	jim3	厭	足也，～棄				
 1828	5787	Y	39	j	im	4	4	im	jim4	鹽	生～，熟～				
-1829	50010		39	j	im	4	4	im	jim4	塩	同鹽				
+1829	50009		39	j	im	4	4	im	jim4	塩	同鹽				
 1830	5783	Y	39	j	im	4	4	im	jim4	嚴	威～，～肅				
 1831	5776	Y	39	j	im	4	4	im	jim4	嫌	憎也，疑～				
 1832	5770	Y	39	j	im	4	4	im	jim4	炎	熱也，又火光也				
@@ -1979,7 +1979,7 @@
 1978	6282	Y	43	h	ap	1	7	am	hap1	磕	～頭，又相碰也				
 1979	6285	Y	43	h	ap	6	9	am	hap6	合	不差也，又集也				
 1980	6291	Y	43	h	ap	6	9	am	hap6	盒	墨～，紙～				
-1981	50011		43	h	ap	6	9	am	hap6	匣	同盒				
+1981	50010		43	h	ap	6	9	am	hap6	匣	同盒				
 1982	6306	Y	43	z	ang	1	1	ang	zang1	爭	～競，～鬥				
 1983	6310	Y	43	z	ang	1	1	ang	zang1	曾	姓也				
 1984	6319	Y	43	z	ang	1	1	ang	zang1	增	加也				
@@ -1988,7 +1988,7 @@
 1987	6316	Y	43	z	ang	1	1	ang	zang1	憎	惡也				
 1988	6312	Y	43	z	ang	1	1	ang	zang1	睜	開眼				
 1989	6313	Y	43	z	ang	1	1	ang	zang1	箏	樂器。又風～				
-1990	50012		43	z	ang	3	3	ang	zang3	甑	瓦～				
+1990	50011		43	z	ang	3	3	ang	zang3	甑	瓦～				
 1991	6329	Y	43	z	ang	6	6	ang	zang6	贈	送也				
 1992	6332	Y	43	z	ak	1	7	ang	zak1	則	規～。又承詞				
 1993	6330	Y	43	z	ak	1	7	ang	zak1	仄	平～				
@@ -2024,7 +2024,7 @@
 2023	6406	Y	44	d	ak	1	7	ang	dak1	得	可以，～失				
 2024	6408	Y	44	d	ak	1	7	ang	dak1	德	道～，恩～				
 2025	6410	Y	44	d	ak	6	9	ang	dak6	特	獨也，專也				
-2026	50013		44	t	ang	4	4	ang	tang4	疼	～痛				
+2026	50012		44	t	ang	4	4	ang	tang4	疼	～痛				
 2027	6417	Y	44	t	ang	4	4	ang	tang4	騰	馳也，升也				
 2028	6416	Y	44	t	ang	4	4	ang	tang4	藤	草名				
 2029	6418	Y	44	t	ang	4	4	ang	tang4	籐	草名			Y	
@@ -2201,7 +2201,7 @@
 2200	6925	Y	47	m	ong	4	4	ong	mong4	芒	～刺				
 2201	6924	Y	47	m	ong	4	4	ong	mong4	忙	怱～，～速				
 2202	6926	Y	47	m	ong	4	4	ong	mong4	忘	唔記得				
-2203	50014		47	m	ong	4	4	ong	mong4	氓	流～				
+2203	50013		47	m	ong	4	4	ong	mong4	氓	流～				
 2204	6930	Y	47	m	ong	4	4	ong	mong4	茫	渺～，大水之樣				
 2205	6937	Y	47	m	ong	5	5	ong	mong5	妄	亂也，無也				
 2206	6944	Y	47	m	ong	5	5	ong	mong5	網	魚也				
@@ -2228,7 +2228,7 @@
 2227	6984	Y	48	f	ong	2	2	ong	fong2	仿	依也。～效			Y	
 2228	6998	Y	48	f	ong	2	2	ong	fong2	訪	～問，尋～				
 2229	6985	Y	48	f	ong	2	2	ong	fong2	彷	～彿，相似也				
-2230	50015		48	f	ong	2	2	ong	fong2	㤃	～彿，相似也			Y	
+2230	50014		48	f	ong	2	2	ong	fong2	㤃	～彿，相似也			Y	
 2231	6993	Y	48	f	ong	2	2	ong	fong2	舫	船				
 2232	6997	Y	48	f	ong	2	2	ong	fong2	晃	光明				
 2233	7005	Y	48	f	ong	3	3	ong	fong3	放	～開，～肆				
@@ -2308,7 +2308,7 @@
 2307	7198	Y	49		on	3	3	on	on3	按	～押，據也，控也				
 2308	7199	Y	49		on	3	3	on	on3	案	几～，文～，～卷				
 2309	7201	Y	49	h	on	1	1	on	hon1	刊	出版物				
-2310	50016		49	h	on	1	1	on	hon1	看	～守，～護				
+2310	50015		49	h	on	1	1	on	hon1	看	～守，～護				
 2311	7203	Y	49	h	on	2	2	on	hon2	罕	少也				
 2312	7202	Y	50	h	on	2	2	on	hon2	刊	刻印，～印				
 2313	7208	Y	50	h	on	3	3	on	hon3	看	～見，睇也				
@@ -2418,7 +2418,7 @@
 2417	7544	Y	52	c	yut	3	8	yun	cyut3	撮	～合，～影				
 2418	7549	Y	52	n	yun	5	5	yun	nyun5	暖	不冷也，如～熱				
 2419	7551	Y	52	n	yun	5	5	yun	nyun5	煖	不冷也，如～熱			Y	
-2420	50017		52	n	yun	5	5	yun	nyun5	媛	美女也				
+2420	50016		52	n	yun	5	5	yun	nyun5	媛	美女也				
 2421	7553	Y	52	n	yun	6	6	yun	nyun6	嫩	老～，嬌～，少～				
 2422	7556	Y	52	s	yun	1	1	yun	syun1	孫	子～。又姓～				
 2423	7555	Y	52	s	yun	1	1	yun	syun1	宣	～言。明也，佈也				
@@ -2630,7 +2630,7 @@
 2629	8170	Y	56	g	oek	3	8	oeng	goek3	腳	手～			Y	
 2630	8173	Y	56	k	oeng	4	4	oeng	koeng4	強	～壯，～弱				
 2631	8176	Y	56	k	oeng	5	5	oeng	koeng5	強	勉～力行				
-2632	50018		56	k	oeng	5	5	oeng	koeng5	蔃	根～				
+2632	50017		56	k	oeng	5	5	oeng	koeng5	蔃	根～				
 2633	8181	Y	56	k	oek	3	8	oeng	koek3	却	退～	卻			
 2634	8183	Y	56	k	oek	3	8	oeng	koek3	卻	退～		Y		
 2635	8185	Y	56	d	oek	3	8	oeng	doek3	啄	鳥食曰～				
@@ -3029,7 +3029,7 @@
 3028	9401	Y	64	g	au	3	3	au	gau3	構	結～，～造，～害				
 3029	9400	Y	64	g	au	3	3	au	gau3	搆	牽也。又與構通				
 3030	9410	Y	64	g	au	6	6	au	gau6	舊	故也。新～				
-3031	50019		64	g	au	6	6	au	gau6	⿱雈皿	故也。新～			Y	
+3031	50018		64	g	au	6	6	au	gau6	⿱雈皿	故也。新～			Y	
 3032	9414	Y	64	k	au	1	1	au	kau1	溝	水渠				
 3033	9429	Y	64	k	au	3	3	au	kau3	扣	折～，又擊也				
 3034	9428	Y	64	k	au	3	3	au	kau3	叩	問也，又～頭				
@@ -3300,7 +3300,7 @@
 3299	10267	Y	69	c	ou	4	4	ou	cou4	徂	去也，死也				
 3300	10270	Y	69	c	ou	4	4	ou	cou4	曹	眾也，又姓				
 3301	10272	Y	69	c	ou	4	4	ou	cou4	嘈	～吵				
-3302	50020		69	c	ou	4	4	ou	cou4	鰽	～白魚				
+3302	50019		69	c	ou	4	4	ou	cou4	鰽	～白魚				
 3303	10273	Y	69	c	ou	4	4	ou	cou4	槽	馬～				
 3304	10277	Y	69	n	ou	4	4	ou	nou4	奴	～僕				
 3305	10283	Y	69	n	ou	5	5	ou	nou5	努	～力				
@@ -3512,7 +3512,7 @@
 3511	10844	Y	73	s	eoi	6	6	eoi	seoi6	遂	成也，就也				
 3512	10845	Y	73	s	eoi	6	6	eoi	seoi6	瑞	祥也				
 3513	10854	Y	73	s	eoi	6	6	eoi	seoi6	隧	～道				
-3514	50021		73	s	eoi	6	6	eoi	seoi6	彗	～星				
+3514	50020		73	s	eoi	6	6	eoi	seoi6	彗	～星				
 3515	10838	Y	73	s	eoi	6	6	eoi	seoi6	悴	憔～				
 3516	10848	Y	73	s	eoi	6	6	eoi	seoi6	睡	寢也，～覺				
 3517	10836	Y	73	s	eoi	6	6	eoi	seoi6	祟	怪～，鬼～				
@@ -3568,7 +3568,7 @@
 3567	11036	Y	74	h	eoi	1	1	eoi	heoi1	墟	～市，又荒廢也				
 3568	11024	Y	74	h	eoi	1	1	eoi	heoi1	圩	～市，又荒廢也			Y	
 3569	11043	Y	74	h	eoi	2	2	eoi	heoi2	許	可也，允也，又姓				
-3570	50022		74	h	eoi	2	2	eoi	heoi2	煦	和～				
+3570	50021		74	h	eoi	2	2	eoi	heoi2	煦	和～				
 3571	11047	Y	74	h	eoi	3	3	eoi	heoi3	去	來～				
 3572	11053	Y	74	z	oi	1	1	oi	zoi1	栽	培植，～培				
 3573	11050	Y	74	z	oi	1	1	oi	zoi1	災	～禍，～害				
@@ -3747,7 +3747,7 @@
 3746	11537	Y	77	f	u	2	2	u	fu2	府	政～，又屋也				
 3747	11536	Y	77	f	u	2	2	u	fu2	虎	～豹				
 3748	11552	Y	77	f	u	2	2	u	fu2	撫	～慰，～摩				
-3749	50023		77	f	u	2	2	u	fu2	釡	～鑊				
+3749	50022		77	f	u	2	2	u	fu2	釡	～鑊				
 3750	11539	Y	77	f	u	2	2	u	fu2	斧	～頭				
 3751	11543	Y	77	f	u	2	2	u	fu2	俯	低頭				
 3752	11546	Y	77	f	u	2	2	u	fu2	腑	臟～				
@@ -3895,14 +3895,14 @@
 3894	11906	Y	80	g	iu	2	2	iu	giu2	矯	～正，又假托				
 3895	11910	Y	80	g	iu	2	2	iu	giu2	繳	～交，～回				
 3896	11913	Y	80	g	iu	3	3	iu	giu3	叫	呼喚				
-3897	50024		80	g	iu	3	3	iu	giu3	呌	呼喚			Y	
+3897	50023		80	g	iu	3	3	iu	giu3	呌	呼喚			Y	
 3898	11919	Y	80	g	iu	6	6	iu	giu6	撬	～門，鍫～				
 3899	11920	Y	80	g	iu	6	6	iu	giu6	轎	一頂～				
 3900	11926	Y	80	k	iu	4	4	iu	kiu4	橋	樹名，～梁				
 3901	11929	Y	80	k	iu	4	4	iu	kiu4	翹	高也，企也，～首				
 3902	11922	Y	80	k	iu	4	4	iu	kiu4	喬	高也。～裝				
 3903	11923	Y	80	k	iu	4	4	iu	kiu4	僑	居外國曰～民，～居				
-3904	50025		80	k	iu	5	5	iu	kiu5	蕎	～頭				
+3904	50024		80	k	iu	5	5	iu	kiu5	蕎	～頭				
 3905	11935	Y	80	d	iu	1	1	iu	diu1	彫	～刻				
 3906	11939	Y	80	d	iu	1	1	iu	diu1	雕	～刻			Y	
 3907	11932	Y	80	d	iu	1	1	iu	diu1	刁	狡惡曰～				
@@ -4077,7 +4077,7 @@
 4076	12419	Y	84	m	aa	1	1	aa	maa1	孖	一對				
 4077	12424	Y	84	m	aa	4	4	aa	maa4	麻	苧～，～煩				
 4078	12426	Y	84	m	aa	4	4	aa	maa4	蔴	芝～				
-4079	50026		84	m	aa	4	4	aa	maa4	痲	～痘，病名				
+4079	50025		84	m	aa	4	4	aa	maa4	痲	～痘，病名				
 4080	12428	Y	84	m	aa	5	5	aa	maa5	馬	牛～				
 4081	12430	Y	84	m	aa	5	5	aa	maa5	瑪	～瑙石				
 4082	12429	Y	84	m	aa	5	5	aa	maa5	媽	婦人之稱				
@@ -4177,7 +4177,7 @@
 4176	12679	Y	85	d	o	6	6	o	do6	惰	懶～				
 4177	12680	Y	85	d	o	6	6	o	do6	墮	～落，墜也				
 4178	12683	Y	86	t	o	1	1	o	to1	拖	拉也，引也				
-4179	50027		86	t	o	1	1	o	to1	它	佢也，指物而言				
+4179	50026		86	t	o	1	1	o	to1	它	佢也，指物而言				
 4180	12686	Y	86	t	o	3	3	o	to3	唾	吐口水				
 4181	12691	Y	86	t	o	4	4	o	to4	陀	～背				
 4182	12698	Y	86	t	o	4	4	o	to4	跎	嗟～，遲誤				

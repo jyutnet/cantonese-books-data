@@ -1,4 +1,4 @@
-# 資料庫版本: 2018-10-21
+# 資料庫版本: 2019-04-04
 編號	並見於道字典	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -107,8 +107,8 @@
 105		1	z	i	2	2	i	zi2	訿		
 106	Y	1	z	i	2	2	i	zi2	滓		
 107		1	z	i	2	2	i	zi2	徵		
-108		1	z	i	2	2	i	zi2	𧅴		
-109		1	z	i	2	2	i	zi2	虀		
+108		1	z	i	2	2	i	zi2	虀		
+109		1	z	i	2	2	i	zi2	𧆌		
 110		1	z	i	3	3	i	zi3	夂		
 111	Y	1	z	i	3	3	i	zi3	至		
 112		1	z	i	3	3	i	zi3	忮		
@@ -3154,7 +3154,7 @@
 3155		13	h	ung	4	4	ung	hung4	葒		
 3156		13	h	ung	4	4	ung	hung4	鉷		
 3157	Y	13	h	ung	4	4	ung	hung4	熊		
-3158		13	h	ung	4	4	ung	hung4	源		
+3158	Y	13	h	ung	4	4	ung	hung4	鴻		
 3159		13	h	ung	4	4	ung	hung4	黌		
 3160		13	h	ung	6	6	ung	hung6	汞		
 3161	Y	13	h	ung	6	6	ung	hung6	哄		
@@ -3338,7 +3338,7 @@
 3339	Y	16	s	aan	1	1	aan	saan1	閂		
 3340	Y	16	s	aan	1	1	aan	saan1	珊		
 3341		16	s	aan	1	1	aan	saan1	跚		
-3342		16	s	aan	1	1	aan	saan1	𣽽		
+3342		16	s	aan	1	1	aan	saan1	潸		
 3343		16	s	aan	1	1	aan	saan1	澘		
 3344		16	s	aan	1	1	aan	saan1	蔪		
 3345	Y	16	s	aan	2	2	aan	saan2	散		
@@ -9204,9 +9204,9 @@
 9206		48	s	au	1	1	au	sau1	滫		
 9207		48	s	au	1	1	au	sau1	蒐		
 9208		48	s	au	1	1	au	sau1	嗾		
-9209		48	s	au	1	1	au	sau1	𩝯		
+9209		48	s	au	1	1	au	sau1	𩜯		
 9210		48	s	au	1	1	au	sau1	餿		
-9211		48	s	au	1	1	au	sau1	𨫂		
+9211		48	s	au	1	1	au	sau1	𨨿		
 9212		48	s	au	1	1	au	sau1	䬒		
 9213		48	s	au	1	1	au	sau1	颼		
 9214		48	s	au	1	1	au	sau1	饈		
@@ -10303,7 +10303,7 @@
 10305	Y	52	s	ou	1	1	ou	sou1	蘇		
 10306	Y	52	s	ou	1	1	ou	sou1	鬚		
 10307		52	s	ou	1	1	ou	sou1	囌		
-10308		52	s	ou	2	2	ou	sou2	㛮		
+10308		52	s	ou	2	2	ou	sou2	㛮		
 10309	Y	52	s	ou	2	2	ou	sou2	嫂		
 10310	Y	52	s	ou	2	2	ou	sou2	數		
 10311		52	s	ou	2	2	ou	sou2	籔		
