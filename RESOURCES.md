@@ -43,5 +43,6 @@
 | 書名 | 年份 | 內容 | 
 | --- | ---- | --------- |
 | 初學粵音切要  | 1855 | 全書字條（[Github](https://goo.gl/iEWxc7)、[GSheet](https://goo.gl/F8G699)） |  
+| 英華分韻撮要  | 1856 | 全書字條（[Github](https://github.com/jyutnet/cantonese-books-data/tree/master/1856_英華分韻撮要)、[GSheet](https://docs.google.com/spreadsheets/d/1D5ve6OPOM_83Itne4Z34YYBeqe_i3bPoB5UfaHkm4Bo/edit?usp=sharing)） |  
 | 中華新字典  | 1937 | 檢字表（[Github](https://goo.gl/uN8T8K)、[GSheet](https://goo.gl/rk6FKW)）、原書掃描檔（[Google Drive](https://goo.gl/b1AGN3)） |  
 | 部身字典  | 1967 | 檢字表（[Github](https://goo.gl/eWkJUD)） |  
