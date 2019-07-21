@@ -27,6 +27,7 @@
 | 書名 | 年份 | 全書字條 | Github | 
 | --- | ---- | ------- | --------- |
 | 廣州音字彙  | 1962 | [GSheet](https://goo.gl/tb1yYY)  | [Github](https://goo.gl/vrDfHV) |  
+| 廣州話標準音字彙  | 1988 | [GSheet](https://docs.google.com/spreadsheets/d/1Va2hU9pBh7Z9PM5al27yApcp3VdLME5JVgBngVZ6F-Y/edit#gid=0)  | [Github](https://github.com/jyutnet/cantonese-books-data/tree/master/1988_廣州話標準音字彙) |  
 | 廣州話正音字典  | 2004 | [GSheet](https://goo.gl/Nvg7Lo)  | [Github](https://goo.gl/6fpjFU) |  
 
 註：
