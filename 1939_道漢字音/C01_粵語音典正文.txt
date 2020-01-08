@@ -1698,7 +1698,7 @@
 1698		10	z	ing	1	1	ing	zing1	鼱		
 1699	Y	10	z	ing	2	2	ing	zing2	井		
 1700	Y	10	z	ing	2	2	ing	zing2	整		
-1701		10	z	ing	3	3	ing	zing3	⊕		
+1701		10	z	ing	3	3	ing	zing3	①		
 1702	Y	10	z	ing	3	3	ing	zing3	正		
 1703	Y	10	z	ing	3	3	ing	zing3	政		
 1704	Y	10	z	ing	3	3	ing	zing3	症		
@@ -10356,7 +10356,7 @@
 10358		52	g	ou	3	3	ou	gou3	鋯		
 10359	Y	52	ng	ou	3	3	ou	ngou3	奧		
 10360	Y	52	ng	ou	3	3	ou	ngou3	澳		
-10361		52	ng	ou	4	4	ou	ngou4	⊕		
+10361		52	ng	ou	4	4	ou	ngou4	②		
 10362	Y	52	ng	ou	4	4	ou	ngou4	敖		
 10363		52	ng	ou	4	4	ou	ngou4	滶		
 10364		52	ng	ou	4	4	ou	ngou4	廒		
@@ -10373,7 +10373,7 @@
 10375		52	ng	ou	4	4	ou	ngou4	驁		
 10376	Y	52	ng	ou	4	4	ou	ngou4	鰲		
 10377		52	ng	ou	4	4	ou	ngou4	鼇		
-10378		52	ng	ou	6	6	ou	ngou6	⊕		
+10378		52	ng	ou	6	6	ou	ngou6	②		
 10379		52	ng	ou	6	6	ou	ngou6	敖		
 10380	Y	52	ng	ou	6	6	ou	ngou6	傲		
 10381		52	ng	ou	6	6	ou	ngou6	奡		
@@ -11081,7 +11081,7 @@
 11083	Y	56	c	oi	4	4	oi	coi4	材		
 11084	Y	56	c	oi	4	4	oi	coi4	財		
 11085	Y	56	c	oi	4	4	oi	coi4	裁		
-11086		56	c	oi	4	4	oi	coi4	⊕		
+11086		56	c	oi	4	4	oi	coi4	③		
 11087	Y	56	c	oi	4	4	oi	coi4	纔		
 11088	Y	56	n	oi	6	6	oi	noi6	內		
 11089	Y	56	n	oi	6	6	oi	noi6	奈		
@@ -11430,7 +11430,7 @@
 11432		58	j	yu	4	4	yu	jyu4	齵		
 11433		58	j	yu	5	5	yu	jyu5	女		
 11434		58	j	yu	5	5	yu	jyu5	予		
-11435		58	j	yu	5	5	yu	jyu5	⊕		
+11435		58	j	yu	5	5	yu	jyu5	④		
 11436	Y	58	j	yu	5	5	yu	jyu5	宇		
 11437	Y	58	j	yu	5	5	yu	jyu5	羽		
 11438	Y	58	j	yu	5	5	yu	jyu5	汝		
@@ -12657,7 +12657,7 @@
 12659		68	ng	o	4	4	o	ngo4	鵞		
 12660		68	ng	o	4	4	o	ngo4	譌		
 12661	Y	68	ng	o	5	5	o	ngo5	我		
-12662		68	ng	o	5	5	o	ngo5	⊕		
+12662		68	ng	o	5	5	o	ngo5	⑤		
 12663	Y	68	ng	o	6	6	o	ngo6	卧		
 12664	Y	68	ng	o	6	6	o	ngo6	餓		
 12665	Y	68	d	o	1	1	o	do1	多		
@@ -12878,7 +12878,7 @@
 12880	Y	72	s	e	1	1	e	se1	賒		
 12881		72	s	e	2	2	e	se2	舍		
 12882	Y	72	s	e	2	2	e	se2	捨		
-12883		72	s	e	2	2	e	se2	⊕		
+12883		72	s	e	2	2	e	se2	⑥		
 12884	Y	72	s	e	2	2	e	se2	寫		
 12885		72	s	e	2	2	e	se2	藛		
 12886	Y	72	s	e	3	3	e	se3	舍		
