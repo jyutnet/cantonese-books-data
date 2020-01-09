@@ -1,4 +1,4 @@
-# 資料庫版本: 2019-05-30
+# 資料庫版本: 2020-01-09
 序號	頁碼	勘誤表頁碼	音節組	字頭	兼容字頭	讀音	聲調	讀音分類	讀音備註	釋義	字條校訂註	義項#	讀音#
 001.0.01.0.11	1		á	吖		꜀á	陰平					1/1	1/1
 001.0.02.0.11	1		á	鴉		꜀á	陰平					1/1	1/1
@@ -1346,7 +1346,7 @@
 122.0.13.0.11	78		háu	効		háu꜅	陽去					1/1	1/1
 122.0.14.0.11	78		háu	恔		háu꜅	陽去					1/1	1/1
 122.0.15.0.11	78		háu	校		háu꜅	陽去					1/1	1/1
-123.0.01.0.11	78		hé	○		꜀hé	陰平					1/1	1/1
+123.0.01.0.11	78		hé	○		꜀hé	陰平			A colloquial exclamation, expressing disapproval; [꜀hé]! [꜁’m ꜂hò t‘au꜄] don't touch it!		1/1	1/1
 124.0.01.0.11	78		héung	香		꜀héung	陰平					1/1	1/1
 124.0.02.0.11	78		héung	鄉		꜀héung	陰平					1/1	1/1
 124.0.03.0.11	78		héung	享		꜂héung	陰上					1/1	1/1
@@ -1463,7 +1463,7 @@
 131.0.08.0.11	86		hiú	曉		꜂hiú	陰上					1/1	1/1
 131.0.09.0.11	86		hiú	竅		hiú꜄	陰去					1/1	1/2
 131.0.09.0.12	86		hiú	竅		kiú꜄	陰去	CORRECTLY_READ				1/1	2/2
-131.0.10.0.11	86		hiú	○		hiú꜄	陰去					1/1	1/1
+131.0.10.0.11	86		hiú	○		hiú꜄	陰去			A colloquial word, to perk or cock up, as a dog's tail, a bow lying on its back, or the stern of a junk.		1/1	1/1
 132.0.01.0.11	86		ho	苛		꜀ho	陰平					1/1	1/1
 132.0.02.0.11	86		ho	呵		꜀ho	陰平					1/1	1/1
 132.0.03.0.11	86		ho	訶		꜀ho	陰平					1/1	1/1
@@ -1651,12 +1651,12 @@
 145.0.23.0.11	101		hung	倥		hung꜄	陰去					1/1	1/1
 145.0.24.0.11	101		hung	空		hung꜄	陰去					1/1	1/1
 145.0.25.0.11	101		hung	汞		hung꜄	陰去					1/1	1/1
-145.0.26.0.11	101		hung	○		hung꜅	陽去					1/1	1/1
+145.0.26.0.11	101		hung	○		hung꜅	陽去			A halo; [üt꜇ ꜃yau hung꜅] there is a halo round the moon		1/1	1/1
 146.0.01.0.11	101		hüt	血		hüt꜆	陰入					1/1	1/1
 146.0.02.0.11	102		hüt	闕		hüt꜆	陰入					1/1	1/1
 146.0.03.0.11	102		hüt	缺		hüt꜆	陰入					1/1	1/1
 146.0.04.0.11	102		hüt	觖		hüt꜆	陰入					1/1	1/1
-147.0.01.0.11	102		hwé	○		꜀hwé	陰平					1/1	1/1
+147.0.01.0.11	102		hwé	○		꜀hwé	陰平			An exclamation; halloo, stop! [꜀hwé ꜃ní hü꜄ ꜀p‘ín] halloo! Where are you going?		1/1	1/1
 148.0.01.0.11	102		í	衣		꜀í	陰平					1/1	1/1
 148.0.02.0.11	102		í	依		꜀í	陰平					1/1	1/1
 148.0.03.0.11	102		í	伊		꜀í	陰平					1/1	1/1
@@ -2114,7 +2114,7 @@
 175.0.23.0.11	141	718	k‘au	臼		꜃k‘au	陽上					1/1	1/1
 175.0.24.0.11	141		k‘au	桕		꜃k‘au	陽上					1/1	1/1
 175.0.25.0.11	141		k‘au	叩		k‘au꜄	陰去					1/1	1/1
-175.0.26.0.11	141		k‘au	○		k‘au꜄	陰去					1/1	1/1
+175.0.26.0.11	141		k‘au	○		k‘au꜄	陰去				A colloquial word, heard in Macao; to cry, to wail or screm, as children do	1/1	1/1
 175.0.27.0.11	141		k‘au	扣		k‘au꜄	陰去					1/1	1/1
 175.0.28.0.11	142		k‘au	彀		k‘au꜄	陰去					1/1	1/1
 175.0.29.0.11	142		k‘au	寇		k‘au꜄	陰去				「攴」原字模作「女」	1/1	1/1
@@ -2263,7 +2263,7 @@
 186.0.04.0.11	154		kik	㦸	戟	kik꜆	陰入					1/1	1/1
 186.0.05.0.11	154		kik	棘		kik꜆	陰入					1/1	1/1
 186.0.06.0.11	154		kik	襋		kik꜆	陰入					1/1	1/1
-186.0.07.0.11	154		kik	○		kik꜆	陰入					1/1	1/2
+186.0.07.0.11	154		kik	○		kik꜆	陰入			A colloquial word; to bind, to take a loop, or tie up with a chain or cord; [kik꜆ chü꜅ ꜃k‘ü] tie it fast, as a boat; [kik꜆ ꜂keng], to fasten by the neck		1/1	1/2
 186.0.07.0.12	154		kik	○		kek꜆	陰入	ALSO_PRO				1/1	2/2
 186.0.08.0.11	154		kik	亟		kik꜆	陰入					1/1	1/1
 186.0.09.0.11	154		kik	極		kik꜇	陽入					1/1	1/1
@@ -2818,7 +2818,7 @@
 234.0.01.0.11	211		kwáng	逛		kwáng꜄	陰去					1/1	1/1
 234.0.02.0.11	211		kwáng	纊		kwáng꜄	陰去					1/1	1/1
 234.1.01.0.11	211		kw‘áng	筐		꜀kw‘áng	陰平					1/1	1/1
-234.1.02.0.11	211		kw‘áng	○		꜂kw‘áng	陰上					1/1	1/1
+234.1.02.0.11	211		kw‘áng	○		꜂kw‘áng	陰上			A twig,  a sprig, the small stems of herbs and trees; peduncles, stalks of leaves; [꜃lau ꜂kw‘áng], willow twigs; [꜀chí ꜂kw‘áng], twigs, stalks		1/1	1/1
 235.0.01.0.11	212		kwat	骨		kwat꜆	陰入					1/1	1/1
 235.0.02.0.11	212		kwat	汨		kwat꜆	陰入			The noise of waves; to confound, to mix; to unstop; to let flow out; to rise, to float; [kwat꜆ ꜀ch‘au], to confuse.	原書將「汨」「汩」視為一字	1/2	1/1
 235.0.02.0.21	212		kwat	汨		mat꜆	陰入			A river in Hú-nán, called [mat꜆ ꜁lo ꜀kong], which enters TungT'ing Lake on the southeast.		2/2	1/1
@@ -2939,8 +2939,8 @@
 250.0.12.0.11	223		lám	艦		lám꜅	陽去					1/1	1/1
 250.0.12.1.11		721	lám	𨅏		lám꜄	陰去			A colloquial word; see [nám꜄]|To overpass, to skip; to leap over; an interval; [lám꜄ yat꜇] every other day; [lám꜄ ch‘ut꜆ ꜁mún ꜂hau], he went out doors; [lám꜄ ꜀kò], to step high; [tái꜅ pò꜅ lám꜄] give a good leap and cross it		1/2	1/1
 250.0.12.1.21		721	lám	𨅏		꜁lám	陽平			To walk fast		2/2	1/1
-251.0.01.0.11	223		lan	○		꜀lan	陰平					1/1	1/1
-252.0.01.0.11	223		lán	欄		꜀lán	陰平					1/1	1/1
+251.0.01.0.11	223		lan	○		꜀lan	陰平			A colloquial word; quick, speedy; [꜀p‘an ꜀lan], in a hurry, quick		1/1	1/1
+252.0.01.0.11	223		lán	欄		꜀lán	陰平			A colloquial word; a bazaar or row for the sale of an article; [꜁hám ꜀há ꜀lán], the salt-shrimp row; [꜁au ꜀lán ꜁mún], the Oil-row Gate on the south of Canton, called the Petition Gate; [lok꜇ ꜀lán hü꜅] gone to the bazaar; [꜁mái ꜀lán], to take to the bazaar, to turn peddler; [꜂kwo ꜀lán], the fruit market		1/1	1/1
 252.0.02.0.11	224		lán	躝		꜀lán	陰平					1/1	1/1
 252.0.02.1.11		721	lán	囒		꜀lán	陰平					1/1	1/1
 252.0.02.2.11		721	lán	欄		꜀lán	陰平					1/1	1/1
@@ -2953,7 +2953,7 @@
 252.0.09.0.11	224		lán	懶		꜃lán	陽上					1/1	1/1
 252.0.10.0.11	224		lán	爛		lán꜅	陽去					1/1	1/1
 253.0.01.0.11	225		lang	唥		꜀lang	陰平					1/1	1/1
-253.0.02.0.11	225		lang	○		lang꜄	陰去					1/1	1/1
+253.0.02.0.11	225		lang	○		lang꜄	陰去			A lot of things tied together is called [kwáng꜄ lang꜄]		1/1	1/1
 254.0.01.0.11	225		láng	冷		꜃láng	陽上			(This is read [꜃lang] in the Fan Wan.)		1/1	1/1
 255.0.01.0.11	225		lap	笠		lap꜆	陰入					1/1	1/1
 255.0.02.0.11	225		lap	苙		lap꜆	陰入					1/1	1/1
@@ -3602,7 +3602,7 @@
 301.0.02.0.11	283		mé	哶		꜀mé	陰平					1/1	1/1
 301.0.03.0.11	283		mé	歪		꜂mé	陰上					1/1	1/1
 302.0.01.0.11	284		mek	擘		mek꜇	陽入					1/1	1/1
-303.0.01.0.11	284		meng	○		꜁meng	陽平					1/1	1/1
+303.0.01.0.11	284		meng	○		꜁meng	陽平			This sound is often heard as a contraction for [꜁’m ꜁ts‘ang], not yet. Also [꜁ts‘ung ꜁meng], rosin, gum of the pine or fir		1/1	1/1
 304.0.01.0.11	284		mí	㖇		꜀mí	陰平					1/1	1/1
 304.0.02.0.11	284		mí	微		꜁mí	陽平					1/1	1/1
 304.0.03.0.11	284		mí	溦		꜁mí	陽平					1/1	1/1
@@ -3893,7 +3893,7 @@
 333.0.10.0.11	313		náu	鬧|閙		náu꜅	陽去					1/1	1/1
 333.0.11.0.11	313		náu	淖		náu꜅	陽去					1/1	1/1
 334.0.01.0.11	313		né	𫬤		꜀né	陰平					1/1	1/1
-335.0.01.0.11	313		neng	○		꜂neng	陰上					1/1	1/1
+335.0.01.0.11	313		neng	○		꜂neng	陰上			A colloquial word; a classifier of garments; [yat꜆ ꜂neng mò꜅] a hat; [yat꜆ ꜂neng ꜀shám] a jacket		1/1	1/1
 336.0.01.0.11	313		néung	娘		꜁néung	陽平					1/1	1/1
 337.0.01.0.11	313		ng	㕶		꜀ng	陰平					1/1	1/1
 337.0.02.0.11	313		ng	吾		꜁ng	陽平					1/1	1/1
@@ -3950,7 +3950,7 @@
 342.0.01.0.11	318		ngák	額|頟		ngák꜇	陽入					1/1	1/1
 342.0.02.0.11	319		ngák	𠸺		ngák꜇	陽入					1/1	1/1
 343.0.01.0.11	319		ngam	唅		꜁ngam	陽平					1/1	1/1
-343.0.02.0.11	319		ngam	○		ngam꜄	陰去					1/1	1/1
+343.0.02.0.11	319		ngam	○		ngam꜄	陰去			A colloquial word. Old, feeble, foolish; [yat꜆ ꜁nin yat꜆ ꜁nin ngam꜄ ꜂hí ꜁lai], becoming more and more feeble every year; [꜁ngoi ꜁ngoi ngam꜄ ngam꜄] to be in one's dotage, to be childish, foolish		1/1	1/1
 344.0.01.0.11	319		ngám	啱		꜀ngám	陰平					1/1	1/1
 344.0.02.0.11	319		ngám	巖|岩		꜁ngám	陽平					1/1	1/1
 344.0.03.0.11	319		ngám	譫		ngám꜅	陽去					1/1	1/1
@@ -3961,7 +3961,7 @@
 345.0.05.0.11	320		ngan	狺		꜁ngan	陽平					1/1	1/1
 345.0.06.0.11	320		ngan	嚚		꜁ngan	陽平					1/1	1/1
 345.0.07.0.11	320		ngan	珢		꜁ngan	陽平					1/1	1/1
-345.0.08.0.11	320		ngan	○		ngan꜄	陰去					1/1	1/1
+345.0.08.0.11	320		ngan	○		ngan꜄	陰去			A colloquial word. To tread upon; to shake violently; [ngan꜄ ꜀kò kéuk꜆] to stand upon tiptoe; [꜃mai ngan꜄ ꜃t‘ün ko꜄ fái꜄ ꜂pán] don’t break the board in two, by standing upon, or jarring it		1/1	1/1
 345.0.09.0.11	320		ngan	肕		ngan꜅	陽去					1/1	1/1
 346.0.01.0.11	320		ngán	顏		꜁ngán	陽平					1/1	1/1
 346.0.02.0.11	320		ngán	研		꜁ngán	陽平					1/1	1/1
@@ -3982,7 +3982,7 @@
 350.0.07.0.11	322		ngat	屹		ngat꜇	陽入					1/1	1/1
 350.0.08.0.11	322		ngat	矻		ngat꜇	陽入					1/1	1/1
 350.0.09.0.11	322		ngat	迄		ngat꜇	陽入					1/1	1/1
-351.0.01.0.11	322		ngát	○		ngát꜆	陰入					1/1	1/1
+351.0.01.0.11	322		ngát	○		ngát꜆	陰入			A colloquial word; the odor of urine, the rank smell of a privy or sty; niggardly, close-fisted; [ngát꜆ ch‘au꜄] stinking		1/1	1/1
 351.0.02.0.11	322		ngát	齧		ngát꜇	陽入					1/1	1/1
 352.0.01.0.11	322		ngau	鉤		꜀ngau	陰平					1/1	1/2
 352.0.01.0.12	322		ngau	鉤		꜀kau	陰平	CORRECTLY_READ				1/1	2/2
@@ -4095,7 +4095,7 @@
 364.0.03.0.11	331		ním	黏|粘		꜁ním	陽平					1/1	1/2
 364.0.03.0.12	331		ním	黏|粘		꜀chím	陰平	USUALLY_PRO				1/1	2/2
 364.0.04.0.11	331		ním	念		ním꜅	陽去					1/1	1/1
-365.0.01.0.11	331		nín	○		꜀nín	陰平					1/1	1/1
+365.0.01.0.11	331		nín	○		꜀nín	陰平			A colloquial word; milk; [꜂yam ꜀nín] to suck; [chüt꜆ ꜀nín], to take the breast		1/1	1/1
 365.0.02.0.11	331		nín	年		꜁nín	陽平					1/1	1/1
 365.0.03.0.11	332		nín	臠		꜂nín	陰上					1/1	1/2
 365.0.03.0.12	332		nín	臠		꜂lün	陰上					1/1	2/2
@@ -4119,7 +4119,7 @@
 367.0.06.0.11	333		níp	籋		níp꜇	陽入					1/1	1/1
 367.0.07.0.11	333		níp	捻		níp꜇	陽入					1/1	1/1
 367.0.08.0.11	333		níp	苶		níp꜇	陽入					1/1	1/1
-368.0.01.0.11	333		nít	○		nít꜇	陽入					1/1	1/1
+368.0.01.0.11	333		nít	○		nít꜇	陽入			A colloquial word; to seize, to clasp; to play with, to toy with; [꜂nan nít꜇] to play with; [nít꜇ ꜂keng], to seize by the throat		1/1	1/1
 369.0.01.0.11	333		niú	㭂		꜀niú	陰平					1/1	1/1
 369.0.02.0.11	333		niú	鳥		꜃niú	陽上					1/1	1/1
 369.0.03.0.11	334		niú	蔦		꜃niú	陽上					1/1	1/1
@@ -4270,7 +4270,7 @@
 391.0.02.1.11		725	pái	湃		pái꜄	陰去					1/1	1/1
 391.0.03.0.11	348		pái	敗		pái꜅	陽去					1/1	1/1
 391.0.03.1.11		725	pái	唄		pái꜅	陽去					1/1	1/1
-392.0.01.0.11	349		p‘ái	○		꜀p‘ái	陰平					1/1	1/1
+392.0.01.0.11	349		p‘ái	○		꜀p‘ái	陰平			A colloquial word; to brag, to boast, to vaunt one's self or doings; [꜀shí ꜀p‘ái ꜁yan], to crow over one		1/1	1/1
 392.0.02.0.11	349		p‘ái	排		꜁p‘ái	陽平					1/1	1/1
 392.0.03.0.11	349		p‘ái	俳		꜁p‘ái	陽平					1/1	1/1
 392.0.04.0.11	349		p‘ái	牌		꜁p‘ái	陽平					1/1	1/1
@@ -4695,7 +4695,7 @@
 429.0.04.0.11	391		p‘ok	璞		p‘ok꜆	陰入					1/1	1/1
 429.0.04.1.11		726	p‘ok	仆		p‘ok꜆	陰入			This is more often pronunced [p‘ok꜆], than [fú꜅], as given on page 61; [꜀tín p‘ok꜆] slipped down; [꜀kéung p‘ok꜆] fell down stiff, as if dead		1/1	1/1
 429.0.05.0.11	392		p‘ok	粕		p‘ok꜆	陰入					1/1	1/1
-430.0.01.0.11	392		pòm	○		꜀pòm	陰平					1/1	1/1
+430.0.01.0.11	392		pòm	○		꜀pòm	陰平			A colloquial word. The sound of a cannon; [꜀ping ꜀pòm], a glass toy, so called from its sound when blown upon		1/1	1/1
 431.0.01.0.11	392		pong	邦		꜀pong	陰平					1/1	1/1
 431.0.02.0.11	392		pong	𨧜		꜀pong	陰平					1/1	1/1
 431.0.03.0.11	392		pong	垹		꜀pong	陰平					1/1	1/1
@@ -4793,7 +4793,7 @@
 437.0.03.0.11	401		pung	菶		꜂pung	陰上					1/1	1/1
 437.0.04.0.11	401		pung	捧		꜂pung	陰上					1/1	1/1
 437.0.05.0.11	401		pung	掽|碰		pung꜄	陰去					1/1	1/1
-437.0.06.0.11	401		pung	○		pung꜅	陽去					1/1	1/1
+437.0.06.0.11	401		pung	○		pung꜅	陽去			A colloquial word. The classifier of walls, cliffs, ledges, &c.; a puff of smoke or smell; [yat꜆ pung꜅ ꜁ts‘ui], a stink; [yat꜆ pung꜅ ꜁ts‘éung], a wall; [yat꜆ pung꜅ ꜀ín ꜁ts‘ui], an offensive smoke, as of burning hair; [yat꜆ pung꜅ hí꜄] a bad odor		1/1	1/1
 438.0.01.0.11	401		p‘ung	塳		꜀p‘ung	陰平			A colloquial word; it is also pronunced [꜀fung]. To fill the eyes with smoke or dust; [꜀ín ꜀p‘ung ꜀p‘ung], the smoke is very smarting		1/2	1/2
 438.0.01.0.12	401		p‘ung	塳		꜀fung	陰平					1/2	2/2
 438.0.01.0.21	401		p‘ung	塳		꜁p‘ung	陽平			Dust raised by the wind		2/2	1/1
@@ -4825,7 +4825,7 @@
 442.0.10.0.11	404		sai	枲		꜂sai	陰上					1/1	1/1
 442.0.11.0.11	404		sai	細		sai꜄	陰去					1/1	1/1
 442.0.12.0.11	404		sai	壻|婿		sai꜄	陰去					1/1	1/1
-443.0.01.0.11	404		sái	○		꜀sái	陰平					1/1	1/1
+443.0.01.0.11	404		sái	○		꜀sái	陰平			A colloquial word. To throw away as useless, to waste; [꜀sái t‘át꜆] utterly wasted; [꜃mai ꜀sái ꜃yé] don't waste things; [mat꜇ ꜀sái ꜃k‘ü] don't waste it; [꜀sái sái꜄ hai꜅ ꜁lé], all thrown away, it is all used up; [꜀sái fú꜄ ꜀hing mín꜅] a disgrace to one's family; [pák꜇ pák꜇ ꜀sái], uselessly spent; [꜀sái tak꜆ chung꜅] extravagant, using more than is necessary		1/1	1/1
 443.0.02.0.11	404		sái	徙		꜂sái	陰上					1/1	1/1
 443.0.03.0.11	404		sái	蹝|屣		꜂sái	陰上					1/1	1/1
 443.0.04.0.11	404		sái	纚		꜂sái	陰上					1/1	1/1
@@ -5421,7 +5421,7 @@
 511.0.12.0.11	474		sü	曙		꜃sü	陽上					1/1	1/1
 511.0.13.0.11	474		sü	醑		꜃sü	陽上					1/1	1/1
 511.0.14.0.11	474		sü	嶼		꜃sü	陽上					1/1	1/1
-512.0.01.0.11	475		soé	○		꜁soé	陽平					1/1	1/1
+512.0.01.0.11	475		soé	○		꜁soé	陽平			A colloquial word. Ignorant of, not knowing how to do things; [꜀ú ꜁soé ꜁soé], all at loose ends, no regularity		1/1	1/1
 513.0.01.0.11	475		sui	雖		꜀sui	陰平					1/1	1/1
 513.0.02.0.11	475		sui	綏		꜀sui	陰平					1/1	1/1
 513.0.03.0.11	475		sui	衰		꜀sui	陰平					1/1	1/1
@@ -5727,9 +5727,9 @@
 537.0.04.0.11	507		t‘ang	滕		꜁t‘ang	陽平					1/1	1/1
 537.0.05.0.11	507		t‘ang	藤|籐		꜁t‘ang	陽平					1/1	1/1
 537.0.06.0.11	507		t‘ang	疼		꜁t‘ang	陽平					1/1	1/1
-538.0.01.0.11	507		tap	○		tap꜆	陰入					1/1	1/1
-538.0.02.0.11	507		tap	○		tap꜇	陽入					1/1	1/1
-538.1.01.0.11	507		t‘ap	○		t‘ap꜆	陰入					1/1	1/1
+538.0.01.0.11	507		tap	○		tap꜆	陰入			A colloquial word. A little pot like a teapot, used to heat spirits or water in; [꜂tsau tap꜆] a wine-pot; [lap꜇ lap꜇ tap꜆ tap꜆] very dirty; mean and old. To hang the head, to hang down, as an animal's tail; [tap꜆ ꜀tai] to hang down; [tap꜆ ꜁t‘au ꜀kai], a dropping cock - a man without spank, a dastard		1/1	1/1
+538.0.02.0.11	507		tap	○		tap꜇	陽入			A colloquial word. Driving rain; to be rained on; to throw away; to let fall; [yat꜆ tap꜇ lok꜇ tí꜅ tsai꜅ lán꜅] if it falls it will smash; [꜃mai tap꜇ shap꜆ ꜃k‘ü], don't let the rain wet it		1/1	1/1
+538.1.01.0.11	507		t‘ap	○		t‘ap꜆	陰入			A colloquial word. Muttering, sulky; [꜂kún tak꜆ ꜃k‘ü t‘ap꜆ t‘ap꜆ ꜀sheng], let him alone in his sulky grumbling		1/1	1/1
 539.0.01.0.11	507		táp	答|荅		táp꜆	陰入					1/1	1/1
 539.0.02.0.11	508		táp	荅		táp꜆	陰入					1/1	1/1
 539.0.03.0.11	508		táp	撘		táp꜆	陰入					1/1	1/1
@@ -6415,7 +6415,7 @@
 608.0.05.0.11	574		ts‘ín	躚		꜀ts‘ín	陰平					1/1	1/1
 608.0.06.0.11	575		ts‘ín	韆		꜀ts‘ín	陰平					1/1	1/1
 608.0.07.0.11	575		ts‘ín	前		꜁ts‘ín	陽平					1/1	1/1
-608.0.08.0.11	575		ts‘ín	錢|※		꜁ts‘ín	陽平					1/1	1/1
+608.0.08.0.11	575		ts‘ín	錢|匁		꜁ts‘ín	陽平					1/1	1/1
 608.0.09.0.11	575		ts‘ín	淺		꜂ts‘ín	陰上					1/1	1/1
 608.0.10.0.11	575		ts‘ín	俴		꜂ts‘ín	陰上					1/1	1/1
 609.0.01.0.11	575		tsing	旌		꜀tsing	陰平					1/1	1/1
@@ -7347,14 +7347,14 @@
 678.0.03.0.11	668		wik	罭		wik꜇	陽入					1/1	1/1
 678.0.04.0.11	668		wik	蜮		wik꜇	陽入					1/1	1/1
 678.0.05.0.11	668		wik	閾		wik꜇	陽入					1/1	1/1
-679.0.01.0.11	668		wing	○		꜀wing	陰平					1/1	1/1
+679.0.01.0.11	668		wing	○		꜀wing	陰平			A colloquial word. To throw away as useless; to throw aside, to throw down; [꜀wing cho꜅ ꜁’m iú꜅ lok꜆] heave it away! [꜀wing ꜁mái yat꜆ í꜅ kok꜆] throw it into a corner; [꜀wing ꜀hoi], throw it away; [꜀wing ꜁lai ꜀wing hü꜄] taking it up and throwing it down		1/1	1/1
 679.0.02.0.11	668		wing	榮		꜁wing	陽平					1/1	1/1
 679.0.03.0.11	669		wing	瑩		꜁wing	陽平					1/1	1/1
 679.0.04.0.11	669		wing	永		꜃wing	陽上					1/1	1/1
 679.0.05.0.11	669		wing	咏|詠		wing꜅	陽去					1/1	1/1
 679.0.06.0.11	669		wing	泳		wing꜅	陽去					1/1	1/1
 679.0.07.0.11	669		wing	穎|頴		wing꜅	陽去					1/1	1/1
-680.0.01.0.11	669		wít	○		wít꜆	陰入					1/1	1/1
+680.0.01.0.11	669		wít	○		wít꜆	陰入			A colloquial word. The creaking of a door; to call; [wít꜆ ꜂sing ꜃k‘ü], call him to wake up		1/1	1/1
 681.0.01.0.11	669		wo	堝		꜀wo	陰平					1/1	1/1
 681.0.02.0.11	669		wo	窩		꜀wo	陰平					1/1	1/1
 681.0.03.0.11	669		wo	媧		꜀wo	陰平					1/1	1/1
@@ -7753,7 +7753,7 @@
 698.0.21.0.11	708		yuk	育		yuk꜇	陽入					1/1	1/1
 698.0.22.0.11	708		yuk	鬻		yuk꜇	陽入			Used for the last; to nourish; to sell; [yuk꜇ mái꜅] to sell		1/2	1/1
 698.0.22.0.21	708		yuk	鬻		chuk꜆	陰入			Congee, gruel		2/2	1/1
-699.0.01.0.11	708		yun	○		꜂yun	陰上					1/1	1/1
+699.0.01.0.11	708		yun	○		꜂yun	陰上			A colloquial word. The liver; [꜀chü ꜂yun], a pig's liver		1/1	1/1
 699.0.02.0.11	708		yun	潤		yun꜅	陽去					1/1	1/1
 699.0.03.0.11	708		yun	閠	閏	yun꜅	陽去					1/1	1/1
 699.0.04.0.11	708		yun	瞤		yun꜅	陽去					1/1	1/1
