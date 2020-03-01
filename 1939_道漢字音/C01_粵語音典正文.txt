@@ -1,5 +1,5 @@
-# 資料庫版本: 2019-12-19
-編號	並見於道字典	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
+# 資料庫版本: 2020-03-01
+編號	道字典標記	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
 3		1	z	i	1	1	i	zi1	卮		
@@ -1819,7 +1819,7 @@
 1819	Y	10	n	ing	1	1	ing	ning1	擰		
 1820	Y	10	n	ing	4	4	ing	ning4	寕		
 1821		10	n	ing	4	4	ing	ning4	𡩋		
-1822	Y	10	n	ing	4	4	ing	ning4	寧		
+1822	V	10	n	ing	4	4	ing	ning4	寧		
 1823		10	n	ing	4	4	ing	ning4	儜		
 1824		10	n	ing	4	4	ing	ning4	濘		
 1825	Y	10	n	ing	4	4	ing	ning4	獰		
@@ -2263,7 +2263,7 @@
 2263		11	p	ing	1	1	ing	ping1	胼		
 2264		11	p	ing	1	1	ing	ping1	栟		
 2265	Y	11	p	ing	3	3	ing	ping3	拚		
-2266	Y	11	p	ing	3	3	ing	ping3	拼		
+2266	V	11	p	ing	3	3	ing	ping3	拼		
 2267	Y	11	p	ing	3	3	ing	ping3	聘		
 2268		11	p	ing	3	3	ing	ping3	騁		
 2269	Y	11	p	ing	4	4	ing	ping4	平		
@@ -3418,7 +3418,7 @@
 3419		16	d	aan	3	3	aan	daan3	狚		
 3420		16	d	aan	3	3	aan	daan3	疸		
 3421		16	d	aan	3	3	aan	daan3	鉭		
-3422	Y	16	d	aan	3	3	aan	daan3	誕		
+3422	V	16	d	aan	3	3	aan	daan3	誕		
 3423	Y	16	d	aan	3	3	aan	daan3	𧩙		
 3424		16	d	aan	3	3	aan	daan3	鴠		
 3425		16	d	aan	6	6	aan	daan6	旦		
@@ -4401,7 +4401,7 @@
 4402		21	f	un	2	2	un	fun2	浣		
 4403		21	f	un	2	2	un	fun2	梡		
 4404	Y	21	f	un	2	2	un	fun2	欵		
-4405	Y	21	f	un	2	2	un	fun2	款		
+4405	V	21	f	un	2	2	un	fun2	款		
 4406		21	f	un	2	2	un	fun2	澣		
 4407		21	f	un	2	2	un	fun2	盥		
 4408		21	f	un	2	2	un	fun2	窽		
@@ -5094,7 +5094,7 @@
 5095	Y	23	w	an	1	1	an	wan1	温		
 5096		23	w	an	1	1	an	wan1	嗢		
 5097		23	w	an	1	1	an	wan1	蒕		
-5098	Y	23	w	an	1	1	an	wan1	溫		
+5098	V	23	w	an	1	1	an	wan1	溫		
 5099		23	w	an	1	1	an	wan1	熅		
 5100		23	w	an	1	1	an	wan1	氳		
 5101		23	w	an	1	1	an	wan1	褞		
@@ -5106,7 +5106,7 @@
 5107		23	w	an	1	1	an	wan1	豱		
 5108		23	w	an	1	1	an	wan1	贇		
 5109	Y	23	w	an	2	2	an	wan2	揾		
-5110	Y	23	w	an	2	2	an	wan2	搵		
+5110	V	23	w	an	2	2	an	wan2	搵		
 5111		23	w	an	2	2	an	wan2	氳		
 5112		23	w	an	2	2	an	wan2	縕		
 5113		23	w	an	2	2	an	wan2	醞		
@@ -5272,7 +5272,7 @@
 5273		23	kw	an	4	4	an	kwan4	莙		
 5274	Y	23	kw	an	4	4	an	kwan4	裙		
 5275	Y	23	kw	an	4	4	an	kwan4	羣		
-5276	Y	23	kw	an	4	4	an	kwan4	群		
+5276	V	23	kw	an	4	4	an	kwan4	群		
 5277		23	kw	an	4	4	an	kwan4	裠		
 5278		23	kw	an	5	5	an	kwan5	菌		
 5279		23	kw	an	5	5	an	kwan5	蕈		
@@ -5423,7 +5423,7 @@
 5424	Y	24	g	aam	1	1	aam	gaam1	緘		
 5425		24	g	aam	1	1	aam	gaam1	尷		
 5426	Y	24	g	aam	2	2	aam	gaam2	减		
-5427	Y	24	g	aam	2	2	aam	gaam2	減		
+5427	V	24	g	aam	2	2	aam	gaam2	減		
 5428		24	g	aam	2	2	aam	gaam2	感		
 5429		24	g	aam	3	3	aam	gaam3	淦		
 5430		24	g	aam	3	3	aam	gaam3	監		
@@ -6515,7 +6515,7 @@
 6517		31	h	ang	2	2	ang	hang2	肻		
 6518		31	h	ang	2	2	ang	hang2	掯		
 6519	Y	31	h	ang	4	4	ang	hang4	行		
-6520	Y	31	h	ang	4	4	ang	hang4	恆		
+6520	V	31	h	ang	4	4	ang	hang4	恆		
 6521		31	h	ang	4	4	ang	hang4	佷		
 6522	Y	31	h	ang	4	4	ang	hang4	恒		
 6523		31	h	ang	4	4	ang	hang4	姮		
@@ -6533,7 +6533,7 @@
 6535		31	h	ak	1	7	ang	hak1	可		
 6536	Y	31	h	ak	1	7	ang	hak1	克		
 6537	Y	31	h	ak	1	7	ang	hak1	刻		
-6538	Y	31	h	ak	1	7	ang	hak1	剋		
+6538	V	31	h	ak	1	7	ang	hak1	剋		
 6539	Y	31	h	ak	1	7	ang	hak1	尅		
 6540		31	h	ak	1	7	ang	hak1	氪		
 6541	Y	31	h	ak	1	7	ang	hak1	黑		
@@ -6555,7 +6555,7 @@
 6557	Y	32	z	ong	3	3	ong	zong3	壯		
 6558		32	z	ong	3	3	ong	zong3	𦵏		
 6559	Y	32	z	ong	3	3	ong	zong3	塟		
-6560	Y	32	z	ong	3	3	ong	zong3	葬		
+6560	V	32	z	ong	3	3	ong	zong3	葬		
 6561		32	z	ong	3	3	ong	zong3	髒		
 6562	Y	32	z	ong	6	6	ong	zong6	狀		
 6563		32	z	ong	6	6	ong	zong6	奘		
@@ -6834,7 +6834,7 @@
 6836		33	b	ong	1	1	ong	bong1	幇		
 6837		33	b	ong	1	1	ong	bong1	𨧜		
 6838		33	b	ong	1	1	ong	bong1	縍		
-6839	Y	33	b	ong	1	1	ong	bong1	幫		
+6839	V	33	b	ong	1	1	ong	bong1	幫		
 6840		33	b	ong	2	2	ong	bong2	㮄		
 6841	Y	33	b	ong	2	2	ong	bong2	綁		
 6842		33	b	ong	2	2	ong	bong2	蒡		
@@ -7054,7 +7054,7 @@
 7056	Y	33	w	ong	4	4	ong	wong4	簧		
 7057		33	w	ong	4	4	ong	wong4	鰉		
 7058		33	w	ong	4	4	ong	wong4	鱑		
-7059	Y	33	w	ong	5	5	ong	wong5	往		
+7059	V	33	w	ong	5	5	ong	wong5	往		
 7060	Y	33	w	ong	5	5	ong	wong5	徃		
 7061		33	w	ong	6	6	ong	wong6	王		
 7062	Y	33	w	ong	6	6	ong	wong6	旺		
@@ -7285,7 +7285,7 @@
 7287	Y	36	z	eon	3	3	eon	zeon3	俊		
 7288		36	z	eon	3	3	eon	zeon3	峻		
 7289	Y	36	z	eon	3	3	eon	zeon3	晉		
-7290	Y	36	z	eon	3	3	eon	zeon3	晉		
+7290	V	36	z	eon	3	3	eon	zeon3	晉		
 7291		36	z	eon	3	3	eon	zeon3	浚		
 7292		36	z	eon	3	3	eon	zeon3	陖		
 7293		36	z	eon	3	3	eon	zeon3	焌		
@@ -7934,7 +7934,7 @@
 7936		40	z	oek	3	8	oeng	zoek3	皭		
 7937		40	z	oek	3	8	oeng	zoek3	釂		
 7938	Y	40	z	oek	6	9	oeng	zoek6	着		
-7939	Y	40	z	oek	6	9	oeng	zoek6	著		
+7939	V	40	z	oek	6	9	oeng	zoek6	著		
 7940		40	c	oeng	1	1	oeng	coeng1	囱		
 7941		40	c	oeng	1	1	oeng	coeng1	斨		
 7942	Y	40	c	oeng	1	1	oeng	coeng1	昌		
@@ -8178,7 +8178,7 @@
 8180		41	k	oeng	5	5	oeng	koeng5	鏹		
 8181	Y	41	k	oek	3	8	oeng	koek3	却		
 8182		41	k	oek	3	8	oeng	koek3	㕁		
-8183	Y	41	k	oek	3	8	oeng	koek3	卻		
+8183	V	41	k	oek	3	8	oeng	koek3	卻		
 8184		41	k	oek	3	8	oeng	koek3	蹻		
 8185	Y	41	d	oek	3	8	oeng	doek3	啄		
 8186		41	d	oek	3	8	oeng	doek3	涿		
@@ -9735,7 +9735,7 @@
 9737		50	g	ai	1	1	ai	gai1	枅		
 9738		50	g	ai	1	1	ai	gai1	笄		
 9739		50	g	ai	1	1	ai	gai1	鳮		
-9740	Y	50	g	ai	1	1	ai	gai1	雞		
+9740	V	50	g	ai	1	1	ai	gai1	雞		
 9741	Y	50	g	ai	1	1	ai	gai1	鷄		
 9742		50	g	ai	3	3	ai	gai3	彐		
 9743	Y	50	g	ai	3	3	ai	gai3	計		
@@ -10144,7 +10144,7 @@
 10146	Y	51	kw	ai	4	4	ai	kwai4	葵		
 10147		51	kw	ai	4	4	ai	kwai4	戣		
 10148	Y	51	kw	ai	4	4	ai	kwai4	携		
-10149	Y	51	kw	ai	4	4	ai	kwai4	擕		
+10149	V	51	kw	ai	4	4	ai	kwai4	擕		
 10150		51	kw	ai	4	4	ai	kwai4	頯		
 10151		51	kw	ai	4	4	ai	kwai4	嶲		
 10152		51	kw	ai	4	4	ai	kwai4	騤		
@@ -10716,7 +10716,7 @@
 10718	Y	54	z	eoi	6	6	eoi	zeoi6	序		
 10719		54	z	eoi	6	6	eoi	zeoi6	㐨		
 10720	Y	54	z	eoi	6	6	eoi	zeoi6	叙		
-10721	Y	54	z	eoi	6	6	eoi	zeoi6	敍		
+10721	V	54	z	eoi	6	6	eoi	zeoi6	敍		
 10722		54	z	eoi	6	6	eoi	zeoi6	潊		
 10723		54	z	eoi	6	6	eoi	zeoi6	甀		
 10724		54	z	eoi	6	6	eoi	zeoi6	㝡		
@@ -11268,7 +11268,7 @@
 11270		58	c	yu	3	3	yu	cyu3	処		
 11271	Y	58	c	yu	3	3	yu	cyu3	處		
 11272		58	c	yu	3	3	yu	cyu3	𠁅		
-11273	Y	58	c	yu	4	4	yu	cyu4	㕑		
+11273	V	58	c	yu	4	4	yu	cyu4	㕑		
 11274	Y	58	c	yu	4	4	yu	cyu4	廚		
 11275		58	c	yu	4	4	yu	cyu4	滁		
 11276		58	c	yu	4	4	yu	cyu4	櫉		
@@ -12431,7 +12431,7 @@
 12433		67	m	aa	5	5	aa	maa5	嘛		
 12434		67	m	aa	5	5	aa	maa5	鎷		
 12435		67	m	aa	6	6	aa	maa6	嗎		
-12436	Y	67	m	aa	6	6	aa	maa6	罵		
+12436	V	67	m	aa	6	6	aa	maa6	罵		
 12437	Y	67	m	aa	6	6	aa	maa6	駡		
 12438		67	f	aa	1	1	aa	faa1	芲		
 12439	Y	67	f	aa	1	1	aa	faa1	花		
@@ -12623,7 +12623,7 @@
 12625		68	s	o	2	2	o	so2	鏁		
 12626	Y	68	s	o	2	2	o	so2	鎖		
 12627		68	s	o	3	3	o	so3	疏		
-12628	Y	68	s	o	4	4	o	so4	傻		
+12628	V	68	s	o	4	4	o	so4	傻		
 12629	Y	68	s	o	4	4	o	so4	儍		
 12630		68	j	o	1	1	o	jo1	唷		
 12631		68	j	o	1	1	o	jo1	喲		
@@ -12664,7 +12664,7 @@
 12666		68	d	o	1	1	o	do1	夛		
 12667		68	d	o	1	1	o	do1	哆		
 12668	Y	68	d	o	2	2	o	do2	朵		
-12669	Y	68	d	o	2	2	o	do2	朶		
+12669	V	68	d	o	2	2	o	do2	朶		
 12670		68	d	o	2	2	o	do2	剁		
 12671		68	d	o	2	2	o	do2	垛		
 12672		68	d	o	2	2	o	do2	媠		
@@ -12833,7 +12833,7 @@
 12835	Y	69	h	o	4	4	o	ho4	荷		
 12836		69	h	o	6	6	o	ho6	荷		
 12837	Y	69	h	o	6	6	o	ho6	賀		
-12838	Y	70	d	oe	2	2	oe	doe2	朵		
+12838	V	70	d	oe	2	2	oe	doe2	朵		
 12839	Y	70	d	oe	2	2	oe	doe2	朶		
 12840	Y	71	h	oe	1	1	oe	hoe1	靴		
 12841		71	h	oe	1	1	oe	hoe1	鞾		
