@@ -1,4 +1,4 @@
-# 資料庫版本: 2020-03-01
+# 資料庫版本: 2020-03-15
 編號	道字典標記	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -9404,7 +9404,7 @@
 9406		48	g	au	6	6	au	gau6	臼		
 9407		48	g	au	6	6	au	gau6	柩		
 9408		48	g	au	6	6	au	gau6	𣓌		
-9409		48	g	au	6	6	au	gau6	" ⿱雈皿"		
+9409		48	g	au	6	6	au	gau6	𰲃		
 9410	Y	48	g	au	6	6	au	gau6	舊		
 9411		48	g	au	6	6	au	gau6	匶		
 9412		48	k	au	1	1	au	kau1	朻		
@@ -10063,7 +10063,7 @@
 10065		51	gw	ai	1	1	ai	gwai1	刲		
 10066		51	gw	ai	1	1	ai	gwai1	邽		
 10067	Y	51	gw	ai	1	1	ai	gwai1	皈		
-10068		51	gw	ai	1	1	ai	gwai1	⿳⺈口电		
+10068		51	gw	ai	1	1	ai	gwai1	𬺞		
 10069		51	gw	ai	1	1	ai	gwai1	珪		
 10070		51	gw	ai	1	1	ai	gwai1	恚		
 10071		51	gw	ai	1	1	ai	gwai1	硅		
@@ -10233,7 +10233,7 @@
 10235	Y	52	c	ou	1	1	ou	cou1	粗		
 10236		52	c	ou	1	1	ou	cou1	觕		
 10237		52	c	ou	1	1	ou	cou1	⿰⺡⿳厶大氺		
-10238		52	c	ou	1	1	ou	cou1	⿰扌⿳厶大氺		
+10238		52	c	ou	1	1	ou	cou1	𰔝		
 10239		52	c	ou	1	1	ou	cou1	麄		
 10240	Y	52	c	ou	1	1	ou	cou1	操		
 10241		52	c	ou	1	1	ou	cou1	澡		
@@ -10247,7 +10247,7 @@
 10249		52	c	ou	3	3	ou	cou3	厝		
 10250		52	c	ou	3	3	ou	cou3	造		
 10251	Y	52	c	ou	3	3	ou	cou3	措		
-10252		52	c	ou	3	3	ou	cou3	⿰扌⿳厶大氺		
+10252		52	c	ou	3	3	ou	cou3	𰔝		
 10253		52	c	ou	3	3	ou	cou3	慥		
 10254	Y	52	c	ou	3	3	ou	cou3	醋		
 10255	Y	52	c	ou	3	3	ou	cou3	噪		
