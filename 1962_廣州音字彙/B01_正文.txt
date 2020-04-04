@@ -1,4 +1,4 @@
-# 資料庫版本: 2020-01-08
+# 資料庫版本: 2020-04-04
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	字條註	校訂註
 1	1	1		a	上平		aa	1	1	aa1	鴉		
 2	1	2		a	上平		aa	1	1	aa1	雅		
@@ -4408,7 +4408,7 @@
 4406	25	19	l	oey	下去	l	eoi	6	6	leoi6	淚		
 4407	25	20	l	oey	下去	l	eoi	6	6	leoi6	泪		
 4408	25	21	l	oey	下去	l	eoi	6	6	leoi6	唳		
-4409	25	22	l	oey	下去	l	eoi	6	6	leoi6	檄		
+4409	25	22	l	oey	下去	l	eoi	6	6	leoi6	棙		
 4410	25	23	l	oey	下去	l	eoi	6	6	leoi6	彙	語音	
 4411	25	1	g	oey	下去	g	eoi	6	6	geoi6	巨		
 4412	25	2	g	oey	下去	g	eoi	6	6	geoi6	炬		
