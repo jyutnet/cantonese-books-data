@@ -149,7 +149,7 @@
 150	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	高平聲	0	also	啱	ng	aam	1	1	ngaam1	［又讀］恰字俗寫			
 151	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	低平聲	0		巖	ng	aam	4	4	ngaam4				
 152	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	低平聲	0		岩	ng	aam	4	4	ngaam4				
-153	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	低平聲	0		喦	ng	aam	4	4	ngaam4				
+153	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	低平聲	0		嵒	ng	aam	4	4	ngaam4				
 154	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	低平聲	0		癌	ng	aam	4	4	ngaam4				
 156	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	ngam	低上聲	0	also	頷	ng	aam	5	5	ngaam5	［又讀］點首應允頜之，見《部身字典》與《王雲五大辭典》			
 157	2	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	an	高平聲	0	common	殷		aan	1	1	aan1	［習讀］赤黑色，血紅色			

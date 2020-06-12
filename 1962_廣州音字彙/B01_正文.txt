@@ -5658,7 +5658,7 @@
 5656	34	1	ts'	am	下上	c	aam	5	5	caam5	劖		
 5657	34	1	ng	am	下平	ng	aam	4	4	ngaam4	巖		
 5658	34	2	ng	am	下平	ng	aam	4	4	ngaam4	岩		
-5659	34	3	ng	am	下平	ng	aam	4	4	ngaam4	喦		
+5659	34	3	ng	am	下平	ng	aam	4	4	ngaam4	嵒		
 5660	34	4	ng	am	下平	ng	aam	4	4	ngaam4	癌		
 5661	34	5	ng	am	下平	ng	aam	4	4	ngaam4	碞		
 5662	34	1	h	am	下平	h	aam	4	4	haam4	咸		

@@ -1614,7 +1614,7 @@
 1302.2	單			24		s	in	6	6	sin6	R84		姓		
 1302.3	單			24		s	in	4	4	sin4	R82		單于		
 1303.1	㗊			24		l	eoi	4	4	leoi4	I99				
-1304.1	喦			24		ng	aam	4	4	ngaam4	N18				
+1304.1	嵒			24		ng	aam	4	4	ngaam4	N18				
 1305.1	喌			24		z	au	1	1	zau1	P32				
 1306.1	喘			25		c	yun	2	2	cyun2	Q127				
 1307.1	喎			25		w	o	5	5	wo5	T44		語氣詞		

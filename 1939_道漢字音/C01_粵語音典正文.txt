@@ -5452,7 +5452,7 @@
 5453		24	g	aap	6	9	aam	gaap6	硤		
 5454		24	ng	aam	1	1	aam	ngaam1	啱		
 5455	Y	24	ng	aam	4	4	aam	ngaam4	岩		
-5456		24	ng	aam	4	4	aam	ngaam4	喦		
+5456		24	ng	aam	4	4	aam	ngaam4	嵒		
 5457		24	ng	aam	4	4	aam	ngaam4	嵓		
 5458		24	ng	aam	4	4	aam	ngaam4	碞		
 5459		24	ng	aam	4	4	aam	ngaam4	癌		
