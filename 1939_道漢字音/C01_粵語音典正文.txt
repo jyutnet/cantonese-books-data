@@ -1,4 +1,4 @@
-# 資料庫版本: 2020-07-18
+# 資料庫版本: 2020-07-19
 編號	道字典標記	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -998,16 +998,16 @@
 997		5	l	oeng	2	2	oeng	loeng2	两		
 998		5	l	oeng	2	2	oeng	loeng2	兩		
 999	Y	5	l	oeng	4	4	oeng	loeng4	良		
-1000	Y	5	l	oeng	4	4	oeng	loeng4	涼		
+1000		5	l	oeng	4	4	oeng	loeng4	涼		
 1001	Y	5	l	oeng	4	4	oeng	loeng4	梁		
 1002	Y	5	l	oeng	4	4	oeng	loeng4	莨		
 1003		5	l	oeng	4	4	oeng	loeng4	椋		
 1004	Y	5	l	oeng	4	4	oeng	loeng4	量		
 1005		5	l	oeng	4	4	oeng	loeng4	筤		
 1006	Y	5	l	oeng	4	4	oeng	loeng4	粮		
-1007		5	l	oeng	4	4	oeng	loeng4	粱		
-1008	Y	5	l	oeng	4	4	oeng	loeng4	踉		
-1009		5	l	oeng	4	4	oeng	loeng4	樑		
+1007	Y	5	l	oeng	4	4	oeng	loeng4	粱		
+1008		5	l	oeng	4	4	oeng	loeng4	踉		
+1009	Y	5	l	oeng	4	4	oeng	loeng4	樑		
 1010		5	l	oeng	4	4	oeng	loeng4	輬		
 1011	Y	5	l	oeng	4	4	oeng	loeng4	糧		
 1012		5	l	oeng	5	5	oeng	loeng5	𭃂		
@@ -1037,7 +1037,7 @@
 1036		6	l	aai	1	1	aai	laai1	錸		
 1037		6	l	aai	1	1	aai	laai1	孻		
 1038	Y	6	l	aai	3	3	aai	laai3	癩		
-1039	Y	6	l	aai	6	6	aai	laai6	賴		
+1039		6	l	aai	6	6	aai	laai6	賴		
 1040		6	l	aai	6	6	aai	laai6	瀨		
 1041		6	l	aai	6	6	aai	laai6	藾		
 1042		6	l	aai	6	6	aai	laai6	籟		
@@ -1491,7 +1491,7 @@
 1490		8	z	aak	6	9	aang	zaak6	襗		
 1491		8	z	aak	6	9	aang	zaak6	躑		
 1492		8	z	aak	6	9	aang	zaak6	讁		
-1493		8	c	aang	1	1	aang	caang1	撑		
+1493	Y	8	c	aang	1	1	aang	caang1	撑		
 1494		8	c	aang	1	1	aang	caang1	趟		
 1495		8	c	aang	1	1	aang	caang1	橕		
 1496	Y	8	c	aang	1	1	aang	caang1	罉		
@@ -2235,7 +2235,7 @@
 2235	Y	11	b	ing	6	6	ing	bing6	並		
 2236		11	b	ing	6	6	ing	bing6	竝		
 2237	Y	11	b	ing	6	6	ing	bing6	病		
-2238		11	b	ik	1	7	ing	bik1	廹		
+2238	Y	11	b	ik	1	7	ing	bik1	廹		
 2239		11	b	ik	1	7	ing	bik1	偪		
 2240		11	b	ik	1	7	ing	bik1	皕		
 2241		11	b	ik	1	7	ing	bik1	愎		
@@ -2685,7 +2685,7 @@
 2685		12	s	uk	6	9	ung	suk6	俶		
 2686		12	s	uk	6	9	ung	suk6	㳤		
 2687		12	s	uk	6	9	ung	suk6	属		
-2688		12	s	uk	6	9	ung	suk6	淑		
+2688	Y	12	s	uk	6	9	ung	suk6	淑		
 2689	Y	12	s	uk	6	9	ung	suk6	孰		
 2690	Y	12	s	uk	6	9	ung	suk6	菽		
 2691	Y	12	s	uk	6	9	ung	suk6	蜀		
@@ -2869,7 +2869,7 @@
 2869		12	k	ung	4	4	ung	kung4	藭		
 2870	Y	12	k	uk	1	7	ung	kuk1	曲		
 2871	Y	12	k	uk	1	7	ung	kuk1	旭		
-2872	Y	12	k	uk	1	7	ung	kuk1	勖		
+2872		12	k	uk	1	7	ung	kuk1	勖		
 2873		12	k	uk	1	7	ung	kuk1	頊		
 2874		12	k	uk	1	7	ung	kuk1	麯		
 2875	Y	13	ng	uk	1	7	ung	nguk1	屋		
@@ -3164,7 +3164,7 @@
 3165		13	h	ung	6	6	ung	hung6	蕻		
 3166		13	h	uk	1	7	ung	huk1	曲		
 3167	Y	13	h	uk	1	7	ung	huk1	哭		
-3168	Y	13	h	uk	1	7	ung	huk1	勖		
+3168		13	h	uk	1	7	ung	huk1	勖		
 3169		13	h	uk	1	7	ung	huk1	𨢋		
 3170		13	h	uk	6	9	ung	huk6	斛		
 3171	Y	13	h	uk	6	9	ung	huk6	酷		
@@ -3940,10 +3940,10 @@
 3941		18	j	in	2	2	in	jin2	齞		
 3942		18	j	in	2	2	in	jin2	鼴		
 3943		18	j	in	2	2	in	jin2	鼹		
-3944		18	j	in	3	3	in	jin3	宴		
+3944	Y	18	j	in	3	3	in	jin3	宴		
 3945		18	j	in	3	3	in	jin3	晏		
 3946		18	j	in	3	3	in	jin3	隁		
-3947		18	j	in	3	3	in	jin3	燕		
+3947	Y	18	j	in	3	3	in	jin3	燕		
 3948		18	j	in	3	3	in	jin3	嚥		
 3949		18	j	in	3	3	in	jin3	嬿		
 3950		18	j	in	3	3	in	jin3	醼		
@@ -5115,7 +5115,7 @@
 5116		23	w	an	2	2	an	wan2	韞		
 5117		23	w	an	2	2	an	wan2	藴		
 5118	Y	23	w	an	2	2	an	wan2	穩		
-5119		23	w	an	3	3	an	wan3	愠		
+5119	Y	23	w	an	3	3	an	wan3	愠		
 5120		23	w	an	3	3	an	wan3	醖		
 5121	Y	23	w	an	4	4	an	wan4	云		
 5122	Y	23	w	an	4	4	an	wan4	勻		
@@ -5146,7 +5146,7 @@
 5147	Y	23	w	an	5	5	an	wan5	殞		
 5148		23	w	an	5	5	an	wan5	霣		
 5149		23	w	an	5	5	an	wan5	韞		
-5150		23	w	an	5	5	an	wan5	藴		
+5150	Y	23	w	an	5	5	an	wan5	藴		
 5151		23	w	an	5	5	an	wan5	鼲		
 5152		23	w	an	6	6	an	wan6	圂		
 5153	Y	23	w	an	6	6	an	wan6	混		
@@ -5338,9 +5338,9 @@
 5339	Y	24	z	aap	6	9	aam	zaap6	雜		
 5340		24	z	aap	6	9	aam	zaap6	霫		
 5341	Y	24	z	aap	6	9	aam	zaap6	襲		
-5342	Y	24	c	aam	1	1	aam	caam1	参		
+5342		24	c	aam	1	1	aam	caam1	参		
 5343		24	c	aam	1	1	aam	caam1	𠫵		
-5344		24	c	aam	1	1	aam	caam1	參		
+5344	Y	24	c	aam	1	1	aam	caam1	參		
 5345		24	c	aam	1	1	aam	caam1	叅		
 5346		24	c	aam	1	1	aam	caam1	毿		
 5347		24	c	aam	1	1	aam	caam1	驂		
@@ -6543,7 +6543,7 @@
 6545		31	h	ak	1	7	ang	hak1	赩		
 6546	Y	31	h	ak	1	7	ang	hak1	赫		
 6547	Y	32	z	ong	1	1	ong	zong1	庄		
-6548	Y	32	z	ong	1	1	ong	zong1	𢍿		
+6548		32	z	ong	1	1	ong	zong1	𢍿		
 6549	Y	32	z	ong	1	1	ong	zong1	妝		
 6550		32	z	ong	1	1	ong	zong1	牂		
 6551	Y	32	z	ong	1	1	ong	zong1	莊		
@@ -6552,7 +6552,7 @@
 6554	Y	32	z	ong	1	1	ong	zong1	裝		
 6555	Y	32	z	ong	1	1	ong	zong1	樁		
 6556		32	z	ong	1	1	ong	zong1	臧		
-6557		32	z	ong	1	1	ong	zong1	贓		
+6557	Y	32	z	ong	1	1	ong	zong1	贓		
 6558		32	z	ong	1	1	ong	zong1	髒		
 6559		32	z	ong	2	2	ong	zong2	駔		
 6560	Y	32	z	ong	3	3	ong	zong3	壯		
@@ -7332,7 +7332,7 @@
 7334	Y	36	c	eon	2	2	eon	ceon2	蠢		
 7335	Y	36	c	eon	4	4	eon	ceon4	旬		
 7336	Y	36	c	eon	4	4	eon	ceon4	廵		
-7337		36	c	eon	4	4	eon	ceon4	巡		
+7337	V	36	c	eon	4	4	eon	ceon4	巡		
 7338		36	c	eon	4	4	eon	ceon4	紃		
 7339	Y	36	c	eon	4	4	eon	ceon4	秦		
 7340	Y	36	c	eon	4	4	eon	ceon4	循		
@@ -8507,9 +8507,9 @@
 8509	Y	44	g	ei	2	2	ei	gei2	幾		
 8510		44	g	ei	2	2	ei	gei2	麂		
 8511		44	g	ei	3	3	ei	gei3	旡		
-8512		44	g	ei	3	3	ei	gei3	既		
+8512	Y	44	g	ei	3	3	ei	gei3	既		
 8513	Y	44	g	ei	3	3	ei	gei3	記		
-8514	Y	44	g	ei	3	3	ei	gei3	旣		
+8514		44	g	ei	3	3	ei	gei3	旣		
 8515	Y	44	g	ei	3	3	ei	gei3	寄		
 8516		44	g	ei	3	3	ei	gei3	蔇		
 8517		44	g	ei	3	3	ei	gei3	穊		
@@ -10516,8 +10516,8 @@
 10518		53	b	ou	2	2	ou	bou2	𣼑		
 10519		53	b	ou	2	2	ou	bou2	緥		
 10520		53	b	ou	2	2	ou	bou2	鴇		
-10521		53	b	ou	2	2	ou	bou2	寳		
-10522	Y	53	b	ou	2	2	ou	bou2	寶		
+10521	Y	53	b	ou	2	2	ou	bou2	寳		
+10522	V	53	b	ou	2	2	ou	bou2	寶		
 10523	Y	53	b	ou	3	3	ou	bou3	布		
 10524	Y	53	b	ou	3	3	ou	bou3	佈		
 10525	Y	53	b	ou	3	3	ou	bou3	怖		
@@ -10639,7 +10639,7 @@
 10641		53		ou	2	2	ou	ou2	䴠		
 10642		53		ou	3	3	ou	ou3	袄		
 10643		53		ou	3	3	ou	ou3	镺		
-10644		53		ou	3	3	ou	ou3	媪		
+10644	Y	53		ou	3	3	ou	ou3	媪		
 10645	Y	53		ou	3	3	ou	ou3	奧		
 10646	Y	53		ou	3	3	ou	ou3	塢		
 10647		53		ou	3	3	ou	ou3	隩		
@@ -11274,8 +11274,8 @@
 11276		58	c	yu	3	3	yu	cyu3	処		
 11277	Y	58	c	yu	3	3	yu	cyu3	處		
 11278		58	c	yu	3	3	yu	cyu3	𠁅		
-11279	V	58	c	yu	4	4	yu	cyu4	㕑		
-11280	Y	58	c	yu	4	4	yu	cyu4	廚		
+11279	Y	58	c	yu	4	4	yu	cyu4	㕑		
+11280	V	58	c	yu	4	4	yu	cyu4	廚		
 11281		58	c	yu	4	4	yu	cyu4	滁		
 11282		58	c	yu	4	4	yu	cyu4	櫉		
 11283		58	c	yu	4	4	yu	cyu4	儲		
