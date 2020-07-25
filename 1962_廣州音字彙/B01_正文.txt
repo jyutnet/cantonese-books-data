@@ -11273,7 +11273,7 @@
 11271	73	19	t	ung	下平	t	ung	4	4	tung4	艟		
 11272	73	20	t	ung	下平	t	ung	4	4	tung4	罿		
 11273	73	21	t	ung	下平	t	ung	4	4	tung4	佟		
-11274	73	22	t	ung	下平	t	ung	4	4	tung4	䑣		
+11274	73	22	t	ung	下平	t	ung	4	4	tung4	彤		
 11275	73	23	t	ung	下平	t	ung	4	4	tung4	筩		
 11276	73	1	n	ung	下平	n	ung	4	4	nung4	儂		
 11277	73	2	n	ung	下平	n	ung	4	4	nung4	膿		
