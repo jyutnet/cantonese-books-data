@@ -8155,7 +8155,7 @@
 8153	51	6	m	oon	下平	m	un	4	4	mun4	蹣		
 8154	51	7	m	oon	下平	m	un	4	4	mun4	鞔		
 8155	51	8	m	oon	下平	m	un	4	4	mun4	亹	水峽	
-8156	51	9	m	oon	下平	m	un	4	4	mun4	𮮈		
+8156	51	9	m	oon	下平	m	un	4	4	mun4	穈		下方「禾」原字模作「木」
 8157	51	10	m	oon	下平	m	un	4	4	mun4	漫	～～	
 8158	52	1	b	un	上平	b	an	1	1	ban1	賓		
 8159	52	2	b	un	上平	b	an	1	1	ban1	宾		
