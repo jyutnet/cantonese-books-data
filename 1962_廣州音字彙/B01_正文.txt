@@ -1,4 +1,4 @@
-# 資料庫版本: 2020-08-06
+# 資料庫版本: 2021-02-11
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	字條註	校訂註
 1	1	1		a	上平		aa	1	1	aa1	鴉		
 2	1	2		a	上平		aa	1	1	aa1	雅		
@@ -5011,7 +5011,7 @@
 5009	29	6	ts'	oi	上去	c	oi	3	3	coi3	䌨		
 5010	29	1	ng	oi	下去	ng	oi	6	6	ngoi6	閡		
 5011	29	1	h	oi	下去	h	oi	6	6	hoi6	害		
-5012	29	2	h	oi	下去	h	oi	6	6	hoi6	夆		
+5012	29	2	h	oi	下去	h	oi	6	6	hoi6	𡕗		
 5013	29	3	h	oi	下去	h	oi	6	6	hoi6	亥		
 5014	29	4	h	oi	下去	h	oi	6	6	hoi6	閡	藏塞也	
 5015	29	5	h	oi	下去	h	oi	6	6	hoi6	氦		
@@ -6429,7 +6429,7 @@
 6427	40	7	t	an	上上	t	aan	2	2	taan2	忐		
 6428	40	8	t	an	上上	t	aan	2	2	taan2	毯		
 6429	40	9	t	an	上上	t	aan	2	2	taan2	菼		
-6430	40	10	t	an	上上	t	aan	2	2	taan2	汆		
+6430	40	10	t	an	上上	t	aan	2	2	taan2	氽		
 6431	40	11	t	an	上上	t	aan	2	2	taan2	癱	語音	
 6432	40	12	t	an	上上	t	aan	2	2	taan2	亶		
 6433	40	1	n	an	上上	n	aan	2	2	naan2	赧		
@@ -7526,7 +7526,7 @@
 7524	46	5	l	uen	下平	l	yun	4	4	lyun4	巒		
 7525	46	6	l	uen	下平	l	yun	4	4	lyun4	攣		
 7526	46	7	l	uen	下平	l	yun	4	4	lyun4	鑾		
-7527	46	8	l	uen	下平	l	yun	4	4	lyun4	鷥		
+7527	46	8	l	uen	下平	l	yun	4	4	lyun4	鸞		
 7528	46	9	l	uen	下平	l	yun	4	4	lyun4	孿		
 7529	46	10	l	uen	下平	l	yun	4	4	lyun4	圞		
 7530	46	1	k	uen	下平	k	yun	4	4	kyun4	權		
@@ -9902,7 +9902,7 @@
 9900	64	3	l	ing	下去	l	ing	6	6	ling6	睖		
 9901	64	4	l	ing	下去	l	ing	6	6	ling6	愣		
 9902	64	1	t	ing	下上	t	ing	5	5	ting5	挺		
-9903	64	2	t	ing	下上	t	ing	5	5	ting5	壬		
+9903	64	2	t	ing	下上	t	ing	5	5	ting5	𡈼		
 9904	64	3	t	ing	下上	t	ing	5	5	ting5	梃		
 9905	64	4	t	ing	下上	t	ing	5	5	ting5	脡		
 9906	64	5	t	ing	下上	t	ing	5	5	ting5	艇		
@@ -10032,7 +10032,7 @@
 10030	65	7	g	ing	上入	g	ik	1	7	gik1	擊		
 10031	65	8	g	ing	上入	g	ik	1	7	gik1	揳		
 10032	65	9	g	ing	上入	g	ik	1	7	gik1	激		
-10033	65	10	g	ing	上入	g	ik	1	7	gik1	苟		
+10033	65	10	g	ing	上入	g	ik	1	7	gik1	茍		
 10034	65	1	gw	ing	上入	gw	ik	1	7	gwik1	隙		
 10035	65	2	gw	ing	上入	gw	ik	1	7	gwik1	郄		
 10036	65	3	gw	ing	上入	gw	ik	1	7	gwik1	郤		
