@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-02-10
+# 資料庫版本: 2021-03-01
 編號	頁	分類	分類	原書音標	原書聲調	字音號	標記	字	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	釋義	含粵語音義	經校訂修正	校訂註
 1	1	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	a	高平聲	0		鴉		aa	1	1	aa1				
 2	1	a	A(鴉)音起頭之字（帶ng(吾)音起頭之字在內）	a	高平聲	0		丫		aa	1	1	aa1				
@@ -4282,7 +4282,7 @@
 4359	48	h	H(蝦)音起頭之字	hag	高入聲	0	verbal	剋	h	aak	1	7	haak1	［語音］限制，～期；通克			
 4360	48	h	H(蝦)音起頭之字	hag	高入聲	0	verbal	勀	h	aak	1	7	haak1				
 4361	48	h	H(蝦)音起頭之字	hag	高入聲	0	verbal	尅	h	aak	1	7	haak1	［語音］同剋			
-4362	48	h	H(蝦)音起頭之字	hag	高入聲	0	verbal	氪	h	aak	1	7	haak1	［語音］氣體化學原質，即Kr			
+4362	48	h	H(蝦)音起頭之字	hag	高入聲	0	verbal	氪	h	aak	1	7	haak1	［語音］氣體化學原質，即Kr.			
 4363	48	h	H(蝦)音起頭之字	hag	中入聲	0		客	h	aak	3	8	haak3				
 4364	48	h	H(蝦)音起頭之字	hag	中入聲	0		喀	h	aak	3	8	haak3	嘔吐逆氣聲			
 4365	48	h	H(蝦)音起頭之字	hag	中入聲	0		嚇	h	aak	3	8	haak3	恐～，～人			
@@ -4482,7 +4482,7 @@
 4550	50	h	H(蝦)音起頭之字	hauk	高入聲	0	literal	剋	h	ak	1	7	hak1	［讀音］限制，～期。通克			
 4551	50	h	H(蝦)音起頭之字	hauk	高入聲	0	literal	勊	h	ak	1	7	hak1				
 4552	50	h	H(蝦)音起頭之字	hauk	高入聲	0	literal	尅	h	ak	1	7	hak1	同剋［讀音］			
-4553	50	h	H(蝦)音起頭之字	hauk	高入聲	0	literal	氪	h	ak	1	7	hak1	［讀音］氣體化學𠩤質之一，即Kr.			
+4553	50	h	H(蝦)音起頭之字	hauk	高入聲	0	literal	氪	h	ak	1	7	hak1	［讀音］氣體化學原質之一，即Kr.			
 4554	50	h	H(蝦)音起頭之字	hauk	高入聲	0		可	h	ak	1	7	hak1	～汗，突厥國主			
 4555	50	h	H(蝦)音起頭之字	haum	高平聲	0		堪	h	am	1	1	ham1				
 4556	50	h	H(蝦)音起頭之字	haum	高平聲	0		坩	h	am	1	1	ham1				
