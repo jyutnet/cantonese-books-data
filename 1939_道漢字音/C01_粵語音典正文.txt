@@ -3014,7 +3014,7 @@
 3015		13	m	ung	4	4	ung	mung4	饛		
 3016		13	m	ung	6	6	ung	mung6	梦		
 3017	Y	13	m	ung	6	6	ung	mung6	夢		
-3018		13	m	ung	6	6	ung	mung6	⿱⿳𠫓⺫冖夕		
+3018		13	m	ung	6	6	ung	mung6	夣		
 3019		13	m	ung	6	6	ung	mung6	㝱		
 3020	Y	13	m	uk	6	9	ung	muk6	木		
 3021	Y	13	m	uk	6	9	ung	muk6	目		
