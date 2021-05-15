@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-02-11
+# 資料庫版本: 2021-05-14
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	字條註	校訂註
 1	1	1		a	上平		aa	1	1	aa1	鴉		
 2	1	2		a	上平		aa	1	1	aa1	雅		
@@ -8448,7 +8448,7 @@
 8446	53	4	g	un	上去	g	an	3	3	gan3	茛		
 8447	53	1	gw	un	上去	gw	an	3	3	gwan3	棍		
 8448	53	2	gw	un	上去	gw	an	3	3	gwan3	捃		
-8449	53	3	gw	un	上去	gw	an	3	3	gwan3	攗		
+8449	53	3	gw	un	上去	gw	an	3	3	gwan3	攈		
 8450	53	4	gw	un	上去	gw	an	3	3	gwan3	攟		
 8451	53	5	gw	un	上去	gw	an	3	3	gwan3	𢹲		
 8452	53	1	kw	un	上去	kw	an	3	3	kwan3	困		
@@ -9330,7 +9330,7 @@
 9328	60	3	k	eung	中入	k	oek	3	8	koek3	劇		
 9329	60	4	k	eung	中入	k	oek	3	8	koek3	噱		
 9330	60	5	k	eung	中入	k	oek	3	8	koek3	臄		
-9331	60	6	k	eung	中入	k	oek	3	8	koek3	谷		
+9331	60	6	k	eung	中入	k	oek	3	8	koek3	𧮫		
 9332	60	7	k	eung	中入	k	oek	3	8	koek3	醵		
 9333	60	1	ch	eung	中入	z	oek	3	8	zoek3	著	衣～	
 9334	60	2	ch	eung	中入	z	oek	3	8	zoek3	穛		
