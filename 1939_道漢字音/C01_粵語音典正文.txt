@@ -1,4 +1,4 @@
-# 資料庫版本: 2020-08-05
+# 資料庫版本: 2021-05-14
 編號	道字典標記	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	字形標記	字形描述
 1	Y	1	z	i	1	1	i	zi1	之		
 2	Y	1	z	i	1	1	i	zi1	支		
@@ -5269,7 +5269,7 @@
 5270		23	kw	an	3	3	an	kwan3	睏		
 5271	Y	23	kw	an	3	3	an	kwan3	窘		
 5272		23	kw	an	3	3	an	kwan3	僒		
-5273		23	kw	an	3	3	an	kwan3	攗		
+5273		23	kw	an	3	3	an	kwan3	攈		
 5274		23	kw	an	4	4	an	kwan4	帬		
 5275		23	kw	an	4	4	an	kwan4	莙		
 5276	Y	23	kw	an	4	4	an	kwan4	裙		
@@ -5599,7 +5599,7 @@
 5600		25	h	aap	6	9	aam	haap6	盍		
 5601	Y	25	h	aap	6	9	aam	haap6	挾		
 5602	Y	25	h	aap	6	9	aam	haap6	狹		
-5603		25	h	aap	6	9	aam	haap6	陜		
+5603		25	h	aap	6	9	aam	haap6	陝		
 5604		25	h	aap	6	9	aam	haap6	梜		
 5605		25	h	aap	6	9	aam	haap6	愜		
 5606		25	h	aap	6	9	aam	haap6	硤		
