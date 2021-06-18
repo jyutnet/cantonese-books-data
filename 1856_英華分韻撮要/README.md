@@ -62,7 +62,7 @@
 
 #### 第四組 (d)
 
-1 代表字條是在勘誤表新增而不在原書正文，此情況下第三組數字 (cc) 不會遞增。
+1 代表字條是在勘誤表新增或者是從上條的異體分拆而不在原書正文，此情況下第三組數字 (cc) 不會遞增。
 
 頭四組數字代表單一字條。而第五組數字 ee 反映的是同一字條下的義項和讀音序號。
 
@@ -80,6 +80,8 @@
 | ALMOST_ALWAYS_PRO | Almost always pronunced | 
 | ALSO_PRO | Also pronunced/read |
 | CORRECTLY_READ | Correctly read/pronunced |
+| FAN_WAN_PRO | Read in Fan Wan |
+| FAN_WAN_ERRONEOUSLY_READ | Erroneously read in Fan Wan |  
 | FREQ_PRO | Frequently pronunced |
 | MORE_FREQ_HEARD | More frequency heard than original |
 | OFTEN_PRO | Often pronunced/spoken |
@@ -90,7 +92,7 @@
 | USUALLY_PRO | Usually pronunced/read |
 | VULGAR | Vulgar |  
 
-# 版權資料
+# 出版資料
 
 書名：英華分韻撮要 Tonic Dictionary of the Chinese Language in the Canton Dialect<br/>
 作者：衛三畏廉士甫 Samuel Wells Williams<br/>
