@@ -6944,7 +6944,8 @@
 638.0.13.0.11	605		ts‘ün	忖		꜂ts‘ün	陰上		cyun2				1/1	1/1
 638.0.14.0.11	605		ts‘ün	爨		꜂ts‘ün	陰上		cyun2				1/1	1/1
 638.0.15.0.11	605		ts‘ün	鱒		꜃ts‘ün	陽上		cyun5				1/1	1/1
-638.0.16.0.11	605		ts‘ün	噂		꜃ts‘ün	陽上		cyun5				1/1	1/1
+638.0.16.0.11	605		ts‘ün	噂		꜃ts‘ün	陽上		cyun5				1/1	1/2
+638.0.16.0.12	605		ts‘ün	噂		꜂tsun	陰上	ALSO_PRO	zeon2				1/1	2/2
 638.0.17.0.11	606		ts‘ün	寸		ts‘ün꜄	陰去		cyun3				1/1	1/1
 639.0.01.0.11	606		tsung	宗		꜀tsung	陰平		zung1				1/1	1/1
 639.0.02.0.11	606		tsung	悰		꜀tsung	陰平		zung1				1/1	1/1
@@ -6981,6 +6982,7 @@
 642.0.02.0.11	609		tsüt	絕		tsüt꜇	陽入		zyut6				1/1	1/1
 643.0.01.0.11	610		ts‘üt	撮		ts‘üt꜆	陰入		cyut3				1/1	1/1
 643.0.02.0.11	610		ts‘üt	蕝|蕞		ts‘üt꜆	陰入		cyut3				1/1	1/1
+643.0.02.1.11	610		ts‘üt	蕞		tsui꜄	陰去		zeoi3				1/1	1/1
 643.0.03.0.11	610		ts‘üt	卒		ts‘üt꜆	陰入		cyut3				1/1	1/1
 643.0.04.0.11	610		ts‘üt	猝		ts‘üt꜆	陰入		cyut3				1/1	1/1
 643.0.05.0.11	610		ts‘üt	捽		ts‘üt꜆	陰入		cyut3				1/1	1/1
@@ -7666,7 +7668,8 @@
 687.0.05.0.11	675		yam	歆		꜀yam	陰平		jam1				1/1	1/1
 687.0.06.0.11	675		yam	欽		꜀yam	陰平		jam1				1/1	1/1
 687.0.07.0.11	675		yam	嶔		꜀yam	陰平		jam1				1/1	1/1
-687.0.08.0.11	675		yam	髧		꜀yam	陰平		jam1		Pronunced [tám꜅], but used for the colloquial word tresses, curls on children; a fringe of hair along the crown; the hair falling on the forehead or cheeks; [꜀lau ꜀yam], falling tresses; [꜂chéung t‘ong꜄ ꜀yam], a long fringe on the crown		1/2	1/1
+687.0.08.0.11	675		yam	髧		꜀yam	陰平		jam1		Pronunced [tám꜅], but used for the colloquial word tresses, curls on children; a fringe of hair along the crown; the hair falling on the forehead or cheeks; [꜀lau ꜀yam], falling tresses; [꜂chéung t‘ong꜄ ꜀yam], a long fringe on the crown		1/2	1/2
+687.0.08.0.12	675		yam	髧		tám꜅	陽去		daam6				1/2	2/2
 687.0.08.0.21	675		yam	髧		꜁yam	陽平		jam4		A fringe or valance; ornamented carving under the eaves; a fathom; [꜀man chéung꜄ ꜁yam], a curtain round the tester; [꜁yam ꜂hau], the eaves; …		2/2	1/1
 687.0.08.1.11		728	yam	瘖		꜀yam	陰平		jam1				1/1	1/2
 687.0.08.1.12		728	yam	瘖		꜂òm	陰上	ALSO_PRO	am2				1/1	2/2
@@ -7900,7 +7903,8 @@
 695.0.09.0.11	699		yik	奕		yik꜇	陽入		jik6				1/1	1/1
 695.0.10.0.11	699		yik	弈		yik꜇	陽入		jik6				1/1	1/1
 695.0.11.0.11	699		yik	易		yik꜇	陽入		jik6				1/1	1/1
-695.0.12.0.11	699		yik	焬		yik꜇	陽入		jik6				1/1	1/1
+695.0.12.0.11	699		yik	焬		yik꜇	陽入		jik6				1/2	1/1
+695.0.12.0.21	699		yik	焬		sik꜆	陰入		sik1				2/2	1/1
 695.0.13.0.11	699		yik	蜴		yik꜇	陽入		jik6				1/1	1/1
 695.0.14.0.11	699		yik	弋		yik꜇	陽入		jik6				1/1	1/1
 695.0.15.0.11	699		yik	翌		yik꜇	陽入		jik6				1/1	1/1
