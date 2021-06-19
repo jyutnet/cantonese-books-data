@@ -1,78 +1,146 @@
 # 資料庫版本: 2021-06-19
 序號	頁碼	勘誤表頁碼	音節組	字頭	兼容字頭	讀音	聲調	讀音分類	推導現代粵音	讀音備註	釋義	字條校訂註	義項#	讀音#
-001.0.01.0.11	1		á	吖		꜀á	陰平		aa1				1/1	1/1
-001.0.02.0.11	1		á	鴉		꜀á	陰平		aa1				1/1	1/1
-001.0.03.0.11	1		á	呀		꜀á	陰平		aa1		A colloquial word. An interjection used in answers, senoting surprise or alarm; alas! dreadful		1/2	1/1
+001.0.01.0.11	1		á	吖		꜀á	陰平		aa1				1/1	1/2
+001.0.01.0.12	1		á	吖		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/1	2/2
+001.0.02.0.11	1		á	鴉		꜀á	陰平		aa1				1/1	1/2
+001.0.02.0.12	1		á	鴉		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/1	2/2
+001.0.03.0.11	1		á	呀		꜀á	陰平		aa1		A colloquial word. An interjection used in answers, senoting surprise or alarm; alas! dreadful		1/2	1/2
+001.0.03.0.12	1		á	呀		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/2	2/2
 001.0.03.0.21	1		á	呀		꜁ngá	陽平		ngaa4		The wrangling of children; to open the mouth wide; [꜁ngá ꜀lán ꜃mai], cochineal		2/2	1/1
-001.0.04.0.11	1		á	丫		꜀á	陰平		aa1				1/1	1/1
-001.0.05.0.11	1		á	啞		꜂á	陰上		aa2		The confused noise of children studying; dumb; to keep silent…		1/2	1/1
-001.0.05.0.21	1		á	啞		ak꜆	陰入		ak1		[ak꜆ ak꜆] the sound of giggling		2/2	1/1
-001.0.06.0.11	1		á	瘂		꜂á	陰上		aa2				1/1	1/1
-001.0.07.0.11	1		á	呀		á꜄	陰去		aa3		A colloquial word. A final particle, adding intensity to the meaning; [꜁’m ꜂hò á꜄] not at all good		1/2	1/1
+001.0.04.0.11	1		á	丫		꜀á	陰平		aa1				1/1	1/2
+001.0.04.0.12	1		á	丫		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/1	2/2
+001.0.05.0.11	1		á	啞		꜂á	陰上		aa2		The confused noise of children studying; dumb; to keep silent…		1/2	1/2
+001.0.05.0.12	1		á	啞		꜂ngá	陰上	OFTEN_PRO	ngaa2				1/2	2/2
+001.0.05.0.21	1		á	啞		ak꜆	陰入		ak1		[ak꜆ ak꜆] the sound of giggling		2/2	1/2
+001.0.05.0.22	1		á	啞		ngak꜆	陰入	OFTEN_PRO	ngak1				2/2	2/2
+001.0.06.0.11	1		á	瘂		꜂á	陰上		aa2				1/1	1/2
+001.0.06.0.12	1		á	瘂		꜂ngá	陰上	OFTEN_PRO	ngaa2				1/1	2/2
+001.0.07.0.11	1		á	呀		á꜄	陰去		aa3		A colloquial word. A final particle, adding intensity to the meaning; [꜁’m ꜂hò á꜄] not at all good		1/2	1/2
+001.0.07.0.12	1		á	呀		ngá꜄	陰去	OFTEN_PRO	ngaa3				1/2	2/2
 001.0.07.0.21	1		á	呀		á꜅	陽去		aa6		Ten, used after a higher number; an answer, a word of reply like Aye! [á꜅ ꜂hò], yes, well; [sz’꜄ á꜅ ꜁ts‘ín], forty cash		2/2	1/1
-001.0.08.0.11	2		á	亞|阿		á꜄	陰去		aa3				1/1	1/1
-001.0.09.0.11	2		á	婭		á꜄	陰去		aa3				1/1	1/1
-002.0.01.0.11	2		ai	𫫃		꜀ai	陰平		ai1				1/1	1/1
-002.0.02.0.11	2		ai	矮		꜂ai	陰上		ai2				1/1	1/1
-002.0.03.0.11	2		ai	縊		ai꜄	陰去		ai3				1/1	1/1
-002.0.04.0.11	2		ai	翳		ai꜄	陰去		ai3				1/1	1/1
-002.0.05.0.11	2		ai	𦠉		ai꜄	陰去		ai3				1/1	1/1
-002.0.06.0.11	2		ai	屭		ai꜄	陰去		ai3				1/1	1/1
-002.0.07.0.11	2		ai	曀		ai꜄	陰去		ai3				1/1	1/1
-003.0.01.0.11	2		ái	挨		꜀ái	陰平		aai1				1/1	1/1
-003.0.02.0.11	3		ái	隘		ái꜄	陰去		aai3				1/1	1/1
-003.0.03.0.11	3		ái	嗌		ái꜄	陰去		aai3				1/1	1/1
-004.0.01.0.11	3		ak	握		ak꜆	陰入		ak1				1/1	1/1
-004.0.02.0.11	3		ak	渥		ak꜆	陰入		ak1				1/1	1/1
-004.0.03.0.11	3		ak	幄		ak꜆	陰入		ak1				1/1	1/1
-004.0.04.0.11	3		ak	厄|𢨪		ak꜆	陰入		ak1				1/1	1/1
-004.0.05.0.11	3		ak	阨		ak꜆	陰入		ak1				1/1	1/1
-004.0.06.0.11	3		ak	扼		ak꜆	陰入		ak1				1/1	1/1
-005.0.01.0.11	3		ák	鈪		ák꜆	陰入		aak1				1/1	1/1
-005.0.02.0.11	3		ák	軛		ák꜆	陰入		aak1				1/1	1/1
-005.0.03.0.11	3		ák	阨		ák꜆	陰入		aak1		A colloquial word… To deceive, to delude, to take in; [꜂kòm yéung꜅ ák꜆ ꜁yan ꜂ké] are you going to cheat him so!		1/1	1/3
-005.0.03.0.12	3		ák	阨		ak꜆	陰入	ALSO_PRO	ak1				1/1	2/3
-005.0.03.0.13	3		ák	阨		ngak꜆	陰入	ALSO_PRO	ngak1				1/1	3/3
-006.0.01.0.11	3		am	唵		꜂am	陰上		am2				1/1	1/1
-006.0.02.0.11	3		am	掩		꜂am	陰上		am2				1/1	1/1
-007.0.01.0.11	4		ám	菡		꜂ám	陰上		aam2				1/1	1/1
-008.0.01.0.11	4		án	晏		án꜄	陰去		aan3				1/1	1/1
-008.0.02.0.11	4		án	鷃		án꜄	陰去		aan3				1/1	1/1
-009.0.01.0.11	4		ang	鶯		꜀ang	陰平		ang1				1/1	1/1
-009.0.02.0.11	4		ang	罃		꜀ang	陰平		ang1				1/1	1/1
-009.0.03.0.11	4		ang	嚶		꜀ang	陰平		ang1				1/1	1/1
-009.0.04.0.11	4		ang	哽		꜂ang	陰上		ang2				1/1	1/1
-009.0.05.0.11	4		ang	㾘		꜂ang	陰上		ang2				1/1	1/1
-009.0.06.0.11	4		ang	更		ang꜄	陰去		ang3				1/1	1/1
-010.0.01.0.11	4		áng	甖|罌		꜀áng	陰平		aang1				1/1	1/1
-011.0.01.0.11	4		ap	洽		ap꜆	陰入		ap1				1/2	1/1
+001.0.08.0.11	2		á	亞|阿		á꜄	陰去		aa3				1/1	1/2
+001.0.08.0.12	2		á	亞|阿		ngá꜄	陰去	OFTEN_PRO	ngaa3				1/1	2/2
+001.0.09.0.11	2		á	婭		á꜄	陰去		aa3				1/1	1/2
+001.0.09.0.12	2		á	婭		ngá꜄	陰去	OFTEN_PRO	ngaa3				1/1	2/2
+002.0.01.0.11	2		ai	𫫃		꜀ai	陰平		ai1				1/1	1/2
+002.0.01.0.12	2		ai	𫫃		꜀ngai	陰平	OFTEN_PRO	ngai1				1/1	2/2
+002.0.02.0.11	2		ai	矮		꜂ai	陰上		ai2				1/1	1/2
+002.0.02.0.12	2		ai	矮		꜂ngai	陰上	OFTEN_PRO	ngai2				1/1	2/2
+002.0.03.0.11	2		ai	縊		ai꜄	陰去		ai3				1/1	1/2
+002.0.03.0.12	2		ai	縊		ngai꜄	陰去	OFTEN_PRO	ngai3				1/1	2/2
+002.0.04.0.11	2		ai	翳		ai꜄	陰去		ai3				1/1	1/2
+002.0.04.0.12	2		ai	翳		ngai꜄	陰去	OFTEN_PRO	ngai3				1/1	2/2
+002.0.05.0.11	2		ai	𦠉		ai꜄	陰去		ai3				1/1	1/2
+002.0.05.0.12	2		ai	𦠉		ngai꜄	陰去	OFTEN_PRO	ngai3				1/1	2/2
+002.0.06.0.11	2		ai	屭		ai꜄	陰去		ai3				1/1	1/2
+002.0.06.0.12	2		ai	屭		ngai꜄	陰去	OFTEN_PRO	ngai3				1/1	2/2
+002.0.07.0.11	2		ai	曀		ai꜄	陰去		ai3				1/1	1/2
+002.0.07.0.12	2		ai	曀		ngai꜄	陰去	OFTEN_PRO	ngai3				1/1	2/2
+003.0.01.0.11	2		ái	挨		꜀ái	陰平		aai1				1/1	1/2
+003.0.01.0.12	2		ái	挨		꜀ngái	陰平	OFTEN_PRO	ngaai1				1/1	2/2
+003.0.02.0.11	3		ái	隘		ái꜄	陰去		aai3				1/1	1/2
+003.0.02.0.12	3		ái	隘		ngái꜄	陰去	OFTEN_PRO	ngaai3				1/1	2/2
+003.0.03.0.11	3		ái	嗌		ái꜄	陰去		aai3				1/1	1/2
+003.0.03.0.12	3		ái	嗌		ngái꜄	陰去	OFTEN_PRO	ngaai3				1/1	2/2
+004.0.01.0.11	3		ak	握		ak꜆	陰入		ak1				1/1	1/2
+004.0.01.0.12	3		ak	握		ngak꜆	陰入	OFTEN_PRO	ngak1				1/1	2/2
+004.0.02.0.11	3		ak	渥		ak꜆	陰入		ak1				1/1	1/2
+004.0.02.0.12	3		ak	渥		ngak꜆	陰入	OFTEN_PRO	ngak1				1/1	2/2
+004.0.03.0.11	3		ak	幄		ak꜆	陰入		ak1				1/1	1/2
+004.0.03.0.12	3		ak	幄		ngak꜆	陰入	OFTEN_PRO	ngak1				1/1	2/2
+004.0.04.0.11	3		ak	厄|𢨪		ak꜆	陰入		ak1				1/1	1/2
+004.0.04.0.12	3		ak	厄|𢨪		ngak꜆	陰入	OFTEN_PRO	ngak1				1/1	2/2
+004.0.05.0.11	3		ak	阨		ak꜆	陰入		ak1				1/1	1/2
+004.0.05.0.12	3		ak	阨		ngak꜆	陰入	OFTEN_PRO	ngak1				1/1	2/2
+004.0.06.0.11	3		ak	扼		ak꜆	陰入		ak1				1/1	1/2
+004.0.06.0.12	3		ak	扼		ngak꜆	陰入	OFTEN_PRO	ngak1				1/1	2/2
+005.0.01.0.11	3		ák	鈪		ák꜆	陰入		aak1				1/1	1/2
+005.0.01.0.12	3		ák	鈪		ngák꜆	陰入	OFTEN_PRO	ngaak1				1/1	2/2
+005.0.02.0.11	3		ák	軛		ák꜆	陰入		aak1				1/1	1/2
+005.0.02.0.12	3		ák	軛		ngák꜆	陰入	OFTEN_PRO	ngaak1				1/1	2/2
+005.0.03.0.11	3		ák	阨		ák꜆	陰入		aak1		A colloquial word… To deceive, to delude, to take in; [꜂kòm yéung꜅ ák꜆ ꜁yan ꜂ké] are you going to cheat him so!		1/1	1/4
+005.0.03.0.12	3		ák	阨		ngák꜆	陰入	OFTEN_PRO	ngaak1				1/1	2/4
+005.0.03.0.13	3		ák	阨		ak꜆	陰入	ALSO_PRO	ak1				1/1	3/4
+005.0.03.0.14	3		ák	阨		ngak꜆	陰入	ALSO_PRO	ngak1				1/1	4/4
+006.0.01.0.11	3		am	唵		꜂am	陰上		am2				1/1	1/2
+006.0.01.0.12	3		am	唵		꜂ngam	陰上	OFTEN_PRO	ngam2				1/1	2/2
+006.0.02.0.11	3		am	掩		꜂am	陰上		am2				1/1	1/2
+006.0.02.0.12	3		am	掩		꜂ngam	陰上	OFTEN_PRO	ngam2				1/1	2/2
+007.0.01.0.11	4		ám	菡		꜂ám	陰上		aam2				1/1	1/2
+007.0.01.0.12	4		ám	菡		꜂ngám	陰上	OFTEN_PRO	ngaam2				1/1	2/2
+008.0.01.0.11	4		án	晏		án꜄	陰去		aan3				1/1	1/2
+008.0.01.0.12	4		án	晏		ngán꜄	陰去	OFTEN_PRO	ngaan3				1/1	2/2
+008.0.02.0.11	4		án	鷃		án꜄	陰去		aan3				1/1	1/2
+008.0.02.0.12	4		án	鷃		ngán꜄	陰去	OFTEN_PRO	ngaan3				1/1	2/2
+009.0.01.0.11	4		ang	鶯		꜀ang	陰平		ang1				1/1	1/2
+009.0.01.0.12	4		ang	鶯		꜀ngang	陰平	OFTEN_PRO					1/1	2/2
+009.0.02.0.11	4		ang	罃		꜀ang	陰平		ang1				1/1	1/2
+009.0.02.0.12	4		ang	罃		꜀ngang	陰平	OFTEN_PRO					1/1	2/2
+009.0.03.0.11	4		ang	嚶		꜀ang	陰平		ang1				1/1	1/2
+009.0.03.0.12	4		ang	嚶		꜀ngang	陰平	OFTEN_PRO					1/1	2/2
+009.0.04.0.11	4		ang	哽		꜂ang	陰上		ang2				1/1	1/2
+009.0.04.0.12	4		ang	哽		꜂ngang	陰上	OFTEN_PRO					1/1	2/2
+009.0.05.0.11	4		ang	㾘		꜂ang	陰上		ang2				1/1	1/2
+009.0.05.0.12	4		ang	㾘		꜂ngang	陰上	OFTEN_PRO					1/1	2/2
+009.0.06.0.11	4		ang	更		ang꜄	陰去		ang3				1/1	1/2
+009.0.06.0.12	4		ang	更		ngang꜄	陰去	OFTEN_PRO					1/1	2/2
+010.0.01.0.11	4		áng	甖|罌		꜀áng	陰平		aang1				1/1	1/2
+010.0.01.0.12	4		áng	甖|罌		꜀ngáng	陰平	OFTEN_PRO	ngaang1				1/1	2/2
+011.0.01.0.11	4		ap	洽		ap꜆	陰入		ap1				1/2	1/2
+011.0.01.0.12	4		ap	洽		ngap꜆	陰入	OFTEN_PRO	ngap1				1/2	2/2
 011.0.01.0.21	4		ap	洽		háp꜇	陽入		haap6		A colloquial word. To cover, over, to keep from the air; to cover, as with a poultice;…		2/2	1/1
-012.0.01.0.11	5		áp	鴨		áp꜆	陰入		aap3		Read [áp꜆]. To instil, to saturate, to soak…		1/1	1/1
-012.0.02.0.11	5		áp	押		áp꜆	陰入		aap3				1/1	1/1
-013.0.01.0.11	5		at	○		at꜆	陰入				A colloquial word. To thrust in, to put into, as a purse or drawer; [at꜆ lok꜇] put it in; [at꜆ ꜃k‘ü iú꜄] he must want it; make him take it		1/1	1/1
-014.0.01.0.11	5		át	遏		át꜆	陰入		aat3				1/1	1/1
-014.0.02.0.11	5		át	押		át꜆	陰入		aat3				1/1	1/1
-014.0.03.0.11	5		át	戞		át꜆	陰入		aat3				1/1	1/1
-014.0.04.0.11	5		át	揠		át꜆	陰入		aat3				1/1	1/1
-014.0.05.0.11	5		át	秸		át꜆	陰入		aat3				1/1	1/1
-014.0.06.0.11	5		át	恝		át꜆	陰入		aat3				1/1	1/1
-014.0.07.0.11	6		át	壓		át꜆	陰入		aat3				1/1	1/1
-014.0.08.0.11	6		át	閼		át꜆	陰入		aat3				1/1	1/1
-014.0.09.0.11	6		át	頞		át꜆	陰入		aat3				1/1	1/1
-015.0.01.0.11	6		au	區		꜀au	陰平		au1				1/1	1/1
-015.0.02.0.11	6		au	甌		꜀au	陰平		au1				1/1	1/1
-015.0.03.0.11	6		au	鷗		꜀au	陰平		au1				1/1	1/1
-015.0.04.0.11	6		au	謳		꜀au	陰平		au1				1/1	1/1
-015.0.05.0.11	6		au	歐		꜀au	陰平		au1				1/1	1/1
-015.0.06.0.11	6		au	嘔		꜂au	陰上		au2				1/1	1/1
-015.0.07.0.11	6		au	毆		꜂au	陰上		au2				1/1	1/1
-015.0.08.0.11	6		au	漚		au꜄	陰去		au3		To soak, to macerate, to steep…		1/2	1/1
-015.0.08.0.21	6		au	漚		꜀au	陰平		au1		Bubbles on the water; frothy spume		2/2	1/1
-016.0.01.0.11	6		áu	坳		꜀áu	陰平		aau1				1/1	1/1
-016.0.02.0.11	7		áu	拗		꜂áu	陰上		aau2				1/1	1/1
-016.0.03.0.11	7		áu	拗		áu꜄	陰去		aau3				1/1	1/1
-016.0.04.0.11	7		áu	坳		áu꜄	陰去		aau3				1/1	1/1
-016.0.05.0.11	7		áu	凹		áu꜄	陰去		aau3				1/1	1/1
+012.0.01.0.11	5		áp	鴨		áp꜆	陰入		aap3		Read [áp꜆]. To instil, to saturate, to soak…		1/1	1/2
+012.0.01.0.12	5		áp	鴨		ngáp꜆	陰入	OFTEN_PRO	ngaap3				1/1	2/2
+012.0.02.0.11	5		áp	押		áp꜆	陰入		aap3				1/1	1/2
+012.0.02.0.12	5		áp	押		ngáp꜆	陰入	OFTEN_PRO	ngaap3				1/1	2/2
+013.0.01.0.11	5		at	○		at꜆	陰入				A colloquial word. To thrust in, to put into, as a purse or drawer; [at꜆ lok꜇] put it in; [at꜆ ꜃k‘ü iú꜄] he must want it; make him take it		1/1	1/2
+013.0.01.0.12	5		at	○		ngat꜆	陰入	OFTEN_PRO	ngat1				1/1	2/2
+014.0.01.0.11	5		át	遏		át꜆	陰入		aat3				1/1	1/2
+014.0.01.0.12	5		át	遏		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.02.0.11	5		át	押		át꜆	陰入		aat3				1/1	1/2
+014.0.02.0.12	5		át	押		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.03.0.11	5		át	戞		át꜆	陰入		aat3				1/1	1/2
+014.0.03.0.12	5		át	戞		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.04.0.11	5		át	揠		át꜆	陰入		aat3				1/1	1/2
+014.0.04.0.12	5		át	揠		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.05.0.11	5		át	秸		át꜆	陰入		aat3				1/1	1/2
+014.0.05.0.12	5		át	秸		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.06.0.11	5		át	恝		át꜆	陰入		aat3				1/1	1/2
+014.0.06.0.12	5		át	恝		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.07.0.11	6		át	壓		át꜆	陰入		aat3				1/1	1/2
+014.0.07.0.12	6		át	壓		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.08.0.11	6		át	閼		át꜆	陰入		aat3				1/1	1/2
+014.0.08.0.12	6		át	閼		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+014.0.09.0.11	6		át	頞		át꜆	陰入		aat3				1/1	1/2
+014.0.09.0.12	6		át	頞		ngát꜆	陰入	OFTEN_PRO	ngaat3				1/1	2/2
+015.0.01.0.11	6		au	區		꜀au	陰平		au1				1/1	1/2
+015.0.01.0.12	6		au	區		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
+015.0.02.0.11	6		au	甌		꜀au	陰平		au1				1/1	1/2
+015.0.02.0.12	6		au	甌		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
+015.0.03.0.11	6		au	鷗		꜀au	陰平		au1				1/1	1/2
+015.0.03.0.12	6		au	鷗		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
+015.0.04.0.11	6		au	謳		꜀au	陰平		au1				1/1	1/2
+015.0.04.0.12	6		au	謳		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
+015.0.05.0.11	6		au	歐		꜀au	陰平		au1				1/1	1/2
+015.0.05.0.12	6		au	歐		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
+015.0.06.0.11	6		au	嘔		꜂au	陰上		au2				1/1	1/2
+015.0.06.0.12	6		au	嘔		꜂ngau	陰上	OFTEN_PRO	ngau2				1/1	2/2
+015.0.07.0.11	6		au	毆		꜂au	陰上		au2				1/1	1/2
+015.0.07.0.12	6		au	毆		꜂ngau	陰上	OFTEN_PRO	ngau2				1/1	2/2
+015.0.08.0.11	6		au	漚		au꜄	陰去		au3		To soak, to macerate, to steep…		1/2	1/2
+015.0.08.0.12	6		au	漚		ngau꜄	陰去	OFTEN_PRO	ngau3				1/2	2/2
+015.0.08.0.21	6		au	漚		꜀au	陰平		au1		Bubbles on the water; frothy spume		2/2	1/2
+015.0.08.0.22	6		au	漚		꜀ngau	陰平	OFTEN_PRO	ngau1				2/2	2/2
+016.0.01.0.11	6		áu	坳		꜀áu	陰平		aau1				1/1	1/2
+016.0.01.0.12	6		áu	坳		꜀ngáu	陰平	OFTEN_PRO	ngaau1				1/1	2/2
+016.0.02.0.11	7		áu	拗		꜂áu	陰上		aau2				1/1	1/2
+016.0.02.0.12	7		áu	拗		꜂ngáu	陰上	OFTEN_PRO	ngaau2				1/1	2/2
+016.0.03.0.11	7		áu	拗		áu꜄	陰去		aau3				1/1	1/2
+016.0.03.0.12	7		áu	拗		ngáu꜄	陰去	OFTEN_PRO	ngaau3				1/1	2/2
+016.0.04.0.11	7		áu	坳		áu꜄	陰去		aau3				1/1	1/2
+016.0.04.0.12	7		áu	坳		ngáu꜄	陰去	OFTEN_PRO	ngaau3				1/1	2/2
+016.0.05.0.11	7		áu	凹		áu꜄	陰去		aau3				1/1	1/2
+016.0.05.0.12	7		áu	凹		ngáu꜄	陰去	OFTEN_PRO	ngaau3				1/1	2/2
 017.0.01.0.11	7		chá	渣		꜀chá	陰平		zaa1				1/1	1/1
 017.0.02.0.11	7		chá	樝		꜀chá	陰平		zaa1				1/1	1/1
 017.0.03.0.11	7		chá	皻		꜀chá	陰平		zaa1				1/1	1/1
