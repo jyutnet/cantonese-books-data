@@ -92,6 +92,29 @@
 | USUALLY_PRO | Usually pronunced/read |
 | VULGAR | Vulgar |  
 
+## 注意事項
+
+本書將各字以音序編排，但有些又音只在另一音節下該字條的釋義中出現。為完整起見，本檔案會盡量在讀音欄列出這些又讀，但也有例外，略舉述如下。
+
+1. lò 音節 (p.273)：“Some of these characters are often pronounced [lú].”
+2. shín 音節 (p.482)：“Some of these first characters are often pronounced like the last.”（上一音節為 shím）
+
+上述音節備註指出該音節下的「一些」單字會讀成另音，但沒有註明是哪些單字。以 shín 音節為例，條下的「嬋、蟬」對比今音的確會讀成 shím，但如果說條下的「扇、善、擅」等字都有讀成 shím 的習慣，除非有更多資料佐證，否則加入此一異讀恐怕未必符合事實。為免曲解原意，數碼檔案不會處理這類備註。
+
+此外，本書的釋義欄有時會有該字 “interchanged with“、“used for” 另外一字（讀音不同）的描述。例如：
+
+> 【椹 (cham1)】Used for [sham4] 葚 (p.14)
+> 【沈 (sham2)】Interchanged with [ch'am4] 沉 (p.419)
+
+在上述例子，「椹」確可與「葚」相通（而讀 [sham4]）、「沈」確可通「沉」而讀「沉」字的 [ch'am4] 音。但是，雖然本書釋義中的「相通」說明大多有所依據，但是若根據傳統字典（如《康熙字典》），二字的相通義有時卻未必與本書所列出的讀音匹配。例如：
+
+> 【恍,怳 (fong2)】Interchanged with 慌 [fong1] (p.714)
+> 【俛 (fú2)】Interchanged with 頫 [t’iú3] in the senses of hanging down the head (p.715)
+
+根據傳統字典，上述二例，「俛」字確可與「頫」相通，但在相通時兩個字的讀音其實是 [fú2] 而不是 [t’iú3]。雖然 t’iú3 音節下的「頫」有提到 [fú2] 音，但這也說明，「俛」條下「頫」的 [t’iú3] 音並不是與「俛」相通時的讀法、不是指「俛」要讀成 [t’iú3]。而「恍,怳」與「慌」相通其實是在「慌」讀 [fong2] 時的情況，但原書「慌」字沒有收錄 [fong2] 音。由此二例可見，除非著者編書時有誤解，否則 “interchanged with“、“used for” 一類字眼中所提出的另讀，有可能是書中該字的所在，不一定表示要讀成該音。假如資料檔將「恍,怳」加入 [fong1] 作為通「慌」時之異讀，恐怕不妥。
+
+粗略調查所得，釋義中此類「通某字」情況，讀音合理與不合理的字條大約各佔一半。為免強作解人，數碼檔案不會將這些讀音當成又音列出，只會錄在釋義欄以備考。
+
 # 出版資料
 
 書名：英華分韻撮要 Tonic Dictionary of the Chinese Language in the Canton Dialect<br/>

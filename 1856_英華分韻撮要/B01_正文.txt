@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-06-19
+# 資料庫版本: 2021-06-21
 序號	頁碼	勘誤表頁碼	音節組	字頭	兼容字頭	讀音	聲調	讀音分類	推導現代粵音	讀音備註	釋義	字條校訂註	義項#	讀音#
 001.0.01.0.11	1		á	吖		꜀á	陰平		aa1				1/1	1/2
 001.0.01.0.12	1		á	吖		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/1	2/2
@@ -229,7 +229,7 @@
 026.0.02.0.11	14		cham	箴		꜀cham	陰平		zam1				1/1	1/1
 026.0.03.0.11	14		cham	砧|碪		꜀cham	陰平		zam1				1/1	1/1
 026.0.04.0.11	14		cham	斟		꜀cham	陰平		zam1				1/1	1/1
-026.0.05.0.11	14		cham	椹		꜀cham	陰平		zam1				1/1	1/1
+026.0.05.0.11	14		cham	椹		꜀cham	陰平		zam1		Used for [꜁sham] 葚, the mulberry seed. An ax or bill; a staff		1/1	1/1
 026.0.06.0.11	14		cham	枕		꜂cham	陰上		zam2				1/1	1/2
 026.0.06.0.12	14		cham	枕		cham꜄	陰去	ALSO_PRO	zam3	As a verb also read			1/1	2/2
 026.0.07.0.11	15		cham	怎		꜂cham	陰上		zam2				1/1	1/1
@@ -302,7 +302,7 @@
 033.0.04.0.11	20		ch‘án	鏟		꜂ch‘án	陰上		caan2				1/1	1/1
 033.0.05.0.11	20		ch‘án	棖		꜃ch‘án	陽上		caan5		A colloquial word. A door sill; a threshold; [꜃k‘í ꜁mún ꜃ch‘án], standing in the door-way.		1/1	1/1
 034.0.01.0.11	20		chang	箏		꜀chang	陰平		zang1				1/1	1/1
-034.0.02.0.11	20		chang	凈		꜀chang	陰平		zang1				1/1	1/1
+034.0.02.0.11	20		chang	凈		꜀chang	陰平		zang1		Cold, shivering. Incorrectly but commonly used for 淨 [tsing꜅] clean		1/1	1/1
 034.0.03.0.11	20		chang	棦		꜀chang	陰平		zang1				1/1	1/1
 034.0.04.0.11	20		chang	琤		꜀chang	陰平		zang1				1/1	1/1
 034.0.05.0.11	20		chang	錚		꜀chang	陰平		zang1				1/1	1/1
@@ -328,7 +328,7 @@
 038.0.03.0.21	22		cháp	鈒		sáp꜆	陰入		saap3				2/2	1/1
 038.0.04.0.11	22		cháp	极		cháp꜇	陽入		zaap6				1/2	1/1
 038.0.04.0.21	22		cháp	极		k‘ap꜆	陰入		kap1				2/2	1/1
-039.0.01.0.11	23		ch‘áp	挿|鍤		ch‘áp꜆	陰入		caap3				1/1	1/1
+039.0.01.0.11	23		ch‘áp	挿|鍤	插	ch‘áp꜆	陰入		caap3			「鍤」在釋義出現，作為 “an iron pointed pole used to carry sheaves, or pry up clods” 之異體	1/1	1/1
 039.0.02.0.11	23		ch‘áp	扱		ch‘áp꜆	陰入		caap3				1/1	1/1
 040.0.01.0.11	23		chat	郅		chat꜆	陰入		zat1				1/1	1/1
 040.0.02.0.11	23		chat	質		chat꜆	陰入		zat1				1/1	1/1
@@ -422,7 +422,7 @@
 046.0.05.0.11	30		ch‘áu	轈		꜁ch‘áu	陽平		caau4				1/1	1/1
 046.0.06.0.11	30		ch‘áu	炒		꜂ch‘áu	陰上		caau2				1/1	1/1
 046.0.07.0.11	30		ch‘áu	吵		꜂ch‘áu	陰上		caau2				1/1	1/1
-046.0.08.0.11	30		ch‘áu	鈔|抄		ch‘áu꜄	陰去		caau3				1/1	1/1
+046.0.08.0.11	30		ch‘áu	鈔		ch‘áu꜄	陰去		caau3		Interchanged with 抄 to copy; a document, a government paper, a receipt; paper money; …		1/1	1/1
 047.0.01.0.11	30		ché	遮		꜀ché	陰平		ze1				1/1	1/1
 047.0.02.0.11	30		ché	者		꜂ché	陰上		ze2				1/1	1/1
 047.0.03.0.11	31		ché	赭		꜂ché	陰上		ze2				1/1	1/1
@@ -745,7 +745,7 @@
 072.0.03.0.11	28*		ch‘ong	床|牀		꜁ch‘ong	陽平		cong4				1/1	1/1
 072.0.04.0.11	29*		ch‘ong	厰	廠	꜂ch‘ong	陰上		cong2				1/1	1/1
 072.0.05.0.11	29*		ch‘ong	𢠵		꜂ch‘ong	陰上		cong2				1/1	1/1
-072.0.06.0.11	29*		ch‘ong	昶		꜂ch‘ong	陰上		cong2				1/1	1/1
+072.0.06.0.11	29*		ch‘ong	昶		꜂ch‘ong	陰上		cong2		Interchanged with 暢. A long day; bright, thorough, extended; filled		1/1	1/1
 072.0.07.0.11	29*		ch‘ong	闖		꜂ch‘ong	陰上		cong2				1/1	1/2
 072.0.07.0.12	29*		ch‘ong	闖		꜀sham	陰平		sam1				1/1	2/2
 072.0.08.0.11	29*		ch‘ong	愴		꜂ch‘ong	陰上		cong2				1/1	1/1
@@ -1146,9 +1146,8 @@
 101.0.19.0.11	57		fong	舫		꜂fong	陰上		fong2				1/1	1/1
 101.0.20.0.11	57		fong	貺		꜂fong	陰上		fong2				1/1	1/1
 101.0.21.0.11	57		fong	謊		꜂fong	陰上		fong2				1/1	1/1
-101.0.21.1.11		714	fong	恍		꜂fong	陰上		fong2				1/1	1/1
-101.0.21.2.11		714	fong	怳		꜂fong	陰上		fong2				1/1	1/1
-101.0.21.3.11		714	fong	幌		꜂fong	陰上		fong2				1/1	1/1
+101.0.21.1.11		714	fong	恍|怳		꜂fong	陰上		fong2		Interchanged with 慌 [꜀fong]. Wild, mad, fluttered; disturbed, unable to collect one's thoughts; …		1/1	1/1
+101.0.21.2.11		714	fong	幌		꜂fong	陰上		fong2				1/1	1/1
 101.0.22.0.11	57		fong	放		fong꜄	陰去		fong3				1/1	1/1
 101.0.23.0.11	57		fong	况|況		fong꜄	陰去		fong3				1/1	1/1
 101.0.24.0.11	57	714	fong	壙		fong꜄	陰去		fong3				1/1	1/2
@@ -1182,7 +1181,7 @@
 102.0.18.4.11		715	fú	刳		꜀fú	陰平		fu1				1/1	1/1
 102.0.18.5.11		715	fú	怤		꜀fú	陰平		fu1				1/1	1/1
 102.0.18.6.11		715	fú	粰		꜀fú	陰平		fu1				1/1	1/1
-102.0.18.7.11		715	fú	稃		꜀fú	陰平		fu1			在「稃」字釋義出現	1/1	1/1
+102.0.18.7.11		715	fú	稃		꜀fú	陰平		fu1			在「粰」字釋義出現	1/1	1/1
 102.0.18.8.11		715	fú	玞		꜀fú	陰平		fu1				1/1	1/1
 102.0.19.0.11	58		fú	符		꜁fú	陽平		fu4				1/1	1/1
 102.0.20.0.11	58		fú	苻		꜁fú	陽平		fu4				1/1	1/1
@@ -1206,7 +1205,7 @@
 102.0.36.0.11	59		fú	苦		꜂fú	陰上		fu2				1/1	1/1
 102.0.37.0.11	60		fú	虎		꜂fú	陰上		fu2				1/1	1/1
 102.0.38.0.11	60		fú	琥		꜂fú	陰上		fu2				1/1	1/1
-102.0.38.1.11		715	fú	俛		꜂fú	陰上		fu2				1/1	1/1
+102.0.38.1.11		715	fú	俛		꜂fú	陰上		fu2		Interchanged with 頫 [t‘iú꜄] in the senses of hanging down the head; to look down; to condescend, to examine into		1/1	1/1
 102.0.39.0.11	60		fú	婦		꜃fú	陽上		fu5				1/1	1/1
 102.0.40.0.11	60	715	fú	富		fú꜄	陰去		fu3				1/1	1/1
 102.0.41.0.11	60		fú	副		fú꜄	陰去		fu3				1/1	1/1
@@ -1234,7 +1233,7 @@
 103.0.03.0.11	62		fúi	恢		꜀fúi	陰平		fui1				1/1	1/1
 103.0.04.0.11	62		fúi	詼		꜀fúi	陰平		fui1				1/1	1/1
 103.0.05.0.11	62		fúi	悝		꜀fúi	陰平		fui1				1/1	1/1
-103.0.05.1.11		715	fúi	虺|虫		꜀fúi	陰平		fui1				1/1	1/1
+103.0.05.1.11		715	fúi	虺|虫		꜀fúi	陰平		fui1		The second (虫) is used for 蟲 [꜁ch‘ung]; a large species of adder …		1/1	1/1
 103.0.06.0.11	62		fúi	賄		꜂fúi	陰上		fui2				1/1	1/1
 103.0.07.0.11	62		fúi	鮪		꜂fúi	陰上		fui2				1/1	1/1
 103.0.08.0.11	62		fúi	洧		꜂fúi	陰上		fui2				1/1	1/1
@@ -1270,6 +1269,8 @@
 105.0.01.0.11	64		fún	寬		꜀fún	陰平		fun1				1/1	1/1
 105.0.02.0.11	64		fún	歡		꜀fún	陰平		fun1				1/1	1/1
 105.0.03.0.11	65		fún	貛		꜀fún	陰平		fun1				1/1	1/1
+105.0.03.1.11		715	fún	懽		꜀fún	陰平		fun1				1/2	1/1
+105.0.03.1.21		715	fún	懽		kún꜄	陰去		gun3				2/2	1/1
 105.0.04.0.11	65		fún	欵	款	꜂fún	陰上		fun2				1/1	1/1
 105.0.05.0.11	65		fún	窾		꜂fún	陰上		fun2				1/1	1/1
 105.0.06.0.11	65		fún	盥		꜂fún	陰上		fun2				1/1	1/1
@@ -1279,13 +1280,14 @@
 106.0.03.0.11	65		fung	瘋		꜀fung	陰平		fung1				1/1	1/1
 106.0.04.0.11	65		fung	封		꜀fung	陰平		fung1				1/1	1/1
 106.0.05.0.11	66		fung	葑		꜀fung	陰平		fung1				1/1	1/1
-106.0.06.0.11	66	715	fung	豊|豐		꜀fung	陰平		fung1				1/1	1/1
+106.0.06.0.11	66		fung	豊		꜀fung	陰平		fung1				1/1	1/1
 106.0.07.0.11	66		fung	酆		꜀fung	陰平		fung1				1/1	1/1
 106.0.08.0.11	66		fung	峯		꜀fung	陰平		fung1				1/1	1/1
 106.0.09.0.11	66		fung	蜂|蠭		꜀fung	陰平		fung1				1/1	1/1
 106.0.10.0.11	66		fung	鋒		꜀fung	陰平		fung1				1/1	1/1
 106.0.11.0.11	66		fung	烽		꜀fung	陰平		fung1				1/1	1/1
 106.0.12.0.11	66		fung	丰		꜀fung	陰平		fung1				1/1	1/1
+106.0.12.1.11		715	fung	豐		꜀fung	陰平		fung1				1/1	1/1
 106.0.13.0.11	66		fung	逢		꜁fung	陽平		fung4				1/1	1/1
 106.0.14.0.11	66		fung	縫		꜁fung	陽平		fung4				1/1	1/1
 106.0.15.0.11	66		fung	馮		꜁fung	陽平		fung4				1/1	1/1
@@ -1485,7 +1487,7 @@
 125.0.19.0.11	80		hí	犠		꜀hí	陰平		hei1				1/1	1/1
 125.0.20.0.11	80		hí	嚱		꜀hí	陰平		hei1				1/1	1/1
 125.0.21.0.11	80		hí	僖		꜀hí	陰平		hei1				1/1	1/1
-125.0.21.1.11		716	hí	蹊		꜀hí	陰平		hei1				1/1	1/1
+125.0.21.1.11		716	hí	蹊		꜀hí	陰平		hei1		Same as 徯 [꜁hai], but read [꜀hí] in the phrase [꜀hiú ꜀hí], ominous		1/1	1/1
 125.0.22.0.11	80		hí	喜		꜂hí	陰上		hei2				1/1	1/1
 125.0.23.0.11	80		hí	豈		꜂hí	陰上		hei2				1/1	1/1
 125.0.24.0.11	80		hí	起		꜂hí	陰上		hei2				1/1	1/1
@@ -1537,8 +1539,8 @@
 128.0.11.0.11	84		hing	㷫		hing꜄	陰去		hing3				1/1	1/1
 129.0.01.0.11	84	716	híp	脅		híp꜆	陰入		hip3				1/1	1/2
 129.0.01.0.12	84	716	híp	脅		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
-129.0.02.0.11	85	716	híp	協|叶|劦		híp꜆	陰入		hip3			原字模作「拹」，據勘誤表改作「協」	1/1	1/2
-129.0.02.0.12	85	716	híp	協|叶|劦		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
+129.0.02.0.11	85	716	híp	協|叶		híp꜆	陰入		hip3			原字模作「拹」，據勘誤表改作「協」	1/1	1/2
+129.0.02.0.12	85	716	híp	協|叶		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
 129.0.03.0.11	85	716	híp	愜		híp꜆	陰入		hip3				1/1	1/2
 129.0.03.0.12	85	716	híp	愜		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
 129.0.04.0.11	85	716	híp	慊		híp꜆	陰入		hip3				1/2	1/2
@@ -1553,8 +1555,10 @@
 129.0.07.0.13	85	716	híp	勰		꜀sz’	陰平		si1				1/1	3/3
 129.0.08.0.11	85	716	híp	挾		híp꜆	陰入		hip3				1/1	1/2
 129.0.08.0.12	85	716	híp	挾		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
-129.0.08.1.11		716	híp	拹		híp꜆	陰入		hip3				1/1	1/2
+129.0.08.1.11		716	híp	拹		híp꜆	陰入		hip3		To fold, to pull, to draw, to drag	勘誤表字頭「拹」在更正「協」字字模之餘也有提供「拹」字的解釋	1/1	1/2
 129.0.08.1.12		716	híp	拹		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
+129.0.08.2.11		716	híp	劦		híp꜆	陰入		hip3				1/1	1/2
+129.0.08.2.12		716	híp	劦		híp꜇	陽入	MORE_FREQ_HEARD	hip6				1/1	2/2
 130.0.01.0.11	85		hít	歇		hít꜆	陰入		hit3				1/1	1/1
 130.0.02.0.11	85		hít	蝎		hít꜆	陰入		hit3				1/1	1/1
 131.0.01.0.11	85		hiú	囂		꜀hiú	陰平		hiu1				1/1	1/1
@@ -1825,7 +1829,9 @@
 148.0.53.0.11	106		í	以		꜃í	陽上		ji5				1/1	1/1
 148.0.54.0.11	106		í	薿		꜃í	陽上		ji5				1/1	1/1
 148.0.55.0.11	106		í	苡		꜃í	陽上		ji5				1/1	1/1
-148.0.55.1.11		717	í	儗		꜃í	陽上		ji5				1/1	1/1
+148.0.55.1.11		717	í	儗		꜃í	陽上		ji5		Interchanged with 擬 [꜃í]. To compare, to assort; doubtful, suspicious of each other		1/3	1/1
+148.0.55.1.21		717	í	儗		hoi꜅	陽去		hoi6		Stupid, foolish		2/3	1/1
+148.0.55.1.31		717	í	儗		꜃í	陽上		ji5		To usurp, to incroach		3/3	1/1
 148.0.55.2.11		717	í	議		꜃í	陽上		ji5				1/1	1/1
 148.0.55.3.11		717	í	迤		꜃í	陽上		ji5				1/1	1/1
 148.0.56.0.11	106		í	薏		í꜄	陰去		ji3				1/1	1/1
@@ -1879,8 +1885,7 @@
 149.0.31.0.11	109		ím	饜		ím꜄	陰去		jim3				1/1	1/1
 149.0.32.0.11	110		ím	驗|騐		ím꜅	陽去		jim6				1/1	1/1
 149.0.33.0.11	110		ím	艷		ím꜅	陽去		jim6				1/1	1/1
-149.0.34.0.11	110		ím	𦦨	燄|焰	ím꜅	陽去		jim6				1/2	1/1
-149.0.34.0.21	110		ím	𦦨	燄|焰	꜁ím	陽平		jim4		Same as 炎		2/2	1/1
+149.0.34.0.11	110		ím	𦦨	燄|焰	ím꜅	陽去		jim6		Flame, blaze; brilliant, drawing the eyes of men … Same as 炎 [꜁ím]		1/1	1/1
 150.0.01.0.11	110		ín	煙|烟		꜀ín	陰平		jin1				1/1	1/1
 150.0.02.0.11	110		ín	胭		꜀ín	陰平		jin1				1/1	1/1
 150.0.03.0.11	110		ín	嫣		꜀ín	陰平		jin1				1/1	1/1
@@ -2349,7 +2354,7 @@
 185.0.03.0.11	151		k‘í	攲		꜀k‘í	陰平		kei1				1/1	1/1
 185.0.04.0.11	151		k‘í	觭		꜀k‘í	陰平		kei1				1/1	1/1
 185.0.05.0.11	151		k‘í	畸		꜀k‘í	陰平		kei1				1/1	1/1
-185.0.05.1.11		718	k‘í	犄		꜀k‘í	陰平		kei1				1/1	1/1
+185.0.05.1.11		718	k‘í	犄		꜀k‘í	陰平		kei1		Interchanged with 猗 [꜀í], fierce. A kind of ox with diverging horns; …		1/1	1/1
 185.0.06.0.11	151		k‘í	其		꜁k‘í	陽平		kei4				1/1	1/1
 185.0.07.0.11	151		k‘í	期		꜁k‘í	陽平		kei4				1/1	1/1
 185.0.08.0.11	151		k‘í	碁|棋		꜁k‘í	陽平		kei4				1/1	1/1
@@ -2367,8 +2372,9 @@
 185.0.19.0.11	152		k‘í	旗		꜁k‘í	陽平		kei4				1/1	1/1
 185.0.20.0.11	152		k‘í	旂		꜁k‘í	陽平		kei4				1/1	1/1
 185.0.21.0.11	152		k‘í	祈		꜁k‘í	陽平		kei4				1/1	1/1
-185.0.22.0.11	152		k‘í	圻		꜁k‘í	陽平		kei4				1/1	1/1
-185.0.23.0.11	152		k‘í	祇		꜁k‘í	陽平		kei4				1/1	1/1
+185.0.22.0.11	152		k‘í	圻		꜁k‘í	陽平		kei4		A border, limit, confines … Interchanged with [꜀kí] 畿		1/1	1/1
+185.0.23.0.11	152		k‘í	祇		꜁k‘í	陽平		kei4				1/2	1/1
+185.0.23.0.21	152		k‘í	祇		꜂chí	陰上		zi2		Often confounded with and used for [꜂chí] 祗		2/2	1/1
 185.0.24.0.11	152		k‘í	蘄		꜁k‘í	陽平		kei4				1/1	1/1
 185.0.25.0.11	152		k‘í	祁		꜁k‘í	陽平		kei4				1/1	1/1
 185.0.26.0.11	152		k‘í	軧		꜁k‘í	陽平		kei4				1/1	1/1
@@ -2413,7 +2419,7 @@
 188.0.07.0.11	155		kím	撿		꜂kím	陰上		gim2				1/1	1/2
 188.0.07.0.12	155		kím	撿		꜂lím	陰上	ALSO_PRO	lim2				1/1	2/2
 188.0.08.0.11	155		kím	魽		꜂kím	陰上		gim2		The name of a kind of silure (Silurus sinensis?) common in the markets and tanks of Canton		1/2	1/1
-188.0.08.0.21	155		kím	魽		꜀hòm	陰平		ham1		Sams as 蚶, a species of Arca, or bivalves with furrowed shells		2/2	1/1
+188.0.08.0.21	155		kím	魽		꜀hòm	陰平		ham1		Same as 蚶, a species of Arca, or bivalves with furrowed shells		2/2	1/1
 188.0.09.0.11	155		kím	劍		kím꜄	陰去		gim3				1/1	1/1
 188.0.10.0.11	155		kím	儉		kím꜅	陽去		gim6				1/1	1/1
 189.0.01.0.11	156		k‘ím	拑		꜁k‘ím	陽平		kim4				1/1	1/1
@@ -2553,7 +2559,7 @@
 201.0.04.1.11		719	koi	侅|賅		꜀koi	陰平		goi1				1/1	1/1
 201.0.05.0.11	170		koi	改		꜂koi	陰上		goi2				1/1	1/1
 201.0.05.1.11		719	koi	欬		꜂koi	陰上		goi2				1/1	1/1
-202.0.01.0.11	170		k‘oi	蓋|盖		k‘oi꜄	陰去		koi3				1/1	1/1
+202.0.01.0.11	170		k‘oi	蓋|盖		k‘oi꜄	陰去		koi3		A kind of coarse grass used for thatch; a cover, a covering, a root; a canopy … Often confounded with and used wrongly for [k‘oi꜄] 盍		1/1	1/1
 202.0.02.0.11	170		k‘oi	嘅		k‘oi꜄	陰去		koi3				1/1	1/1
 202.0.03.0.11	170		k‘oi	槪	概	k‘oi꜄	陰去		koi3				1/1	1/1
 202.0.04.0.11	170		k‘oi	慨		k‘oi꜄	陰去		koi3				1/1	1/1
@@ -3033,7 +3039,7 @@
 245.0.01.0.11	217		lai	犂		꜁lai	陽平		lai4				1/1	1/1
 245.0.02.0.11	217		lai	黎		꜁lai	陽平		lai4				1/1	1/1
 245.0.03.0.11	217		lai	藜		꜁lai	陽平		lai4				1/1	1/1
-245.0.04.0.11	217		lai	嚟		꜁lai	陽平		lai4				1/1	1/1
+245.0.04.0.11	217		lai	嚟		꜁lai	陽平		lai4		A colloquial word used for 來 [꜁loi]; to come; able; to begin; used with other verbs, to denote a command, as [꜀ning ꜁ch‘á ꜁lai], bring tea here…		1/1	1/1
 245.0.05.0.11	217		lai	𡅏		꜂lai	陰上		lai2				1/1	1/1
 245.0.06.0.11	218		lai	禮|礼		꜃lai	陽上		lai5				1/1	1/1
 245.0.07.0.11	218		lai	醴		꜃lai	陽上		lai5				1/1	1/1
@@ -3203,7 +3209,7 @@
 264.0.10.0.11	232		lí	謧		꜁lí	陽平		lei4				1/1	1/1
 264.0.11.0.11	232		lí	魑		꜁lí	陽平		lei4				1/1	1/1
 264.0.12.0.11	233		lí	螭		꜁lí	陽平		lei4				1/1	1/1
-264.0.13.0.11	233		lí	釐|厘|𭀖		꜁lí	陽平		lei4				1/1	1/1
+264.0.13.0.11	233		lí	釐|厘|𭀖		꜁lí	陽平		lei4		Used for [꜃lí] 理, to subject to, to cause to sbumit; to regulate; the 1000th part of a tael, norminally equivalent to the coin called a cash…		1/1	1/1
 264.0.14.0.11	233		lí	貍|狸		꜁lí	陽平		lei4				1/1	1/1
 264.0.15.0.11	233		lí	嫠		꜁lí	陽平		lei4				1/1	1/1
 264.0.16.0.11	233		lí	罹		꜁lí	陽平		lei4				1/1	1/1
@@ -3240,11 +3246,11 @@
 265.0.08.0.11	236		lik	歴	歷	lik꜇	陽入		lik6				1/1	1/1
 265.0.09.0.11	236		lik	瀝		lik꜇	陽入		lik6				1/1	1/1
 265.0.10.0.11	236		lik	癧		lik꜇	陽入		lik6				1/1	1/1
-265.0.11.0.11	236		lik	鬲	䰛	lik꜇	陽入		lik6				1/1	1/1
+265.0.11.0.11	236		lik	鬲		lik꜇	陽入		lik6				1/1	1/1
 265.0.11.1.11		721	lik	翮		lik꜇	陽入		lik6				1/1	1/1
 265.0.12.0.11	236		lik	力		lik꜇	陽入		lik6				1/1	1/1
 265.0.13.0.11	237		lik	泐		lik꜇	陽入		lik6				1/1	1/1
-265.0.14.0.11	237		lik	艻		lik꜇	陽入		lik6				1/1	1/1
+265.0.14.0.11	237		lik	艻		lik꜇	陽入		lik6		Interchanged with [lik꜇] 簕; spines on plants; prickly, spinous …		1/1	1/1
 266.0.01.0.11	237		lím	廉		꜁lím	陽平		lim4				1/1	1/1
 266.0.02.0.11	237		lím	㡘|簾		꜁lím	陽平		lim4				1/1	1/1
 266.0.03.0.11	237		lím	濂		꜁lím	陽平		lim4				1/1	1/1
@@ -3376,7 +3382,7 @@
 273.0.06.0.11	249		lò	盧		꜁lò	陽平		lou4				1/1	1/1
 273.0.07.0.11	249		lò	臚		꜁lò	陽平		lou4				1/1	1/1
 273.0.08.0.11	249		lò	轤		꜁lò	陽平		lou4				1/1	1/1
-273.0.09.0.11	249		lò	籚		꜁lò	陽平		lou4				1/1	1/1
+273.0.09.0.11	249		lò	籚		꜁lò	陽平		lou4		Interchanged with [꜁lò] 廬; a rush-like bamboo; a large covered basket; a spear handle		1/1	1/1
 273.0.10.0.11	249		lò	爐|炉		꜁lò	陽平		lou4				1/1	1/1
 273.0.11.0.11	249		lò	壚		꜁lò	陽平		lou4				1/1	1/1
 273.0.12.0.11	249		lò	鑪		꜁lò	陽平		lou4				1/1	1/1
@@ -3442,8 +3448,8 @@
 275.0.09.0.11	254		lok	落		lok꜇	陽入		lok6				1/1	1/1
 275.0.10.0.11	254		lok	樂		lok꜇	陽入		lok6				1/1	1/1
 275.0.11.0.11	254		lok	濼		lok꜇	陽入		lok6				1/1	1/1
-275.0.12.0.11	254		lok	爍		lok꜇	陽入		lok6				1/2	1/1
-275.0.12.0.21	254		lok	爍		ch‘éuk꜆	陰入		coek3				2/2	1/1
+275.0.12.0.11	254		lok	爍		lok꜇	陽入		lok6		Interchanged with [yéuk꜆] 鑠. Dead branches of trees; withered leaves		1/2	1/1
+275.0.12.0.21	254		lok	爍		ch‘éuk꜆	陰入		coek3		Light, bright, splendid; brilliant, refulgent; to shine, to glisten; to embellish		2/2	1/1
 276.0.01.0.11	255		long	郞	郎	꜁long	陽平		long4				1/1	1/1
 276.0.02.0.11	255		long	廊		꜁long	陽平		long4				1/1	1/1
 276.0.03.0.11	255		long	桹|榔		꜁long	陽平		long4				1/1	1/1
@@ -3492,7 +3498,7 @@
 279.0.03.0.11	257		lui	磊		꜃lui	陽上		leoi5				1/1	1/1
 279.0.04.0.11	257		lui	壘		꜃lui	陽上		leoi5				1/1	1/1
 279.0.05.0.11	257		lui	蕾		꜃lui	陽上		leoi5				1/1	1/1
-279.0.06.0.11	258		lui	攂		꜃lui	陽上		leoi5				1/1	1/2
+279.0.06.0.11	258		lui	攂		꜃lui	陽上		leoi5		Interchanged with [꜃lui] 擂, and often pronounced [lui꜅]. To drum, to beat a drum or going; to turn over stones …		1/1	1/2
 279.0.06.0.12	258		lui	攂		lui꜅	陽去	OFTEN_PRO	leoi6				1/1	2/2
 279.0.07.0.11	258		lui	儡		꜃lui	陽上		leoi5				1/1	1/1
 279.0.08.0.11	258		lui	藟		꜃lui	陽上		leoi5				1/1	1/1
@@ -3503,7 +3509,7 @@
 279.0.13.0.11	258		lui	淚|泪		lui꜅	陽去		leoi6				1/1	1/1
 279.0.14.0.11	258		lui	𩔗	類	lui꜅	陽去		leoi6				1/1	1/1
 279.0.15.0.11	258		lui	纇		lui꜅	陽去		leoi6				1/1	1/1
-279.0.16.0.11	258		lui	累		꜃lui	陽上		leoi5				1/1	1/1
+279.0.16.0.11	258		lui	累		꜃lui	陽上		leoi5		Interchanged with [lü꜅] 屢; to bind, to detain, to tie together; …		1/1	1/1
 279.0.17.0.11	258		lui	累		lui꜅	陽去		leoi6				1/1	1/1
 280.0.01.0.11	259		lúi	𧒽		꜀lúi	陰平		leoi1				1/1	1/1
 280.0.02.0.11	259		lúi	雷		꜁lúi	陽平		leoi4				1/1	1/1
@@ -3529,7 +3535,7 @@
 281.0.10.0.11	260		luk	穋|稑		luk꜇	陽入		luk6				1/1	1/1
 281.0.11.0.11	260		luk	綠		luk꜇	陽入		luk6				1/1	1/1
 281.0.12.0.11	260		luk	祿		luk꜇	陽入		luk6				1/1	1/1
-281.0.13.0.11	260		luk	淥		luk꜇	陽入		luk6				1/1	1/1
+281.0.13.0.11	260		luk	淥		luk꜇	陽入		luk6		Interchanged with [luk꜆] 漉, clear water.		1/1	1/1
 281.0.14.0.11	260		luk	菉		luk꜇	陽入		luk6				1/1	1/1
 281.0.15.0.11	261		luk	錄		luk꜇	陽入		luk6				1/1	1/1
 281.0.16.0.11	261		luk	籙		luk꜇	陽入		luk6				1/1	1/1
@@ -3712,7 +3718,7 @@
 294.0.08.0.11	277		mán	嫚		mán꜅	陽去		maan6				1/1	1/1
 294.0.09.0.11	277		mán	慢		mán꜅	陽去		maan6				1/1	1/1
 294.0.10.0.11	278		mán	謾		mán꜅	陽去		maan6				1/1	1/1
-294.0.11.0.11	278		mán	漫		mán꜅	陽去		maan6				1/1	1/1
+294.0.11.0.11	278		mán	漫		mán꜅	陽去		maan6		Often used for [mán꜅] 慢; an expanse of water, a sheet of water …		1/1	1/1
 294.0.12.0.11	278		mán	蔓		mán꜅	陽去		maan6				1/1	1/1
 294.0.13.0.11	278		mán	幔		mán꜅	陽去		maan6				1/1	1/1
 294.0.14.0.11	278		mán	鰻		mán꜅	陽去		maan6				1/1	1/1
@@ -3810,7 +3816,7 @@
 306.0.02.0.11	287		mín	綿|緜		꜁mín	陽平		min4				1/1	1/1
 306.0.03.0.11	287		mín	棉		꜁mín	陽平		min4				1/1	1/1
 306.0.04.0.11	287		mín	免		꜃mín	陽上		min5				1/1	1/1
-306.0.05.0.11	287		mín	俛		꜃mín	陽上		min5				1/1	1/1
+306.0.05.0.11	287		mín	俛		꜃mín	陽上		min5		Same as [꜂fú] 俯; [꜃mín ꜂shau], to hang down the head		1/1	1/1
 306.0.06.0.11	287		mín	勉		꜃mín	陽上		min5				1/1	1/1
 306.0.07.0.11	287		mín	㝃		꜃mín	陽上		min5				1/1	1/1
 306.0.08.0.11	287		mín	冕		꜃mín	陽上		min5				1/1	1/1
@@ -4083,7 +4089,7 @@
 337.0.04.0.11	314		ng	鼯		꜁ng	陽平		ng4				1/1	1/1
 337.0.05.0.11	314		ng	吳		꜁ng	陽平		ng4				1/1	1/1
 337.0.06.0.11	314		ng	蜈		꜁ng	陽平		ng4				1/1	1/1
-337.0.06.1.11		723	ng	牾		꜁ng	陽平		ng4				1/1	1/1
+337.0.06.1.11		723	ng	牾		꜁ng	陽平		ng4		Is sometimes used for 啎 [ng꜅] obstinate … A sort of deer; to oppose, as two oxen; …		1/1	1/1
 337.0.07.0.11	314		ng	五|伍|〥		꜃ng	陽上		ng5				1/1	1/1
 337.0.08.0.11	314		ng	伍		꜃ng	陽上		ng5				1/1	1/1
 337.0.09.0.11	314		ng	仵		꜃ng	陽上		ng5				1/1	1/1
@@ -4430,7 +4436,7 @@
 388.0.02.0.11	345		p‘á	杷		꜁p‘á	陽平		paa4				1/1	1/1
 388.0.03.0.11	345		p‘á	琶		꜁p‘á	陽平		paa4				1/1	1/1
 388.0.04.0.11	345		p‘á	潖		꜁p‘á	陽平		paa4				1/1	1/1
-388.0.05.0.11	345		p‘á	爬		꜁p‘á	陽平		paa4				1/1	1/1
+388.0.05.0.11	345		p‘á	爬		꜁p‘á	陽平		paa4		Interchanged with 耙 [꜀pá]; to scratch; to crawl, to creep; to rake, to scratch up, to flaw; to climb, to scale, to clamber; …		1/1	1/1
 388.0.06.0.11	346		p‘á	扒		꜁p‘á	陽平		paa4				1/1	1/1
 388.0.07.0.11	346		p‘á	帕|帊		p‘á꜄	陰去		paa3				1/1	1/1
 388.0.07.1.11	346		p‘á	帕		mak꜇	陽入	ALSO_PRO	mak6				1/1	1/1
@@ -4567,7 +4573,7 @@
 407.0.02.0.11	361	725	pau	吥		pau꜅	陽去		bau6		To draw in the breath|A colloquial word; flabby, puffy, spongy, tumid, swelled, fatty; empty, deceptive; [lau꜅ pau꜅] not firm; soft, like flesh…		1/1	1/2
 407.0.02.0.12	361	725	pau	吥		꜀pau	陰平		bau1				1/1	2/2
 408.0.01.0.11	361		p‘au	剖		꜂p‘au	陰上		pau2				1/1	1/1
-408.0.02.0.11	361		p‘au	掊		꜂p‘au	陰上		pau2				1/1	1/1
+408.0.02.0.11	361		p‘au	掊		꜂p‘au	陰上		pau2		Interchanged with [꜀pau] 裒; to add; to grash, to take to one; to exact; to get salt out of seawater; …		1/1	1/1
 409.0.01.0.11	361		páu	包		꜀páu	陰平		baau1				1/1	1/1
 409.0.02.0.11	362		páu	胞		꜀páu	陰平		baau1				1/1	1/1
 409.0.03.0.11	362		páu	苞		꜀páu	陰平		baau1				1/1	1/1
@@ -4578,23 +4584,23 @@
 410.0.01.0.11	362		p‘áu	抛		꜀p‘áu	陰平		paau1				1/1	1/1
 410.0.02.0.11	362		p‘áu	庖		꜁p‘áu	陽平		paau4				1/1	1/1
 410.0.03.0.11	362		p‘áu	咆		꜁p‘áu	陽平		paau4				1/1	1/1
-410.0.04.0.11	362		p‘áu	炰		꜁p‘áu	陽平		paau4		Interchanged with the preceding {咆}, but more used for [p‘áu꜄] 炮 a gun		1/1	1/1
+410.0.04.0.11	362		p‘áu	炰		꜁p‘áu	陽平		paau4		Interchanged with the preceding (咆), but more used for [p‘áu꜄] 炮 a gun		1/1	1/1
 410.0.05.0.11	362		p‘áu	匏		꜁p‘áu	陽平		paau4				1/1	1/1
 410.0.06.0.11	362		p‘áu	鉋|刨		꜁p‘áu	陽平		paau4				1/1	1/1
 410.0.07.0.11	363		p‘áu	鞄		꜁p‘áu	陽平		paau4				1/1	1/1
 410.0.08.0.11	363		p‘áu	跑		꜂p‘áu	陰上		paau2				1/1	1/1
-410.0.09.0.11	363		p‘áu	趵		p‘áu꜄	陰去		paau3				1/2	1/1
-410.0.09.0.21	363		p‘áu	趵		pok꜆	陰入		bok3				2/2	1/1
+410.0.09.0.11	363		p‘áu	趵		p‘áu꜄	陰去		paau3		Interchanged with the last (跑). Also read [pok꜆] to strike to feet together		1/2	1/1
+410.0.09.0.21	363		p‘áu	趵		pok꜆	陰入		bok3		To strike to feet together		2/2	1/1
 410.0.10.0.11	363		p‘áu	豹		p‘áu꜄	陰去		paau3				1/1	1/1
 410.0.11.0.11	363		p‘áu	炮		p‘áu꜄	陰去		paau3				1/1	1/1
-410.0.12.0.11	363		p‘áu	礮|砲		p‘áu꜄	陰去		paau3				1/1	1/1
+410.0.12.0.11	363		p‘áu	礮|砲		p‘áu꜄	陰去		paau3		Interchanged with 爆 [páu꜄]. A balista, once used in war; a cannon, great guns; fireworks; …		1/1	1/1
 410.0.13.0.11	363		p‘áu	泡		p‘áu꜄	陰去		paau3				1/1	1/1
 411.0.01.0.11	363		pé	啤		꜀pé	陰平		be1				1/1	1/1
 411.0.01.1.11		725	pé	○		꜃pé	陽上		be5		A colloquial word. The reeling of a tipsy man; [꜁hang tak꜆ ꜃pé ꜃pé ꜃há], reeling and staggering, as he goes		1/1	1/1
 411.0.02.0.11	363		pé	嚊		pé꜅	陽去		be6				1/1	1/1
 412.0.01.0.11	363		pí	卑		꜀pí	陰平		bei1				1/1	1/1
 412.0.02.0.11	363		pí	碑		꜀pí	陰平		bei1				1/1	1/1
-412.0.03.0.11	363		pí	磇		꜀pí	陰平		bei1				1/1	1/2
+412.0.03.0.11	363		pí	磇		꜀pí	陰平		bei1		Same as [꜀p‘ai] 砒. An ore of arsenic, realgar, the red sulphuret of arsenic. Also read [꜀fí]		1/1	1/2
 412.0.03.0.12	363		pí	磇		꜀fí	陰平	ALSO_PRO	fei1				1/1	2/2
 412.0.03.1.11		725	pí	萆|𦱔		꜀pí	陰平		bei1				1/1	1/1
 412.0.04.0.11	364		pí	悲		꜀pí	陰平		bei1				1/1	1/1
@@ -4606,7 +4612,7 @@
 412.0.10.0.11	364		pí	彼		꜂pí	陰上		bei2				1/1	1/1
 412.0.11.0.11	364		pí	畀		꜂pí	陰上		bei2				1/1	1/1
 412.0.12.0.11	364		pí	俾		꜂pí	陰上		bei2				1/1	1/1
-412.0.13.0.11	364		pí	捭		꜂pí	陰上		bei2				1/1	1/1
+412.0.13.0.11	364		pí	捭		꜂pí	陰上		bei2		To throw down. Same as 擺 [꜂pái]. Also to strike the hands together		1/1	1/1
 412.0.13.1.11		725	pí	匕		꜂pí	陰上		bei2				1/1	1/1
 412.0.13.2.11		725	pí	痞		꜂pí	陰上		bei2				1/1	1/1
 412.0.14.0.11	364		pí	賁		pí꜄	陰去		bei3				1/1	1/1
@@ -4742,7 +4748,7 @@
 418.0.15.0.12	375		ping	柄		peng꜄	陰去	OFTEN_PRO	beng3				1/1	2/2
 418.0.16.0.11	375		ping	幷|并|並|竝		ping꜄	陰去		bing3				1/1	1/2
 418.0.16.0.12	375		ping	幷|并|並|竝		ping꜅	陽去	ALSO_PRO	bing6				1/1	2/2
-418.0.17.0.11	375		ping	併		ping꜄	陰去		bing3				1/1	1/1
+418.0.17.0.11	375		ping	併		ping꜄	陰去		bing3		Used for [꜂ping] 屏 and the preceding (幷,并,並,竝). On a line with, equal; to make one, to reduce to a uniform size of appearance; …		1/1	1/1
 418.0.18.0.11	376		ping	病		ping꜅	陽去		bing6				1/1	1/2
 418.0.18.0.12	376		ping	病		peng꜅	陽去	OFTEN_PRO	beng6				1/1	2/2
 419.0.01.0.11	376		p‘ing	抨		꜀p‘ing	陰平		ping1				1/1	1/2
@@ -4798,10 +4804,10 @@
 423.0.05.0.11	381		p‘iú	瓢		꜁p‘iú	陽平		piu4				1/1	1/1
 423.0.06.0.11	381		p‘iú	嫖		꜁p‘iú	陽平		piu4				1/1	1/1
 423.0.07.0.11	381		p‘iú	殍|莩		꜃p‘iú	陽上		piu5				1/1	1/1
-423.0.08.0.11	381		p‘iú	剽		꜃p‘iú	陽上		piu5				1/1	1/1
-423.0.09.0.11	381		p‘iú	摽		꜃p‘iú	陽上		piu5				1/1	1/1
+423.0.08.0.11	381		p‘iú	剽		꜃p‘iú	陽上		piu5		Often used for [꜀piú] 標. A small bell; to strike, to pierce, to stab; …		1/1	1/1
+423.0.09.0.11	381		p‘iú	摽		꜃p‘iú	陽上		piu5		Also interchanged with [꜀piú] 標. To beat the breast; to lay the hand on the heart; to strike; to fall, as leaves; … A colloquial word; to throw, to heave away; to push off; …		1/1	1/1
 423.0.10.0.11	381		p‘iú	鰾		꜃p‘iú	陽上		piu5				1/1	1/1
-423.0.11.0.11	381		p‘iú	票		p‘iú꜄	陰去		piu3				1/1	1/1
+423.0.11.0.11	381		p‘iú	票		p‘iú꜄	陰去		piu3		Used with and for [꜀piú] 標. Like fire, rising swiftly, to singalize by fire; light, airy, soaring, waving, as a pennant; …		1/1	1/1
 424.0.01.0.11	381		po	波		꜀po	陰平		bo1				1/1	1/1
 424.0.02.0.11	381		po	𨸭|陂		꜀po	陰平		bo1				1/1	1/1
 424.0.03.0.11	382		po	坡		꜀po	陰平		bo1				1/1	1/1
@@ -4854,7 +4860,7 @@
 426.0.29.0.11	387		pò	鑤		pò꜅	陽去		bou6				1/1	1/1
 426.0.30.0.11	387	726	pò	菢|勽		pò꜅	陽去		bou6			「菢」字據勘誤表改	1/1	1/1
 426.0.31.0.11	387		pò	捕		pò꜅	陽去		bou6				1/1	1/1
-427.0.01.0.11	388		p‘ò	鋪		꜀p‘ò	陰平		pou1				1/1	1/1
+427.0.01.0.11	388		p‘ò	鋪		꜀p‘ò	陰平		pou1		Properly used for 舖 [p‘o꜄]. A door-knocker, called [꜀kam ꜀p‘ò], made like a tortoise; to spread out, to extend, to arrange; to lay, as a table-cloth; to make up, as a bed …		1/1	1/1
 427.0.02.0.11	388		p‘ò	𨁏		꜀p‘ò	陰平		pou1				1/1	1/1
 427.0.03.0.11	388		p‘ò	莆		꜁p‘ò	陽平		pou4				1/1	1/1
 427.0.04.0.11	388		p‘ò	蒲		꜁p‘ò	陽平		pou4				1/1	1/1
@@ -5022,8 +5028,8 @@
 442.0.02.0.11	403		sai	粞		꜀sai	陰平		sai1				1/1	1/1
 442.0.03.0.11	403		sai	犀		꜀sai	陰平		sai1				1/1	1/1
 442.0.04.0.11	403		sai	樨		꜀sai	陰平		sai1				1/1	1/1
-442.0.05.0.11	403		sai	荽		꜀sai	陰平		sai1				1/2	1/1
-442.0.05.0.21	403		sai	荽		꜀sui	陰平		seoi1				2/2	1/1
+442.0.05.0.11	403		sai	荽		꜀sai	陰平		sai1		Often confounded with 茜 [sín꜅] which is then pronounced [꜀sai], while this character is also called [꜀sui], in the same [꜁ú ꜀sui] or [꜁ün ꜀sai] the coriander or caraway plant		1/1	1/2
+442.0.05.0.12	403		sai	荽		꜀sui	陰平	ALSO_PRO	seoi1				1/1	2/2
 442.0.06.0.11	403		sai	嘶		꜀sai	陰平		sai1				1/1	1/1
 442.0.07.0.11	403		sai	撕		꜀sai	陰平		sai1				1/1	1/1
 442.0.08.0.11	404		sai	洗		꜂sai	陰上		sai2				1/1	1/1
@@ -5158,7 +5164,7 @@
 463.0.13.0.11	419		sham	審		꜂sham	陰上		sam2				1/1	1/1
 463.0.14.0.11	419		sham	嬸		꜂sham	陰上		sam2				1/1	1/1
 463.0.15.0.11	419		sham	諗		꜂sham	陰上		sam2				1/1	1/1
-463.0.16.0.11	419		sham	沈		꜂sham	陰上		sam2				1/1	1/1
+463.0.16.0.11	419		sham	沈		꜂sham	陰上		sam2		Interchanged with [꜁ch‘am] 沉, while this, when read [꜂sham], means the name of a state; a surname		1/1	1/1
 463.0.17.0.11	419		sham	瀋		꜂sham	陰上		sam2				1/2	1/1
 463.0.17.0.21	419		sham	瀋		sham꜄	陰去		sam3				2/2	1/1
 463.0.18.0.11	419		sham	怎		꜂sham	陰上		sam2				1/1	1/1
@@ -5262,7 +5268,7 @@
 475.0.05.0.11	431		shé	捨		꜂shé	陰上		se2				1/1	1/1
 475.0.06.0.11	432		shé	社		꜃shé	陽上		se5				1/1	1/1
 475.0.07.0.11	432		shé	舍		shé꜄	陰去		se3		To dwell, to lodge; to halt; to rest; a rest; a breathing spell …		1/2	1/1
-475.0.07.0.21	432		shé	舍		꜂shé	陰上		se2		Used for 捨 to give, to part with		2/2	1/1
+475.0.07.0.21	432		shé	舍		꜂shé	陰上		se2		Used for 捨, to give, to part with		2/2	1/1
 475.0.08.0.11	432		shé	赦		shé꜄	陰去		se3				1/1	1/1
 475.0.09.0.11	432	727	shé	射		shé꜅	陽去		se6				1/1	1/1
 475.0.10.0.11	432		shé	麝		shé꜅	陽去		se6				1/1	1/1
@@ -5325,7 +5331,7 @@
 480.0.06.0.11	440		shik	濇		shik꜆	陰入		sik1				1/1	1/1
 480.0.07.0.11	440		shik	識		shik꜆	陰入		sik1				1/1	1/1
 480.0.08.0.11	440		shik	適		shik꜆	陰入		sik1				1/2	1/1
-480.0.08.0.21	440		shik	適		tik꜆	陰入		dik1		Read [tik꜆] and then used for 嫡. A wife; to direct		2/2	1/1
+480.0.08.0.21	440		shik	適		tik꜆	陰入		dik1		Read [tik꜆] and then used for 嫡, a wife; to direct		2/2	1/1
 480.0.09.0.11	440		shik	釋		shik꜆	陰入		sik1				1/1	1/1
 480.0.10.0.11	440		shik	奭		shik꜆	陰入		sik1				1/1	1/1
 480.0.11.0.11	440		shik	襫		shik꜆	陰入		sik1				1/1	1/1
@@ -5500,7 +5506,7 @@
 499.0.03.0.11	461		sik	熄		sik꜆	陰入		sik1				1/1	1/1
 499.0.04.0.11	461		sik	媳		sik꜆	陰入		sik1				1/1	1/1
 499.0.05.0.11	461		sik	惜		sik꜆	陰入		sik1				1/1	1/1
-499.0.06.0.11	461		sik	腊		sik꜆	陰入		sik1				1/1	1/1
+499.0.06.0.11	461		sik	腊		sik꜆	陰入		sik1		Dried meat; used for [láp꜇] 臘 and in the same sense; jerked meat, slices of meat dried for journeys; a long time; extreme; …		1/1	1/1
 499.0.07.0.11	461		sik	悉		sik꜆	陰入		sik1				1/1	1/1
 499.0.08.0.11	461		sik	蟋		sik꜆	陰入		sik1				1/1	1/1
 499.0.09.0.11	462		sik	蜥		sik꜆	陰入		sik1				1/1	1/1
@@ -5876,7 +5882,7 @@
 530.0.04.0.11	499		tám	眈|躭		꜀tám	陰平		daam1				1/1	1/1
 530.0.05.0.11	499		tám	耼	聃	꜀tám	陰平		daam1				1/1	1/1
 530.0.06.0.11	499		tám	紞		꜀tám	陰平		daam1				1/1	1/1
-530.0.07.0.11	499		tám	酖		꜀tám	陰平		daam1				1/1	1/1
+530.0.07.0.11	499		tám	酖		꜀tám	陰平		daam1		Interchanged with [꜁sham] 鴆 a poison; exhilirated by drink, given to wine; …		1/1	1/1
 530.0.08.0.11	499		tám	膽|胆		꜂tám	陰上		daam2				1/1	1/1
 530.0.09.0.11	499		tám	嗿		꜃tám	陽上		daam5				1/1	1/1
 530.0.10.0.11	499		tám	擔|担		tám꜄	陰去		daam3				1/1	1/1
@@ -6333,7 +6339,7 @@
 571.0.06.0.11	544		t‘ok	槖	橐	t‘ok꜆	陰入		tok3				1/1	1/1
 571.0.07.0.11	544		t‘ok	柝		t‘ok꜆	陰入		tok3				1/1	1/1
 571.0.08.0.11	544		t‘ok	𩧐		t‘ok꜆	陰入		tok3				1/1	1/1
-572.0.01.0.11	544		tòm	𫳗		꜃tòm	陽上		dam5				1/1	1/1
+572.0.01.0.11	544		tòm	𫳗		꜃tòm	陽上		dam5		Erroneously used for [꜃t‘am] 氹 a tank, a pit, in the Fan Wan		1/1	1/1
 573.0.01.0.11	544		tong	當		꜀tong	陰平		dong1				1/1	1/1
 573.0.02.0.11	544		tong	璫		꜀tong	陰平		dong1				1/1	1/1
 573.0.03.0.11	544		tong	鐺		꜀tong	陰平		dong1				1/1	1/1
@@ -6411,7 +6417,7 @@
 581.0.02.0.11	552		ts‘am	駸		꜀ts‘am	陰平		cam1				1/1	1/1
 581.0.03.0.11	552		ts‘am	祲		꜀ts‘am	陰平		cam1				1/1	1/1
 581.0.04.0.11	552		ts‘am	鋟		꜀ts‘am	陰平		cam1				1/1	1/1
-581.0.05.0.11	552		ts‘am	葠		꜀ts‘am	陰平		cam1				1/1	1/1
+581.0.05.0.11	552		ts‘am	葠		꜀ts‘am	陰平		cam1		Used for [꜀sham] 參 ginseng, but erroneously		1/1	1/1
 581.0.06.0.11	552		ts‘am	尋		꜁ts‘am	陽平		cam4				1/1	1/1
 581.0.07.0.11	552		ts‘am	燖		꜁ts‘am	陽平		cam4				1/1	1/1
 581.0.08.0.11	552		ts‘am	鱘		꜁ts‘am	陽平		cam4				1/1	1/1
@@ -6439,7 +6445,7 @@
 585.0.01.0.11	555		tsán	儧		꜂tsán	陰上		zaan2				1/1	1/1
 585.0.02.0.11	555		tsán	䟎		꜂tsán	陰上		zaan2				1/1	1/1
 585.0.03.0.11	555		tsán	寁		꜂tsán	陰上		zaan2				1/1	1/1
-585.0.04.0.11	555		tsán	昝		꜂tsán	陰上		zaan2				1/1	1/1
+585.0.04.0.11	555		tsán	昝		꜂tsán	陰上		zaan2		Sometimes used for [꜀tsá] 咱 I, me, in the north. A surname		1/1	1/1
 585.0.05.0.11	555		tsán	贊		tsán꜄	陰去		zaan3				1/1	1/1
 585.0.06.0.11	555		tsán	讚		tsán꜄	陰去		zaan3				1/1	1/1
 585.0.07.0.11	555		tsán	濺|灒		tsán꜄	陰去		zaan3				1/1	1/1
@@ -6643,7 +6649,7 @@
 608.0.02.0.11	574		ts‘ín	芊		꜀ts‘ín	陰平		cin1				1/1	1/1
 608.0.03.0.11	574		ts‘ín	阡		꜀ts‘ín	陰平		cin1				1/1	1/1
 608.0.04.0.11	574		ts‘ín	遷|迁		꜀ts‘ín	陰平		cin1				1/1	1/1
-608.0.05.0.11	574		ts‘ín	躚		꜀ts‘ín	陰平		cin1				1/1	1/1
+608.0.05.0.11	574		ts‘ín	躚		꜀ts‘ín	陰平		cin1		Interchanged with [꜀sin] 蹮. To walk round and round; to dance, to amble; pantomime		1/1	1/1
 608.0.06.0.11	575		ts‘ín	韆		꜀ts‘ín	陰平		cin1				1/1	1/1
 608.0.07.0.11	575		ts‘ín	前		꜁ts‘ín	陽平		cin4				1/1	1/1
 608.0.08.0.11	575		ts‘ín	錢|𬌩		꜁ts‘ín	陽平		cin4				1/1	1/1
@@ -6676,7 +6682,7 @@
 610.0.05.0.11	578		ts‘ing	請		꜂ts‘ing	陰上		cing2				1/1	1/2
 610.0.05.0.12	578		ts‘ing	請		꜂ts‘eng	陰上	OFTEN_PRO	ceng2				1/1	2/2
 611.0.01.0.11	578		tsíp	楫		tsíp꜆	陰入		zip3				1/1	1/1
-611.0.02.0.11	578		tsíp	浹		tsíp꜆	陰入		zip3				1/1	1/3
+611.0.02.0.11	578		tsíp	浹		tsíp꜆	陰入		zip3		Interchanged with [híp꜆] 挾 to assist. Water flowing through; moistened, imbibed, damp; to instil, to penetrate; …		1/1	1/3
 611.0.02.0.12	578		tsíp	浹		háp꜆	陰入	ALSO_PRO	haap3				1/1	2/3
 611.0.02.0.13	578		tsíp	浹		híp꜆	陰入	ALSO_PRO	hip3				1/1	3/3
 611.0.03.0.11	579		tsíp	睫		tsíp꜆	陰入		zip3				1/1	1/1
@@ -6703,7 +6709,7 @@
 615.0.11.0.11	581		tsiú	燋		tsiú꜄	陰去		ziu3				1/1	1/1
 615.0.12.0.11	581		tsiú	噍		tsiú꜅	陽去		ziu6				1/1	1/1
 616.0.01.0.11	581		ts‘iú	樵		꜁ts‘iú	陽平		ciu4				1/1	1/1
-616.0.02.0.11	581		ts‘iú	譙		꜁ts‘iú	陽平		ciu4				1/1	1/1
+616.0.02.0.11	581		ts‘iú	譙		꜁ts‘iú	陽平		ciu4		Often used for [ts‘iú꜄] 誚, to scold. A lookout tower or loft; to ridicule; to bawl out at; to reprehend; …		1/1	1/1
 616.0.03.0.11	581		ts‘iú	憔		꜁ts‘iú	陽平		ciu4				1/1	1/1
 616.0.04.0.11	581		ts‘iú	瞧		꜁ts‘iú	陽平		ciu4				1/1	1/1
 616.0.05.0.11	581		ts‘iú	俏		꜂ts‘iú	陰上		ciu2				1/1	1/1
@@ -6946,7 +6952,7 @@
 638.0.15.0.11	605		ts‘ün	鱒		꜃ts‘ün	陽上		cyun5				1/1	1/1
 638.0.16.0.11	605		ts‘ün	噂		꜃ts‘ün	陽上		cyun5				1/1	1/2
 638.0.16.0.12	605		ts‘ün	噂		꜂tsun	陰上	ALSO_PRO	zeon2				1/1	2/2
-638.0.17.0.11	606		ts‘ün	寸		ts‘ün꜄	陰去		cyun3				1/1	1/1
+638.0.17.0.11	606		ts‘ün	寸		ts‘ün꜄	陰去		cyun3		The Chinese inch, regarded as long as the middle joint of the finder; … In accounts, often used as a contraction of [sün꜄] 算 to reckon		1/1	1/1
 639.0.01.0.11	606		tsung	宗		꜀tsung	陰平		zung1				1/1	1/1
 639.0.02.0.11	606		tsung	悰		꜀tsung	陰平		zung1				1/1	1/1
 639.0.03.0.11	606		tsung	棕|椶		꜀tsung	陰平		zung1				1/1	1/1
@@ -7573,7 +7579,7 @@
 676.0.02.0.11	667		wat	詘		wat꜆	陰入		wat1				1/1	1/1
 676.0.03.0.11	667		wat	鬱|欝		wat꜆	陰入		wat1				1/1	1/1
 676.0.04.0.11	667		wat	爩		wat꜆	陰入		wat1				1/1	1/1
-676.0.05.0.11	667		wat	菀		wat꜆	陰入		wat1				1/1	1/1
+676.0.05.0.11	667		wat	菀		wat꜆	陰入		wat1		Used for [wat꜆] 苑. Luxuriant, abundant; …		1/1	1/1
 676.0.06.0.11	667		wat	鷸		wat꜇	陽入		wat6				1/1	1/1
 676.0.07.0.11	667		wat	鶻		wat꜇	陽入		wat6				1/1	1/1
 676.0.08.0.11	667		wat	核		wat꜇	陽入		wat6				1/1	1/1
@@ -7733,7 +7739,7 @@
 688.0.34.0.11	681		yan	牣		yan꜅	陽去		jan6				1/1	1/1
 688.0.35.0.11	681		yan	訒		yan꜅	陽去		jan6				1/1	1/1
 688.0.36.0.11	681		yan	軔		yan꜅	陽去		jan6				1/1	1/1
-688.0.37.0.11	681		yan	韌		yan꜅	陽去		jan6				1/1	1/1
+688.0.37.0.11	681		yan	韌		yan꜅	陽去		jan6		Same as [yan꜅] 肕 tough; soft and flexible, but tenacious; …		1/1	1/1
 688.0.38.0.11	681		yan	釁|衅		yan꜅	陽去		jan6				1/1	1/1
 688.0.39.0.11	681		yan	認		yan꜅	陽去		jan6				1/1	1/1
 689.0.01.0.11	681		yap	泣		yap꜆	陰入		jap1				1/1	1/1
@@ -7894,7 +7900,7 @@
 694.0.36.0.11	698		yéung	恙		yéung꜅	陽去		joeng6				1/1	1/1
 695.0.01.0.11	698		yik	益		yik꜆	陰入		jik1				1/1	1/1
 695.0.02.0.11	698		yik	抑		yik꜆	陰入		jik1				1/1	1/1
-695.0.03.0.11	698		yik	鶂		yik꜆	陰入		jik1				1/1	1/1
+695.0.03.0.11	698		yik	鶂		yik꜆	陰入		jik1		Same as the [yat꜆] 鷁 or ship-bird; they conceive by looking at each other; a goose; … 【按「鷁」字正文作陽入，此處或是誤標】		1/1	1/1
 695.0.04.0.11	698		yik	億		yik꜆	陰入		jik1				1/1	1/1
 695.0.05.0.11	698		yik	憶		yik꜆	陰入		jik1				1/1	1/1
 695.0.06.0.11	698		yik	檍		yik꜆	陰入		jik1				1/1	1/1
@@ -7964,8 +7970,7 @@
 696.0.36.0.11	704		ying	陘		꜁ying	陽平		jing4				1/1	1/1
 696.0.36.1.11		728	ying	嶸		꜁ying	陽平		jing4				1/1	1/1
 696.0.37.0.11	704		ying	影		꜂ying	陰上		jing2				1/1	1/1
-696.0.38.0.11	704		ying	暎		꜂ying	陰上		jing2				1/1	1/2
-696.0.38.0.12	704		ying	暎		꜂yéung	陰上	USUALLY_PRO	joeng2				1/1	2/2
+696.0.38.0.11	704		ying	暎		꜂ying	陰上		jing2		Same as 映 [꜂yéung], as most commonly read as that character is		1/1	1/1
 696.0.39.0.11	704		ying	應		ying꜄	陰去		jing3				1/1	1/1
 696.0.40.0.11	704		ying	認		ying꜅	陽去		jing6				1/1	1/2
 696.0.40.0.12	704		ying	認		yan꜅	陽去	ALSO_PRO	jan6				1/1	2/2
@@ -7988,8 +7993,8 @@
 698.0.06.0.11	706		yuk	沃		yuk꜆	陰入		juk1				1/1	1/1
 698.0.07.0.11	706		yuk	鋈		yuk꜆	陰入		juk1				1/1	1/1
 698.0.08.0.11	706		yuk	薁		yuk꜆	陰入		juk1				1/1	1/1
-698.0.09.0.11	706		yuk	隩		yuk꜆	陰入		juk1				1/1	1/2
-698.0.09.0.12	706		yuk	隩		ò꜄	陰去	ALSO_PRO	ou3				1/1	2/2
+698.0.09.0.11	706		yuk	隩		yuk꜆	陰入		juk1				1/2	1/1
+698.0.09.0.21	706		yuk	隩		ò꜄	陰去		ou3		Same as 澳 [ò꜄], and also pronounced [ò꜄]		2/2	1/1
 698.0.10.0.11	706		yuk	玉		yuk꜇	陽入		juk6				1/1	1/1
 698.0.11.0.11	706		yuk	肉|⺼		yuk꜇	陽入		juk6				1/1	1/1
 698.0.12.0.11	707		yuk	獄		yuk꜇	陽入		juk6				1/1	1/1
