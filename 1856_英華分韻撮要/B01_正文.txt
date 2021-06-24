@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-06-21
+# 資料庫版本: 2021-06-24
 序號	頁碼	勘誤表頁碼	音節組	字頭	兼容字頭	讀音	聲調	讀音分類	推導現代粵音	讀音備註	釋義	字條校訂註	義項#	讀音#
 001.0.01.0.11	1		á	吖		꜀á	陰平		aa1				1/1	1/2
 001.0.01.0.12	1		á	吖		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/1	2/2
@@ -123,7 +123,7 @@
 015.0.04.0.12	6		au	謳		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
 015.0.05.0.11	6		au	歐		꜀au	陰平		au1				1/1	1/2
 015.0.05.0.12	6		au	歐		꜀ngau	陰平	OFTEN_PRO	ngau1				1/1	2/2
-015.0.06.0.11	6		au	嘔		꜂au	陰上		au2				1/1	1/2
+015.0.06.0.11	6		au	嘔		꜂au	陰上		au2		Interchanged with the last (歐). To vomit; the noise of retching; to spit out…		1/1	1/2
 015.0.06.0.12	6		au	嘔		꜂ngau	陰上	OFTEN_PRO	ngau2				1/1	2/2
 015.0.07.0.11	6		au	毆		꜂au	陰上		au2				1/1	1/2
 015.0.07.0.12	6		au	毆		꜂ngau	陰上	OFTEN_PRO	ngau2				1/1	2/2
@@ -1181,7 +1181,7 @@
 102.0.18.4.11		715	fú	刳		꜀fú	陰平		fu1				1/1	1/1
 102.0.18.5.11		715	fú	怤		꜀fú	陰平		fu1				1/1	1/1
 102.0.18.6.11		715	fú	粰		꜀fú	陰平		fu1				1/1	1/1
-102.0.18.7.11		715	fú	稃		꜀fú	陰平		fu1			在「粰」字釋義出現	1/1	1/1
+102.0.18.7.11		715	fú	稃		꜀fú	陰平		fu1			「稃」見於「粰」字條釋義	1/1	1/1
 102.0.18.8.11		715	fú	玞		꜀fú	陰平		fu1				1/1	1/1
 102.0.19.0.11	58		fú	符		꜁fú	陽平		fu4				1/1	1/1
 102.0.20.0.11	58		fú	苻		꜁fú	陽平		fu4				1/1	1/1
@@ -2308,7 +2308,8 @@
 184.0.05.0.11	148		kí	磯		꜀kí	陰平		gei1				1/1	1/1
 184.0.06.0.11	148		kí	𦠄		꜀kí	陰平		gei1				1/1	1/1
 184.0.07.0.11	148		kí	蟣		꜀kí	陰平		gei1				1/2	1/1
-184.0.07.0.21	148		kí	蟣		꜁k‘í	陽平		kei4				2/2	1/1
+184.0.07.0.21	148		kí	蟣		꜁k‘í	陽平		kei4		Same as 蜝, a bloodsucker		2/2	1/1
+184.0.07.1.11	148		kí	蜝		꜁k‘í	陽平		kei4		A bloodsucker	「蜝」見於「蟣」字條釋義	1/1	1/1
 184.0.08.0.11	148		kí	肌		꜀kí	陰平		gei1				1/1	1/1
 184.0.09.0.11	148		kí	譏		꜀kí	陰平		gei1				1/1	1/1
 184.0.10.0.11	148		kí	饑|飢		꜀kí	陰平		gei1				1/1	1/1
@@ -3247,7 +3248,7 @@
 265.0.09.0.11	236		lik	瀝		lik꜇	陽入		lik6				1/1	1/1
 265.0.10.0.11	236		lik	癧		lik꜇	陽入		lik6				1/1	1/1
 265.0.11.0.11	236		lik	鬲		lik꜇	陽入		lik6				1/1	1/1
-265.0.11.1.11		721	lik	翮		lik꜇	陽入		lik6				1/1	1/1
+265.0.11.1.11		721	lik	翮		lik꜇	陽入		lik6		Interchanged with 䰛 meaning the hollow legs of a tripod. The quill or stem of a feather; a quill		1/1	1/1
 265.0.12.0.11	236		lik	力		lik꜇	陽入		lik6				1/1	1/1
 265.0.13.0.11	237		lik	泐		lik꜇	陽入		lik6				1/1	1/1
 265.0.14.0.11	237		lik	艻		lik꜇	陽入		lik6		Interchanged with [lik꜇] 簕; spines on plants; prickly, spinous …		1/1	1/1
@@ -3265,6 +3266,7 @@
 266.0.11.1.11		721	lím	舔		꜂lím	陰上		lim2		A colloquial word. To lick the chops after eating; to long for; mouth watering…		1/2	1/1
 266.0.11.1.21		721	lím	舔		꜃t‘ím	陽上		tim5		To lick with the tongue		2/2	1/1
 266.0.12.0.11	238	721	lím	斂		꜃lím	陽上		lim5				1/1	1/1
+266.0.12.1.11	238		lím	歛		꜁hòm	陽平		ham4		To desire	「歛」見於「斂」字條釋義，強調二字有別	1/1	1/1
 266.0.13.0.11	238		lím	襝		꜃lím	陽上		lim5				1/1	1/1
 266.0.14.0.11	238		lím	殮		꜃lím	陽上		lim5				1/1	1/1
 266.0.15.0.11	238		lím	臉		lím꜅	陽去		lim6				1/2	1/1
@@ -3519,7 +3521,8 @@
 280.0.04.0.11	259		lúi	縲		꜁lúi	陽平		leoi4				1/1	1/1
 280.0.05.0.11	259		lúi	纍		꜁lúi	陽平		leoi4				1/1	1/1
 280.0.06.0.11	259		lúi	罍		꜁lúi	陽平		leoi4				1/1	1/1
-280.0.07.0.11	259		lúi	虆		꜁lúi	陽平		leoi4				1/1	1/1
+280.0.07.0.11	259		lúi	虆		꜁lúi	陽平		leoi4		Same as [꜃lui] 蘲, a kind of hod or basket to carry earth; creeping plants		1/1	1/1
+280.0.07.1.11	259		lúi	蘲		꜃lui	陽上		leoi5		A kind of hod or basket to carry earth	「蘲」見於「虆」字條釋義	1/1	1/1
 280.0.08.0.11	259		lúi	蔂		꜁lúi	陽平		leoi4				1/2	1/1
 280.0.08.0.21	259		lúi	蔂		꜁lo	陽平		lo4				2/2	1/1
 280.0.09.0.11	259		lúi	羸		꜁lúi	陽平		leoi4				1/1	1/1
@@ -5296,7 +5299,7 @@
 479.0.02.0.11	436		shí	施		꜀shí	陰平		si1		A banner unfurled; granted; expanded, exhibited, spread out; to confer, to relieve …		1/3	1/1
 479.0.02.0.21	436		shí	施		꜂ch‘í	陰上		ci2		To leave to; to remove		2/3	1/1
 479.0.02.0.31	436		shí	施		꜁í	陽平		ji4		To change, to transfer		3/3	1/1
-479.0.03.0.11	436		shí	絁		꜀shí	陰平		si1				1/1	1/1
+479.0.03.0.11	436		shí	絁		꜀shí	陰平		si1		Interchanged and used for 䌳, coarse threads for weaving; a sort of sarsnet		1/1	1/1
 479.0.04.0.11	436		shí	蓍		꜀shí	陰平		si1				1/1	1/1
 479.0.05.0.11	436		shí	尸		꜀shí	陰平		si1				1/1	1/1
 479.0.06.0.11	436		shí	屍		꜀shí	陰平		si1				1/1	1/1
@@ -5513,7 +5516,8 @@
 499.0.10.0.11	462		sik	析		sik꜆	陰入		sik1				1/1	1/1
 499.0.11.0.11	462		sik	晳|晰		sik꜆	陰入		sik1				1/1	1/1
 499.0.12.0.11	462		sik	淅		sik꜆	陰入		sik1				1/1	1/1
-499.0.13.0.11	462		sik	舄		sik꜆	陰入		sik1				1/1	1/1
+499.0.13.0.11	462		sik	舄		sik꜆	陰入		sik1		Wooden shoes, clogs, pattens; … Used for [sik꜆] 潟 salt, barren land, marshy; and for [ts‘éuk꜆], a magpie		1/1	1/1
+499.0.13.1.11	462		sik	潟		sik꜆	陰入		sik1		Salt, barren land, marshy	「潟」見於「舄」字條釋義	1/1	1/1
 499.0.14.0.11	462		sik	錫		sik꜆	陰入		sik1		Tin, block tin; pewter, an alloy of lead and tin; an alloy like white copper, but its constituents vary according to the uses it is to be put to; to give, to confer, to bestow; to spare, as life; a fine kind of linen…		1/1	1/1
 499.0.15.0.11	462		sik	錫		sik꜆	陰入		sik1		Tin		1/1	1/2
 499.0.15.0.12	462		sik	錫		sek꜆	陰入	OFTEN_PRO	sek3	When meaning tin this character is often pronunced sek			1/1	2/2
@@ -6143,7 +6147,8 @@
 558.0.06.0.11	526		típ	屧		típ꜇	陽入		dip6				1/1	1/1
 558.0.07.0.11	526		típ	揲		típ꜇	陽入		dip6		Similar to [shíp꜆]攝; to take up and count; to fold; to grasp		1/2	1/1
 558.0.07.0.21	526		típ	揲		shíp꜆	陰入	USUALLY_PRO	sip3		Usually pronunced [shíp꜆] in the phrase, [shíp꜆ ꜀shí] to devine by marked straws; [shíp꜆ típ꜇] to fold up in the hands		2/2	1/1
-558.0.08.0.11	526		típ	楪		típ꜇	陽入		dip6				1/1	1/1
+558.0.08.0.11	526		típ	楪		típ꜇	陽入		dip6		Interchanged with 葉 or 枼 [íp꜇] a thin plate or leaf; also a window. Read [típ꜇], a bed mat		1/1	1/1
+558.0.08.1.11	526		típ	枼		íp꜇	陽入		jip6		A thin plate or leaf; also a window	「枼」見於「楪」字條釋義	1/1	1/1
 558.0.09.0.11	526		típ	渫		típ꜇	陽入		dip6		Waves surging along		1/2	1/1
 558.0.09.0.21	526		típ	渫		sít꜆	陰入		sit3		Like 洩 to exclude; to clean a well; to scatter…		2/2	1/1
 558.0.10.0.11	526		típ	碟		típ꜇	陽入		dip6				1/1	1/1
@@ -6797,6 +6802,7 @@
 622.0.06.0.11	590		ts‘oi	纔		꜁ts‘oi	陽平		coi4		An adverb of time; near to, at hand, nearly reaching to; in a short time…		1/2	1/1
 622.0.06.0.21	590		ts‘oi	纔		꜀shám	陰平		saam1		A reddish black color		2/2	1/1
 622.0.07.0.11	590		ts‘oi	采		꜂ts‘oi	陰上		coi2				1/1	1/1
+622.0.07.1.11	590		ts‘oi	釆		pín꜅	陽去		bin6		To divide	「釆」見於「采」字條釋義，強調二字有別	1/1	1/1
 622.0.08.0.11	591		ts‘oi	採		꜂ts‘oi	陰上		coi2				1/1	1/1
 622.0.09.0.11	591		ts‘oi	宷		꜂ts‘oi	陰上		coi2				1/1	1/1
 622.0.10.0.11	591		ts‘oi	彩		꜂ts‘oi	陰上		coi2				1/1	1/1
