@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-07-03
+# 資料庫版本: 2021-07-04
 序號	頁碼	勘誤表頁碼	音節組	字頭	(輔助檢索用異體)	讀音	聲調	讀音分類	推導現代粵音	讀音備註	釋義	字條校訂註	義項#	讀音#
 001.0.01.0.11	1		á	吖		꜀á	陰平		aa1				1/1	1/2
 001.0.01.0.12	1		á	吖		꜀ngá	陰平	OFTEN_PRO	ngaa1				1/1	2/2
@@ -2861,7 +2861,8 @@
 222.0.17.0.11	199		küt	鵙		küt꜆	陰入		gyut3				1/1	1/1
 222.0.17.1.11		720	küt	抉		küt꜆	陰入		gyut3				1/1	1/1
 222.0.17.2.11		720	küt	潏		küt꜆	陰入		gyut3				1/1	1/1
-222.0.17.3.11		720	küt	鱖		küt꜆	陰入		gyut3				1/1	1/1
+222.0.17.3.11		720	küt	鱖		küt꜆	陰入		gyut3		A sort of ray or skate, whose flash is like pork		1/2	1/1
+222.0.17.3.21		720	küt	鱖		kwai꜄	陰去		gwai3		A spotted fish like a bream		2/2	1/1
 223.0.01.0.11	200	720	k‘út	佸		k‘út꜆	陰入		kut3				1/1	1/1
 223.0.02.0.11	200	720	k‘út	括		k‘út꜆	陰入		kut3				1/1	1/1
 223.0.03.0.11	200	720	k‘út	聒		k‘út꜆	陰入		kut3				1/1	1/1
@@ -3109,10 +3110,10 @@
 250.0.12.1.11		721	lám	𨅏		lám꜄	陰去		laam3		A colloquial word; see [nám꜄]|To overpass, to skip; to leap over; an interval; [lám꜄ yat꜇] every other day; [lám꜄ ch‘ut꜆ ꜁mún ꜂hau], he went out doors; [lám꜄ ꜀kò], to step high; [tái꜅ pò꜅ lám꜄] give a good leap and cross it		1/2	1/1
 250.0.12.1.21		721	lám	𨅏		꜁lám	陽平		laam4		To walk fast		2/2	1/1
 251.0.01.0.11	223		lan	○		꜀lan	陰平		lan1		A colloquial word; quick, speedy; [꜁p‘an ꜀lan], in a hurry, quick		1/1	1/1
-252.0.01.0.11	223		lán	欄		꜀lán	陰平		laan1		A colloquial word; a bazaar or row for the sale of an article; [꜁hám ꜀há ꜀lán], the salt-shrimp row; [꜁au ꜀lán ꜁mún], the Oil-row Gate on the south of Canton, called the Petition Gate; [lok꜇ ꜀lán hü꜅] gone to the bazaar; [꜁mái ꜀lán], to take to the bazaar, to turn peddler; [꜂kwo ꜀lán], the fruit market		1/1	1/1
+252.0.01.0.11	223	721	lán	欄		꜀lán	陰平		laan1		A colloquial word; a bazaar or row for the sale of an article; [꜁hám ꜀há ꜀lán], the salt-shrimp row; [꜁au ꜀lán ꜁mún], the Oil-row Gate on the south of Canton, called the Petition Gate; [lok꜇ ꜀lán hü꜅] gone to the bazaar; [꜁mái ꜀lán], to take to the bazaar, to turn peddler; [꜂kwo ꜀lán], the fruit market		1/1	1/1
 252.0.02.0.11	224		lán	躝		꜀lán	陰平		laan1				1/1	1/1
-252.0.02.1.11		721	lán	囒		꜀lán	陰平		laan1				1/1	1/1
-252.0.02.2.11		721	lán	欄		꜀lán	陰平		laan1				1/1	1/1
+252.0.02.1.11		721	lán	囒		꜀lán	陰平		laan1		Is used in writing foreign words		1/2	1/1
+252.0.02.1.21		721	lán	囒		꜁lán	陽平		laan4		A jargon, an unintelligible talk		2/2	1/1
 252.0.03.0.11	224		lán	欄		꜁lán	陽平		laan4				1/1	1/1
 252.0.04.0.11	224		lán	蘭		꜁lán	陽平		laan4				1/1	1/1
 252.0.05.0.11	224		lán	闌		꜁lán	陽平		laan4				1/1	1/1
@@ -3187,7 +3188,8 @@
 263.0.05.0.21	230		léung	踉		꜁long	陽平		long4				2/2	1/1
 263.0.06.0.11	230		léung	良		꜁léung	陽平		loeng4				1/1	1/1
 263.0.07.0.11	231		léung	凉|涼		꜁léung	陽平		loeng4				1/1	1/1
-263.0.07.1.11		721	léung	莨		꜁léung	陽平		loeng4				1/1	1/1
+263.0.07.1.11		721	léung	莨		꜁léung	陽平		loeng4		A colloquial word. A tuber used to dye dart red…		1/2	1/1
+263.0.07.1.21		721	léung	莨		long꜅	陽去		long6		A kind of rush or sedgy grass…		2/2	1/1
 263.0.08.0.11	231		léung	両		꜂léung	陰上		loeng2				1/1	1/1
 263.0.09.0.11	231		léung	兩|两		꜃léung	陽上		loeng5				1/2	1/1
 263.0.09.0.21	231		léung	兩|两		léung꜅	陽去		loeng6				2/2	1/1
@@ -3299,6 +3301,7 @@
 268.0.08.0.11	241		ling	菱		꜁ling	陽平		ling4				1/1	1/1
 268.0.09.0.11	241		ling	綾		꜁ling	陽平		ling4				1/1	1/1
 268.0.10.0.11	241		ling	淩		꜁ling	陽平		ling4				1/1	1/1
+268.0.10.1.11	241		ling	掕		꜁ling	陽平		ling4			「掕」見於「淩」字條釋義	1/1	1/1
 268.0.11.0.11	241		ling	輘		꜁ling	陽平		ling4				1/1	1/1
 268.0.12.0.11	241		ling	伶		꜁ling	陽平		ling4				1/1	1/1
 268.0.13.0.11	241		ling	玲		꜁ling	陽平		ling4				1/1	1/1
@@ -3418,7 +3421,8 @@
 273.0.31.0.11	251		lò	鹵		꜃lò	陽上		lou5				1/1	1/2
 273.0.31.0.12	251		lò	鹵		꜃lú	陽上	FREQ_PRO	lu5				1/1	2/2
 273.0.31.1.11		722	lò	潦|澇		꜃lò	陽上		lou5				1/1	1/1
-273.0.32.0.11	251		lò	賂		lò꜅	陽去		lou6				1/1	1/1
+273.0.32.0.11	251		lò	賂		lò꜅	陽去		lou6				1/1	1/2
+273.0.32.0.12	251		lò	賂		꜃lú	陽上	FREQ_PRO	lu5				1/1	2/2
 273.0.33.0.11	251		lò	輅		lò꜅	陽去		lou6				1/1	1/1
 273.0.34.0.11	251	722	lò	路		lò꜅	陽去		lou6				1/1	1/1
 273.0.35.0.11	252		lò	潞		lò꜅	陽去		lou6				1/1	1/1
@@ -3502,7 +3506,7 @@
 279.0.03.0.11	257		lui	磊		꜃lui	陽上		leoi5				1/1	1/1
 279.0.04.0.11	257		lui	壘		꜃lui	陽上		leoi5				1/1	1/1
 279.0.05.0.11	257		lui	蕾		꜃lui	陽上		leoi5				1/1	1/1
-279.0.06.0.11	258		lui	攂		꜃lui	陽上		leoi5		Interchanged with [꜃lui] 擂, and often pronounced [lui꜅]. To drum, to beat a drum or going; to turn over stones …		1/1	1/2
+279.0.06.0.11	258		lui	攂		꜃lui	陽上		leoi5		Interchanged with [꜁lui] 擂, and often pronounced [lui꜅]. To drum, to beat a drum or going; to turn over stones …		1/1	1/2
 279.0.06.0.12	258		lui	攂		lui꜅	陽去	OFTEN_PRO	leoi6				1/1	2/2
 279.0.07.0.11	258		lui	儡		꜃lui	陽上		leoi5				1/1	1/1
 279.0.08.0.11	258		lui	藟		꜃lui	陽上		leoi5				1/1	1/1
@@ -3517,9 +3521,7 @@
 279.0.17.0.11	258		lui	累		lui꜅	陽去		leoi6				1/1	1/1
 280.0.01.0.11	259		lúi	𧒽		꜀lúi	陰平		leoi1				1/1	1/1
 280.0.02.0.11	259		lúi	雷		꜁lúi	陽平		leoi4				1/1	1/1
-280.0.03.0.11	259		lúi	擂		꜁lúi	陽平		leoi4		To rub fine, to triturate with a  pestle; to treat harshly; to precipitate…		1/2	1/1
-280.0.03.0.21	259		lúi	擂		꜁lúi	陽平		leoi4		To drum		2/2	1/2
-280.0.03.0.22	259		lúi	擂		꜃lúi	陽上	ALSO_PRO	leoi5				2/2	2/2
+280.0.03.0.11	259		lúi	擂		꜁lúi	陽平		leoi4		Interchanged with [꜃lui], in the sense of to drum. To rub fine, to triturate with a pestle; to treat harshly; to precipitate…		1/1	1/1
 280.0.04.0.11	259		lúi	縲		꜁lúi	陽平		leoi4				1/1	1/1
 280.0.05.0.11	259		lúi	纍		꜁lúi	陽平		leoi4				1/1	1/1
 280.0.06.0.11	259		lúi	罍		꜁lúi	陽平		leoi4				1/1	1/1
@@ -3589,6 +3591,7 @@
 283.0.07.0.11	264		lün	戀		lün꜅	陽去		lyun6				1/1	1/1
 283.0.08.0.11	264		lün	亂|乱		lün꜅	陽去		lyun6				1/1	1/1
 284.0.01.0.11	265		lung	竉		꜀lung	陰平		lung1				1/1	1/1
+284.0.01.1.11	265		lung	吼		꜀lung	陰平		lung1		A hole, an aperture, a wide cleft…	「吼」見於「竉」字條釋義：“sometimes written 吼, but erroneously”	1/1	1/1
 284.0.02.0.11	265		lung	龍		꜁lung	陽平		lung4				1/1	1/1
 284.0.03.0.11	265		lung	嚨		꜁lung	陽平		lung4				1/1	1/1
 284.0.04.0.11	265		lung	攏		꜁lung	陽平		lung4				1/1	1/1
@@ -4016,8 +4019,7 @@
 319.0.04.0.11	306		ná	乸		꜂ná	陰上		naa2				1/1	1/1
 319.0.05.0.11	306		ná	那		꜂ná	陰上		naa2				1/1	1/1
 319.0.06.0.11	306		ná	拿		ná꜅	陽去		naa6				1/1	1/1
-320.0.01.0.11	306		nai	泥		꜁nai	陽平		nai4				1/1	1/1
-320.0.02.0.11	306		nai	坭		꜁nai	陽平		nai4				1/1	1/1
+320.0.01.0.11	306		nai	泥|坭		꜁nai	陽平		nai4				1/1	1/1
 321.0.01.0.11	307		nái	奶		꜀nái	陰平		naai1				1/1	1/1
 321.0.02.0.11	307		nái	奶|嬭|妳		꜃nái	陽上		naai5				1/1	1/1
 321.0.03.0.11	307		nái	乃|廼	迺	꜃nái	陽上		naai5				1/1	1/1
@@ -4110,7 +4112,7 @@
 338.0.03.0.11	315		ngá	禡		꜁ngá	陽平		ngaa4				1/1	1/1
 338.0.04.0.11	316		ngá	衙		꜁ngá	陽平		ngaa4				1/1	1/1
 338.0.05.0.11	316		ngá	雅		꜃ngá	陽上		ngaa5				1/1	1/1
-338.0.06.0.11	316		ngá	瓦		꜃ngá	陽上		ngaa5				1/1	1/1
+338.0.06.0.11	316		ngá	𭺜	瓦	꜃ngá	陽上		ngaa5				1/1	1/1
 338.0.07.0.11	316		ngá	迓|御		ngá꜅	陽去		ngaa6				1/1	1/1
 338.0.08.0.11	316		ngá	訝		ngá꜅	陽去		ngaa6				1/1	1/1
 339.0.01.0.11	316		ngai	𠼮		꜀ngai	陰平		ngai1				1/1	1/1
@@ -4196,8 +4198,8 @@
 353.0.09.0.21	324		ngáu	咬|齩		꜀káu	陰平		gaau1				2/2	1/1
 353.0.10.0.11	324		ngáu	樂		ngáu꜅	陽去		ngaau6				1/1	1/1
 353.3.00.1.11		724	ngé	○		꜁ngé	陽平		nge4		A colloquial word. A low tone; [꜁ngé ꜁ngé ꜀sheng] a grumble, indistinct muttering		1/1	1/1
-354.0.01.0.11	324		ngí	𠼮		꜀ngí	陰平		ngi1		A colloquial word; to lie, to deceive; [chá꜄ ꜀ngí ꜀ngoi], you are deceiving, you fib; -- a child's phrase		1/1	1/2
-354.0.01.0.12	324		ngí	𠼮		꜀í	陰平	OFTEN_READ_CANTON	ji1				1/1	2/2
+354.0.01.0.11	324		ngí	○		꜀ngí	陰平		ngi1		A colloquial word; to lie, to deceive; [chá꜄ ꜀ngí ꜀ngoi], you are deceiving, you fib; -- a child's phrase		1/1	1/2
+354.0.01.0.12	324		ngí	○		꜀í	陰平	OFTEN_READ_CANTON	ji1				1/1	2/2
 355.0.01.0.11	324		ngít	齧|囓		ngít꜇	陽入		ngit6				1/1	1/1
 356.0.01.0.11	324		ngo	俄		꜁ngo	陽平		ngo4				1/1	1/1
 356.0.02.0.11	324		ngo	哦		꜁ngo	陽平		ngo4				1/1	1/1
@@ -4328,8 +4330,7 @@
 370.0.04.0.11	334		no	那		꜃no	陽上		no5				1/1	1/1
 370.0.05.0.11	334		no	娜		꜃no	陽上		no5				1/1	1/1
 370.0.06.0.11	334		no	糯|稬		no꜅	陽去		no6				1/1	1/1
-370.0.07.0.11	334		no	愞		no꜅	陽去		no6				1/1	1/1
-370.0.08.0.11	334		no	懦		no꜅	陽去		no6				1/1	1/1
+370.0.07.0.11	334		no	愞|懦		no꜅	陽去		no6				1/1	1/1
 371.0.01.0.11	334		nò	奴		꜁nò	陽平		nou4				1/1	1/1
 371.0.02.0.11	335		nò	孥|帑		꜁nò	陽平		nou4				1/1	1/1
 371.0.03.0.11	335		nò	駑		꜁nò	陽平		nou4				1/1	1/1
@@ -5432,8 +5433,7 @@
 489.0.02.0.11	451		shok	朔		shok꜆	陰入		sok3				1/1	1/1
 489.0.03.0.11	451		shok	槊		shok꜆	陰入		sok3				1/1	1/1
 489.0.04.0.11	451		shok	矟		shok꜆	陰入		sok3				1/1	1/1
-489.0.05.0.11	451		shok	欶		shok꜆	陰入		sok3				1/1	1/1
-489.0.06.0.11	451		shok	𠲿		shok꜆	陰入		sok3				1/1	1/1
+489.0.05.0.11	451		shok	欶|𠲿		shok꜆	陰入		sok3				1/1	1/1
 490.0.01.0.11	451		shong	爽		꜂shong	陰上		song2				1/1	1/1
 491.0.01.0.11	451		shü	舒		꜀shü	陰平		syu1				1/1	1/1
 491.0.02.0.11	451		shü	紓		꜀shü	陰平		syu1				1/1	1/1
@@ -5614,12 +5614,11 @@
 506.0.06.0.11	470		sò	繅		꜀sò	陰平		sou1				1/1	1/1
 506.0.07.0.11	470		sò	臊		꜀sò	陰平		sou1				1/1	1/1
 506.0.08.0.11	470		sò	鬚		꜀sò	陰平		sou1				1/1	1/1
-506.0.09.0.11	471		sò	㛮		꜂sò	陰上		sou2				1/1	1/1
-506.0.10.0.11	471		sò	嫂		꜂sò	陰上		sou2				1/1	1/1
-506.0.11.0.11	471		sò	掃		sò꜄	陰去		sou3				1/1	1/1
-506.0.12.0.11	471		sò	埽		sò꜄	陰去		sou3				1/1	1/1
-506.0.13.0.11	471		sò	塑		sò꜄	陰去		sou3				1/1	1/1
-506.0.14.0.11	471		sò	泝|遡		sò꜄	陰去		sou3				1/1	1/1
+506.0.09.0.11	471		sò	㛮|嫂		꜂sò	陰上		sou2				1/1	1/1
+506.0.10.0.11	471		sò	掃		sò꜄	陰去		sou3				1/1	1/1
+506.0.11.0.11	471		sò	埽		sò꜄	陰去		sou3				1/1	1/1
+506.0.12.0.11	471		sò	塑		sò꜄	陰去		sou3				1/1	1/1
+506.0.13.0.11	471		sò	泝|遡		sò꜄	陰去		sou3				1/1	1/1
 507.0.01.0.11	471		soi	顋|腮		꜀soi	陰平		soi1				1/1	1/1
 507.0.02.0.11	471		soi	鰓		꜀soi	陰平		soi1				1/1	1/1
 507.0.03.0.11	471		soi	䚡		꜀soi	陰平		soi1				1/1	1/1
@@ -5894,7 +5893,7 @@
 530.0.09.0.11	499		tám	嗿		꜃tám	陽上		daam5				1/1	1/1
 530.0.10.0.11	499		tám	擔|担		tám꜄	陰去		daam3				1/1	1/1
 530.0.11.0.11	499		tám	啖|啗		tám꜅	陽去		daam6				1/1	1/1
-530.0.12.0.11	500		tám	淡		tám꜅	陽去		daam6				1/1	1/1
+530.0.12.0.11	500		tám	淡|澹		tám꜅	陽去		daam6				1/1	1/1
 530.0.13.0.11	500		tám	菼		tám꜅	陽去		daam6				1/1	1/1
 530.0.14.0.11	500		tám	萏		tám꜅	陽去		daam6				1/1	1/1
 530.0.15.0.11	500		tám	禫		tám꜅	陽去		daam6				1/1	1/1
@@ -7959,7 +7958,7 @@
 696.0.17.0.11	702		ying	楹		꜁ying	陽平		jing4				1/1	1/1
 696.0.18.0.11	702		ying	刑|𠛬		꜁ying	陽平		jing4				1/1	1/1
 696.0.19.0.11	702		ying	侀		꜁ying	陽平		jing4				1/1	1/1
-696.0.20.0.11	702		ying	形		꜁ying	陽平		jing4				1/1	1/1
+696.0.20.0.11	702		ying	形|形		꜁ying	陽平		jing4				1/1	1/1
 696.0.21.0.11	703		ying	型		꜁ying	陽平		jing4				1/1	1/1
 696.0.22.0.11	703		ying	硏	研	꜁ying	陽平		jing4				1/1	1/1
 696.0.23.0.11	703		ying	郉	邢	꜁ying	陽平		jing4				1/1	1/1
