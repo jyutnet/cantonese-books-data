@@ -1,5 +1,21 @@
-# 關於
+英華分韻撮要 (1856)
+===================
 
+出版資料
+--------
+書名：英華分韻撮要 Tonic Dictionary of the Chinese Language in the Canton Dialect<br/>
+作者：衛三畏廉士甫 Samuel Wells Williams<br/>
+年份：1856 <br/>
+出版：羊城中和行 Office of the Chinese Repository<br/>
+出處：
+ * http://books.google.com/books?id=dadBAAAAIAAJ&oe=UTF-8
+ * https://books.google.com.hk/books?id=dadBAAAAIAAJ&oe
+ * https://archive.org/details/tonicdictionaryo00will/page/n6
+
+[全書字條 (Google Sheet)](https://docs.google.com/spreadsheets/d/1D5ve6OPOM_83Itne4Z34YYBeqe_i3bPoB5UfaHkm4Bo/edit?usp=sharing)
+
+關於本書
+--------
 《英華分韻撮要》(Tonic Dictionary of the Chinese Language in the Canton Dialect) 是來華傳教士、語言學家[衛三畏廉士甫](https://en.wikipedia.org/wiki/Samuel_Wells_Williams) (Samuel Wells Williams, 1812-1884) 所編的粵音字典，1856 年在廣州出版。從英文書名可知這本「字典」主要是為幫助學習「廣東話」而編寫。
 
 衛三畏根據《康熙字典》、《分韻撮要》和一些西方學者、傳教士的語言著作，揀選了 7,850 字，依各字音節（聲母和韻母）歸類分為 700 多部，每部再按聲調列出字條。每字附有英文釋義或例句，當中不乏粵語專有的義項或讀音，包括一些「有音無字」的口語用字。釋義的例句全用羅馬注音拼寫，沒有中文。作者解釋這是因為當時沒有合適的小號字模，用當時尺寸的字模為例句加上中文會使字典變得過於臃腫、難以攜帶 *(p.xxxiv)*。
@@ -8,8 +24,8 @@
 
 本書使用與 Sir William Jones 近似的注音方案，共有 23 個聲母、53 個韻母。本書紀錄清代粵語音系，跟現代粵音有分有合，並不一一對應。至於聲調，本書以採用八聲標記，分別為上平、上上、上去、上入、下平、下上、下去、下入（這也是各部列出字條時的順序），並沒有對中入聲作出區分。
 
-# 數碼檔案說明
-
+數碼檔案說明
+------------
 本數碼檔案是以[雪齋](https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Old_cantonese.markdown)發表的「英華分韻撮要文本版」為底本加以修訂而成。原檔將《英華分韻撮要》字條悉數輸入，令我省回很多處理工夫，謹此致謝。本數碼檔案期能盡量忠實反映《英華分韻撮要》編排，讓使用者可以憑檔案資料迅速查得該字在原書之所在，因此格式跟原檔案並不相同。當中差異，略舉述如下：
 
 * 原檔以作者所創製體例注音，本檔依原書音標注音。
@@ -17,8 +33,8 @@
 * 原檔只標字頭和讀音，本檔會加上頁碼以便翻查；同一字條的異體字亦會依原書並列而不分開列出。
 * 有些字，原書只在甲讀音組的字條下注上乙讀音，在乙讀音組卻沒有相關字頭。原檔有時會在乙讀音組補上該字頭，本檔悉依原書付闕。
 
-## 格式說明
-
+格式說明
+--------
 | 欄 | 說明 |
 | ----| ------ | 
 | 序號 | 字條序號，詳見下文。 |
@@ -105,7 +121,6 @@
 
 此外，本書的釋義欄有時會有該字 “interchanged with“、“used for” 另外一字（讀音不同）的描述。例如：
 
-
 1. 【椹 (cham1)】Used for [sham4] 葚 (p.14)
 2. 【沈 (sham2)】Interchanged with [ch'am4] 沉 (p.419)
 
@@ -117,15 +132,3 @@
 根據傳統字典，上述二例，「俛」字確可與「頫」相通，但在相通時兩個字的讀音其實是 [fú2] 而不是 [t’iú3]。雖然 t’iú3 音節下的「頫」有提到 [fú2] 音，但這也說明，「俛」條下「頫」的 [t’iú3] 音並不是與「俛」相通時的讀法、不是指「俛」要讀成 [t’iú3]。而「恍,怳」與「慌」相通其實是在「慌」讀 [fong2] 時的情況，但原書「慌」字沒有收錄 [fong2] 音。由此二例可見，除非著者編書時有誤解，否則 “interchanged with“、“used for” 一類字眼中所提出的另讀，有可能是書中該字的所在，不一定表示要讀成該音。假如資料檔將「恍,怳」加入 [fong1] 作為通「慌」時之異讀，恐怕不妥。
 
 粗略調查所得，釋義中此類「通某字」情況，讀音合理與不合理的字條大約各佔一半。為免強作解人，數碼檔案不會將這些讀音當成又音列出，只會錄在釋義欄以備考。
-
-# 出版資料
-
-書名：英華分韻撮要 Tonic Dictionary of the Chinese Language in the Canton Dialect<br/>
-作者：衛三畏廉士甫 Samuel Wells Williams<br/>
-年份：1856 <br/>
-出版：羊城中和行 Office of the Chinese Repository<br/>
-出處：
- * http://books.google.com/books?id=dadBAAAAIAAJ&oe=UTF-8
- * https://books.google.com.hk/books?id=dadBAAAAIAAJ&oe
- * https://archive.org/details/tonicdictionaryo00will/page/n6
-
