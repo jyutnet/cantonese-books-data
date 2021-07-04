@@ -1,5 +1,5 @@
-# 資料庫版本: 2020-08-22
-序號	字頭	字頭種類	異體字	頁碼	補遺頁碼	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼讀音	音序	讀音分類	釋義	另見原文	校訂註
+# 資料庫版本: 2021-07-04
+序號	字頭	字頭種類	(輔助檢索用異體)	頁碼	補遺頁碼	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼讀音	音序	讀音分類	釋義	另見原文	校訂註
 1.1	一			1		j	at	1	7	jat1	S27				
 2.1	丁			1		d	ing	1	1	ding1	F71		丁口		
 2.2	丁			1		z	aang	1	1	zaang1	P19		伐木丁丁		
@@ -29,7 +29,7 @@
 17.1	丙			1		b	ing	2	2	bing2	B54				
 18.1	丕			1		p	ei	1	1	pei1	C29				
 19.1	丘			1		j	au	1	1	jau1	S7				
-20.1	丟			1		d	iu	1	1	diu1	F55				
+20.1	丟		丢	1		d	iu	1	1	diu1	F55				
 21.1	𠩄			1		s	o	2	2	so2	R100			同所	
 22.1	両			1		l	oeng	2	2	loeng2	I93				
 23.1	丞			1		s	ing	4	4	sing4	R91				
@@ -57,21 +57,21 @@
 38.2	乃			2			oi	2	2	oi2	A37		欸乃		
 39.1	乇			2		z	aak	6	9	zaak6	P27		草葉		
 39.2	乇			2		t	ok	3	8	tok3	G72		壓強單位		
-40.1	么			2		j	iu	1	1	jiu1	S39			同幺	
+40.1	么		幺	2		j	iu	1	1	jiu1	S39			同幺	
 41.1	久			2		g	au	2	2	gau2	J28				
 42.1	之			2		z	i	1	1	zi1	P64				
 43.1	乍			2		z	aa	3	3	zaa3	P3				
 44.1	乎			2		f	u	4	4	fu4	E41				
 45.1	乏			2		f	at	6	9	fat6	E24				
-46.1	丢			2		d	iu	1	1	diu1	F55			同丟	
+46.1	丢		丟	2		d	iu	1	1	diu1	F55			同丟	
 47.1	乒			2		b	ing	1	1	bing1	B53				
 48.1	乓			2		b	am	1	1	bam1	B26				
 49.1	㐆			2		j	i	1	1	ji1	S33				
 50.1	乖			2		gw	aai	1	1	gwaai1	K4				
-51.1	乗			2		s	ing	4	4	sing4	R91		乗車	同乘	
-51.2	乗			2		s	ing	6	6	sing6	R92		一車四馬	同乘	
-52.1	乘			2		s	ing	4	4	sing4	R91		乘車		
-52.2	乘			2		s	ing	6	6	sing6	R92		一車四馬		
+51.1	乗		乘	2		s	ing	4	4	sing4	R91		乗車	同乘	
+51.2	乗		乘	2		s	ing	6	6	sing6	R92		一車四馬	同乘	
+52.1	乘		乗	2		s	ing	4	4	sing4	R91		乘車		
+52.2	乘		乗	2		s	ing	6	6	sing6	R92		一車四馬		
 53.1	乙			2		j	yut	3	8	jyut3	A60				
 54.1	乚			2		j	yut	3	8	jyut3	A60				
 55.1	九			2		g	au	2	2	gau2	J28				
@@ -103,12 +103,12 @@
 74.1	五			3			ng	5	5	ng5	N87				
 75.1	云			3		w	an	4	4	wan4	T29				
 76.1	互			3		w	u	6	6	wu6	T57				
-77.1	亘			3		g	ang	2	2	gang2	J40				
-78.1	亙			3		g	ang	2	2	gang2	J40			同亘	
+77.1	亘		亙	3		g	ang	2	2	gang2	J40				
+78.1	亙		亘	3		g	ang	2	2	gang2	J40			同亘	
 79.1	些			3		s	e	1	1	se1	R51		一些		
 79.2	些			3		s	o	1	1	so1	R99		語助詞		
-80.1	亞			3			aa	3	3	aa3	A3				
-80.2	亞			3		ng	aa	3	3	ngaa3	N3	A			
+80.1	亞		亜	3			aa	3	3	aa3	A3				
+80.2	亞		亜	3		ng	aa	3	3	ngaa3	N3	A			
 81.1	亟			3		g	ik	1	7	gik1	J74		急切		
 81.2	亟			3		k	ei	3	3	kei3	L24		屢次		
 82.1	丄			3		t	au	4	4	tau4	G23				
@@ -169,7 +169,7 @@
 125.1	令			4		l	ing	6	6	ling6	I70		命令		
 125.2	令			4		l	ing	1	1	ling1	I67		一令紙		
 126.1	他			4		t	aa	1	1	taa1	G1				
-127.1	仞			4		j	an	6	6	jan6	S24				
+127.1	仞		仭	4		j	an	6	6	jan6	S24				
 128.1	以			4		j	i	5	5	ji5	S37				
 129.1	仔			4		z	i	2	2	zi2	P65		仔細		
 129.2	仔			4		z	ai	2	2	zai2	P29		豬仔		
@@ -307,8 +307,8 @@
 238.1	佷			5		h	an	2	2	han2	O47				
 239.1	侔			5		m	au	4	4	mau4	D28				
 240.1	侲			5		z	an	3	3	zan3	P42				
-241.1	俞			5		j	yu	4	4	jyu4	A51			同兪	
-241.2	俞			5		j	yu	6	6	jyu6	A53			同兪	
+241.1	俞		兪	5		j	yu	4	4	jyu4	A51			同兪	
+241.2	俞		兪	5		j	yu	6	6	jyu6	A53			同兪	
 242.1	便			6		b	in	6	6	bin6	B49		方便		
 242.2	便			6		p	in	4	4	pin4	C43		便宜		
 243.1	俉			6			ng	6	6	ng6	N88				
@@ -317,12 +317,12 @@
 246.1	俓			6		g	ing	3	3	ging3	J72				
 247.1	俏			6		c	iu	3	3	ciu3	Q66				
 248.1	俚			6		l	ei	5	5	lei5	I43				
-249.1	俁			6		j	yu	5	5	jyu5	A52				
+249.1	俁		俣	6		j	yu	5	5	jyu5	A52				
 250.1	俔			6		j	in	5	5	jin5	S55				
 251.1	保			6		b	ou	2	2	bou2	B59				
 252.1	俜			6		p	ing	1	1	ping1	C46				
 253.1	促			6		c	uk	1	7	cuk1	Q121				
-254.1	侶			6		l	eoi	5	5	leoi5	I100				
+254.1	侶		侣	6		l	eoi	5	5	leoi5	I100				
 255.1	俋			6		j	ap	1	7	jap1	S25				
 256.1	俈			6		g	uk	1	7	guk1	J113				
 257.1	侹			6		t	ing	5	5	ting5	G54				
@@ -358,11 +358,11 @@
 281.1	倩			6		s	in	6	6	sin6	R84				
 282.1	俵			6		b	iu	2	2	biu2	B45				
 283.1	倖			6		h	ang	6	6	hang6	O54				
-284.1	併			6		b	ing	3	3	bing3	B55				
-284.2	併			6		p	ing	3	3	ping3	C47	A			
+284.1	併		倂	6		b	ing	3	3	bing3	B55				
+284.2	併		倂	6		p	ing	3	3	ping3	C47	A			
 285.1	倛			6		h	ei	1	1	hei1	O60			同魌	
 286.1	借			6		z	e	3	3	ze3	P54				
-287.1	值			6		z	ik	6	9	zik6	P90				
+287.1	值		値	6		z	ik	6	9	zik6	P90				
 288.1	倈			6		l	oi	4	4	loi4	I82				
 289.1	倳			6		z	i	3	3	zi3	P66				
 290.1	倆			6		l	oeng	5	5	loeng5	I95				
@@ -387,8 +387,8 @@
 303.1	倐			6		s	uk	1	7	suk1	R134			同倏	
 304.1	倘			6		t	ong	2	2	tong2	G69		倘若		
 304.2	倘			6		s	oeng	4	4	soeng4	R112		倘佯		
-305.1	俱			6		k	eoi	1	1	keoi1	L52				
-305.2	俱			6		g	eoi	1	1	geoi1	J98	A			
+305.1	俱		倶	6		k	eoi	1	1	keoi1	L52				
+305.2	俱		倶	6		g	eoi	1	1	geoi1	J98	A			
 306.1	倮			6		l	o	2	2	lo2	I79				
 307.1	倡			6		c	oeng	1	1	coeng1	Q103				
 307.2	倡			6		c	oeng	3	3	coeng3	Q105	A	倡議		
@@ -458,10 +458,10 @@
 360.1	偊			7		g	eoi	2	2	geoi2	J99			同踽	
 360.2	偊			7		j	yu	2	2	jyu2	A49			通傴	
 361.1	偫			7		z	i	6	6	zi6	P67				
-362.1	偷			7		t	au	1	1	tau1	G20				
+362.1	偷		偸	7		t	au	1	1	tau1	G20				
 363.1	偁			7		c	ing	1	1	cing1	Q78				
 364.1	偩			7		f	u	6	6	fu6	E43				
-365.1	偬			7		z	ung	2	2	zung2	P124				
+365.1	偬		傯	7		z	ung	2	2	zung2	P124				
 366.1	偺			7		z	aa	1	1	zaa1	P1			同咱	
 367.1	偯			7		j	i	2	2	ji2	S34				
 368.1	停			7		t	ing	4	4	ting4	G53				
@@ -532,8 +532,8 @@
 421.1	働			8		d	ung	6	6	dung6	F102				
 422.1	傷			8		s	oeng	1	1	soeng1	R109				
 423.1	⿰亻⿱丿⿳田八夊	C		8		s	o	4	4	so4	R102			同傻	
-424.1	傻			8		s	o	4	4	so4	R102				
-425.1	傯			8		z	ung	2	2	zung2	P124			同偬	
+424.1	傻		儍	8		s	o	4	4	so4	R102				
+425.1	傯		偬	8		z	ung	2	2	zung2	P124			同偬	
 426.1	傱			8		s	ung	2	2	sung2	R131				
 427.1	㑾			8		j	iu	4	4	jiu4	S42				
 428.1	傺			8		c	ai	3	3	cai3	Q29				
@@ -558,7 +558,7 @@
 443.1	僤			8		d	aan	6	6	daan6	F13				
 444.1	僑			8		k	iu	4	4	kiu4	L30				
 445.1	𠍹			8		z	aap	3	8	zaap3	P22			同劄	
-446.1	僞			8		ng	ai	6	6	ngai6	N35				
+446.1	僞		偽	8		ng	ai	6	6	ngai6	N35				
 447.1	僬			8		z	iu	1	1	ziu1	P68				
 448.1	僢			8		c	yun	2	2	cyun2	Q127			同舛	
 449.1	僦			8		z	au	6	6	zau6	P35				
@@ -594,7 +594,7 @@
 476.1	儉			9		g	im	6	6	gim6	J61				
 477.1	儈			9		k	ui	3	3	kui3	L57				
 477.2	儈			9		k	ui	2	2	kui2	L56				
-478.1	儍			9		s	o	4	4	so4	R102			同傻	
+478.1	儍		傻	9		s	o	4	4	so4	R102			同傻	
 479.1	僾			9			oi	3	3	oi3	A38				
 479.2	僾			9		ng	oi	3	3	ngoi3	N69				
 480.1	儋			9		d	aam	1	1	daam1	F7				
@@ -625,7 +625,7 @@
 504.1	儵			9		s	uk	1	7	suk1	R134			同倏	
 505.1	儳			9		c	aam	3	3	caam3	Q14				
 506.1	儴			9		j	oeng	4	4	joeng4	S73		劻儴	同勷	
-507.1	㒨			9		s	in	1	1	sin1	R79			同仙	
+507.1	㒨		𠑗	9		s	in	1	1	sin1	R79			同仙	
 508.1	儺			9		n	o	4	4	no4	H60				
 509.1	儷			9		l	ai	6	6	lai6	I27				
 510.1	儸			9		l	o	4	4	lo4	I81				
@@ -647,20 +647,20 @@
 525.1	兇			10		h	ung	1	1	hung1	O116				
 526.1	兆			10		s	iu	6	6	siu6	R73				
 527.1	克			10		h	ak	1	7	hak1	O59				
-528.1	兎			10		t	ou	3	3	tou3	G58			同兔	
-529.1	兌			10		d	eoi	3	3	deoi3	F94				
+528.1	兎		兔	10		t	ou	3	3	tou3	G58			同兔	
+529.1	兌		兑	10		d	eoi	3	3	deoi3	F94				
 530.1	免			10		m	in	5	5	min5	D59				
 531.1	兕			10		z	i	6	6	zi6	P67				
 532.1	兒			10		j	i	4	4	ji4	S36		兒女		
 532.2	兒			10		ng	ai	4	4	ngai4	N33			同倪	
-533.1	兔			10		t	ou	3	3	tou3	G58			同兔	
-534.1	兔			10		t	ou	3	3	tou3	G58				
-535.1	兖			10		j	in	5	5	jin5	S55				
-536.1	兗			10		j	in	5	5	jin5	S55			同兖	
+533.1	兔		兎	10		t	ou	3	3	tou3	G58			同兔	
+534.1	兔		兎|兔	10		t	ou	3	3	tou3	G58				
+535.1	兖		兗	10		j	in	5	5	jin5	S55				
+536.1	兗		兖	10		j	in	5	5	jin5	S55			同兖	
 537.1	党			10		d	ong	2	2	dong2	F87				
 538.1	兜			10		d	au	1	1	dau1	F23				
 539.1	兟			10		s	an	1	1	san1	R38				
-540.1	兠			10		d	au	1	1	dau1	F23			同兜	
+540.1	兠		兜	10		d	au	1	1	dau1	F23			同兜	
 541.1	兢			10		g	ing	1	1	ging1	J70				
 542.1	入			10		j	ap	6	9	jap6	S26				
 543.1	兦			10		m	ong	4	4	mong4	D75		滅兦	同亡	
@@ -668,8 +668,8 @@
 544.2	內			10		n	aap	6	9	naap6	H17		通納		
 545.1	全			10		c	yun	4	4	cyun4	Q129				
 546.1	兩			10		l	oeng	5	5	loeng5	I95				
-547.1	兪			10		j	yu	4	4	jyu4	A51				
-547.2	兪			10		j	yu	6	6	jyu6	A53			通愈	
+547.1	兪		俞	10		j	yu	4	4	jyu4	A51				
+547.2	兪		俞	10		j	yu	6	6	jyu6	A53			通愈	
 548.1	會			10		w	ui	6	6	wui6	T61		會議		
 548.2	會			10		w	ui	5	5	wui5	T60		懂得		
 548.3	會			10		k	ui	2	2	kui2	L56	G	會計		
@@ -685,19 +685,19 @@
 555.2	其			10		g	ei	1	1	gei1	J46		語助詞		
 556.1	具			10		g	eoi	6	6	geoi6	J101				
 557.1	典			10		d	in	2	2	din2	F64				
-558.1	兹			10		z	i	1	1	zi1	P64		現在	同茲	
-558.2	兹			10		c	i	4	4	ci4	Q62		龜兹	同茲	
+558.1	兹		玆|茲	10		z	i	1	1	zi1	P64		現在	同茲	
+558.2	兹		玆|茲	10		c	i	4	4	ci4	Q62		龜兹	同茲	
 559.1	兼			11		g	im	1	1	gim1	J58				
 560.1	冀			11		k	ei	3	3	kei3	L24				
 561.1	𩕧			11		s	eon	3	3	seon3	R124			同巽	
 562.1	冂			11		gw	ing	1	1	gwing1	K23				
-563.1	冄			11		j	im	5	5	jim5	S49			同冉	
+563.1	冄		冉	11		j	im	5	5	jim5	S49			同冉	
 564.1	冇			11		m	ou	5	5	mou5	D69				
 565.1	𠕂			11		z	oi	3	3	zoi3	P100			同再	
 566.1	𠕅			11		z	oi	3	3	zoi3	P100			同再	
-567.1	冉			11		j	im	5	5	jim5	S49				
+567.1	冉		冄	11		j	im	5	5	jim5	S49				
 568.1	再			11		z	oi	3	3	zoi3	P100				
-569.1	冐			11		m	ou	6	6	mou6	D70		冐昧	同冒	
+569.1	冐		冒	11		m	ou	6	6	mou6	D70		冐昧	同冒	
 570.1	冒			11		m	ou	6	6	mou6	D70		冒昧		
 570.2	冒			11		m	ak	6	9	mak6	D43		冒頓		
 571.1	冑			11		z	au	6	6	zau6	P35				
@@ -710,7 +710,7 @@
 578.1	冖			11		m	ik	6	9	mik6	D66				
 579.1	冘			11		j	am	4	4	jam4	S16		行進		
 579.2	冘			11		j	au	4	4	jau4	S10		冘豫		
-580.1	冗			11		j	ung	2	2	jung2	S84				
+580.1	冗		宂	11		j	ung	2	2	jung2	S84				
 581.1	冚			11		k	am	2	2	kam2	L14		蓋		
 581.2	冚			11		h	am	6	6	ham6	O46		嚴密		
 582.1	罙			11		s	am	1	1	sam1	R33			深(本)	
@@ -724,36 +724,36 @@
 588.2	冧			11		l	am	3	3	lam3	I33		倒塌		
 589.1	冢			11		c	ung	2	2	cung2	Q117				
 590.1	冥			11		m	ing	4	4	ming4	D63				
-591.1	冤			11		j	yun	1	1	jyun1	A54				
+591.1	冤		寃	11		j	yun	1	1	jyun1	A54				
 592.1	幂			11		m	ik	6	9	mik6	D66				
 593.1	冪			11		m	ik	6	9	mik6	D66			同幂	
 594.1	冫			11		b	ing	1	1	bing1	B53				
 595.1	冬			11		d	ung	1	1	dung1	F99				
 596.1	冱			11		w	u	6	6	wu6	T57			同沍	
-597.1	冲			11		c	ung	1	1	cung1	Q116				
-598.1	决			11		k	yut	3	8	kyut3	L62				
+597.1	冲		沖	11		c	ung	1	1	cung1	Q116				
+598.1	决		決	11		k	yut	3	8	kyut3	L62				
 599.1	冰			11		b	ing	1	1	bing1	B53				
-600.1	况			12		f	ong	3	3	fong3	E35			同況	原書「況、况」二字互見，茲將「況」列為主條目
+600.1	况		況	12		f	ong	3	3	fong3	E35			同況	原書「況、况」二字互見，茲將「況」列為主條目
 601.1	冷			12		l	aang	5	5	laang5	I18				
 602.1	冺			12		m	an	5	5	man5	D34			同泯	
 603.1	冶			12		j	e	5	5	je5	S30				
-604.1	冽			12		l	it	6	9	lit6	I66				
+604.1	冽		洌	12		l	it	6	9	lit6	I66				
 605.1	𠗂			12		l	ok	3	8	lok3	I89				
 606.1	冼			12		s	in	2	2	sin2	R80				
 607.1	凊			12		z	ing	6	6	zing6	P87				
 608.1	凌			12		l	ing	4	4	ling4	I68				
 609.1	凇			12		s	ung	1	1	sung1	R130				
 610.1	凍			12		d	ung	3	3	dung3	F101				
-611.1	凄			12		c	ai	1	1	cai1	Q28				
+611.1	凄		淒	12		c	ai	1	1	cai1	Q28				
 612.1	凎			12		g	am	3	3	gam3	J33				
-613.1	凈			12		z	ing	6	6	zing6	P87				
-613.2	凈			12		z	eng	6	6	zeng6	P60				
+613.1	凈		净|浄|淨	12		z	ing	6	6	zing6	P87				
+613.2	凈		净|浄|淨	12		z	eng	6	6	zeng6	P60				
 614.1	凋			12		d	iu	1	1	diu1	F55				
 615.1	准			12		z	eon	2	2	zeon2	P119				
-616.1	凉			12		l	oeng	4	4	loeng4	I94				
-616.2	凉			12		l	oeng	6	6	loeng6	I96		原凉	通諒	
-617.1	凑			12		c	au	3	3	cau3	Q34				
-618.1	减			12		g	aam	2	2	gaam2	J12				
+616.1	凉		涼	12		l	oeng	4	4	loeng4	I94				
+616.2	凉		涼	12		l	oeng	6	6	loeng6	I96		原凉	通諒	
+617.1	凑		湊	12		c	au	3	3	cau3	Q34				
+618.1	减		減	12		g	aam	2	2	gaam2	J12				
 619.1	凓			12		l	eot	6	9	leot6	I106				
 620.1	凔			12		c	ong	1	1	cong1	Q98				
 621.1	凘			12		s	i	1	1	si1	R63				
@@ -761,7 +761,7 @@
 623.1	凜			12		l	am	5	5	lam5	I35				
 624.1	凝			12		j	ing	4	4	jing4	S64				
 625.1	几			12		g	ei	1	1	gei1	J46				
-626.1	凢			12		f	aan	4	4	faan4	E8			同凡	
+626.1	凢		凣	12		f	aan	4	4	faan4	E8			同凡	
 627.1	凡			12		f	aan	4	4	faan4	E8				
 628.1	凭			12		p	ang	4	4	pang4	C27				
 629.1	凰			12		w	ong	4	4	wong4	T48				
@@ -781,15 +781,15 @@
 641.1	刀			12		d	ou	1	1	dou1	F77				
 642.1	刂			12		d	ou	1	1	dou1	F77				
 643.1	刁			12		d	iu	1	1	diu1	F55				
-644.1	刃			13		j	an	6	6	jan6	S24				
-645.1	刄			13		j	an	6	6	jan6	S24			同刃	
+644.1	刃		刄	13		j	an	6	6	jan6	S24				
+645.1	刄		刃	13		j	an	6	6	jan6	S24			同刃	
 646.1	切			13		c	it	3	8	cit3	Q77		切開		
 646.2	切			13		c	ai	3	3	cai3	Q29		一切		
 647.1	分			13		f	an	1	1	fan1	E17		分配		
 647.2	分			13		f	an	6	6	fan6	E22		本分		
 648.1	刈			13		ng	aai	6	6	ngaai6	N10				
-649.1	刊			13		h	on	2	2	hon2	O95				
-649.2	刊			13		h	on	1	1	hon1	O94	G			
+649.1	刊		刋	13		h	on	2	2	hon2	O95				
+649.2	刊		刋	13		h	on	1	1	hon1	O94	G			
 650.1	刌			13		c	yun	2	2	cyun2	Q127				
 651.1	刉			13		g	ei	1	1	gei1	J46				
 652.1	刓			13		j	yun	4	4	jyun4	A57				
@@ -799,21 +799,21 @@
 655.1	刏			13		g	ei	1	1	gei1	J46			同刉	
 656.1	刖			13		j	yut	6	9	jyut6	A61				
 657.1	刎			13		m	an	5	5	man5	D34				
-658.1	刧			13		g	ip	3	8	gip3	J67			同劫	
-659.1	刦			13		g	ip	3	8	gip3	J67			同劫	
-660.1	別			13		b	it	6	9	bit6	B52				
-661.1	刪			13		s	aan	1	1	saan1	R14			同删	
+658.1	刧		刦|刼|劫	13		g	ip	3	8	gip3	J67			同劫	
+659.1	刦		刧|刼|劫	13		g	ip	3	8	gip3	J67			同劫	
+660.1	別		别	13		b	it	6	9	bit6	B52				
+661.1	刪		删	13		s	aan	1	1	saan1	R14			同删	
 662.1	利			13		l	ei	6	6	lei6	I44				
-663.1	删			13		s	aan	1	1	saan1	R14				
+663.1	删		刪	13		s	aan	1	1	saan1	R14				
 664.1	刨			13		p	aau	4	4	paau4	C9				
 665.1	判			13		p	un	3	3	pun3	C71				
 666.1	初			13		c	o	1	1	co1	Q89				
 667.1	刜			13		f	at	1	7	fat1	E23				
-668.1	刑			13		j	ing	4	4	jing4	S64				
-669.1	刱			13		c	ong	3	3	cong3	Q100		刱造	同創	
-669.2	刱			13		c	ong	1	1	cong1	Q98		刱傷	同創	
+668.1	刑		𠛬	13		j	ing	4	4	jing4	S64				
+669.1	刱		剏|剙	13		c	ong	3	3	cong3	Q100		刱造	同創	
+669.2	刱		剏|剙	13		c	ong	1	1	cong1	Q98		刱傷	同創	
 670.1	刲			13		gw	ai	1	1	gwai1	K12				
-671.1	刼			13		g	ip	3	8	gip3	J67			同劫	
+671.1	刼		刦|刧|劫	13		g	ip	3	8	gip3	J67			同劫	
 672.1	刵			13		j	i	6	6	ji6	S38				
 673.1	㓤			13		k	it	3	8	kit3	L35		剝		
 673.2	㓤			13		g	at	1	7	gat1	J44		刺		
@@ -825,17 +825,17 @@
 678.1	制			13		z	ai	3	3	zai3	P30				
 679.1	刮			13		gw	aat	3	8	gwaat3	K10				
 680.1	券			13		h	yun	3	3	hyun3	O125				
-681.1	剎			13		c	aat	3	8	caat3	Q24		古剎		
-681.2	剎			13		s	aat	3	8	saat3	R22		剎車		
-682.1	剁			13		d	o	2	2	do2	F82				
-682.2	剁			13		d	oek	3	8	doek3	F92				
-683.1	刴			13		d	o	2	2	do2	F82			同剁	
-683.2	刴			13		d	oek	3	8	doek3	F92			同剁	
+681.1	剎		刹	13		c	aat	3	8	caat3	Q24		古剎		
+681.2	剎		刹	13		s	aat	3	8	saat3	R22		剎車		
+682.1	剁		刴	13		d	o	2	2	do2	F82				
+682.2	剁		刴	13		d	oek	3	8	doek3	F92				
+683.1	刴		剁	13		d	o	2	2	do2	F82			同剁	
+683.2	刴		剁	13		d	oek	3	8	doek3	F92			同剁	
 684.1	刻			13		h	ak	1	7	hak1	O59				
 685.1	刷			13		c	aat	3	8	caat3	Q24		粉刷		
 685.2	刷			13		s	aat	3	8	saat3	R22		刷白		
 686.1	剌			13		l	aat	6	9	laat6	I22				
-687.1	剋			13		h	ak	1	7	hak1	O59				
+687.1	剋		尅	13		h	ak	1	7	hak1	O59				
 688.1	剄			13		g	ing	2	2	ging2	J71				
 689.1	削			13		s	oek	3	8	soek3	R115				
 690.1	則			13		z	ak	1	7	zak1	P51				
@@ -863,15 +863,15 @@
 707.1	𠜾			14		k	yut	3	8	kyut3	L62			同劂	
 707.2	𠜾			14		g	yut	3	8	gyut3	J119			同劂	
 708.1	剟			14		z	yut	3	8	zyut3	P138				
-709.1	剝			14		m	ok	1	7	mok1	D78				
+709.1	剝		剥	14		m	ok	1	7	mok1	D78				
 710.1	剨			14		w	aak	6	9	waak6	T19				
 711.1	㓶			14		k	it	3	8	kit3	L35			同鍥	
 712.1	副			14		f	u	3	3	fu3	E40				
 713.1	剬			14		z	ai	3	3	zai3	P30				
 713.2	剬			14		t	yun	4	4	tyun4	G87			同剸	
 714.1	剮			14		gw	aa	2	2	gwaa2	K2				
-715.1	剏			14		c	ong	3	3	cong3	Q100		剏造	同創	
-715.2	剏			14		c	ong	1	1	cong1	Q98		剏傷	同創	
+715.1	剏		刱|剙	14		c	ong	3	3	cong3	Q100		剏造	同創	
+715.2	剏		刱|剙	14		c	ong	1	1	cong1	Q98		剏傷	同創	
 716.1	剫			14		d	ok	6	9	dok6	F90				
 717.1	剪			14		z	in	2	2	zin2	P77				
 718.1	剭			14			uk	1	7	uk1	A47				
@@ -884,8 +884,8 @@
 724.1	創			14		c	ong	3	3	cong3	Q100		創造		
 724.2	創			14		c	ong	1	1	cong1	Q98		創傷		
 725.1	割			14		g	ot	3	8	got3	J91				
-726.1	剙			14		c	ong	3	3	cong3	Q100		剙造	同創	
-726.2	剙			14		c	ong	1	1	cong1	Q98		剙傷	同創	
+726.1	剙		刱|剏	14		c	ong	3	3	cong3	Q100		剙造	同創	
+726.2	剙		刱|剏	14		c	ong	1	1	cong1	Q98		剙傷	同創	
 727.1	剺			14		l	ei	4	4	lei4	I42				
 728.1	剸			14		t	yun	4	4	tyun4	G87				
 729.1	剽			14		p	iu	5	5	piu5	C40				
@@ -902,7 +902,7 @@
 737.1	劌			14		gw	ai	3	3	gwai3	K14				
 738.1	劇			14		k	ek	6	9	kek6	L28				
 739.1	劏			14		t	ong	1	1	tong1	G68				
-740.1	劍			14		g	im	3	3	gim3	J60				
+740.1	劍		劒|劔	14		g	im	3	3	gim3	J60				
 741.1	劊			14		k	ui	2	2	kui2	L56				
 742.1	劉			14		l	au	4	4	lau4	I29				
 743.1	劈			14		p	ik	1	7	pik1	C49				
@@ -911,7 +911,7 @@
 745.1	劓			14		j	i	6	6	ji6	S38				
 746.1	𠠃			14		c	im	1	1	cim1	Q68				
 747.1	㔍			14		c	aat	3	8	caat3	Q24				
-748.1	劔			14		g	im	3	3	gim3	J60			同劍	
+748.1	劔		劍|劒	14		g	im	3	3	gim3	J60			同劍	
 749.1	劑			14		z	ai	1	1	zai1	P28				
 750.1	劖			14		c	aam	4	4	caam4	Q15		鑿		
 750.2	劖			14		c	aam	5	5	caam5	Q16		刺		
@@ -923,7 +923,7 @@
 756.1	功			14		g	ung	1	1	gung1	J109				
 757.1	加			14		g	aa	1	1	gaa1	J1				
 758.1	劣			14		l	yut	3	8	lyut3	I117				
-759.1	劫			14		g	ip	3	8	gip3	J67				
+759.1	劫		刦|刧|刼	14		g	ip	3	8	gip3	J67				
 760.1	助			14		z	o	6	6	zo6	P97				
 761.1	劮			15		j	at	6	9	jat6	S28				
 762.1	劬			15		k	eoi	4	4	keoi4	L53				
@@ -969,7 +969,7 @@
 796.1	勱			15		m	aai	6	6	maai6	D7				
 797.1	勮			15		g	eoi	3	3	geoi3	J100				
 798.1	勰			15		h	ip	3	8	hip3	O74				
-799.1	勳			15		f	an	1	1	fan1	E17				
+799.1	勳		勲	15		f	an	1	1	fan1	E17				
 800.1	勵			15		l	ai	6	6	lai6	I27				
 801.1	勴			15		l	eoi	6	6	leoi6	I101				
 802.1	勷			15		s	oeng	1	1	soeng1	R109		成		
@@ -980,7 +980,7 @@
 805.2	勺			15		s	oek	3	8	soek3	R115				
 806.1	勿			15		m	at	6	9	mat6	D41				
 807.1	勼			15		g	au	1	1	gau1	J27				
-808.1	勻			15		w	an	4	4	wan4	T29				
+808.1	勻		匀	15		w	an	4	4	wan4	T29				
 809.1	勾			15		ng	au	1	1	ngau1	N36				
 809.2	勾			15		g	au	1	1	gau1	J27				
 810.1	匆			15		c	ung	1	1	cung1	Q116				
@@ -1018,7 +1018,7 @@
 839.1	匪			16		f	ei	2	2	fei2	E26				
 840.1	匫			16		f	at	1	7	fat1	E23				
 841.1	匭			16		gw	ai	2	2	gwai2	K13				
-842.1	匯			16		w	ui	6	6	wui6	T61				
+842.1	匯		滙	16		w	ui	6	6	wui6	T61				
 843.1	匲			16		l	im	4	4	lim4	I58			同奩	
 844.1	匱			16		gw	ai	6	6	gwai6	K15				
 845.1	匰			16		d	aan	1	1	daan1	F11				
@@ -1047,8 +1047,8 @@
 864.1	半			17		b	un	3	3	bun3	B77				
 865.1	卋			17		s	ai	3	3	sai3	R26			同世	
 866.1	𠦄			17		w	ai	2	2	wai2	T21			同卉	
-867.1	冊			17		c	aak	3	8	caak3	Q26			同册	
-868.1	册			17		c	aak	3	8	caak3	Q26				
+867.1	冊		册	17		c	aak	3	8	caak3	Q26			同册	
+868.1	册		冊	17		c	aak	3	8	caak3	Q26				
 869.1	卓			17		c	oek	3	8	coek3	Q107				
 869.2	卓			17		z	oek	3	8	zoek3	P112				
 870.1	卑			17		b	ei	1	1	bei1	B35				
@@ -1081,19 +1081,19 @@
 891.1	卮			18		z	i	1	1	zi1	P64			同巵	
 892.1	卯			18		m	aau	5	5	maau5	D10				
 893.1	印			18		j	an	3	3	jan3	S21				
-894.1	却			18		k	oek	3	8	koek3	L50				
+894.1	却		卻	18		k	oek	3	8	koek3	L50				
 895.1	危			18		ng	ai	4	4	ngai4	N33				
-896.1	即			18		z	ik	1	7	zik1	P88			同卽	
+896.1	即		卽	18		z	ik	1	7	zik1	P88			同卽	
 897.1	卲			18		s	iu	6	6	siu6	R73				
 898.1	卵			18		l	eon	5	5	leon5	I104				
-899.1	卸			18		s	e	3	3	se3	R53				
+899.1	卸		缷	18		s	e	3	3	se3	R53				
 900.1	卹			18		s	eot	1	7	seot1	R128				
 901.1	㕁			18		k	oek	3	8	koek3	L50				
-902.1	卷			18		k	yun	4	4	kyun4	L61		曲		
-902.2	卷			18		g	yun	2	2	gyun2	J116		案卷		
+902.1	卷		巻	18		k	yun	4	4	kyun4	L61		曲		
+902.2	卷		巻	18		g	yun	2	2	gyun2	J116		案卷		
 903.1	卺			18		g	an	2	2	gan2	J36			同巹	
-904.1	卽			18		z	ik	1	7	zik1	P88				
-905.1	卻			18		k	oek	3	8	koek3	L50			同却	
+904.1	卽		即	18		z	ik	1	7	zik1	P88				
+905.1	卻		却	18		k	oek	3	8	koek3	L50			同却	
 906.1	𠨜			18		ng	ai	6	6	ngai6	N35				
 907.1	卿			18		h	ing	1	1	hing1	O77				
 908.1	厀			18		s	at	1	7	sat1	R46			同膝	
@@ -1119,21 +1119,21 @@
 924.1	原			18		j	yun	4	4	jyun4	A57		原本		
 924.2	原			18		j	yun	5	5	jyun5	A58		鄉原		
 925.1	厢			18		s	oeng	1	1	soeng1	R109			同廂	
-926.1	厠			18		c	i	3	3	ci3	Q61				
+926.1	厠		廁	18		c	i	3	3	ci3	Q61				
 927.1	㕎			18		h	ap	6	9	hap6	O56				
-928.1	厨			18		c	yu	4	4	cyu4	Q124			同廚	
-928.2	厨			18		c	eoi	4	4	ceoi4	Q111	A		同廚	
-929.1	厦			18		h	aa	6	6	haa6	O4				
+928.1	厨		㕑|廚|𢊍	18		c	yu	4	4	cyu4	Q124			同廚	
+928.2	厨		㕑|廚|𢊍	18		c	eoi	4	4	ceoi4	Q111	A		同廚	
+929.1	厦		廈	18		h	aa	6	6	haa6	O4				
 930.1	厤			18		l	ik	6	9	lik6	I72			同曆	
 931.1	厥			18		k	yut	3	8	kyut3	L62				
 932.1	厫			18		ng	ou	4	4	ngou4	N61			同廒	
-933.1	厪			19		k	an	4	4	kan4	L17		勤勞	同廑	
-933.2	厪			19		g	an	2	2	gan2	J36		才；只	同廑	
-934.1	厩			19		g	au	3	3	gau3	J29			同廐	
-935.1	㕑			19		c	yu	4	4	cyu4	Q124			同廚	
-935.2	㕑			19		c	eoi	4	4	ceoi4	Q111	A		同廚	
+933.1	厪		廑	19		k	an	4	4	kan4	L17		勤勞	同廑	
+933.2	厪		廑	19		g	an	2	2	gan2	J36		才；只	同廑	
+934.1	厩		廐	19		g	au	3	3	gau3	J29			同廐	
+935.1	㕑		厨|廚|𢊍	19		c	yu	4	4	cyu4	Q124			同廚	
+935.2	㕑		厨|廚|𢊍	19		c	eoi	4	4	ceoi4	Q111	A		同廚	
 936.1	厮			19		s	i	1	1	si1	R63				
-937.1	厰			19		c	ong	2	2	cong2	Q99			同廠	
+937.1	厰		廠	19		c	ong	2	2	cong2	Q99			同廠	
 938.1	厭			19		j	im	3	3	jim3	S47		討厭		
 938.2	厭			19		j	im	1	1	jim1	S45		安靜		
 939.1	厬			19		gw	ai	2	2	gwai2	K13				
@@ -1143,18 +1143,18 @@
 942.2	厱			19		c	im	1	1	cim1	Q68		岸側空處		
 943.1	㕒			19		ng	ai	4	4	ngai4	N33			同嵬	
 944.1	厴			19		j	im	2	2	jim2	S46				
-945.1	㕔			19		t	eng	1	1	teng1	G32			同廳	
+945.1	㕔		廳	19		t	eng	1	1	teng1	G32			同廳	
 946.1	厶			19		s	i	1	1	si1	R63				
 947.1	厹			19		k	au	4	4	kau4	L11		厹矛		
 947.2	厹			19		j	au	4	4	jau4	S10		獸足跡		
 948.1	去			19		h	eoi	3	3	heoi3	O115		來去		
 948.2	去			19		h	eoi	2	2	heoi2	O114		距離		
-949.1	叁			19		s	aam	1	1	saam1	R11				
+949.1	叁		参|參	19		s	aam	1	1	saam1	R11				
 950.1	亝			19		c	ai	4	4	cai4	Q30		整亝	同齊	
 950.2	亝			19		z	aai	1	1	zaai1	P5			同齋	
-951.1	參			19		c	aam	1	1	caam1	Q12		參加		
-951.2	參			19		s	am	1	1	sam1	R33		人參		
-951.3	參			19		c	am	1	1	cam1	Q36		參差		
+951.1	參		叁|参	19		c	aam	1	1	caam1	Q12		參加		
+951.2	參		叁|参	19		s	am	1	1	sam1	R33		人參		
+951.3	參		叁|参	19		c	am	1	1	cam1	Q36		參差		
 952.1	叅			19		c	aam	1	1	caam1	Q12		叅加	同參	
 952.2	叅			19		s	am	1	1	sam1	R33		人叅	同參	
 952.3	叅			19		c	am	1	1	cam1	Q36		叅差	同參	
@@ -1171,14 +1171,14 @@
 963.1	取			19		c	eoi	2	2	ceoi2	Q109				
 964.1	受			19		s	au	6	6	sau6	R32				
 965.1	叕			19		z	yut	3	8	zyut3	P138				
-966.1	叙			19		z	eoi	6	6	zeoi6	P117				
+966.1	叙		敍|敘	19		z	eoi	6	6	zeoi6	P117				
 967.1	叛			19		b	un	6	6	bun6	B78				
 968.1	叜			19		s	au	2	2	sau2	R29			古叟字	
 969.1	叚			19		g	aa	2	2	gaa2	J2		真叚	同假	
 969.2	叚			19		g	aa	3	3	gaa3	J3		放叚	同假	
 970.1	叟			19		s	au	2	2	sau2	R29				
 971.1	㕠			19		s	oeng	1	1	soeng1	R109			同雙	
-972.1	叠			20		d	ip	6	9	dip6	F67				
+972.1	叠		疊	20		d	ip	6	9	dip6	F67				
 973.1	叡			20		j	eoi	6	6	jeoi6	S80			同睿	
 974.1	叢			20		c	ung	4	4	cung4	Q119				
 975.1	口			20		h	au	2	2	hau2	O36				
@@ -1233,13 +1233,13 @@
 1011.1	名			20		m	ing	4	4	ming4	D63				
 1011.2	名			20		m	eng	4	4	meng4	D51	V			
 1012.1	各			20		g	ok	3	8	gok3	J92				
-1013.1	吆			20		j	iu	1	1	jiu1	S39				
+1013.1	吆		吆	20		j	iu	1	1	jiu1	S39				
 1014.1	吖			20			aa	1	1	aa1	A1				
 1015.1	㕧			20		s	i	1	1	si1	R63				
 1016.1	吔			20		j	aa	1	1	jaa1	S1				
 1017.1	吆			20		j	iu	1	1	jiu1	S39				
 1018.1	呈			20		c	ing	4	4	cing4	Q81				
-1019.1	吞			20		t	an	1	1	tan1	G26				
+1019.1	吞		呑	20		t	an	1	1	tan1	G26				
 1020.1	呋			20		f	u	1	1	fu1	E38				
 1021.1	呆			20		ng	oi	4	4	ngoi4	N70		呆板		
 1021.2	呆			20		d	aai	1	1	daai1	F3		笨；癡		
@@ -1260,15 +1260,15 @@
 1032.1	吡			21		b	ei	2	2	bei2	B36				
 1033.1	呀			21			aa	1	1	aa1	A1				
 1034.1	吵			21		c	aau	2	2	caau2	Q10				
-1035.1	呂			21		l	eoi	5	5	leoi5	I100				
+1035.1	呂		吕	21		l	eoi	5	5	leoi5	I100				
 1036.1	吶			21		n	aap	6	9	naap6	H17		吶喊		
 1036.2	吶			21		n	eot	6	9	neot6	H71	G	吶喊		
 1036.3	吶			21		n	at	6	9	nat6	H32			同訥	
 1037.1	吽			21		h	au	1	1	hau1	O35		狗爭鬥聲		
 1037.2	吽			21		h	ung	1	1	hung1	O116		佛教用語		
 1037.3	吽			21		ng	au	6	6	ngau6	N41	D	吽哣		
-1038.1	吿			21		g	ou	3	3	gou3	J78		吿訴		
-1038.2	吿			21		g	uk	1	7	guk1	J113		吿朔		
+1038.1	吿		告	21		g	ou	3	3	gou3	J78		吿訴		
+1038.2	吿		告	21		g	uk	1	7	guk1	J113		吿朔		
 1039.1	呏			21		s	ing	1	1	sing1	R88				
 1040.1	㕭			21			aau	3	3	aau3	A9		應答聲		
 1040.2	㕭			21		j	iu	1	1	jiu1	S39	D	挖取		
@@ -1293,7 +1293,7 @@
 1056.1	君			21		gw	an	1	1	gwan1	K16				
 1057.1	吚			21		j	i	1	1	ji1	S33			同咿	
 1058.1	呎			21		c	ek	3	8	cek3	Q58				
-1059.1	吳			21			ng	4	4	ng4	N86				
+1059.1	吳		吴|呉	21			ng	4	4	ng4	N86				
 1060.1	吷			21		h	yut	3	8	hyut3	O126				
 1061.1	吲			21		j	an	5	5	jan5	S23				
 1062.1	吧			21		b	aa	6	6	baa6	B4		語氣詞		
@@ -1432,7 +1432,7 @@
 1159.2	哏			22		g	an	1	1	gan1	J35		逗哏		
 1160.1	咫			22		z	i	2	2	zi2	P65				
 1161.1	哞			22		m	au	4	4	mau4	D28				
-1162.1	唇			22		s	eon	4	4	seon4	R125				
+1162.1	唇		脣	22		s	eon	4	4	seon4	R125				
 1163.1	哢			22		l	ung	6	6	lung6	I110				
 1164.1	㖔			22		t	an	3	3	tan3	G28				
 1165.1	唗			23		d	au	1	1	dau1	F23				
@@ -1573,7 +1573,7 @@
 1268.1	啘			24		w	aa	1	1	waa1	T1				
 1269.1	唳			24		l	eoi	6	6	leoi6	I101				
 1270.1	啔			24		k	ai	2	2	kai2	L7			同啓	
-1271.1	啓			24		k	ai	2	2	kai2	L7				
+1271.1	啓		啟	24		k	ai	2	2	kai2	L7				
 1272.1	啊			24			aa	1	1	aa1	A1		感歎詞		
 1272.2	啊			24			aa	2	2	aa2	A2		疑問語氣詞		
 1273.1	唰			24		c	aat	3	8	caat3	Q24				
@@ -1656,8 +1656,8 @@
 1337.1	喲			25		j	o	1	1	jo1	S69				
 1338.1	嗪			25		c	eon	4	4	ceon4	Q114				
 1339.1	嗉			25		s	ou	3	3	sou3	R98				
-1340.1	嗒			25		t	aap	3	8	taap3	G13		嗒喪		
-1340.2	嗒			25		d	aap	1	7	daap1	F14	D	咀嚼		
+1340.1	嗒		㗳	25		t	aap	3	8	taap3	G13		嗒喪		
+1340.2	嗒		㗳	25		d	aap	1	7	daap1	F14	D	咀嚼		
 1341.1	嗏			25		c	aa	1	1	caa1	Q1				
 1342.1	嗞			25		z	i	1	1	zi1	P64				
 1343.1	嗊			25		h	ung	2	2	hung2	O117		羅嗊曲		
@@ -1685,7 +1685,7 @@
 1359.1	嗰			25		g	o	2	2	go2	J80				
 1360.1	嗅			25		c	au	3	3	cau3	Q34				
 1360.2	嗅			25		h	ung	3	3	hung3	O118	G			
-1361.1	嗥			25		h	ou	4	4	hou4	O83				
+1361.1	嗥		嘷|噑	25		h	ou	4	4	hou4	O83				
 1362.1	嗚			25		w	u	1	1	wu1	T53				
 1363.1	嗁			25		t	ai	4	4	tai4	G18			同啼	
 1364.1	嗱			25		n	aa	4	4	naa4	H3				
@@ -1730,7 +1730,7 @@
 1391.1	嘜			26		m	ak	1	7	mak1	D42				
 1392.1	嗹			26		l	in	4	4	lin4	I61				
 1393.1	嘈			26		c	ou	4	4	cou4	Q87				
-1394.1	𠻳			26		s	au	3	3	sau3	R30			同嗽	
+1394.1	𠻳		嗽	26		s	au	3	3	sau3	R30			同嗽	
 1395.1	嗽			26		s	au	3	3	sau3	R30				
 1396.1	嘔			26			au	2	2	au2	A20		嘔吐		
 1396.2	嘔			26		ng	au	2	2	ngau2	N37	A	嘔吐		
@@ -1741,7 +1741,7 @@
 1397.2	嘌			26		p	iu	3	3	piu3	C38	A			
 1398.1	嘁			26		c	i	1	1	ci1	Q59				
 1399.1	嘎			26		g	aa	1	1	gaa1	J1				
-1400.1	噓			26		h	eoi	1	1	heoi1	O113				
+1400.1	噓		嘘	26		h	eoi	1	1	heoi1	O113				
 1401.1	嘑			26		f	u	1	1	fu1	E38				
 1402.1	嘡			26		t	ong	1	1	tong1	G68				
 1403.1	嘢			26		j	e	5	5	je5	S30				
@@ -1803,7 +1803,7 @@
 1448.1	㗱			27		z	aap	6	9	zaap6	P23				
 1449.1	噍			27		z	iu	3	3	ziu3	P70		噍類		
 1449.2	噍			27		z	iu	1	1	ziu1	P68		啁噍		
-1450.1	嘷			27		h	ou	4	4	hou4	O83			同嗥	
+1450.1	嘷		嗥|噑	27		h	ou	4	4	hou4	O83			同嗥	
 1451.1	噏			27		ng	ap	1	7	ngap1	N53	D	胡說		
 1451.2	噏			27		k	ap	1	7	kap1	L20			同吸	
 1452.1	噃			27		b	o	3	3	bo3	B64				
@@ -1883,7 +1883,7 @@
 1513.1	𡁕			27		z	aap	6	9	zaap6	P23				
 1514.1	𡃰			28		h	ei	1	1	hei1	O60				
 1515.1	嚡			28		h	aai	4	4	haai4	O6				
-1516.1	嚏			28		t	ai	3	3	tai3	G17				
+1516.1	嚏		嚔	28		t	ai	3	3	tai3	G17				
 1517.1	嚘			28		j	au	1	1	jau1	S7				
 1518.1	嚙			28		ng	it	6	9	ngit6	N58				
 1518.2	嚙			28		ng	aat	6	9	ngaat6	N27	A			
@@ -1910,7 +1910,7 @@
 1536.1	嚮			28		h	oeng	3	3	hoeng3	O112				
 1537.1	嚶			28		j	ing	1	1	jing1	S61				
 1538.1	嚴			28		j	im	4	4	jim4	S48				
-1539.1	嚹			28		l	aa	3	3	laa3	I3				
+1539.1	嚹		𡅈	28		l	aa	3	3	laa3	I3				
 1540.1	嚳			28		g	uk	1	7	guk1	J113				
 1541.1	嚷			28		j	oeng	6	6	joeng6	S75				
 1542.1	嚲			28		d	o	2	2	do2	F82				
@@ -1941,23 +1941,23 @@
 1563.1	囚			28		c	au	4	4	cau4	Q35				
 1564.1	四			28		s	ei	3	3	sei3	R50				
 1565.1	囙			28		j	an	1	1	jan1	S19			同因	
-1566.1	囘			28		w	ui	4	4	wui4	T59			同回	
+1566.1	囘		回|囬	28		w	ui	4	4	wui4	T59			同回	
 1567.1	因			28		j	an	1	1	jan1	S19				
-1568.1	回			28		w	ui	4	4	wui4	T59				
+1568.1	回		囘|囬	28		w	ui	4	4	wui4	T59				
 1569.1	囟			28		s	eon	3	3	seon3	R124				
 1570.1	囡			28		n	aam	4	4	naam4	H12				
 1571.1	囝			28		z	ai	2	2	zai2	P29				
 1571.2	囝			28		n	aam	4	4	naam4	H12	A			
-1572.1	囯			28		gw	ok	3	8	gwok3	K32				
+1572.1	囯		国	28		gw	ok	3	8	gwok3	K32				
 1573.1	园			28		j	yun	4	4	jyun4	A57			通刓	
 1574.1	困			28		kw	an	3	3	kwan3	M16				
 1575.1	囤			29		d	eon	6	6	deon6	F97		糧囤		
 1575.2	囤			29		t	yun	4	4	tyun4	G87		囤積		
-1576.1	囬			29		w	ui	4	4	wui4	T59			同回	
+1576.1	囬		囘|回	29		w	ui	4	4	wui4	T59			同回	
 1577.1	囮			29		ng	o	4	4	ngo4	N64				
 1577.2	囮			29		j	au	4	4	jau4	S10	V			
-1578.1	囪			29		c	ung	1	1	cung1	Q116		烟囪		
-1578.2	囪			29		c	oeng	1	1	coeng1	Q103			窗(本)	
+1578.1	囪		囱	29		c	ung	1	1	cung1	Q116		烟囪		
+1578.2	囪		囱	29		c	oeng	1	1	coeng1	Q103			窗(本)	
 1579.1	囧			29		gw	ing	2	2	gwing2	K24				
 1580.1	囫			29		f	at	1	7	fat1	E23				
 1581.1	囦			29		j	yun	1	1	jyun1	A54			古淵字	
@@ -1975,17 +1975,17 @@
 1592.1	圉			29		j	yu	5	5	jyu5	A52				
 1593.1	國			29		gw	ok	3	8	gwok3	K32				
 1594.1	圇			29		l	eon	4	4	leon4	I103				
-1595.1	圈			29		h	yun	1	1	hyun1	O123		圓圈		
-1595.2	圈			29		g	yun	6	6	gyun6	J118		畜欄		
+1595.1	圈		圏	29		h	yun	1	1	hyun1	O123		圓圈		
+1595.2	圈		圏	29		g	yun	6	6	gyun6	J118		畜欄		
 1596.1	圌			29		s	eoi	4	4	seoi4	R119		山名		
 1596.2	圌			29		c	yun	4	4	cyun4	Q129		穀囤		
 1597.1	圍			29		w	ai	4	4	wai4	T23				
 1598.1	園			29		j	yun	4	4	jyun4	A57				
-1599.1	圓			29		j	yun	4	4	jyun4	A57				
+1599.1	圓		圎	29		j	yun	4	4	jyun4	A57				
 1600.1	團			29		t	yun	4	4	tyun4	G87				
-1601.1	圖			29		t	ou	4	4	tou4	G59				
+1601.1	圖		圗	29		t	ou	4	4	tou4	G59				
 1602.1	㘤			29		w	aan	1	1	waan1	T9				
-1603.1	圗			29		t	ou	4	4	tou4	G59			同圖	
+1603.1	圗		圖	29		t	ou	4	4	tou4	G59			同圖	
 1604.1	圛			29		j	ik	6	9	jik6	S68				
 1605.1	圜			29		j	yun	4	4	jyun4	A57		天體		
 1605.2	圜			29		w	aan	4	4	waan4	T11		通環		
@@ -2034,8 +2034,8 @@
 1638.1	坑			30		h	aang	1	1	haang1	O25				
 1639.1	圾			30		s	aap	3	8	saap3	R20		垃圾		
 1639.2	圾			30		k	ap	1	7	kap1	L20		危		
-1640.1	㘭			30			aau	3	3	aau3	A9			同坳	
-1640.2	㘭			30		ng	aau	3	3	ngaau3	N13	A		同坳	
+1640.1	㘭		坳	30			aau	3	3	aau3	A9			同坳	
+1640.2	㘭		坳	30		ng	aau	3	3	ngaau3	N13	A		同坳	
 1641.1	坩			30		h	am	1	1	ham1	O41				
 1641.2	坩			30		k	im	4	4	kim4	L32	C			
 1642.1	坷			30		h	o	2	2	ho2	O86				
@@ -2068,8 +2068,8 @@
 1665.1	坲			30		f	at	6	9	fat6	E24				
 1666.1	坡			30		b	o	1	1	bo1	B62				
 1667.1	坶			30		m	uk	6	9	muk6	D93				
-1668.1	坳			30			aau	3	3	aau3	A9				
-1668.2	坳			30		ng	aau	3	3	ngaau3	N13	A			
+1668.1	坳		㘭	30			aau	3	3	aau3	A9				
+1668.2	坳		㘭	30		ng	aau	3	3	ngaau3	N13	A			
 1669.1	垚			30		j	iu	4	4	jiu4	S42				
 1670.1	垣			30		w	un	4	4	wun4	T64				
 1671.1	垔			30		j	an	1	1	jan1	S19				
@@ -2082,8 +2082,8 @@
 1678.1	垢			30		g	au	3	3	gau3	J29		污垢		
 1678.2	垢			30		h	au	4	4	hau4	O38		封開縣白垢		
 1679.1	垕			30		h	au	6	6	hau6	O40				
-1680.1	垛			30		d	o	2	2	do2	F82				
-1681.1	垜			30		d	o	2	2	do2	F82			同垛	
+1680.1	垛		垜	30		d	o	2	2	do2	F82				
+1681.1	垜		垛	30		d	o	2	2	do2	F82			同垛	
 1682.1	垝			30		gw	ai	2	2	gwai2	K13				
 1683.1	垓			30		g	oi	1	1	goi1	J82				
 1684.1	垟			30		j	oeng	4	4	joeng4	S73				
@@ -2180,7 +2180,7 @@
 1753.1	堧			31		j	yun	4	4	jyun4	A57				
 1754.1	堦			31		g	aai	1	1	gaai1	J5			同階	
 1755.1	堤			31		t	ai	4	4	tai4	G18				
-1756.1	場			31		c	oeng	4	4	coeng4	Q106				
+1756.1	場		塲	31		c	oeng	4	4	coeng4	Q106				
 1757.1	堨			31			aat	3	8	aat3	A14		壁間縫隙		
 1757.2	堨			31		ng	aat	3	8	ngaat3	N26	A	壁間縫隙		
 1757.3	堨			31			oi	2	2	oi2	A37		青土		
@@ -2202,7 +2202,7 @@
 1771.1	堗			32		d	at	6	9	dat6	F42				
 1772.1	堳			32		m	ei	4	4	mei4	D45				
 1773.1	⿰土勇	C		32		j	ung	5	5	jung5	S86				
-1774.1	塟			32		z	ong	3	3	zong3	P104			同葬	
+1774.1	塟		葬	32		z	ong	3	3	zong3	P104			同葬	
 1775.1	塔			32		t	aap	3	8	taap3	G13				
 1776.1	塃			32		f	ong	1	1	fong1	E33				
 1777.1	塨			32		g	ung	1	1	gung1	J109				
@@ -2246,7 +2246,7 @@
 1807.2	塿			32		l	au	4	4	lau4	I29		墳頭		
 1808.1	墁			32		m	aan	6	6	maan6	D15				
 1809.1	塴			32		b	ang	1	1	bang1	B31				
-1810.1	塲			32		c	oeng	4	4	coeng4	Q106			同場	
+1810.1	塲		場	32		c	oeng	4	4	coeng4	Q106			同場	
 1811.1	墍		塈	32		h	ei	3	3	hei3	O62				
 1811.2	墍		塈	32		k	ei	3	3	kei3	L24	A			
 1812.1	㙡			32		z	ung	1	1	zung1	P123				
@@ -2261,7 +2261,7 @@
 1820.1	墒			32		s	oeng	1	1	soeng1	R109				
 1821.1	墚			32		l	oeng	4	4	loeng4	I94				
 1822.1	墀			32		c	i	4	4	ci4	Q62				
-1823.1	墋			32		c	am	2	2	cam2	Q37			同磣	
+1823.1	墋		𫮅	32		c	am	2	2	cam2	Q37			同磣	
 1824.1	墝			32		h	aau	1	1	haau1	O9			同磽	
 1825.1	𡑒			32		g	am	2	2	gam2	J32				
 1826.1	㙬			32		ng	an	4	4	ngan4	N49				
@@ -2277,8 +2277,8 @@
 1834.1	墯			33		d	o	6	6	do6	F84			同墮	
 1834.2	墯			33		f	ai	1	1	fai1	E11			同墮	
 1835.1	墡			33		s	in	6	6	sin6	R84				
-1836.1	增			33		z	ang	1	1	zang1	P44				
-1836.2	增			33		c	ang	4	4	cang4	Q47			通層	
+1836.1	增		増	33		z	ang	1	1	zang1	P44				
+1836.2	增		増	33		c	ang	4	4	cang4	Q47			通層	
 1837.1	墮			33		d	o	6	6	do6	F84				
 1837.2	墮			33		f	ai	1	1	fai1	E11			通隳	
 1838.1	墜			33		z	eoi	6	6	zeoi6	P117				
@@ -2332,8 +2332,8 @@
 1877.1	壪			33		w	aan	1	1	waan1	T9				
 1878.1	士			33		s	i	6	6	si6	R68				
 1879.1	壬			33		j	am	4	4	jam4	S16				
-1880.1	壯			33		z	ong	1	1	zong1	P102		強壯		
-1880.2	壯			33		z	ong	3	3	zong3	P104		姓		
+1880.1	壯		壮	33		z	ong	1	1	zong1	P102		強壯		
+1880.2	壯		壮	33		z	ong	3	3	zong3	P104		姓		
 1881.1	壳			33		h	ok	3	8	hok3	O107			同殼	
 1881.2	壳			33		h	ok	3	8	hok3	O107			同殼	
 1882.1	壹			33		j	at	1	7	jat1	S27				
@@ -2341,7 +2341,7 @@
 1883.1	壺			33		w	u	4	4	wu4	T56				
 1884.1	壻			33		s	ai	3	3	sai3	R26			同婿	
 1885.1	壼			34		kw	an	2	2	kwan2	M15				
-1886.1	壽			34		s	au	6	6	sau6	R32				
+1886.1	壽		夀	34		s	au	6	6	sau6	R32				
 1887.1	壿			34		d	eon	1	1	deon1	F96			同蹲	
 1887.2	壿			34		c	yun	4	4	cyun4	Q129	G		同蹲	
 1888.1	夂			34		z	i	2	2	zi2	P65				
@@ -2353,8 +2353,8 @@
 1891.1	夊			34		s	eoi	1	1	seoi1	R116				
 1892.1	夏			34		h	aa	6	6	haa6	O4		夏季		
 1892.2	夏			34		g	aa	2	2	gaa2	J2		夏楚		
-1893.1	夐			34		h	ing	3	3	hing3	O78		遠		
-1893.2	夐			34		h	yun	3	3	hyun3	O125		營求		
+1893.1	夐		敻|𢿌	34		h	ing	3	3	hing3	O78		遠		
+1893.2	夐		敻|𢿌	34		h	yun	3	3	hyun3	O125		營求		
 1894.1	夒			34		n	aau	4	4	naau4	H8			猱(本)	
 1895.1	夔			34		kw	ai	4	4	kwai4	M12				
 1896.1	夕			34		z	ik	6	9	zik6	P90				
@@ -2365,8 +2365,8 @@
 1900.1	夙			34		s	uk	1	7	suk1	R134				
 1901.1	多			34		d	o	1	1	do1	F81				
 1902.1	夜			34		j	e	6	6	je6	S31				
-1903.1	够			34		g	au	3	3	gau3	J29				
-1904.1	夠			34		g	au	3	3	gau3	J29			同够	
+1903.1	够		夠	34		g	au	3	3	gau3	J29				
+1904.1	夠		够	34		g	au	3	3	gau3	J29			同够	
 1905.1	夥			34		f	o	2	2	fo2	E31				
 1906.1	夢			34		m	ung	6	6	mung6	D92				
 1907.1	夤			34		j	an	4	4	jan4	S22				
@@ -2380,7 +2380,7 @@
 1913.1	夭			34		j	iu	1	1	jiu1	S39		草盛貌		
 1913.2	夭			34		j	iu	2	2	jiu2	S40		夭折		
 1914.1	夬			34		gw	aai	3	3	gwaai3	K6				
-1915.1	夲			34		t	ou	1	1	tou1	G56				
+1915.1	夲		本	34		t	ou	1	1	tou1	G56				
 1916.1	央			34		j	oeng	1	1	joeng1	S70				
 1917.1	失			34		s	at	1	7	sat1	R46		遺失		
 1917.2	失			34		j	at	6	9	jat6	S28			同逸	
@@ -2428,14 +2428,14 @@
 1946.1	𡙇			35		k	yut	3	8	kyut3	L62			同缺	
 1947.1	㚟			35		c	oek	3	8	coek3	Q107				
 1948.1	奠			35		d	in	6	6	din6	F66				
-1949.1	奧			35			ou	3	3	ou3	A32				
-1949.2	奧			35		ng	ou	3	3	ngou3	N60	A			
-1949.3	奧			35		j	uk	1	7	juk1	S88			通燠	
-1949.4	奧			35			ou	2	2	ou2	A31	A		通燠	
+1949.1	奧		奥	35			ou	3	3	ou3	A32				
+1949.2	奧		奥	35		ng	ou	3	3	ngou3	N60	A			
+1949.3	奧		奥	35		j	uk	1	7	juk1	S88			通燠	
+1949.4	奧		奥	35			ou	2	2	ou2	A31	A		通燠	
 1950.1	奩			35		l	im	4	4	lim4	I58				
 1951.1	奪			35		d	yut	6	9	dyut6	F109				
 1952.1	𡚁			35		b	ai	6	6	bai6	B25			同弊	
-1953.1	奬			35		z	oeng	2	2	zoeng2	P109				
+1953.1	奬		奨|獎	35		z	oeng	2	2	zoeng2	P109				
 1954.1	奫			35		j	yun	1	1	jyun1	A54				
 1955.1	奭			35		s	ik	1	7	sik1	R93				
 1956.1	奮			35		f	an	5	5	fan5	E21				
@@ -2461,7 +2461,7 @@
 1972.1	妣			36		b	ei	2	2	bei2	B36				
 1973.1	妙			36		m	iu	6	6	miu6	D57				
 1974.1	㚩			36		j	im	5	5	jim5	S49			同姌	
-1975.1	妝			36		z	ong	1	1	zong1	P102				
+1975.1	妝		妆	36		z	ong	1	1	zong1	P102				
 1976.1	妠			36		n	aap	6	9	naap6	H17				
 1977.1	妊			36		j	am	4	4	jam4	S16				
 1978.1	妖			36		j	iu	1	1	jiu1	S39				
@@ -2472,7 +2472,7 @@
 1983.1	妨			36		f	ong	4	4	fong4	E36				
 1984.1	妒			36		d	ou	3	3	dou3	F79				
 1985.1	妞			36		n	au	2	2	nau2	H22				
-1986.1	妍			36		j	in	4	4	jin4	S54				
+1986.1	妍		姸	36		j	in	4	4	jin4	S54				
 1987.1	妤			36		j	yu	4	4	jyu4	A51				
 1988.1	妹			36		m	ui	6	6	mui6	D82				
 1989.1	妺			36		m	ut	6	9	mut6	D88				
@@ -2487,7 +2487,7 @@
 1996.2	妲			36		t	aan	2	2	taan2	G10	C			
 1997.1	妯			36		z	uk	6	9	zuk6	P129				
 1998.1	姌			36		j	im	5	5	jim5	S49				
-1999.1	姍			36		s	aan	1	1	saan1	R14			同姗	
+1999.1	姍		姗	36		s	aan	1	1	saan1	R14			同姗	
 2000.1	姓			36		s	ing	3	3	sing3	R90				
 2000.2	姓			36		s	eng	3	3	seng3	R59	V			
 2001.1	妷			36		z	at	6	9	zat6	P50			同侄	
@@ -2496,7 +2496,7 @@
 2003.1	姊			36		z	i	2	2	zi2	P65				
 2003.2	姊			36		z	e	2	2	ze2	P53	A			
 2004.1	姁			36		h	eoi	2	2	heoi2	O114				
-2005.1	姗			36		s	aan	1	1	saan1	R14				
+2005.1	姗		姍	36		s	aan	1	1	saan1	R14				
 2006.1	妳			36		n	aai	5	5	naai5	H6		乳房	同奶	
 2006.2	妳			36		n	ei	5	5	nei5	H34			同你	
 2007.1	姉			36		z	i	2	2	zi2	P65			同姊	
@@ -2508,9 +2508,9 @@
 2012.1	姒			36		c	i	5	5	ci5	Q63				
 2013.1	姆			36		m	ou	5	5	mou5	D69				
 2014.1	㛃			36		g	it	3	8	git3	J68				字條誤植「契」
-2015.1	姸			36		j	in	4	4	jin4	S54				
+2015.1	姸		妍	36		j	in	4	4	jin4	S54				
 2016.1	娀			36		s	ung	1	1	sung1	R130				
-2017.1	姬			36		g	ei	1	1	gei1	J46				
+2017.1	姬		姫	36		g	ei	1	1	gei1	J46				
 2018.1	娃			36		w	aa	1	1	waa1	T1				
 2019.1	威			36		w	ai	1	1	wai1	T20				
 2020.1	姞			36		g	at	1	7	gat1	J44				
@@ -2547,7 +2547,7 @@
 2045.1	娉			37		p	ing	1	1	ping1	C46				
 2046.1	娖			37		c	uk	1	7	cuk1	Q121				
 2047.1	娟			37		g	yun	1	1	gyun1	J115				
-2048.1	娛			37		j	yu	4	4	jyu4	A51				
+2048.1	娛		娯|娱	37		j	yu	4	4	jyu4	A51				
 2049.1	娥			37		ng	o	4	4	ngo4	N64				
 2050.1	娒			37		m	ou	5	5	mou5	D69			古侮字	
 2051.1	娩			37		m	in	5	5	min5	D59		分娩		
@@ -2571,7 +2571,7 @@
 2063.2	婭			37		ng	aa	3	3	ngaa3	N3	A			
 2064.1	娸			37		h	ei	1	1	hei1	O60				
 2065.1	婪			37		l	aam	4	4	laam4	I9				
-2066.1	婕			37		z	it	3	8	zit3	P82				
+2066.1	婕		媫	37		z	it	3	8	zit3	P82				
 2067.1	婓			37		f	ei	4	4	fei4	E27				
 2067.2	婓			37		f	ei	1	1	fei1	E25	A			
 2068.1	婥			37		c	oek	3	8	coek3	Q107				
@@ -2611,8 +2611,8 @@
 2098.1	媦			37		w	ai	6	6	wai6	T25				
 2099.1	媧			37		w	o	1	1	wo1	T40				
 2100.1	㛹			37		p	in	4	4	pin4	C43				
-2101.1	媮			37		t	au	1	1	tau1	G20			同偷	
-2101.2	媮			37		j	yu	4	4	jyu4	A51			通愉	
+2101.1	媮		婾	37		t	au	1	1	tau1	G20			同偷	
+2101.2	媮		婾	37		j	yu	4	4	jyu4	A51			通愉	
 2102.1	媕			37			am	1	1	am1	A22				
 2102.2	媕			37		ng	am	1	1	ngam1	N42	A			
 2103.1	媛			37		j	yun	4	4	jyun4	A57		嬋媛		
@@ -2626,13 +2626,13 @@
 2109.1	媚			37		m	ei	6	6	mei6	D47				
 2110.1	婿			37		s	ai	3	3	sai3	R26				
 2111.1	婺			37		m	ou	6	6	mou6	D70				
-2112.1	媯			37		gw	ai	1	1	gwai1	K12			同嬀	
+2112.1	媯		嬀	37		gw	ai	1	1	gwai1	K12			同嬀	
 2113.1	媾			38		g	au	3	3	gau3	J29				
 2114.1	嫄			38		j	yun	4	4	jyun4	A57				
 2115.1	媽			38		m	aa	1	1	maa1	D1				
 2116.1	媸			38		c	i	1	1	ci1	Q59				
 2117.1	媺			38		m	ei	5	5	mei5	D46				
-2118.1	媼			38			ou	2	2	ou2	A31				
+2118.1	媼		媪	38			ou	2	2	ou2	A31				
 2119.1	嫂			38		s	ou	2	2	sou2	R97				
 2120.1	媳			38		s	ik	1	7	sik1	R93				
 2121.1	媿			38		gw	ai	2	2	gwai2	K13		媿氏		
@@ -2683,7 +2683,7 @@
 2164.1	嫶			38		c	iu	4	4	ciu4	Q67				
 2164.2	嫶			38		z	iu	1	1	ziu1	P68	A			
 2165.1	嬃			38		s	eoi	1	1	seoi1	R116				
-2166.1	嬀			38		gw	ai	1	1	gwai1	K12				
+2166.1	嬀		媯	38		gw	ai	1	1	gwai1	K12				
 2167.1	嫿			38		w	aak	6	9	waak6	T19				
 2168.1	嫻			38		h	aan	4	4	haan4	O22				
 2169.1	嫺			38		h	aan	4	4	haan4	O22			同嫻	
@@ -2704,7 +2704,7 @@
 2180.1	嬰			38		j	ing	1	1	jing1	S61				
 2181.1	嬲			38		n	au	1	1	nau1	H21		戲弄		
 2181.2	嬲			38		n	iu	5	5	niu5	H39	D	怒、恨		
-2182.1	嬤			38		m	aa	1	1	maa1	D1				
+2182.1	嬤		嬷	38		m	aa	1	1	maa1	D1				
 2183.1	嬴			38		j	ing	4	4	jing4	S64				
 2184.1	嬪			38		p	an	4	4	pan4	C25				
 2185.1	嬥			38		t	iu	5	5	tiu5	G38				
@@ -2742,7 +2742,7 @@
 2216.1	孩			39		h	aai	4	4	haai4	O6				
 2216.2	孩			39		h	oi	4	4	hoi4	O91	G			
 2217.1	孬			39		b	ou	2	2	bou2	B59				
-2218.1	孭			39		m	e	1	1	me1	D48				
+2218.1	孭		𧴯	39		m	e	1	1	me1	D48				
 2219.1	㝃			39		m	in	5	5	min5	D59		分㝃	同娩	
 2220.1	孫			39		s	yun	1	1	syun1	R142		子孫		
 2220.2	孫			39		s	eon	3	3	seon3	R124		通遜		
@@ -2752,22 +2752,22 @@
 2223.2	孱			39		s	aan	4	4	saan4	R17				
 2224.1	㝅			39		g	au	3	3	gau3	J29				
 2224.2	㝅			39		n	au	6	6	nau6	H24	A			
-2225.1	孳			39		z	i	1	1	zi1	P64				
+2225.1	孳		孶	39		z	i	1	1	zi1	P64				
 2226.1	孵			39		f	u	1	1	fu1	E38				
 2227.1	學			39		h	ok	6	9	hok6	O108				
 2228.1	孺			39		j	yu	4	4	jyu4	A51				
 2228.2	孺			39		j	yu	6	6	jyu6	A53	A			
 2229.1	孻			39		l	aai	1	1	laai1	I4				
-2230.1	孼			39		j	ip	6	9	jip6	S58	A		同孽	
-2230.2	孼			39		j	it	6	9	jit6	S60			同孽	
-2231.1	孽			39		j	it	6	9	jit6	S60				
-2231.2	孽			39		j	ip	6	9	jip6	S58	A			
+2230.1	孼		孽	39		j	ip	6	9	jip6	S58	A		同孽	
+2230.2	孼		孽	39		j	it	6	9	jit6	S60			同孽	
+2231.1	孽		孼	39		j	it	6	9	jit6	S60				
+2231.2	孽		孼	39		j	ip	6	9	jip6	S58	A			
 2232.1	孿			40		l	yun	4	4	lyun4	I114				
 2233.1	宀			40		m	in	4	4	min4	D58				
 2234.1	宁			40		c	yu	5	5	cyu5	Q125				
 2235.1	它			40		t	aa	1	1	taa1	G1		指物代詞		
 2235.2	它			40		t	o	1	1	to1	G61	A	其它		
-2236.1	宂			40		j	ung	2	2	jung2	S84			同冗	
+2236.1	宂		冗	40		j	ung	2	2	jung2	S84			同冗	
 2237.1	宄			40		gw	ai	2	2	gwai2	K13				
 2238.1	宇			40		j	yu	5	5	jyu5	A52				
 2239.1	守			40		s	au	2	2	sau2	R29		守衞		
@@ -2802,13 +2802,13 @@
 2263.1	害			40		h	oi	6	6	hoi6	O93		損害		
 2263.2	害			40		h	ot	3	8	hot3	O106		通曷		
 2264.1	宸			40		s	an	4	4	san4	R39				
-2265.1	宼			40		k	au	3	3	kau3	L10			同寇	
+2265.1	宼		寇	40		k	au	3	3	kau3	L10			同寇	
 2266.1	家			40		g	aa	1	1	gaa1	J1		家庭		
 2266.2	家			40		g	u	1	1	gu1	J102			通姑	
 2267.1	宬			40		s	ing	4	4	sing4	R91				
 2268.1	宵			40		s	iu	1	1	siu1	R69				
 2269.1	宴			40		j	in	3	3	jin3	S53				
-2270.1	宮			40		g	ung	1	1	gung1	J109				
+2270.1	宮		宫	40		g	ung	1	1	gung1	J109				
 2271.1	𡨘			40		j	yun	1	1	jyun1	A54			同冤	
 2272.1	容			40		j	ung	4	4	jung4	S85				
 2273.1	宰			40		z	oi	2	2	zoi2	P99				
@@ -2828,18 +2828,18 @@
 2285.1	宿			40		s	uk	1	7	suk1	R134		住宿		
 2285.2	宿			40		s	au	3	3	sau3	R30		星宿		
 2286.1	寀			40		c	oi	2	2	coi2	Q95				
-2287.1	寃			40		j	yun	1	1	jyun1	A54			同冤	
+2287.1	寃		冤	40		j	yun	1	1	jyun1	A54			同冤	
 2288.1	密			40		m	at	6	9	mat6	D41				
 2289.1	寒			40		h	on	4	4	hon4	O97				
 2290.1	富			40		f	u	3	3	fu3	E40				
-2291.1	寕			40		n	ing	4	4	ning4	H52		安寕	同寧	
-2291.2	寕			40		n	ing	6	6	ning6	H53		寕可	同寧	
+2291.1	寕		寜|寧	40		n	ing	4	4	ning4	H52		安寕	同寧	
+2291.2	寕		寜|寧	40		n	ing	6	6	ning6	H53		寕可	同寧	
 2292.1	寔			40		s	at	6	9	sat6	R47			同實	
 2293.1	寓			40		j	yu	6	6	jyu6	A53				
 2294.1	寑			41		c	am	2	2	cam2	Q37			同寢	
 2295.1	㝢			41		j	yu	5	5	jyu5	A52			古宇字	
-2296.1	甯			41		n	ing	6	6	ning6	H53		姓		
-2296.2	甯			41		n	ing	4	4	ning4	H52		安甯	同寧	
+2296.1	甯		寗|𡩋	41		n	ing	6	6	ning6	H53		姓		
+2296.2	甯		寗|𡩋	41		n	ing	4	4	ning4	H52		安甯	同寧	
 2297.1	寍			41		n	ing	4	4	ning4	H52		安寍	古寧字	
 2297.2	寍			41		n	ing	6	6	ning6	H53		寍可	古寧字	
 2298.1	寐			41		m	ei	6	6	mei6	D47				
@@ -2847,8 +2847,8 @@
 2300.1	寘			41		t	in	4	4	tin4	G47		寘顏山		
 2300.2	寘			41		z	i	3	3	zi3	P66			同置	
 2301.1	寖			41		z	am	3	3	zam3	P38			同浸	
-2302.1	寗			41		n	ing	4	4	ning4	H52		安寗	同寧	
-2302.2	寗			41		n	ing	6	6	ning6	H53		寗可	同寧	
+2302.1	寗		甯|𡩋	41		n	ing	4	4	ning4	H52		安寗	同寧	
+2302.2	寗		甯|𡩋	41		n	ing	6	6	ning6	H53		寗可	同寧	
 2303.1	㝬			41		w	u	4	4	wu4	T56				
 2304.1	寨			41		z	aai	6	6	zaai6	P7				
 2305.1	寞			41		m	ok	6	9	mok6	D79				
@@ -2857,16 +2857,16 @@
 2307.2	寠			41		l	au	4	4	lau4	I29		甌窶	同窶	
 2308.1	察			41		c	aat	3	8	caat3	Q24				
 2309.1	㝩			41		h	ong	1	1	hong1	O100				
-2310.1	寧			41		n	ing	4	4	ning4	H52		安寧		
-2310.2	寧			41		n	ing	6	6	ning6	H53		寧可		
+2310.1	寧		寜	41		n	ing	4	4	ning4	H52		安寧		
+2310.2	寧		寜	41		n	ing	6	6	ning6	H53		寧可		
 2311.1	寤			41			ng	6	6	ng6	N88				
 2312.1	寣			41		f	u	1	1	fu1	E38				
-2313.1	寢			41		c	am	2	2	cam2	Q37				
+2313.1	寢		寝	41		c	am	2	2	cam2	Q37				
 2314.1	寥			41		l	iu	4	4	liu4	I55				
 2315.1	實			41		s	at	6	9	sat6	R47				
-2316.1	寬			41		f	un	1	1	fun1	E47				
+2316.1	寬		寛	41		f	un	1	1	fun1	E47				
 2317.1	寮			41		l	iu	4	4	liu4	I55				
-2318.1	寫			41		s	e	2	2	se2	R52				
+2318.1	寫		冩	41		s	e	2	2	se2	R52				
 2319.1	審			41		s	am	2	2	sam2	R34				
 2320.1	鞌			41			on	1	1	on1	A39				
 2320.2	鞌			41		ng	on	1	1	ngon1	N72	A			
@@ -2874,41 +2874,41 @@
 2322.1	寰			41		w	aan	4	4	waan4	T11				
 2323.1	寯			41		z	eon	3	3	zeon3	P120				
 2324.1	寱			41		ng	ai	6	6	ngai6	N35			囈(本)	
-2325.1	寳			41		b	ou	2	2	bou2	B59			同寶	
-2326.1	寵			41		c	ung	2	2	cung2	Q117				
-2327.1	寶			41		b	ou	2	2	bou2	B59				
+2325.1	寳		寶	41		b	ou	2	2	bou2	B59			同寶	
+2326.1	寵		𠖥	41		c	ung	2	2	cung2	Q117				
+2327.1	寶		寳	41		b	ou	2	2	bou2	B59				
 2328.1	㝱			41		m	ung	6	6	mung6	D92			夢(本)	
 2329.1	寸			41		c	yun	3	3	cyun3	Q128				
 2330.1	寺			41		z	i	6	6	zi6	P67				
 2331.1	寽			41		l	yut	3	8	lyut3	I117				
 2332.1	尀			41		p	o	2	2	po2	C56				
 2333.1	封			41		f	ung	1	1	fung1	E50				
-2334.1	尅			41		h	ak	1	7	hak1	O59			同剋	
+2334.1	尅		剋	41		h	ak	1	7	hak1	O59			同剋	
 2335.1	射			41		s	e	6	6	se6	R56		射箭		
 2335.2	射			41		j	e	6	6	je6	S31		僕射		
 2335.3	射			41		j	ik	6	9	jik6	S68		無射		
 2336.1	尃			41		f	u	1	1	fu1	E38				
-2337.1	專			41		z	yun	1	1	zyun1	P134				
-2338.1	將			41		z	oeng	1	1	zoeng1	P108		將近		
-2338.2	將			41		z	oeng	3	3	zoeng3	P110		將領		
-2338.3	將			41		c	oeng	1	1	coeng1	Q103		請、願		
+2337.1	專		専	41		z	yun	1	1	zyun1	P134				
+2338.1	將		将	41		z	oeng	1	1	zoeng1	P108		將近		
+2338.2	將		将	41		z	oeng	3	3	zoeng3	P110		將領		
+2338.3	將		将	41		c	oeng	1	1	coeng1	Q103		請、願		
 2339.1	尉			41		w	ai	3	3	wai3	T22		校尉		
 2339.2	尉			41		w	at	1	7	wat1	T33		尉遲		
 2340.1	尊			41		z	yun	1	1	zyun1	P134				
 2341.1	尋			41		c	am	4	4	cam4	Q39				
 2342.1	𡬶			42		c	am	4	4	cam4	Q39				
-2343.1	夀			42		s	au	6	6	sau6	R32				
+2343.1	夀		壽	42		s	au	6	6	sau6	R32				
 2344.1	對			42		d	eoi	3	3	deoi3	F94				
 2345.1	導			42		d	ou	6	6	dou6	F80				
 2346.1	小			42		s	iu	2	2	siu2	R70				
 2347.1	少			42		s	iu	2	2	siu2	R70		多少		
 2347.2	少			42		s	iu	3	3	siu3	R71		老少		
 2348.1	尒			42		j	i	5	5	ji5	S37			同爾	
-2349.1	尔			42		j	i	5	5	ji5	S37			同爾	
+2349.1	尔		尓	42		j	i	5	5	ji5	S37			同爾	
 2350.1	尕			42		g	aa	1	1	gaa1	J1				
 2351.1	尘			42		c	an	4	4	can4	Q44			古塵字	
 2352.1	尖			42		z	im	1	1	zim1	P72				
-2353.1	尚			42		s	oeng	6	6	soeng6	R114				
+2353.1	尚		尙	42		s	oeng	6	6	soeng6	R114				
 2354.1	尜			42		g	aa	1	1	gaa1	J1				
 2355.1	尞			42		l	iu	4	4	liu4	I55			燎(本)	
 2356.1	㝹			42		n	au	4	4	nau4	H23				
@@ -2918,16 +2918,16 @@
 2359.2	尢			42		w	ong	1	1	wong1	T46			尪(本)	
 2360.1	尤			42		j	au	4	4	jau4	S10				
 2361.1	尥			42		l	iu	6	6	liu6	I57				
-2362.1	尪			42		w	ong	1	1	wong1	T46				
+2362.1	尪		尩|尫	42		w	ong	1	1	wong1	T46				
 2363.1	尨			42		m	ong	4	4	mong4	D75		多毛的狗		
 2363.2	尨			42		p	ong	4	4	pong4	C61		通龐		
 2363.3	尨			42		m	ung	4	4	mung4	D90		尨茸		
-2364.1	尬			42		g	aai	3	3	gaai3	J7				
+2364.1	尬		𡯓	42		g	aai	3	3	gaai3	J7				
 2365.1	卼			42		ng	at	6	9	ngat6	N56				
 2366.1	就			42		z	au	6	6	zau6	P35				
 2367.1	尰			42		z	ung	2	2	zung2	P124				
 2368.1	尲			42		g	aam	1	1	gaam1	J11			同尷	
-2369.1	尷			42		g	aam	1	1	gaam1	J11				
+2369.1	尷		尶	42		g	aam	1	1	gaam1	J11				
 2370.1	尸			42		s	i	1	1	si1	R63				
 2371.1	尹			42		w	an	5	5	wan5	T30				
 2372.1	尺			42		c	ek	3	8	cek3	Q58		尺寸		
@@ -2940,10 +2940,10 @@
 2378.1	局			42		g	uk	6	9	guk6	J114				
 2379.1	尿			43		n	iu	6	6	niu6	H40		名詞		
 2379.2	尿			43		s	eoi	1	1	seoi1	R116		動詞		
-2380.1	屆			43		g	aai	3	3	gaai3	J7			同届	
+2380.1	屆		届	43		g	aai	3	3	gaai3	J7			同届	
 2381.1	屉			43		t	ai	3	3	tai3	G17				
 2382.1	居			43		g	eoi	1	1	geoi1	J98				
-2383.1	届			43		g	aai	3	3	gaai3	J7				
+2383.1	届		屆	43		g	aai	3	3	gaai3	J7				
 2384.1	屈			43		w	at	1	7	wat1	T33				
 2385.1	屄			43		b	ei	1	1	bei1	B35				
 2386.1	屍			43		s	i	1	1	si1	R63				
@@ -2963,8 +2963,8 @@
 2394.1	屐			43		k	ek	6	9	kek6	L28				
 2395.1	屝			43		f	ei	2	2	fei2	E26				
 2396.1	屜			43		t	ai	3	3	tai3	G17				
-2397.1	屏			43		p	ing	4	4	ping4	C48		屏風		
-2397.2	屏			43		b	ing	2	2	bing2	B54		屏息		
+2397.1	屏		屛	43		p	ing	4	4	ping4	C48		屏風		
+2397.2	屏		屛	43		b	ing	2	2	bing2	B54		屏息		
 2398.1	屙			43			o	1	1	o1	A33				
 2398.2	屙			43		ng	o	1	1	ngo1	N63	A			
 2399.1	屠			43		t	ou	4	4	tou4	G59				
@@ -3035,10 +3035,10 @@
 2454.1	峙			44		s	i	6	6	si6	R68				
 2455.1	峘			44		w	un	4	4	wun4	T64				
 2456.1	峛			44		l	ei	5	5	lei5	I43				
-2457.1	峝			44		d	ung	6	6	dung6	F102		山峝	同峒	
-2457.2	峝			44		t	ung	4	4	tung4	G85		崆峝山	同峒	
-2458.1	峒			44		d	ung	6	6	dung6	F102		山峒		
-2458.2	峒			44		t	ung	4	4	tung4	G85		崆峒山		
+2457.1	峝		峒	44		d	ung	6	6	dung6	F102		山峝	同峒	
+2457.2	峝		峒	44		t	ung	4	4	tung4	G85		崆峝山	同峒	
+2458.1	峒		峝	44		d	ung	6	6	dung6	F102		山峒		
+2458.2	峒		峝	44		t	ung	4	4	tung4	G85		崆峒山		
 2459.1	峊			44		f	au	6	6	fau6	E16				
 2460.1	峉			44		ng	aak	6	9	ngaak6	N29				
 2461.1	峋			44		s	eon	1	1	seon1	R122				
@@ -3060,8 +3060,8 @@
 2475.2	峪			44		j	yu	6	6	jyu6	A53	A			
 2476.1	㟏			44		h	am	4	4	ham4	O44				
 2477.1	峱			44		n	aau	4	4	naau4	H8				
-2478.1	峯			44		f	ung	1	1	fung1	E50			通峰	
-2479.1	峰			44		f	ung	1	1	fung1	E50				
+2478.1	峯		峰	44		f	ung	1	1	fung1	E50			通峰	
+2479.1	峰		峯	44		f	ung	1	1	fung1	E50				
 2480.1	崀			44		l	ong	5	5	long5	I87				
 2481.1	峻			44		z	eon	3	3	zeon3	P120				
 2482.1	崝			44		z	ang	1	1	zang1	P44				
@@ -3087,7 +3087,7 @@
 2500.1	崙			45		l	eon	4	4	leon4	I103				
 2501.1	崘			45		l	eon	4	4	leon4	I103			通崙	
 2502.1	崤			45		ng	aau	4	4	ngaau4	N14				
-2503.1	崢			45		z	aang	1	1	zaang1	P19				
+2503.1	崢		峥	45		z	aang	1	1	zaang1	P19				
 2504.1	崩			45		b	ang	1	1	bang1	B31				
 2505.1	崞			45		gw	ok	3	8	gwok3	K32				
 2506.1	崒			45		z	eot	1	7	zeot1	P122				
@@ -3189,10 +3189,10 @@
 2592.1	巏			46		k	yun	4	4	kyun4	L61				
 2593.1	巎			46		n	aau	4	4	naau4	H8				
 2594.1	巍			46		ng	ai	4	4	ngai4	N33				
-2595.1	巔			46		d	in	1	1	din1	F63				
+2595.1	巔		巓	46		d	in	1	1	din1	F63				
 2596.1	巒			46		l	yun	4	4	lyun4	I114				
 2597.1	㠧			46		m	ei	5	5	mei5	D46				
-2598.1	巘			46		j	in	5	5	jin5	S55				
+2598.1	巘		巚	46		j	in	5	5	jin5	S55				
 2599.1	巖			46		ng	aam	4	4	ngaam4	N18				
 2600.1	巗			46		ng	aam	4	4	ngaam4	N18			同巖	
 2601.1	巛			46		c	yun	1	1	cyun1	Q126			古川字	
@@ -3258,14 +3258,14 @@
 2655.1	帨			47		s	eoi	3	3	seoi3	R118				
 2656.1	⿰巾完	C		47		w	un	2	2	wun2	T63				
 2657.1	帬			47		kw	an	4	4	kwan4	M17			同裙	
-2658.1	帶			47		d	aai	3	3	daai3	F5				
+2658.1	帶		帯	47		d	aai	3	3	daai3	F5				
 2659.1	帴			47		z	in	2	2	zin2	P77		狹		
 2659.2	帴			47		z	in	1	1	zin1	P76		通韉		
 2660.1	帳			47		z	oeng	3	3	zoeng3	P110				
 2661.1	常			47		s	oeng	4	4	soeng4	R112				
 2662.1	㡌			47		m	ou	6	6	mou6	D70			同帽	
 2663.1	帷			47		w	ai	4	4	wai4	T23				
-2664.1	帲			47		p	ing	4	4	ping4	C48				
+2664.1	帲		帡	47		p	ing	4	4	ping4	C48				
 2665.1	幇			47		b	ong	1	1	bong1	B65			同幫	
 2666.1	幅			47		f	uk	1	7	fuk1	E55				
 2667.1	幀			47		z	ing	3	3	zing3	P86				
@@ -3319,12 +3319,12 @@
 2709.1	平			48		p	ing	4	4	ping4	C48		平坦		
 2709.2	平			48		p	eng	4	4	peng4	C34		價廉		
 2710.1	年			48		n	in	4	4	nin4	H47				
-2711.1	幵			48		h	in	1	1	hin1	O71				
-2712.1	幷			48		b	ing	6	6	bing6	B56		同並		
-2712.2	幷			48		b	ing	1	1	bing1	B53		幷州		
+2711.1	幵		开	48		h	in	1	1	hin1	O71				
+2712.1	幷		并	48		b	ing	6	6	bing6	B56		同並		
+2712.2	幷		并	48		b	ing	1	1	bing1	B53		幷州		
 2713.1	幸			48		h	ang	6	6	hang6	O54				
 2714.1	幹			48		g	on	3	3	gon3	J87				
-2715.1	幺			48		j	iu	1	1	jiu1	S39				
+2715.1	幺		么	48		j	iu	1	1	jiu1	S39				
 2716.1	幻			48		w	aan	6	6	waan6	T13				
 2717.1	乣			48		k	au	4	4	kau4	L11				
 2718.1	幼			48		j	au	3	3	jau3	S9				
@@ -3379,12 +3379,12 @@
 2758.1	康			49		h	ong	1	1	hong1	O100				
 2759.1	庿			49		m	iu	6	6	miu6	D57			古廟字	
 2760.1	廂			49		s	oeng	1	1	soeng1	R109				
-2761.1	廁			49		c	i	3	3	ci3	Q61			同厠	
+2761.1	廁		厠	49		c	i	3	3	ci3	Q61			同厠	
 2762.1	庽			49		j	yu	6	6	jyu6	A53			同寓	
 2763.1	庾			49		j	yu	4	4	jyu4	A51				
 2763.2	庾			49		j	yu	5	5	jyu5	A52	G			
 2764.1	廀			49		s	au	1	1	sau1	R28			古廋字	
-2765.1	廈			49		h	aa	6	6	haa6	O4				
+2765.1	廈		厦	49		h	aa	6	6	haa6	O4				
 2766.1	廋			49		s	au	1	1	sau1	R28				
 2767.1	廆			49		gw	ai	1	1	gwai1	K12		山名		
 2767.2	廆			49		w	ai	2	2	wai2	T21		人名		
@@ -3394,23 +3394,23 @@
 2771.1	廌			49		z	i	6	6	zi6	P67				
 2771.2	廌			49		z	aai	6	6	zaai6	P7	A			
 2772.1	廒			49		ng	ou	4	4	ngou4	N61				
-2773.1	廑			49		k	an	4	4	kan4	L17		勤勞		
-2773.2	廑			49		g	an	2	2	gan2	J36		才；只		
+2773.1	廑		厪	49		k	an	4	4	kan4	L17		勤勞		
+2773.2	廑		厪	49		g	an	2	2	gan2	J36		才；只		
 2774.1	廎			49		k	ing	2	2	king2	L37				
 2775.1	廔			49		l	au	4	4	lau4	I29			同樓	
-2776.1	廐			49		g	au	3	3	gau3	J29				
-2777.1	廏			49		g	au	3	3	gau3	J29			同廐	
+2776.1	廐		厩	49		g	au	3	3	gau3	J29				
+2777.1	廏		廄	49		g	au	3	3	gau3	J29			同廐	
 2778.1	廓			50		gw	ok	3	8	gwok3	K32				
 2778.2	廓			50		kw	ok	3	8	kwok3	M18	A			
 2779.1	㢓			50		z	oeng	3	3	zoeng3	P110			同障	
 2780.1	廖			50		l	iu	6	6	liu6	I57				
 2781.1	廕			50		j	am	3	3	jam3	S15			同蔭	
-2782.1	廚			50		c	yu	4	4	cyu4	Q124				
-2782.2	廚			50		c	eoi	4	4	ceoi4	Q111	A			
+2782.1	廚		㕑|厨|𢊍	50		c	yu	4	4	cyu4	Q124				
+2782.2	廚		㕑|厨|𢊍	50		c	eoi	4	4	ceoi4	Q111	A			
 2783.1	廝			50		s	i	1	1	si1	R63			同厮	
 2784.1	廣			50		gw	ong	2	2	gwong2	K30				
 2785.1	廟			50		m	iu	6	6	miu6	D57				
-2786.1	廠			50		c	ong	2	2	cong2	Q99				
+2786.1	廠		厰	50		c	ong	2	2	cong2	Q99				
 2787.1	廛			50		c	in	4	4	cin4	Q74				
 2788.1	廙			50		j	i	6	6	ji6	S38				
 2789.1	廡			50		m	ou	5	5	mou5	D69				
@@ -3421,21 +3421,21 @@
 2794.1	廥			50		k	ui	2	2	kui2	L56				
 2795.1	廨			50		h	aai	6	6	haai6	O8				
 2795.2	廨			50		g	aai	3	3	gaai3	J7	A			
-2796.1	廩			50		l	am	5	5	lam5	I35				
+2796.1	廩		廪	50		l	am	5	5	lam5	I35				
 2797.1	𢋸			50		k	ei	3	3	kei3	L24			同冀	
 2798.1	廬			50		l	ou	4	4	lou4	I75				
 2799.1	廱			50		j	ung	1	1	jung1	S83				
-2800.1	廳			50		t	eng	1	1	teng1	G32				
+2800.1	廳		㕔	50		t	eng	1	1	teng1	G32				
 2801.1	廴			50		j	an	5	5	jan5	S23				
 2802.1	廷			50		t	ing	4	4	ting4	G53				
 2803.1	延			50		j	in	4	4	jin4	S54				
-2804.1	廸			50		d	ik	6	9	dik6	F76			同迪	
+2804.1	廸		迪	50		d	ik	6	9	dik6	F76			同迪	
 2805.1	㢠			50		gw	ing	2	2	gwing2	K24			同迥	
 2806.1	𢌞			50		w	ui	4	4	wui4	T59			同廻	
-2807.1	廹			50		b	aak	1	7	baak1	B20		逼廹	同迫	
-2807.2	廹			50		b	ik	1	7	bik1	B57		廹擊炮	同迫	
-2808.1	廼			50		n	aai	5	5	naai5	H6		廼是	同乃	
-2809.1	廻			50		w	ui	4	4	wui4	T59				
+2807.1	廹		迫	50		b	aak	1	7	baak1	B20		逼廹	同迫	
+2807.2	廹		迫	50		b	ik	1	7	bik1	B57		廹擊炮	同迫	
+2808.1	廼		迺	50		n	aai	5	5	naai5	H6		廼是	同乃	
+2809.1	廻		迴	50		w	ui	4	4	wui4	T59				
 2810.1	建			50		g	in	3	3	gin3	J64				
 2811.1	廾			50		g	ung	2	2	gung2	J110				原字條「廾(音gung2)」與「廾(卄本字)」字形略異
 2811.2	廾			50		j	aa	6	6	jaa6	S3			卄(本)	
@@ -3455,7 +3455,7 @@
 2823.1	弎			51		s	aam	1	1	saam1	R11		數詞	同三	
 2824.1	式			51		s	ik	1	7	sik1	R93				
 2825.1	甙			51		d	oi	6	6	doi6	F85				
-2826.1	弒			51		s	i	3	3	si3	R65				
+2826.1	弒		弑	51		s	i	3	3	si3	R65				
 2827.1	弓			51		g	ung	1	1	gung1	J109				
 2828.1	引			51		j	an	5	5	jan5	S23				
 2829.1	弔			51		d	iu	3	3	diu3	F57				
@@ -3484,14 +3484,14 @@
 2848.2	張			51		z	oeng	3	3	zoeng3	P110		通脹		
 2849.1	弸			51		p	ang	4	4	pang4	C27				
 2850.1	弶			51		k	oeng	5	5	koeng5	L49				
-2851.1	強			51		k	oeng	4	4	koeng4	L48		強壯	同强	
-2851.2	強			51		k	oeng	5	5	koeng5	L49		勉強	同强	
-2851.3	強			51		g	oeng	6	6	goeng6	J96		倔強	同强	
+2851.1	強		强	51		k	oeng	4	4	koeng4	L48		強壯	同强	
+2851.2	強		强	51		k	oeng	5	5	koeng5	L49		勉強	同强	
+2851.3	強		强	51		g	oeng	6	6	goeng6	J96		倔強	同强	
 2852.1	弻			51		b	at	6	9	bat6	B33			同弼	
 2853.1	弼			51		b	at	6	9	bat6	B33				
-2854.1	强			51		k	oeng	4	4	koeng4	L48		强壯		
-2854.2	强			51		k	oeng	5	5	koeng5	L49		勉强		
-2854.3	强			51		g	oeng	6	6	goeng6	J96		倔强		
+2854.1	强		強	51		k	oeng	4	4	koeng4	L48		强壯		
+2854.2	强		強	51		k	oeng	5	5	koeng5	L49		勉强		
+2854.3	强		強	51		g	oeng	6	6	goeng6	J96		倔强		
 2855.1	彀			51		g	au	3	3	gau3	J29				
 2856.1	彄			51		k	au	1	1	kau1	L9				
 2857.1	彃			51		b	at	1	7	bat1	B32				
@@ -3508,22 +3508,22 @@
 2864.1	彍			52		kw	ok	3	8	kwok3	M18				
 2865.1	彎			52		w	aan	1	1	waan1	T9				
 2866.1	彏			52		f	ok	3	8	fok3	E37				
-2867.1	彐			52		g	ai	3	3	gai3	J25				
-2868.1	彔			52		l	uk	6	9	luk6	I112				
+2867.1	彐		彑	52		g	ai	3	3	gai3	J25				
+2868.1	彔		录	52		l	uk	6	9	luk6	I112				
 2869.1	彖			52		t	eon	3	3	teon3	G80				
 2870.1	彗			52		w	ai	6	6	wai6	T25				
 2870.2	彗			52		s	eoi	6	6	seoi6	R121	G			
 2871.1	彘			52		z	i	6	6	zi6	P67				
-2872.1	彙			52		w	ui	6	6	wui6	T61		彙集		
-2872.2	彙			52		w	ai	6	6	wai6	T25		毛刺		
-2873.1	彜			52		j	i	4	4	ji4	S36			同彝	
-2874.1	彝			52		j	i	4	4	ji4	S36				
+2872.1	彙		彚	52		w	ui	6	6	wui6	T61		彙集		
+2872.2	彙		彚	52		w	ai	6	6	wai6	T25		毛刺		
+2873.1	彜		彛	52		j	i	4	4	ji4	S36			同彝	
+2874.1	彝		彞	52		j	i	4	4	ji4	S36				
 2875.1	彠			52		w	ok	3	8	wok3	T51			同矱	
 2876.1	彡			52		s	aam	1	1	saam1	R11				
 2877.1	彤			52		t	ung	4	4	tung4	G85				
 2878.1	彣			52		m	an	4	4	man4	D33				
 2879.1	形			52		j	ing	4	4	jing4	S64				
-2880.1	彥			52		j	in	6	6	jin6	S56				
+2880.1	彥		彦	52		j	in	6	6	jin6	S56				
 2881.1	彧			52		j	uk	1	7	juk1	S88				
 2882.1	彬			52		b	an	1	1	ban1	B27				
 2883.1	彪			52		b	iu	1	1	biu1	B44				
@@ -3579,11 +3579,11 @@
 2928.1	徬			53		p	ong	4	4	pong4	C61				
 2929.1	㣯			53		s	it	3	8	sit3	R86				
 2930.1	幑			53		f	ai	1	1	fai1	E11			同徽	
-2931.1	德			53		d	ak	1	7	dak1	F43				
+2931.1	德		徳	53		d	ak	1	7	dak1	F43				
 2932.1	徶			53		p	it	3	8	pit3	C45				
-2933.1	徵			53		z	ing	1	1	zing1	P84		徵求		
-2933.2	徵			53		z	i	2	2	zi2	P65		五音之一		
-2933.3	徵			53		c	ing	4	4	cing4	Q81			同懲	
+2933.1	徵		徴	53		z	ing	1	1	zing1	P84		徵求		
+2933.2	徵		徴	53		z	i	2	2	zi2	P65		五音之一		
+2933.3	徵		徴	53		c	ing	4	4	cing4	Q81			同懲	
 2934.1	徹			53		c	it	3	8	cit3	Q77				
 2935.1	徼			53		g	iu	3	3	giu3	J56		邊徼		
 2935.2	徼			53		j	iu	1	1	jiu1	S39		求取		
@@ -3682,12 +3682,12 @@
 3013.1	恥			54		c	i	2	2	ci2	Q60			同耻	
 3014.1	恃			54		c	i	5	5	ci5	Q63				
 3015.1	恐			54		h	ung	2	2	hung2	O117				
-3016.1	恒			54		h	ang	4	4	hang4	O52		長久		
-3016.2	恒			54		g	ang	2	2	gang2	J40		月上弦		
+3016.1	恒		恆	54		h	ang	4	4	hang4	O52		長久		
+3016.2	恒		恆	54		g	ang	2	2	gang2	J40		月上弦		
 3017.1	恓			54		s	ai	1	1	sai1	R24				
 3018.1	恧			54		n	uk	6	9	nuk6	H74				
-3019.1	恆			54		h	ang	4	4	hang4	O52		長久	同恒	
-3019.2	恆			54		g	ang	2	2	gang2	J40		月上弦	同恒	
+3019.1	恆		恒	54		h	ang	4	4	hang4	O52		長久	同恒	
+3019.2	恆		恒	54		g	ang	2	2	gang2	J40		月上弦	同恒	
 3020.1	恠			54		gw	aai	3	3	gwaai3	K6			同怪	
 3021.1	恢			54		f	ui	1	1	fui1	E44				
 3022.1	㤜			54		s	eot	6	9	seot6	R129				
@@ -3734,7 +3734,7 @@
 3059.1	悁			55		g	yun	3	3	gyun3	J117		憂愁		
 3059.2	悁			55		g	yun	1	1	gyun1	J115		急躁		
 3060.1	患			55		w	aan	6	6	waan6	T13				
-3061.1	悞			55			ng	6	6	ng6	N88			同誤	
+3061.1	悞		悮	55			ng	6	6	ng6	N88			同誤	
 3062.1	悒			55		j	ap	1	7	jap1	S25				
 3063.1	㤯			55		gw	ing	2	2	gwing2	K24				
 3064.1	悔			55		f	ui	3	3	fui3	E46				
@@ -3750,7 +3750,7 @@
 3073.1	悤			55		c	ung	1	1	cung1	Q116				
 3074.1	悐			55		t	ik	1	7	tik1	G55			古惕字	
 3075.1	悋			55		l	eon	6	6	leon6	I105			同吝	
-3076.1	悅			55		j	yut	6	9	jyut6	A61				
+3076.1	悅		悦	55		j	yut	6	9	jyut6	A61				
 3077.1	悌			55		d	ai	6	6	dai6	F22		孝悌		
 3077.2	悌			55		t	ai	5	5	tai5	G19		愷悌		
 3078.1	悢			55		l	oeng	6	6	loeng6	I96		惆悵		
@@ -3763,7 +3763,7 @@
 3084.1	悻			55		h	ang	6	6	hang6	O54				
 3084.2	悻			55		h	ang	5	5	hang5	O53	G			
 3085.1	惎			55		g	ei	6	6	gei6	J49				
-3086.1	惪			55		d	ak	1	7	dak1	F43			同德	
+3086.1	惪		悳	55		d	ak	1	7	dak1	F43			同德	
 3087.1	惜			55		s	ik	1	7	sik1	R93				
 3088.1	惡			55			ok	3	8	ok3	A44		醜惡		
 3088.2	惡			55		ng	ok	3	8	ngok3	N79	A	醜惡		
@@ -3771,7 +3771,7 @@
 3088.4	惡			55		w	u	1	1	wu1	T53		怎麼		
 3089.1	惏			55		l	am	4	4	lam4	I34		惏悷		
 3089.2	惏			55		l	aam	4	4	laam4	I9			同婪	
-3090.1	惠			55		w	ai	6	6	wai6	T25				
+3090.1	惠		恵	55		w	ai	6	6	wai6	T25				
 3091.1	惐			55		w	ik	6	9	wik6	T39				
 3092.1	惑			55		w	aak	6	9	waak6	T19				
 3093.1	悽			55		c	ai	1	1	cai1	Q28				
@@ -3864,8 +3864,8 @@
 3172.1	惱			56		n	ou	5	5	nou5	H57				
 3173.1	愫			56		s	ou	3	3	sou3	R98				
 3174.1	慌			56		f	ong	1	1	fong1	E33				
-3175.1	愨			56		k	ok	3	8	kok3	L46				
-3176.1	慎			56		s	an	6	6	san6	R41				
+3175.1	愨		慤	56		k	ok	3	8	kok3	L46				
+3176.1	慎		愼	56		s	an	6	6	san6	R41				
 3177.1	愽			56		b	ok	3	8	bok3	B70			同博	
 3178.1	慄			56		l	eot	6	9	leot6	I106				
 3179.1	愠		慍	56		w	an	3	3	wan3	T28				
@@ -3897,7 +3897,7 @@
 3202.1	慠			57		ng	ou	6	6	ngou6	N62			同傲	
 3203.1	慹			57		z	ip	3	8	zip3	P80				
 3203.2	慹			57		z	ap	1	7	zap1	P47				
-3204.1	慤			57		k	ok	3	8	kok3	L46			同愨	
+3204.1	慤		愨	57		k	ok	3	8	kok3	L46			同愨	
 3205.1	慬			57		k	an	4	4	kan4	L17				
 3206.1	慸			57		d	ai	3	3	dai3	F21				
 3207.1	慚			57		c	aam	4	4	caam4	Q15				
@@ -3930,7 +3930,7 @@
 3232.1	慴			57		s	ip	3	8	sip3	R85				
 3233.1	慰			57		w	ai	3	3	wai3	T22				
 3234.1	憀			57		l	iu	4	4	liu4	I55				
-3235.1	慘			57		c	aam	2	2	caam2	Q13				
+3235.1	慘		惨	57		c	aam	2	2	caam2	Q13				
 3236.1	慣			57		gw	aan	3	3	gwaan3	K8				
 3237.1	憙			57		h	ei	2	2	hei2	O61			同喜	
 3238.1	憨			57		h	am	1	1	ham1	O41				
@@ -3984,7 +3984,7 @@
 3281.1	懇			58		h	an	2	2	han2	O47				
 3282.1	憺			58		d	aam	6	6	daam6	F10				
 3283.1	懈			58		h	aai	6	6	haai6	O8				
-3284.1	懍			58		l	am	5	5	lam5	I35				
+3284.1	懍		懔	58		l	am	5	5	lam5	I35				
 3285.1	憶			58		j	ik	1	7	jik1	S67				
 3286.1	應			58		j	ing	1	1	jing1	S61		應該		
 3286.2	應			58		j	ing	3	3	jing3	S63		答應		
@@ -4012,7 +4012,7 @@
 3305.2	懭			58		kw	ong	3	3	kwong3	M19	G			
 3306.1	懵			58		m	ung	4	4	mung4	D90		無知		
 3306.2	懵			58		m	ung	2	2	mung2	D89		懵懂		
-3307.1	𫻚			58		j	i	3	3	ji3	S35				
+3307.1	𫻚		㦤	58		j	i	3	3	ji3	S35				
 3308.1	懶			58		l	aan	5	5	laan5	I14				
 3309.1	懷			58		w	aai	4	4	waai4	T7				
 3310.1	懸			58		j	yun	4	4	jyun4	A57				
@@ -4046,38 +4046,38 @@
 3333.1	戕			59		c	oeng	4	4	coeng4	Q106				
 3334.1	𢦟			59		h	am	1	1	ham1	O41				
 3335.1	戙			59		d	ung	6	6	dung6	F102				
-3336.1	戛			59		g	aat	3	8	gaat3	J20				
+3336.1	戛		戞	59		g	aat	3	8	gaat3	J20				
 3337.1	戚			59		c	ik	1	7	cik1	Q82				
-3338.1	戟			59		g	ik	1	7	gik1	J74				
-3339.1	戞			59		g	aat	3	8	gaat3	J20			同戛	
-3340.1	㦸			59		g	ik	1	7	gik1	J74			同戟	
+3338.1	戟		㦸	59		g	ik	1	7	gik1	J74				
+3339.1	戞		戛	59		g	aat	3	8	gaat3	J20			同戛	
+3340.1	㦸		戟	59		g	ik	1	7	gik1	J74			同戟	
 3341.1	戡			59		h	am	1	1	ham1	O41				
 3342.1	戢			59		c	ap	1	7	cap1	Q48				
 3343.1	戥			59		d	ang	2	2	dang2	F36				
 3344.1	戤			59		k	oi	3	3	koi3	L41				
 3345.1	戣			59		kw	ai	4	4	kwai4	M12				
 3346.1	截			59		z	it	6	9	zit6	P83				
-3347.1	戬			59		z	in	2	2	zin2	P77				
-3348.1	戩			59		z	in	2	2	zin2	P77			同戬	
+3347.1	戬		戩	59		z	in	2	2	zin2	P77				
+3348.1	戩		戬	59		z	in	2	2	zin2	P77			同戬	
 3349.1	𢧩			59		gw	ai	2	2	gwai2	K13				
 3350.1	戧			59		c	oeng	3	3	coeng3	Q105				
 3351.1	𢧵			59		z	it	6	9	zit6	P83			截(本)	
 3352.1	戭			59		j	an	5	5	jan5	S23		長槍		
 3352.2	戭			59		j	in	2	2	jin2	S52		人名		
 3353.1	戮			59		l	uk	6	9	luk6	I112				
-3354.1	戱			59		h	ei	3	3	hei3	O62		遊戱	同戲	
+3354.1	戱		戯|戲	59		h	ei	3	3	hei3	O62		遊戱	同戲	
 3355.1	戰			59		z	in	3	3	zin3	P78				
-3356.1	戲			59		h	ei	3	3	hei3	O62		遊戲		
-3356.2	戲			59		f	u	1	1	fu1	E38		於戲		
+3356.1	戲		戯|戱	59		h	ei	3	3	hei3	O62		遊戲		
+3356.2	戲		戯|戱	59		f	u	1	1	fu1	E38		於戲		
 3357.1	戴			59		d	aai	3	3	daai3	F5				
 3358.1	戳			59		c	oek	3	8	coek3	Q107				
 3358.2	戳			59		c	ok	3	8	cok3	Q102	A			
-3359.1	戶			59		w	u	6	6	wu6	T57				
+3359.1	戶		户|戸	59		w	u	6	6	wu6	T57				
 3360.1	戹			59			ak	1	7	ak1	A27			同厄	
 3360.2	戹			59		ng	ak	1	7	ngak1	N57			同厄	
 3361.1	戼			59		m	aau	5	5	maau5	D10			同卯	
 3362.1	戺			59		s	i	6	6	si6	R68				
-3363.1	戾			59		l	eoi	6	6	leoi6	I101				
+3363.1	戾		戻	59		l	eoi	6	6	leoi6	I101				
 3364.1	肩			59		g	in	1	1	gin1	J62				
 3365.1	所			59		s	o	2	2	so2	R100				
 3366.1	房			59		f	ong	4	4	fong4	E36				
@@ -4151,7 +4151,7 @@
 3417.1	扻			60		z	it	3	8	zit3	P82		同櫛		
 3417.2	扻			60		h	am	2	2	ham2	O42	D	磕		
 3418.1	抑			60		j	ik	1	7	jik1	S67				
-3419.1	抛			60		p	aau	1	1	paau1	C6				
+3419.1	抛		拋	60		p	aau	1	1	paau1	C6				
 3420.1	投			60		t	au	4	4	tau4	G23				
 3421.1	扱			60		c	aap	3	8	caap3	Q23		插、取		
 3421.2	扱			60		k	ap	1	7	kap1	L20	D	蓋		
@@ -4166,10 +4166,10 @@
 3430.1	抒			60		s	yu	1	1	syu1	R136				
 3431.1	承			60		s	ing	4	4	sing4	R91				
 3431.2	承			60		c	ing	2	2	cing2	Q79			通拯	
-3432.1	抝			60			aau	2	2	aau2	A8		抝折	同拗	
-3432.2	抝			60		ng	aau	2	2	ngaau2	N12		抝折	同拗	
-3432.3	抝			60			aau	3	3	aau3	A9		執抝	同拗	
-3432.4	抝			60		ng	aau	3	3	ngaau3	N13		執抝	同拗	
+3432.1	抝		拗	60			aau	2	2	aau2	A8		抝折	同拗	
+3432.2	抝		拗	60		ng	aau	2	2	ngaau2	N12		抝折	同拗	
+3432.3	抝		拗	60			aau	3	3	aau3	A9		執抝	同拗	
+3432.4	抝		拗	60		ng	aau	3	3	ngaau3	N13		執抝	同拗	
 3433.1	拜			61		b	aai	3	3	baai3	B7				
 3434.1	抹			61		m	ut	3	8	mut3	D87				
 3434.2	抹			61		m	aat	3	8	maat3	D19	V			
@@ -4180,8 +4180,8 @@
 3438.1	拒			61		k	eoi	5	5	keoi5	L54				
 3439.1	拓			61		t	ok	3	8	tok3	G72		開拓		
 3439.2	拓			61		t	aap	3	8	taap3	G13		通搨		
-3440.1	拔			61		b	at	6	9	bat6	B33				
-3441.1	拋			61		p	aau	1	1	paau1	C6			同抛	
+3440.1	拔		抜	61		b	at	6	9	bat6	B33				
+3441.1	拋		抛	61		p	aau	1	1	paau1	C6			同抛	
 3442.1	抨			61		p	ing	1	1	ping1	C46				
 3443.1	拈			61		n	im	1	1	nim1	H41				
 3443.2	拈			61		n	in	2	2	nin2	H46			同撚	
@@ -4228,10 +4228,10 @@
 3475.2	拚			61		p	un	2	2	pun2	C70				
 3476.1	抬			61		t	oi	4	4	toi4	G66				
 3477.1	拇			61		m	ou	5	5	mou5	D69				
-3478.1	拗			61			aau	2	2	aau2	A8		拗折		
-3478.2	拗			61		ng	aau	2	2	ngaau2	N12		拗折		
-3478.3	拗			61			aau	3	3	aau3	A9		執拗		
-3478.4	拗			61		ng	aau	3	3	ngaau3	N13		執拗		
+3478.1	拗		抝	61			aau	2	2	aau2	A8		拗折		
+3478.2	拗		抝	61		ng	aau	2	2	ngaau2	N12		拗折		
+3478.3	拗		抝	61			aau	3	3	aau3	A9		執拗		
+3478.4	拗		抝	61		ng	aau	3	3	ngaau3	N13		執拗		
 3479.1	挈			61		k	it	3	8	kit3	L35				
 3480.1	拭			61		s	ik	1	7	sik1	R93				
 3481.1	挂			61		gw	aa	3	3	gwaa3	K3				
@@ -4289,7 +4289,7 @@
 3520.1	捎			62		s	aau	1	1	saau1	R8				
 3521.1	捍			62		h	on	6	6	hon6	O99				
 3521.2	捍			62		h	on	2	2	hon2	O95	A			
-3522.1	捏			62		n	ip	6	9	nip6	H50				
+3522.1	捏		揑	62		n	ip	6	9	nip6	H50				
 3523.1	捉			62		z	uk	3	8	zuk3	P128				
 3524.1	捆			62		kw	an	2	2	kwan2	M15				
 3525.1	捐			62		g	yun	1	1	gyun1	J115				
@@ -4306,8 +4306,8 @@
 3535.1	挽			62		w	aan	5	5	waan5	T12				
 3536.1	𢬵			62		p	un	2	2	pun2	C70			同拚	
 3536.2	𢬵			62		p	un	3	3	pun3	C71			同拚	
-3537.1	挩			62		t	yut	3	8	tyut3	G89		解脫		
-3537.2	挩			62		s	eoi	3	3	seoi3	R118		拭		
+3537.1	挩		捝	62		t	yut	3	8	tyut3	G89		解脫		
+3537.2	挩		捝	62		s	eoi	3	3	seoi3	R118		拭		
 3538.1	挱			62		s	o	1	1	so1	R99			同挲	
 3539.1	挲			62		s	o	1	1	so1	R99				
 3540.1	捖			62		j	yun	4	4	jyun4	A57				
@@ -4335,7 +4335,7 @@
 3557.1	捺			62		n	aat	6	9	naat6	H19				
 3558.1	掎			62		g	ei	2	2	gei2	J47				
 3559.1	掩			62		j	im	2	2	jim2	S46				
-3560.1	捷			62		z	it	6	9	zit6	P83				
+3560.1	捷		㨗	62		z	it	6	9	zit6	P83				
 3561.1	捯			62		d	ou	3	3	dou3	F79				
 3562.1	掯			62		k	ang	3	3	kang3	L19				
 3563.1	掁			62		c	aang	4	4	caang4	Q22				
@@ -4432,7 +4432,7 @@
 3633.1	揼			63		d	am	1	1	dam1	F27				
 3634.1	𢱕			63		d	ap	6	9	dap6	F40				
 3635.1	㨖			63		z	i	3	3	zi3	P66				
-3636.1	㨗			63		z	it	6	9	zit6	P83			同捷	
+3636.1	㨗		捷	63		z	it	6	9	zit6	P83			同捷	
 3637.1	揱			63		s	ok	3	8	sok3	R108				
 3637.2	揱			63		s	iu	1	1	siu1	R69	A			
 3638.1	提			63		t	ai	4	4	tai4	G18				
@@ -4440,8 +4440,8 @@
 3640.1	𢯲			63		w	un	2	2	wun2	T63			同腕	
 3641.1	揖			63		j	ap	1	7	jap1	S25		作揖		
 3641.2	揖			63		c	ap	1	7	cap1	Q48		揖揖		
-3642.1	揭			64		k	it	3	8	kit3	L35		揭露		
-3642.2	揭			64		g	ai	6	6	gai6	J26		揭衣涉水		
+3642.1	揭		掲	64		k	it	3	8	kit3	L35		揭露		
+3642.2	揭		掲	64		g	ai	6	6	gai6	J26		揭衣涉水		
 3643.1	揌			64		s	ak	1	7	sak1	R48				
 3644.1	𢰸			64		w	o	5	5	wo5	T44				
 3645.1	揣			64		c	eoi	2	2	ceoi2	Q109				
@@ -4449,9 +4449,9 @@
 3646.1	揰			64		c	ung	3	3	cung3	Q118			同㧤	
 3647.1	揪			64		z	au	1	1	zau1	P32				
 3648.1	揫			64		z	au	1	1	zau1	P32			同揪	
-3649.1	插			64		c	aap	3	8	caap3	Q23				
-3650.1	揷			64		c	aap	3	8	caap3	Q23			同插	
-3651.1	揑			64		n	ip	6	9	nip6	H50			同捏	
+3649.1	插		揷	64		c	aap	3	8	caap3	Q23				
+3650.1	揷		插	64		c	aap	3	8	caap3	Q23			同插	
+3651.1	揑		捏	64		n	ip	6	9	nip6	H50			同捏	
 3652.1	揤			64		z	at	1	7	zat1	P49				
 3653.1	揗			64		t	an	4	4	tan4	G29				
 3654.1	揄			64		j	yu	4	4	jyu4	A51				
@@ -4482,7 +4482,7 @@
 3671.1	㨘			64		s	aang	2	2	saang2	R19	D	責罵		
 3671.2	㨘			64		s	ang	3	3	sang3	R43			同擤	
 3672.1	搆			64		g	au	3	3	gau3	J29				
-3673.1	搭			64		d	aap	3	8	daap3	F15				
+3673.1	搭		撘	64		d	aap	3	8	daap3	F15				
 3674.1	搽			64		c	aa	4	4	caa4	Q4				
 3675.1	摃			64		g	ong	1	1	gong1	J88			同扛	
 3676.1	搘			64		z	i	1	1	zi1	P64				
@@ -4501,11 +4501,11 @@
 3687.1	損			64		s	yun	2	2	syun2	R143				
 3688.1	摁			64			on	3	3	on3	A40				
 3688.2	摁			64		ng	on	3	3	ngon3	N73	A			
-3689.1	搵			64		w	an	3	3	wan3	T28		揩拭		
-3689.2	搵			64		w	an	2	2	wan2	T27	D	找		
-3690.1	搜			64		s	au	2	2	sau2	R29				
-3690.2	搜			64		s	au	1	1	sau1	R28	G			
-3691.1	携			64		kw	ai	4	4	kwai4	M12				
+3689.1	搵		揾	64		w	an	3	3	wan3	T28		揩拭		
+3689.2	搵		揾	64		w	an	2	2	wan2	T27	D	找		
+3690.1	搜		捜	64		s	au	2	2	sau2	R29				
+3690.2	搜		捜	64		s	au	1	1	sau1	R28	G			
+3691.1	携		擕|攜	64		kw	ai	4	4	kwai4	M12				
 3692.1	搗			64		d	ou	2	2	dou2	F78				
 3693.1	摀			64		w	u	2	2	wu2	T54				
 3694.1	搥			64		c	eoi	4	4	ceoi4	Q111			同捶	
@@ -4514,7 +4514,7 @@
 3697.1	搬			64		b	un	1	1	bun1	B75				
 3698.1	搿			64		g	aap	3	8	gaap3	J19				
 3698.2	搿			64		g	ap	3	8	gap3	J43	A			
-3699.1	搖			64		j	iu	4	4	jiu4	S42				
+3699.1	搖		揺|摇	64		j	iu	4	4	jiu4	S42				
 3700.1	搯			64		t	ou	1	1	tou1	G56				
 3700.2	搯			64		t	ou	4	4	tou4	G59			同淘	
 3701.1	搶			64		c	oeng	2	2	coeng2	Q104		搶掠		
@@ -4593,7 +4593,7 @@
 3764.1	摺			65		z	ip	3	8	zip3	P80				
 3765.1	摎			65		g	au	1	1	gau1	J27		絞結		
 3765.2	摎			65		l	au	4	4	lau4	I29		姓		
-3766.1	摻			65		c	aam	1	1	caam1	Q12				
+3766.1	摻		掺	65		c	aam	1	1	caam1	Q12				
 3767.1	撡			65		c	ou	1	1	cou1	Q84		撡縱	同操	
 3767.2	撡			65		c	ou	3	3	cou3	Q86		節撡	同操	
 3768.1	摜			65		gw	aan	3	3	gwaan3	K8				
@@ -4615,8 +4615,8 @@
 3780.1	撲			65		p	ok	3	8	pok3	C64				
 3781.1	撇			65		p	it	3	8	pit3	C45				
 3782.1	撆			65		p	it	3	8	pit3	C45			撇(本)	
-3783.1	撐			65		c	aang	1	1	caang1	Q21			同撑	
-3784.1	撑			65		c	aang	1	1	caang1	Q21				
+3783.1	撐		撑	65		c	aang	1	1	caang1	Q21			同撑	
+3784.1	撑		撐	65		c	aang	1	1	caang1	Q21				
 3785.1	撮			65		c	yut	3	8	cyut3	Q130				
 3786.1	㩎			66		j	ip	3	8	jip3	S57			同擪	
 3787.1	撌			66		gw	ai	6	6	gwai6	K15				
@@ -4654,13 +4654,13 @@
 3811.1	擏			66		k	ing	4	4	king4	L38				
 3812.1	擎			66		k	ing	4	4	king4	L38				
 3813.1	擀			66		g	on	2	2	gon2	J86				
-3814.1	擊			66		g	ik	1	7	gik1	J74				
+3814.1	擊		撃	66		g	ik	1	7	gik1	J74				
 3815.1	撼			66		h	am	6	6	ham6	O46				
 3816.1	擓			66		kw	aai	5	5	kwaai5	M5				
 3817.1	擂			66		l	eoi	4	4	leoi4	I99				
 3818.1	據			66		g	eoi	3	3	geoi3	J100				
 3819.1	擄			66		l	ou	5	5	lou5	I76				
-3820.1	擄			66		l	ou	5	5	lou5	I76			同擄	
+3820.1	擄		擄	66		l	ou	5	5	lou5	I76			同擄	
 3821.1	擋			66		d	ong	2	2	dong2	F87		阻擋		
 3821.2	擋			66		d	ong	3	3	dong3	F88		摒擋		
 3822.1	擝			66		m	ang	1	1	mang1	D36				
@@ -4672,7 +4672,7 @@
 3826.1	擐			66		gw	aan	3	3	gwaan3	K8				
 3827.1	擉			66		c	ok	3	8	cok3	Q102				
 3828.1	㩗			66		kw	ai	4	4	kwai4	M12			同携	
-3829.1	擕			66		kw	ai	4	4	kwai4	M12			同携	
+3829.1	擕		携|攜	66		kw	ai	4	4	kwai4	M12			同携	
 3830.1	撽			66		g	ik	1	7	gik1	J74				
 3831.1	𢵿			66		g	ik	1	7	gik1	J74			同撽	
 3832.1	擙			66		ng	ou	1	1	ngou1	N59				
@@ -4696,7 +4696,7 @@
 3848.1	擪			66		j	ip	3	8	jip3	S57				
 3849.1	擩			66		j	eoi	5	5	jeoi5	S79		調拌		
 3849.2	擩			66		j	yu	5	5	jyu5	A52		沾染		
-3850.1	擧			66		g	eoi	2	2	geoi2	J99			同舉	
+3850.1	擧		舉	66		g	eoi	2	2	geoi2	J99			同舉	
 3851.1	擤			66		s	ang	3	3	sang3	R43				
 3852.1	擬			66		j	i	5	5	ji5	S37				
 3853.1	擠			66		z	ai	1	1	zai1	P28				
@@ -4745,7 +4745,7 @@
 3886.1	攓			67		h	in	1	1	hin1	O71			同搴	
 3887.1	攔			67		l	aan	4	4	laan4	I13				
 3888.1	攝			67		s	ip	3	8	sip3	R85				
-3889.1	攜			67		kw	ai	4	4	kwai4	M12				
+3889.1	攜		携|擕	67		kw	ai	4	4	kwai4	M12				
 3890.1	㩳			67		s	ung	2	2	sung2	R131				
 3891.1	𢹲			67		kw	an	2	2	kwan2	M15				
 3892.1	攛			67		c	yun	3	3	cyun3	Q128				
@@ -4765,7 +4765,7 @@
 3903.2	攩			67		d	ong	3	3	dong3	F88		摒攩	同擋	
 3904.1	攫			67		f	ok	3	8	fok3	E37				
 3905.1	攪			67		g	aau	2	2	gaau2	J9				
-3906.1	攬			67		l	aam	5	5	laam5	I10				
+3906.1	攬		𭣄	67		l	aam	5	5	laam5	I10				
 3907.1	攭			67		l	ai	5	5	lai5	I26				
 3908.1	攮			67		n	ong	5	5	nong5	H65				
 3909.1	𢺳			67		m	aan	1	1	maan1	D12				
@@ -4785,8 +4785,8 @@
 3922.1	敁			68		d	im	1	1	dim1	F59				
 3923.1	敂			68		k	au	3	3	kau3	L10			同叩	
 3924.1	效			68		h	aau	6	6	haau6	O13				
-3925.1	教			68		g	aau	3	3	gaau3	J10		教育		
-3925.2	教			68		g	aau	1	1	gaau1	J8		使、令		
+3925.1	教		敎	68		g	aau	3	3	gaau3	J10		教育		
+3925.2	教		敎	68		g	aau	1	1	gaau1	J8		使、令		
 3926.1	敖			68		ng	ou	4	4	ngou4	N61		敖遊		
 3926.2	敖			68		ng	ou	6	6	ngou6	N62		通傲		
 3927.1	敕			68		c	ik	1	7	cik1	Q82				
@@ -4795,9 +4795,9 @@
 3930.1	救			68		g	au	3	3	gau3	J29				
 3931.1	敗			68		b	aai	6	6	baai6	B8				
 3932.1	敏			68		m	an	5	5	man5	D34				
-3933.1	敍			68		z	eoi	6	6	zeoi6	P117			同叙	
+3933.1	敍		叙|敘	68		z	eoi	6	6	zeoi6	P117			同叙	
 3934.1	𭣳			68		d	yut	6	9	dyut6	F109			奪(本)	
-3935.1	啟			68		k	ai	2	2	kai2	L7				
+3935.1	啟		啓	68		k	ai	2	2	kai2	L7				
 3936.1	敢			68		g	am	2	2	gam2	J32				
 3937.1	㪚			68		s	aan	3	3	saan3	R16		分㪚	同散	
 3937.2	㪚			68		s	aan	2	2	saan2	R15		懶㪚	同散	
@@ -4827,15 +4827,15 @@
 3953.3	數			68		s	ok	3	8	sok3	R108		屢次		
 3953.4	數			68		c	uk	1	7	cuk1	Q121		細密		
 3954.1	敵			68		d	ik	6	9	dik6	F76				
-3955.1	敽			68		g	iu	2	2	giu2	J55				
+3955.1	敽		敿	68		g	iu	2	2	giu2	J55				
 3956.1	斁			68		j	ik	6	9	jik6	S68		厭		
 3956.2	斁			68		d	ou	3	3	dou3	F79		敗壞		
 3957.1	斂			68		l	im	6	6	lim6	I60				
 3958.1	斃			68		b	ai	6	6	bai6	B25				
 3959.1	斄			68		l	ei	4	4	lei4	I42		牦牛		
 3959.2	斄			68		t	oi	4	4	toi4	G66		古邑名		
-3960.1	斅			68		h	aau	6	6	haau6	O13			同斆	
-3961.1	斆			68		h	aau	6	6	haau6	O13				
+3960.1	斅		斆	68		h	aau	6	6	haau6	O13			同斆	
+3961.1	斆		斅	68		h	aau	6	6	haau6	O13				
 3962.1	文			69		m	an	4	4	man4	D33		文章		
 3962.2	文			69		m	an	6	6	man6	D35		文過飾非		
 3962.3	文			69		m	an	1	1	man1	D32	D	圓		
@@ -4891,7 +4891,7 @@
 4002.2	旄			70		m	ou	6	6	mou6	D70		通耄		
 4003.1	旂			70		k	ei	4	4	kei4	L25				
 4004.1	旅			70		l	eoi	5	5	leoi5	I100				
-4005.1	旃			70		z	in	1	1	zin1	P76				
+4005.1	旃		㫋	70		z	in	1	1	zin1	P76				
 4006.1	旁			70		p	ong	4	4	pong4	C61				
 4007.1	旉			70		f	u	1	1	fu1	E38			同敷	
 4008.1	旊			70		f	ong	2	2	fong2	E34				
@@ -4903,7 +4903,7 @@
 4013.1	旋			70		s	yun	4	4	syun4	R145				
 4014.1	旐			70		s	iu	6	6	siu6	R73				
 4015.1	旓			70		s	aau	1	1	saau1	R8				
-4016.1	旒			70		l	au	4	4	lau4	I29				
+4016.1	旒		旈	70		l	au	4	4	lau4	I29				
 4017.1	旗			70		k	ei	4	4	kei4	L25				
 4018.1	旖			70		j	i	2	2	ji2	S34				
 4019.1	𣄣			70		j	yu	4	4	jyu4	A51				
@@ -4946,11 +4946,11 @@
 4054.2	易			71		j	ik	6	9	jik6	S68		交易		
 4055.1	昒			71		f	at	1	7	fat1	E23				
 4056.1	昀			71		w	an	4	4	wan4	T29				
-4057.1	昂			71		ng	ong	4	4	ngong4	N77				
+4057.1	昂		昻	71		ng	ong	4	4	ngong4	N77				
 4058.1	旻			71		m	an	4	4	man4	D33				
 4059.1	旼			71		m	an	4	4	man4	D33				
 4060.1	昉			71		f	ong	2	2	fong2	E34				
-4061.1	旹			71		s	i	4	4	si4	R66			同時	
+4061.1	旹		峕	71		s	i	4	4	si4	R66			同時	
 4062.1	春			71		c	eon	1	1	ceon1	Q112				
 4063.1	昧			71		m	ui	6	6	mui6	D82				
 4064.1	是			71		s	i	6	6	si6	R68				
@@ -4981,7 +4981,7 @@
 4087.1	昪			71		b	in	6	6	bin6	B49				
 4088.1	時			71		s	i	4	4	si4	R66				
 4089.1	晅			71		h	yun	1	1	hyun1	O123				
-4090.1	晉			71		z	eon	3	3	zeon3	P120		同晋		本為副字條（「同晋」），但正文無晋字，故改為主字條（讀音+釋義）
+4090.1	晉		晋	71		z	eon	3	3	zeon3	P120		同晋		本為副字條（「同晋」），但正文無晋字，故改為主字條（讀音+釋義）
 4091.1	晃			71		f	ong	2	2	fong2	E34				
 4092.1	晌			71		h	oeng	2	2	hoeng2	O111				
 4093.1	晁			71		c	iu	4	4	ciu4	Q67				
@@ -5001,7 +5001,7 @@
 4106.1	晦			71		f	ui	3	3	fui3	E46				
 4107.1	晞			71		h	ei	1	1	hei1	O60				
 4108.1	晗			71		h	am	4	4	ham4	O44				
-4109.1	晚			71		m	aan	5	5	maan5	D14				
+4109.1	晚		晩	71		m	aan	5	5	maan5	D14				
 4110.1	晜			71		kw	an	1	1	kwan1	M14				
 4111.1	晥			71		w	un	5	5	wun5	T65				
 4112.1	晝			71		z	au	3	3	zau3	P34				
@@ -5115,8 +5115,8 @@
 4197.1	曼			73		m	aan	6	6	maan6	D15				
 4198.1	替			73		t	ai	3	3	tai3	G17				
 4199.1	最			73		z	eoi	3	3	zeoi3	P116				
-4200.1	曾			73		c	ang	4	4	cang4	Q47		曾經		
-4200.2	曾			73		z	ang	1	1	zang1	P44		姓		
+4200.1	曾		曽	73		c	ang	4	4	cang4	Q47		曾經		
+4200.2	曾		曽	73		z	ang	1	1	zang1	P44		姓		
 4201.1	朅			73		k	it	3	8	kit3	L35				
 4202.1	朄			73		j	an	5	5	jan5	S23				
 4203.1	朆			73		f	an	1	1	fan1	E17				
@@ -5142,7 +5142,7 @@
 4220.1	𣎵			74		p	ut	3	8	put3	C74				
 4221.1	𣎴			74		n	ip	6	9	nip6	H50		樹𣎴		
 4221.2	𣎴			74		d	an	2	2	dan2	F32		木𣎴		
-4222.1	本			74		b	un	2	2	bun2	B76				
+4222.1	本		夲	74		b	un	2	2	bun2	B76				
 4223.1	未			74		m	ei	6	6	mei6	D47				
 4224.1	末			74		m	ut	6	9	mut6	D88				
 4225.1	朮			74		s	eot	6	9	seot6	R129				
@@ -5158,10 +5158,10 @@
 4231.1	朱			74		z	yu	1	1	zyu1	P130				
 4232.1	朹			74		k	au	4	4	kau4	L11				
 4232.2	朹			74		gw	ai	2	2	gwai2	K13			古簋字	
-4233.1	朵			74		d	o	2	2	do2	F82				
-4233.2	朵			74		d	oe	2	2	doe2	F91	V			
-4234.1	朶			74		d	o	2	2	do2	F82			同朵	
-4234.2	朶			74		d	oe	2	2	doe2	F91	V		同朵	
+4233.1	朵		朶	74		d	o	2	2	do2	F82				
+4233.2	朵		朶	74		d	oe	2	2	doe2	F91	V			
+4234.1	朶		朵	74		d	o	2	2	do2	F82			同朵	
+4234.2	朶		朵	74		d	oe	2	2	doe2	F91	V		同朵	
 4235.1	朻			74		g	au	1	1	gau1	J27			同樛	
 4236.1	朸			74		l	ik	6	9	lik6	I72				
 4236.2	朸			74		l	ak	6	9	lak6	I40	A			
@@ -5256,10 +5256,10 @@
 4312.1	柘			75		z	e	3	3	ze3	P54				
 4313.1	柩			75		g	au	6	6	gau6	J30				
 4314.1	枰			75		p	ing	4	4	ping4	C48				
-4315.1	查			75		c	aa	4	4	caa4	Q4		查核		
-4315.2	查			75		z	aa	1	1	zaa1	P1		姓		
-4316.1	査			75		c	aa	4	4	caa4	Q4		査核	同查	
-4316.2	査			75		z	aa	1	1	zaa1	P1		姓	同查	
+4315.1	查		査	75		c	aa	4	4	caa4	Q4		查核		
+4315.2	查		査	75		z	aa	1	1	zaa1	P1		姓		
+4316.1	査		查	75		c	aa	4	4	caa4	Q4		査核	同查	
+4316.2	査		查	75		z	aa	1	1	zaa1	P1		姓	同查	
 4317.1	柤			75		z	aa	1	1	zaa1	P1			同樝	
 4317.2	柤			75		z	o	2	2	zo2	P95			通俎	
 4318.1	相			75		s	oeng	1	1	soeng1	R109		交互		
@@ -5274,8 +5274,8 @@
 4324.2	柍			75		j	oeng	1	1	joeng1	S70		柍棖		
 4325.1	柷			75		z	uk	1	7	zuk1	P127				
 4326.1	柺		枴	75		gw	aai	2	2	gwaai2	K5				
-4327.1	柵			75		s	aan	1	1	saan1	R14		柵極	同栅	
-4327.2	柵			75		c	aak	3	8	caak3	Q26		柵欄	同栅	
+4327.1	柵		栅	75		s	aan	1	1	saan1	R14		柵極	同栅	
+4327.2	柵		栅	75		c	aak	3	8	caak3	Q26		柵欄	同栅	
 4328.1	柮			75		d	eot	1	7	deot1	F98				
 4329.1	㭒			75		z	i	6	6	zi6	P67			同耜	
 4330.1	柶			75		s	i	3	3	si3	R65				
@@ -5286,8 +5286,8 @@
 4334.1	柂			75		j	i	4	4	ji4	S36		同杝		
 4334.2	柂			75		t	o	4	4	to4	G63		同舵		
 4335.1	柎			75		f	u	1	1	fu1	E38				
-4336.1	柏			75		b	aak	3	8	baak3	B21				
-4336.2	柏			75		p	aak	3	8	paak3	C17	A			
+4336.1	柏		栢	75		b	aak	3	8	baak3	B21				
+4336.2	柏		栢	75		p	aak	3	8	paak3	C17	A			
 4337.1	柝			75		t	ok	3	8	tok3	G72				
 4338.1	栀			75		z	i	1	1	zi1	P64			同梔	
 4339.1	柧			75		g	u	1	1	gu1	J102			同觚	
@@ -5295,8 +5295,8 @@
 4341.1	柢			75		d	ai	2	2	dai2	F20				
 4342.1	枸			75		g	au	2	2	gau2	J28		枸杞		
 4342.2	枸			75		g	eoi	2	2	geoi2	J99		枸櫞		
-4343.1	栅			75		s	aan	1	1	saan1	R14		栅極		
-4343.2	栅			75		c	aak	3	8	caak3	Q26		栅欄		
+4343.1	栅		柵	75		s	aan	1	1	saan1	R14		栅極		
+4343.2	栅		柵	75		c	aak	3	8	caak3	Q26		栅欄		
 4344.1	柳			75		l	au	5	5	lau5	I30				
 4345.1	柊			75		d	ung	1	1	dung1	F99				
 4346.1	栁			75		l	au	5	5	lau5	I30			同柳	
@@ -5332,8 +5332,8 @@
 4373.1	栱			76		g	ung	2	2	gung2	J110				
 4374.1	梀			76		s	aak	3	8	saak3	R23				
 4375.1	栖			76		c	ai	1	1	cai1	Q28				
-4376.1	栢			76		b	aak	3	8	baak3	B21			同柏	
-4376.2	栢			76		p	aak	3	8	paak3	C17	A		同柏	
+4376.1	栢		柏	76		b	aak	3	8	baak3	B21			同柏	
+4376.2	栢		柏	76		p	aak	3	8	paak3	C17	A		同柏	
 4377.1	栭			76		j	i	4	4	ji4	S36				
 4378.1	栫			76		z	in	3	3	zin3	P78				
 4379.1	栵			76		l	ai	6	6	lai6	I27				
@@ -5410,7 +5410,7 @@
 4438.1	梴			77		c	in	1	1	cin1	Q72				
 4439.1	梃			77		t	ing	5	5	ting5	G54				
 4440.1	梏			77		g	uk	1	7	guk1	J113				
-4441.1	梨			77		l	ei	4	4	lei4	I42				
+4441.1	梨		棃	77		l	ei	4	4	lei4	I42				
 4442.1	梅			77		m	ui	4	4	mui4	D80				
 4443.1	梟			77		h	iu	1	1	hiu1	O65				
 4444.1	梔			77		z	i	1	1	zi1	P64				
@@ -5423,7 +5423,7 @@
 4450.1	梈			77		p	aang	1	1	paang1	C12				
 4451.1	梓			77		z	i	2	2	zi2	P65				
 4452.1	梳			77		s	o	1	1	so1	R99				
-4453.1	梲			77		z	yut	3	8	zyut3	P138				
+4453.1	梲		棁	77		z	yut	3	8	zyut3	P138				
 4454.1	桫			77		s	o	1	1	so1	R99				
 4455.1	梁			77		l	oeng	4	4	loeng4	I94				
 4456.1	梡			77		f	un	2	2	fun2	E48				
@@ -5475,7 +5475,7 @@
 4495.1	棡			77		g	ong	3	3	gong3	J90				
 4496.1	棰			77		c	eoi	4	4	ceoi4	Q111				
 4497.1	椥			77		z	i	1	1	zi1	P64				
-4498.1	棃			77		l	ei	4	4	lei4	I42			同梨	
+4498.1	棃		梨	77		l	ei	4	4	lei4	I42			同梨	
 4499.1	棅			77		b	ing	3	3	bing3	B55			同柄	
 4499.2	棅			77		b	eng	3	3	beng3	B41	V		同柄	
 4500.1	椎			77		c	eoi	4	4	ceoi4	Q111		椎打		
@@ -5496,7 +5496,7 @@
 4511.1	椄			78		z	ip	3	8	zip3	P80				
 4512.1	棬			78		h	yun	1	1	hyun1	O123				
 4513.1	椪			78		p	ung	3	3	pung3	C77				
-4514.1	棕			78		z	ung	1	1	zung1	P123				
+4514.1	棕		㯶|椶	78		z	ung	1	1	zung1	P123				
 4515.1	椗			78		d	ing	3	3	ding3	F73				
 4516.1	棺			78		g	un	1	1	gun1	J106				
 4517.1	椌			78		h	ong	1	1	hong1	O100				
@@ -5553,10 +5553,10 @@
 4560.1	楀			78		j	yu	5	5	jyu5	A52				
 4561.1	楯			78		s	eon	5	5	seon5	R126				
 4561.2	楯			78		t	eon	5	5	teon5	G81				
-4562.1	榆			78		j	yu	4	4	jyu4	A51				
+4562.1	榆		楡	78		j	yu	4	4	jyu4	A51				
 4563.1	楥			78		j	yun	4	4	jyun4	A57		木名		
 4563.2	楥			78		h	yun	3	3	hyun3	O125			同楦	
-4564.1	椶			78		z	ung	1	1	zung1	P123			同棕	
+4564.1	椶		㯶|棕	78		z	ung	1	1	zung1	P123			同棕	
 4565.1	楓			78		f	ung	1	1	fung1	E50				
 4566.1	楤			78		s	ung	2	2	sung2	R131				
 4567.1	楹			78		j	ing	4	4	jing4	S64				
@@ -5597,7 +5597,7 @@
 4596.2	榪			79		m	aa	5	5	maa5	D3		榪槎		
 4597.1	槕			79		z	oek	3	8	zoek3	P112			同桌	
 4598.1	榯			79		s	i	4	4	si4	R66				
-4599.1	榲			79		w	at	1	7	wat1	T33				
+4599.1	榲		榅	79		w	at	1	7	wat1	T33				
 4600.1	榥			79		f	ong	2	2	fong2	E34				
 4601.1	榻			79		t	aap	3	8	taap3	G13				
 4602.1	槎			79		c	aa	4	4	caa4	Q4				
@@ -5612,7 +5612,7 @@
 4610.2	榦			79		g	on	3	3	gon3	J87			同幹	
 4611.1	㮰			79		p	ei	4	4	pei4	C32				
 4612.1	槃			79		p	un	4	4	pun4	C72				
-4613.1	樧			79		s	aat	3	8	saat3	R22				
+4613.1	樧		榝	79		s	aat	3	8	saat3	R22				
 4614.1	槄			79		t	ou	1	1	tou1	G56				
 4615.1	槍			79		c	oeng	1	1	coeng1	Q103				
 4616.1	榤			79		g	it	6	9	git6	J69				
@@ -5625,14 +5625,14 @@
 4622.1	槊			79		s	ok	3	8	sok3	R108				
 4623.1	槌			79		c	eoi	4	4	ceoi4	Q111				
 4624.1	槐			79		w	aai	4	4	waai4	T7				
-4625.1	槔			79		g	ou	1	1	gou1	J76				
+4625.1	槔		槹|橰	79		g	ou	1	1	gou1	J76				
 4626.1	榨			79		z	aa	3	3	zaa3	P3				
 4627.1	榕			79		j	ung	4	4	jung4	S85				
 4628.1	榔			79		l	ong	4	4	long4	I86				
 4629.1	榠			79		m	ing	4	4	ming4	D63				
 4630.1	榷			79		k	ok	3	8	kok3	L46				
 4631.1	榍			79		s	it	3	8	sit3	R86				
-4632.1	槖			79		t	ok	3	8	tok3	G72			同橐	
+4632.1	槖		橐	79		t	ok	3	8	tok3	G72			同橐	
 4633.1	槑			79		m	ui	4	4	mui4	D80			同梅	
 4634.1	樁			79		z	ong	1	1	zong1	P102				
 4635.1	槥			79		w	ai	6	6	wai6	T25				
@@ -5647,8 +5647,8 @@
 4643.1	槧			79		c	im	3	3	cim3	Q70				
 4644.1	槽			79		c	ou	4	4	cou4	Q87				
 4645.1	樕			79		c	uk	1	7	cuk1	Q121				
-4646.1	槩			79		k	oi	3	3	koi3	L41			同概	
-4647.1	概			79		k	oi	3	3	koi3	L41				
+4646.1	槩		㮣	79		k	oi	3	3	koi3	L41			同概	
+4647.1	概		槪	79		k	oi	3	3	koi3	L41				
 4648.1	樞			79		s	yu	1	1	syu1	R136				
 4649.1	標			79		b	iu	1	1	biu1	B44				
 4650.1	槱			79		j	au	5	5	jau5	S11				
@@ -5671,7 +5671,7 @@
 4665.1	槲			79		h	uk	6	9	huk6	O122				
 4666.1	槺			79		h	ong	1	1	hong1	O100				
 4667.1	樟			79		z	oeng	1	1	zoeng1	P108				
-4668.1	樣			80		j	oeng	6	6	joeng6	S75				
+4668.1	樣		様	80		j	oeng	6	6	joeng6	S75				
 4669.1	樑			80		l	oeng	4	4	loeng4	I94				
 4670.1	𣙜			80		k	ok	3	8	kok3	L46			同榷	
 4671.1	槳			80		z	oeng	2	2	zoeng2	P109				
@@ -5686,13 +5686,13 @@
 4678.2	橈			80		j	iu	4	4	jiu4	S42	A			
 4679.1	樾			80		j	yut	6	9	jyut6	A61				
 4680.1	樹			80		s	yu	6	6	syu6	R141				
-4681.1	橫			80		w	aang	4	4	waang4	T14		縱橫		
-4681.2	橫			80		w	aang	6	6	waang6	T15		橫逆		
+4681.1	橫		横	80		w	aang	4	4	waang4	T14		縱橫		
+4681.2	橫		横	80		w	aang	6	6	waang6	T15		橫逆		
 4682.1	樺			80		w	aa	4	4	waa4	T3				
 4682.2	樺			80		w	aa	6	6	waa6	T5	R			
 4683.1	橄			80		g	am	2	2	gam2	J32				
 4684.1	樷			80		c	ung	4	4	cung4	Q119			同叢	
-4685.1	橐			80		t	ok	3	8	tok3	G72				
+4685.1	橐		槖	80		t	ok	3	8	tok3	G72				
 4686.1	橝			80		t	aam	4	4	taam4	G7				
 4687.1	橱			80		c	yu	4	4	cyu4	Q124				
 4687.2	橱			80		c	eoi	4	4	ceoi4	Q111	A			
@@ -5706,7 +5706,7 @@
 4692.1	檝			80		z	ip	3	8	zip3	P80				
 4693.1	樿			80		s	in	6	6	sin6	R84				
 4694.1	橅			80		m	ou	4	4	mou4	D68			同模	
-4695.1	橰			80		g	ou	1	1	gou1	J76				
+4695.1	橰		槔|槹	80		g	ou	1	1	gou1	J76				
 4696.1	橇			80		h	iu	1	1	hiu1	O65				
 4696.2	橇			80		c	eoi	3	3	ceoi3	Q110	A			
 4697.1	橋			80		k	iu	4	4	kiu4	L30				
@@ -5749,13 +5749,13 @@
 4732.1	檄			80		h	at	6	9	hat6	O58				
 4733.1	檢			80		g	im	2	2	gim2	J59				
 4734.1	檜			80		k	ui	2	2	kui2	L56				
-4735.1	檐			80		j	im	4	4	jim4	S48				
-4735.2	檐			80		s	im	4	4	sim4	R77	A			
+4735.1	檐		簷	80		j	im	4	4	jim4	S48				
+4735.2	檐		簷	80		s	im	4	4	sim4	R77	A			
 4736.1	檞			80		g	aai	2	2	gaai2	J6				
 4736.2	檞			80		h	aai	5	5	haai5	O7	A			
 4737.1	檁			80		l	am	5	5	lam5	I35				
 4738.1	檀			80		t	aan	4	4	taan4	G12				
-4739.1	檇			80		z	eoi	3	3	zeoi3	P116				
+4739.1	檇		槜	80		z	eoi	3	3	zeoi3	P116				
 4740.1	檍			80		j	ik	1	7	jik1	S67				
 4741.1	㯳			80		k	ing	4	4	king4	L38			同檠	
 4742.1	檥			80		ng	ai	5	5	ngai5	N34				
@@ -5795,8 +5795,8 @@
 4773.2	櫡			81		z	yu	6	6	zyu6	P133			同箸	
 4774.1	櫛			81		z	it	3	8	zit3	P82				
 4775.1	櫎			81		f	ong	2	2	fong2	E34				
-4776.1	櫥			81		c	yu	4	4	cyu4	Q124			同橱	
-4776.2	櫥			81	282	c	eoi	4	4	ceoi4	Q111				
+4776.1	櫥		櫉	81		c	yu	4	4	cyu4	Q124			同橱	
+4776.2	櫥		櫉	81	282	c	eoi	4	4	ceoi4	Q111				
 4777.1	櫠			81		f	ai	3	3	fai3	E12				
 4778.1	櫲			81		j	yu	6	6	jyu6	A53				
 4779.1	櫞			81		j	yun	4	4	jyun4	A57				
@@ -5836,7 +5836,7 @@
 4811.1	欘			81		z	uk	1	7	zuk1	P127				
 4812.1	欝			81		w	at	1	7	wat1	T33			同鬱	
 4813.1	欞			82		l	ing	4	4	ling4	I68				
-4814.1	鬱			82		w	at	1	7	wat1	T33				
+4814.1	鬱		鬰	82		w	at	1	7	wat1	T33				
 4815.1	欠			82		h	im	3	3	him3	O70				
 4816.1	次			82		c	i	3	3	ci3	Q61		次第		
 4816.2	次			82		z	i	1	1	zi1	P64		次且		
@@ -5848,11 +5848,11 @@
 4821.1	欶			82		s	ok	3	8	sok3	R108				
 4822.1	欷			82		h	ei	1	1	hei1	O60				
 4823.1	欲			82		j	uk	6	9	juk6	S89				
-4824.1	欵			82		f	un	2	2	fun2	E48			同款	
+4824.1	欵		款	82		f	un	2	2	fun2	E48			同款	
 4825.1	欸			82			ei	6	6	ei6	A28		應答聲		
 4825.2	欸			82			oi	1	1	oi1	A36		歎		
 4825.3	欸			82			aai	2	2	aai2	A5		欸乃		
-4826.1	款			82		f	un	2	2	fun2	E48				
+4826.1	款		欵	82		f	un	2	2	fun2	E48				
 4827.1	欺			82		h	ei	1	1	hei1	O60				
 4828.1	欹			82		j	i	1	1	ji1	S33		同猗		
 4828.2	欹			82		k	ei	1	1	kei1	L23		傾斜		
@@ -5898,7 +5898,7 @@
 4858.2	正			83		z	eng	3	3	zeng3	P59				
 4858.3	正			83		z	ing	1	1	zing1	P84		正月		
 4859.1	此			83		c	i	2	2	ci2	Q60				
-4860.1	步			83		b	ou	6	6	bou6	B61				
+4860.1	步		歩	83		b	ou	6	6	bou6	B61				
 4861.1	武			83		m	ou	5	5	mou5	D69				
 4862.1	歧			83		k	ei	4	4	kei4	L25				
 4863.1	肯			83		h	ang	2	2	hang2	O51		願意		
@@ -5909,10 +5909,10 @@
 4866.1	歭			83		c	i	4	4	ci4	Q62				
 4867.1	歬			83		c	in	4	4	cin4	Q74			前(本)	
 4868.1	㱕			83		gw	ai	1	1	gwai1	K12			同歸	
-4869.1	歲			83		s	eoi	3	3	seoi3	R118				
+4869.1	歲		歳	83		s	eoi	3	3	seoi3	R118				
 4870.1	歱			83		z	ung	2	2	zung2	P124				
 4871.1	歰			83		s	ap	1	7	sap1	R44			同澀	
-4872.1	歴			83		l	ik	6	9	lik6	I72			同歷	
+4872.1	歴		歷	83		l	ik	6	9	lik6	I72			同歷	
 4873.1	歷			83		l	ik	6	9	lik6	I72				
 4874.1	歸			83		gw	ai	1	1	gwai1	K12				
 4875.1	歹			83		d	aai	2	2	daai2	F4				
@@ -5924,8 +5924,8 @@
 4879.1	殀			83		j	iu	2	2	jiu2	S40				
 4880.1	𣧑			83		h	ung	1	1	hung1	O116			同凶	
 4881.1	歾			83		m	ut	6	9	mut6	D88			同殁	
-4882.1	殁			83		m	ut	6	9	mut6	D88				
-4883.1	歿			83		m	ut	6	9	mut6	D88			同殁	
+4882.1	殁		歿	83		m	ut	6	9	mut6	D88				
+4883.1	歿		殁	83		m	ut	6	9	mut6	D88			同殁	
 4884.1	殂			83		c	ou	4	4	cou4	Q87				
 4885.1	殃			83		j	oeng	1	1	joeng1	S70				
 4886.1	殄			83		t	in	5	5	tin5	G48				
@@ -5968,13 +5968,13 @@
 4919.1	殷			84		j	an	1	1	jan1	S19		盛大，富足		
 4919.2	殷			84		j	an	2	2	jan2	S20		震動聲		
 4919.3	殷			84		j	in	1	1	jin1	S51		赤黑色		
-4920.1	殻			84		h	ok	3	8	hok3	O107			同殼	
+4920.1	殻		殼	84		h	ok	3	8	hok3	O107			同殼	
 4921.1	𣪕			84		gw	ai	2	2	gwai2	K13				
 4922.1	殺			84		s	aat	3	8	saat3	R22		屠殺		
 4922.2	殺			84		s	aai	3	3	saai3	R6		隆殺		
-4923.1	殼			84		h	ok	3	8	hok3	O107				
+4923.1	殼		殻	84		h	ok	3	8	hok3	O107				
 4924.1	殽			84		ng	aau	4	4	ngaau4	N14				
-4925.1	毀			84		w	ai	2	2	wai2	T21				
+4925.1	毀		毁	84		w	ai	2	2	wai2	T21				
 4926.1	𣪠			84		g	ik	1	7	gik1	J74		打擊		
 4926.2	𣪠			84		g	ai	3	3	gai3	J25		豢養牲畜		
 4927.1	殿			84		d	in	6	6	din6	F66				
@@ -5988,7 +5988,7 @@
 4934.1	毌			84		g	un	3	3	gun3	J108				
 4935.1	毋			84		m	ou	4	4	mou4	D68				
 4936.1	母			84		m	ou	5	5	mou5	D69				
-4937.1	每			84		m	ui	5	5	mui5	D81				
+4937.1	每		毎	84		m	ui	5	5	mui5	D81				
 4938.1	毐			84			oi	2	2	oi2	A37				
 4939.1	乸			84		n	aa	2	2	naa2	H2				
 4940.1	毒			84		d	uk	6	9	duk6	F104				
@@ -6036,8 +6036,8 @@
 4975.1	㲪			85		d	ang	1	1	dang1	F35				
 4976.1	氄			85		j	ung	5	5	jung5	S86				
 4977.1	氉			85		c	ou	3	3	cou3	Q86				
-4978.1	氊			85		z	in	1	1	zin1	P76			同氈	
-4979.1	氈			85		z	in	1	1	zin1	P76				
+4978.1	氊		氈	85		z	in	1	1	zin1	P76			同氈	
+4979.1	氈		氊	85		z	in	1	1	zin1	P76				
 4980.1	氋			85		m	ung	4	4	mung4	D90				
 4981.1	氌			85		l	ou	5	5	lou5	I76				
 4982.1	氍			85		k	eoi	4	4	keoi4	L53				
@@ -6075,7 +6075,7 @@
 5008.1	氭			86		d	ung	1	1	dung1	F99				
 5009.1	氮			86		d	aam	6	6	daam6	F10				
 5010.1	氯			86		l	uk	6	9	luk6	I112				
-5011.1	氳			86		w	an	1	1	wan1	T26				
+5011.1	氳		氲	86		w	an	1	1	wan1	T26				
 5012.1	水			86		s	eoi	2	2	seoi2	R117				
 5013.1	氷			86		b	ing	1	1	bing1	B53				
 5014.1	永			86		w	ing	5	5	wing5	T37				
@@ -6095,8 +6095,8 @@
 5025.2	汗			86		h	on	4	4	hon4	O97		可汗		
 5026.1	汙			86		w	aa	1	1	waa1	T1		下陷		
 5026.2	汙			86		w	u	1	1	wu1	T53			同污	
-5027.1	汚			86		w	u	1	1	wu1	T53			同污	
-5028.1	污			86		w	u	1	1	wu1	T53				
+5027.1	汚		污	86		w	u	1	1	wu1	T53			同污	
+5028.1	污		汚	86		w	u	1	1	wu1	T53				
 5029.1	江			86		g	ong	1	1	gong1	J88				
 5030.1	汞			86		h	ung	3	3	hung3	O118				
 5031.1	汏			86		d	aai	6	6	daai6	F6				
@@ -6132,7 +6132,7 @@
 5059.1	汨			87		m	ik	6	9	mik6	D66				
 5060.1	汩			87		gw	at	1	7	gwat1	K21				
 5061.1	沓			87		d	aap	6	9	daap6	F16				
-5062.1	沖			87		c	ung	1	1	cung1	Q116			同冲	
+5062.1	沖		冲	87		c	ung	1	1	cung1	Q116			同冲	
 5063.1	汭			87		j	eoi	6	6	jeoi6	S80				
 5064.1	汽			87		h	ei	3	3	hei3	O62				
 5065.1	沜			87		p	un	3	3	pun3	C71				
@@ -6145,8 +6145,8 @@
 5072.1	㳂			87		j	yun	4	4	jyun4	A57			同沿	
 5073.1	沕			87		m	at	6	9	mat6	D41				
 5074.1	㳄			87		j	in	4	4	jin4	S54			同涎	
-5075.1	沒			87		m	ut	6	9	mut6	D88			同没	
-5076.1	没			87		m	ut	6	9	mut6	D88				
+5075.1	沒		没	87		m	ut	6	9	mut6	D88			同没	
+5076.1	没		沒	87		m	ut	6	9	mut6	D88				
 5077.1	汴			87		b	in	6	6	bin6	B49				
 5078.1	汶			87		m	an	6	6	man6	D35				
 5079.1	汸			87		f	ong	1	1	fong1	E33		水名		
@@ -6158,7 +6158,7 @@
 5083.1	沊			87		d	am	2	2	dam2	F28				
 5084.1	沁			87		s	am	3	3	sam3	R35				
 5085.1	汲			87		k	ap	1	7	kap1	L20				
-5086.1	決			87		k	yut	3	8	kyut3	L62			同决	
+5086.1	決		决	87		k	yut	3	8	kyut3	L62			同决	
 5087.1	沇			87		j	in	5	5	jin5	S55				
 5088.1	泰			87		t	aai	3	3	taai3	G3				
 5089.1	沬			87		m	ui	6	6	mui6	D82				
@@ -6182,7 +6182,7 @@
 5103.1	沺			87		t	in	4	4	tin4	G47				
 5104.1	油			87		j	au	4	4	jau4	S10				
 5105.1	泱			87		j	oeng	1	1	joeng1	S70				
-5106.1	況			87		f	ong	3	3	fong3	E35				原書「況、况」二字互見，茲將「況」列為主條目
+5106.1	況		况	87		f	ong	3	3	fong3	E35				原書「況、况」二字互見，茲將「況」列為主條目
 5107.1	泂			87		gw	ing	2	2	gwing2	K24				
 5108.1	泅			87		c	au	4	4	cau4	Q35				
 5109.1	泗			87		s	i	3	3	si3	R65				
@@ -6240,7 +6240,7 @@
 5151.1	洏			88		j	i	4	4	ji4	S36				
 5152.1	洊			88		z	in	3	3	zin3	P78				
 5153.1	洿			88		w	u	1	1	wu1	T53				
-5154.1	洌			88		l	it	6	9	lit6	I66				
+5154.1	洌		冽	88		l	it	6	9	lit6	I66				
 5155.1	洟			88		j	i	4	4	ji4	S36				
 5156.1	洸			88		gw	ong	1	1	gwong1	K29				
 5157.1	汧			88		h	in	1	1	hin1	O71				
@@ -6288,10 +6288,10 @@
 5192.2	浹			89		g	aap	3	8	gaap3	J19		激		
 5193.1	浙			89		z	it	3	8	zit3	P82				
 5194.1	涇			89		g	ing	1	1	ging1	J70				
-5195.1	涉			89		s	ip	3	8	sip3	R85				
+5195.1	涉		渉	89		s	ip	3	8	sip3	R85				
 5196.1	消			89		s	iu	1	1	siu1	R69				
 5197.1	涆			89		h	on	6	6	hon6	O99				
-5198.1	涅			89		n	ip	6	9	nip6	H50				
+5198.1	涅		湼	89		n	ip	6	9	nip6	H50				
 5199.1	浬			89		l	ei	5	5	lei5	I43				
 5200.1	浿			89		b	ui	3	3	bui3	B73				
 5201.1	浞			89		z	uk	1	7	zuk1	P127				
@@ -6314,9 +6314,9 @@
 5214.1	浴			89		j	uk	6	9	juk6	S89				
 5215.1	浮			89		f	au	4	4	fau4	E15				
 5216.1	浛			89		h	am	4	4	ham4	O44				
-5217.1	浼			89		m	ui	5	5	mui5	D81				
+5217.1	浼		凂	89		m	ui	5	5	mui5	D81				
 5218.1	浺			89		c	ung	1	1	cung1	Q116				
-5219.1	涗			89		s	eoi	3	3	seoi3	R118				
+5219.1	涗		涚	89		s	eoi	3	3	seoi3	R118				
 5220.1	浣			89		w	un	5	5	wun5	T65				
 5221.1	浤			89		w	ang	4	4	wang4	T32				
 5222.1	涕			89		t	ai	3	3	tai3	G17				
@@ -6329,7 +6329,7 @@
 5228.1	涌			89		c	ung	1	1	cung1	Q116				
 5229.1	涘			89		z	i	6	6	zi6	P67				
 5230.1	浚			89		z	eon	3	3	zeon3	P120				
-5231.1	清			89		c	ing	1	1	cing1	Q78				
+5231.1	清		淸	89		c	ing	1	1	cing1	Q78				
 5232.1	添			89		t	im	1	1	tim1	G39				
 5233.1	淩			89		l	ing	4	4	ling4	I68				
 5234.1	涬			89		h	ang	6	6	hang6	O54				
@@ -6347,7 +6347,7 @@
 5244.1	淶			89		l	oi	4	4	loi4	I82				
 5245.1	𣶐			89		p	aau	3	3	paau3	C8				
 5246.1	涿			89		d	oek	3	8	doek3	F92				
-5247.1	淒			89		c	ai	1	1	cai1	Q28			同凄	
+5247.1	淒		凄	89		c	ai	1	1	cai1	Q28			同凄	
 5248.1	淺			89		c	in	2	2	cin2	Q73				
 5249.1	淑			89		s	uk	6	9	suk6	R135				
 5250.1	淖			89		n	aau	6	6	naau6	H10				
@@ -6359,7 +6359,7 @@
 5254.2	混			89		w	an	4	4	wan4	T29		同渾		
 5255.1	淠			89		p	ei	3	3	pei3	C31				
 5256.1	淟			89		t	in	2	2	tin2	G45				
-5257.1	涸			89		k	ok	3	8	kok3	L46				
+5257.1	涸		凅	89		k	ok	3	8	kok3	L46				
 5258.1	淛			89		z	it	3	8	zit3	P82			同浙	
 5259.1	涹			89		w	o	1	1	wo1	T40				
 5260.1	淮			89		w	aai	4	4	waai4	T7				
@@ -6372,15 +6372,15 @@
 5267.1	淰			90		n	aam	5	5	naam5	H13		通罱		
 5267.2	淰			90		n	am	4	4	nam4	H26		淰淰		
 5267.3	淰			90		s	am	2	2	sam2	R34	D	軟、爛		
-5268.1	淨			90		z	eng	6	6	zeng6	P60			同凈	
-5268.2	淨			90		z	ing	6	6	zing6	P87			同凈	
+5268.1	淨		净|凈|浄	90		z	eng	6	6	zeng6	P60			同凈	
+5268.2	淨		净|凈|浄	90		z	ing	6	6	zing6	P87			同凈	
 5269.1	淜			90		p	ing	1	1	ping1	C46		水聲		
 5269.2	淜			90		p	ang	4	4	pang4	C27		涉水過海		
 5270.1	淝			90		f	ei	4	4	fei4	E27				
 5271.1	涽			90		f	an	1	1	fan1	E17				
 5272.1	淘			90		t	ou	4	4	tou4	G59				
 5273.1	淴			90		f	at	1	7	fat1	E23				
-5274.1	涼			90		l	oeng	4	4	loeng4	I94			同凉	
+5274.1	涼		凉	90		l	oeng	4	4	loeng4	I94			同凉	
 5275.1	淳			90		s	eon	4	4	seon4	R125				
 5276.1	液			90		j	ik	6	9	jik6	S68				
 5277.1	淬			90		c	eoi	3	3	ceoi3	Q110				
@@ -6398,9 +6398,9 @@
 5285.1	涫			90		g	un	3	3	gun3	J108				
 5286.1	涳			90		h	ung	1	1	hung1	O116				
 5287.1	涴			90		w	o	3	3	wo3	T42				
-5288.1	淚			90		l	eoi	6	6	leoi6	I101				
+5288.1	淚		涙	90		l	eoi	6	6	leoi6	I101				
 5289.1	深			90		s	am	1	1	sam1	R33				
-5290.1	淥			90		l	uk	6	9	luk6	I112				
+5290.1	淥		渌	90		l	uk	6	9	luk6	I112				
 5291.1	涮			90		s	aan	3	3	saan3	R16				
 5292.1	淈			90		gw	at	1	7	gwat1	K21				
 5293.1	𣵺			90		t	o	4	4	to4	G63				
@@ -6409,7 +6409,7 @@
 5296.1	淄			90		z	i	1	1	zi1	P64				
 5297.1	淼			90		m	iu	5	5	miu5	D56			同渺	
 5298.1	湱			90		w	aak	6	9	waak6	T19				
-5299.1	湊			90		c	au	3	3	cau3	Q34			同凑	
+5299.1	湊		凑	90		c	au	3	3	cau3	Q34			同凑	
 5300.1	湗			90		f	ung	6	6	fung6	E54				
 5301.1	渽			90		z	oi	1	1	zoi1	P98				
 5302.1	渚			90		z	yu	2	2	zyu2	P131				
@@ -6426,7 +6426,7 @@
 5312.1	湅			90		l	in	6	6	lin6	I63				
 5313.1	湮			90		j	an	1	1	jan1	S19				
 5314.1	渠			90		k	eoi	4	4	keoi4	L53				
-5315.1	減			90		g	aam	2	2	gaam2	J12			同减	
+5315.1	減		减	90		g	aam	2	2	gaam2	J12			同减	
 5316.1	湎			90		m	in	5	5	min5	D59				
 5317.1	渜			90		n	yun	5	5	nyun5	H75				
 5318.1	湝			90		g	aai	1	1	gaai1	J5				
@@ -6443,7 +6443,7 @@
 5325.3	湯			90		s	oeng	1	1	soeng1	R109		湯湯		
 5325.4	湯			90		j	oeng	4	4	joeng4	S73		湯谷		
 5326.1	湡			90		j	yu	4	4	jyu4	A51				
-5327.1	渴			90		h	ot	3	8	hot3	O106				
+5327.1	渴		渇	90		h	ot	3	8	hot3	O106				
 5328.1	渨			90		w	ui	1	1	wui1	T58				
 5329.1	渭			90		w	ai	6	6	wai6	T25				
 5330.1	渦			90		w	o	1	1	wo1	T40		旋渦		
@@ -6455,9 +6455,9 @@
 5333.1	湫			90		z	iu	2	2	ziu2	P69		低		
 5333.2	湫			90		z	au	1	1	zau1	P32		水潭		
 5334.1	湩			90		d	ung	6	6	dung6	F102				
-5335.1	湼			90		n	ip	6	9	nip6	H50			同涅	
+5335.1	湼		涅	90		n	ip	6	9	nip6	H50			同涅	
 5336.1	湟			90		w	ong	4	4	wong4	T48				
-5337.1	溆			90		z	eoi	6	6	zeoi6	P117				
+5337.1	溆		漵|潊	90		z	eoi	6	6	zeoi6	P117				
 5338.1	渝			90		j	yu	4	4	jyu4	A51				
 5339.1	渰			91		j	im	2	2	jim2	S46				
 5340.1	湲			91		j	yun	4	4	jyun4	A57				
@@ -6479,7 +6479,7 @@
 5355.1	湇			91		j	ap	1	7	jap1	S25				
 5356.1	渧			91		d	ai	3	3	dai3	F21				
 5357.1	湉			91		t	im	4	4	tim4	G42				
-5358.1	溈			91		gw	ai	1	1	gwai1	K12			同潙	
+5358.1	溈		潙	91		gw	ai	1	1	gwai1	K12			同潙	
 5359.1	渼			91		m	ei	5	5	mei5	D46				
 5360.1	湴			91		b	aan	6	6	baan6	B15				
 5361.1	湔			91		z	in	1	1	zin1	P76		洗		
@@ -6515,10 +6515,10 @@
 5382.1	滆			91		g	aak	3	8	gaak3	J22				
 5383.1	溧			91		l	eot	6	9	leot6	I106				
 5384.1	滅			91		m	it	6	9	mit6	D62				
-5385.1	滙			91		w	ui	6	6	wui6	T61			同匯	
+5385.1	滙		匯	91		w	ui	6	6	wui6	T61			同匯	
 5386.1	源			91		j	yun	4	4	jyun4	A57				
-5387.1	溼			91		s	ap	1	7	sap1	R44			同濕	
-5388.1	溫			91		w	an	1	1	wan1	T26				
+5387.1	溼		濕	91		s	ap	1	7	sap1	R44			同濕	
+5388.1	溫		温	91		w	an	1	1	wan1	T26				
 5389.1	滉			91		f	ong	2	2	fong2	E34				
 5390.1	溻			91		t	aap	3	8	taap3	G13				
 5391.1	溭			91		z	ik	1	7	zik1	P88				
@@ -6529,7 +6529,7 @@
 5395.1	溦			91		m	ei	4	4	mei4	D45				
 5396.1	溲			91		s	au	1	1	sau1	R28				
 5397.1	滌			91		d	ik	6	9	dik6	F76				
-5398.1	準			91		z	eon	2	2	zeon2	P119				
+5398.1	準		凖	91		z	eon	2	2	zeon2	P119				
 5399.1	溴			91		c	au	3	3	cau3	Q34				
 5400.1	溮			91		s	i	1	1	si1	R63				
 5401.1	㴲			91		s	i	1	1	si1	R63				
@@ -6546,7 +6546,7 @@
 5411.1	溜			91		l	iu	1	1	liu1	I54		溜走		
 5411.2	溜			91		l	au	6	6	lau6	I31		溜馬		
 5412.1	滈			91		h	ou	6	6	hou6	O84				
-5413.1	滚			91		gw	an	2	2	gwan2	K17				
+5413.1	滚		滾	91		gw	an	2	2	gwan2	K17				
 5414.1	溏			91		t	ong	4	4	tong4	G71				
 5415.1	滂			91		p	ong	4	4	pong4	C61				
 5415.2	滂			91		p	ong	1	1	pong1	C59	R			
@@ -6581,14 +6581,14 @@
 5440.1	滯			92		z	ai	6	6	zai6	P31				
 5441.1	漧			92		g	on	1	1	gon1	J85				
 5442.1	漤			92		l	aam	6	6	laam6	I11				
-5443.1	漆			92		c	at	1	7	cat1	Q49				
+5443.1	漆		𣾰	92		c	at	1	7	cat1	Q49				
 5444.1	漸			92		z	im	6	6	zim6	P75		漸漸		
 5444.2	漸			92		z	im	1	1	zim1	P72		漸濕		
 5445.1	漣			92		l	in	4	4	lin4	I61				
 5446.1	漙			92		t	yun	4	4	tyun4	G87				
 5447.1	漕			92		c	ou	4	4	cou4	Q87				
-5448.1	潄			92		s	au	3	3	sau3	R30			同漱	
-5448.2	潄			92		s	ou	3	3	sou3	R98	A		同漱	
+5448.1	潄		漱	92		s	au	3	3	sau3	R30			同漱	
+5448.2	潄		漱	92		s	ou	3	3	sou3	R98	A		同漱	
 5449.1	漱			92		s	au	3	3	sau3	R30				
 5449.2	漱			92		s	ou	3	3	sou3	R98	A			
 5450.1	漚			92			au	1	1	au1	A19		浮漚		
@@ -6614,17 +6614,17 @@
 5464.2	滫			92		s	au	1	1	sau1	R28	A			
 5465.1	滺			92		j	au	4	4	jau4	S10		水流貌	同浟	
 5465.2	滺			92		d	ik	6	9	dik6	F76		速	同浟	
-5466.1	溉			92		k	oi	3	3	koi3	L41				
+5466.1	溉		漑	92		k	oi	3	3	koi3	L41				
 5467.1	漎			92		c	ung	4	4	cung4	Q119		水流聲		
 5467.2	漎			92		s	ung	2	2	sung2	R131		漎漎，迅速		
-5468.1	漵			92		z	eoi	6	6	zeoi6	P117			同溆	
+5468.1	漵		溆|潊	92		z	eoi	6	6	zeoi6	P117			同溆	
 5469.1	漁			92		j	yu	4	4	jyu4	A51				
 5470.1	漪			92		j	i	1	1	ji1	S33				
 5471.1	漈			92		z	ai	3	3	zai3	P30				
 5472.1	滸			92		w	u	2	2	wu2	T54		水邊		
 5472.2	滸			92		h	eoi	2	2	heoi2	O114		滸墅關		
 5473.1	漷			92		gw	ok	3	8	gwok3	K32				
-5474.1	滾			92		gw	an	2	2	gwan2	K17			同滚	
+5474.1	滾		滚	92		gw	an	2	2	gwan2	K17			同滚	
 5475.1	漓			92		l	ei	4	4	lei4	I42				
 5476.1	漉			92		l	uk	6	9	luk6	I112				
 5477.1	漩			92		s	yun	4	4	syun4	R145				
@@ -6668,7 +6668,7 @@
 5509.1	潦			93		l	ou	5	5	lou5	I76		水潦		
 5509.2	潦			93		l	iu	4	4	liu4	I55		潦草		
 5510.1	澐			93		w	an	4	4	wan4	T29				
-5511.1	潛			93		c	im	4	4	cim4	Q71				
+5511.1	潛		濳	93		c	im	4	4	cim4	Q71				
 5512.1	澁			93		s	ap	1	7	sap1	R44			同澀	
 5512.2	澁			93		g	ip	3	8	gip3	J67	C		同澀	
 5513.1	潎			93		p	it	3	8	pit3	C45				
@@ -6679,12 +6679,12 @@
 5518.1	潿			93		w	ai	4	4	wai4	T23				
 5519.1	潕			93		m	ou	5	5	mou5	D69				
 5520.1	潲			93		s	aau	3	3	saau3	R10				
-5521.1	潟			93		s	ik	1	7	sik1	R93				
+5521.1	潟		澙	93		s	ik	1	7	sik1	R93				
 5522.1	澔			93		h	ou	6	6	hou6	O84				
 5523.1	潘			93		p	un	1	1	pun1	C69				
 5524.1	潝			93		k	ap	1	7	kap1	L20				
 5525.1	潷			93		b	ei	3	3	bei3	B37				
-5526.1	潙			93		gw	ai	1	1	gwai1	K12				
+5526.1	潙		溈	93		gw	ai	1	1	gwai1	K12				
 5527.1	潒			93		d	ong	6	6	dong6	F89			同蕩	
 5528.1	潴			93		z	yu	1	1	zyu1	P130				
 5529.1	潼			93		t	ung	4	4	tung4	G85				
@@ -6695,8 +6695,8 @@
 5533.1	潾			93		l	eon	4	4	leon4	I103				
 5534.1	潯			93		c	am	4	4	cam4	Q39				
 5535.1	潤			93		j	eon	6	6	jeon6	S82				
-5536.1	澗			93		g	aan	3	3	gaan3	J16				
-5536.2	澗			93		g	aan	2	2	gaan2	J15	A			
+5536.1	澗		㵎	93		g	aan	3	3	gaan3	J16				
+5536.2	澗		㵎	93		g	aan	2	2	gaan2	J15	A			
 5537.1	潺			93		s	aan	4	4	saan4	R17				
 5538.1	潠			93		s	eon	3	3	seon3	R124				
 5539.1	澀			93		s	ap	1	7	sap1	R44				
@@ -6757,7 +6757,7 @@
 5580.1	濔			94		m	ei	5	5	mei5	D46				
 5581.1	濡			94		j	yu	4	4	jyu4	A51				
 5582.1	濬			94		z	eon	3	3	zeon3	P120				
-5583.1	濕			94		s	ap	1	7	sap1	R44				
+5583.1	濕		溼	94		s	ap	1	7	sap1	R44				
 5584.1	㵲			94		m	ou	5	5	mou5	D69				
 5585.1	濮			94		b	uk	6	9	buk6	B85				
 5586.1	濞			94		p	ei	3	3	pei3	C31				
@@ -6771,7 +6771,7 @@
 5593.1	濱			94		b	an	1	1	ban1	B27				
 5594.1	濘			94		n	ing	6	6	ning6	H53				
 5595.1	濜			94		z	eon	6	6	zeon6	P121				
-5596.1	濶			94		f	ut	3	8	fut3	E49			同闊	
+5596.1	濶		闊	94		f	ut	3	8	fut3	E49			同闊	
 5597.1	瀡			94		s	eoi	5	5	seoi5	R120				
 5598.1	濯			94		z	ok	6	9	zok6	P107				
 5599.1	濰			94		w	ai	4	4	wai4	T23				
@@ -6796,12 +6796,12 @@
 5614.1	瀅			94		j	ing	4	4	jing4	S64				
 5615.1	瀁			94		j	oeng	5	5	joeng5	S74		沆瀁		
 5615.2	瀁			94		j	oeng	6	6	joeng6	S75			古漾字	
-5616.1	瀉			94		s	e	3	3	se3	R53				
+5616.1	瀉		㵼	94		s	e	3	3	se3	R53				
 5617.1	瀋			94		s	am	2	2	sam2	R34				
 5618.1	瀫			94		h	uk	6	9	huk6	O122				
 5619.1	瀚			94		h	on	6	6	hon6	O99				
 5620.1	瀟			94		s	iu	1	1	siu1	R69				
-5621.1	瀨			94		l	aai	6	6	laai6	I7				
+5621.1	瀨		瀬	94		l	aai	6	6	laai6	I7				
 5622.1	瀜			94		j	ung	4	4	jung4	S85				
 5623.1	瀝			94		l	ik	6	9	lik6	I72				
 5624.1	瀦			94		z	yu	1	1	zyu1	P130				
@@ -6853,9 +6853,9 @@
 5664.1	灠			95		l	aam	6	6	laam6	I11				
 5665.1	灣			95		w	aan	1	1	waan1	T9				
 5666.1	灤			95		l	yun	4	4	lyun4	I114				
-5667.1	灧			95		j	im	6	6	jim6	S50			同灩	
+5667.1	灧		灔|灩|𤅿	95		j	im	6	6	jim6	S50			同灩	
 5668.1	灨			95		g	am	3	3	gam3	J33			同贛	
-5669.1	灩			95		j	im	6	6	jim6	S50				
+5669.1	灩		灔|灧|𤅿	95		j	im	6	6	jim6	S50				
 5670.1	火			95		f	o	2	2	fo2	E31				
 5671.1	灰			95		f	ui	1	1	fui1	E44				
 5672.1	灸			95		g	au	3	3	gau3	J29				
@@ -6890,8 +6890,8 @@
 5697.1	炮			96		p	aau	3	3	paau3	C8		大炮		
 5697.2	炮			96		p	aau	4	4	paau4	C9		炮製		
 5697.3	炮			96		b	aau	3	3	baau3	B11		炮羊肉		
-5698.1	為			96		w	ai	4	4	wai4	T23		作為	同爲	
-5698.2	為			96		w	ai	6	6	wai6	T25		因為	同爲	
+5698.1	為		爲	96		w	ai	4	4	wai4	T23		作為	同爲	
+5698.2	為		爲	96		w	ai	6	6	wai6	T25		因為	同爲	
 5699.1	炷			96		z	yu	3	3	zyu3	P132				
 5700.1	炫			96		j	yun	6	6	jyun6	A59				
 5700.2	炫			96		j	yun	4	4	jyun4	A57	A			
@@ -6942,8 +6942,8 @@
 5739.1	焜			96		kw	an	1	1	kwan1	M14				
 5740.1	焦			96		z	iu	1	1	ziu1	P68				
 5741.1	焮			96		j	an	1	1	jan1	S19				
-5742.1	焰			96		j	im	6	6	jim6	S50				
-5742.2	焰			96		j	im	4	4	jim4	S48	A			
+5742.1	焰		燄|𦦨	96		j	im	6	6	jim6	S50				
+5742.2	焰		燄|𦦨	96		j	im	4	4	jim4	S48	A			
 5743.1	然			96		j	in	4	4	jin4	S54				
 5744.1	焞			96		s	eon	4	4	seon4	R125				
 5745.1	焠			96		s	eoi	6	6	seoi6	R121				
@@ -6955,10 +6955,10 @@
 5749.2	無			96		m	o	4	4	mo4	D73		南無		
 5750.1	煁			96		s	am	4	4	sam4	R36				
 5751.1	煤			96		m	ui	4	4	mui4	D80				
-5752.1	煮			96		z	yu	2	2	zyu2	P131				
-5753.1	煑			96		z	yu	2	2	zyu2	P131			同煮	
+5752.1	煮		煑	96		z	yu	2	2	zyu2	P131				
+5753.1	煑		煮	96		z	yu	2	2	zyu2	P131			同煮	
 5754.1	煠			96		z	aa	3	3	zaa3	P3		同炸		
-5755.1	熙			96		h	ei	1	1	hei1	O60				
+5755.1	熙		煕|熈	96		h	ei	1	1	hei1	O60				
 5756.1	煏			96		b	ik	1	7	bik1	B57				
 5757.1	煙			96		j	in	1	1	jin1	S51			同烟	
 5758.1	煉			96		l	in	6	6	lin6	I63				
@@ -6973,7 +6973,7 @@
 5767.1	煨			97		w	ui	1	1	wui1	T58				
 5768.1	煟			97		w	ai	6	6	wai6	T25				
 5769.1	煅			97		d	yun	3	3	dyun3	F107				
-5770.1	煲			97		b	ou	1	1	bou1	B58				
+5770.1	煲		㷛	97		b	ou	1	1	bou1	B58				
 5771.1	煌			97		w	ong	4	4	wong4	T48				
 5772.1	煖			97		n	yun	5	5	nyun5	H75			同暖	
 5772.2	煖			97		h	yun	1	1	hyun1	O123			同煊	
@@ -6982,7 +6982,7 @@
 5775.1	煔			97		s	im	2	2	sim2	R75				
 5776.1	煎			97		z	in	1	1	zin1	P76				
 5777.1	煊			97		h	yun	1	1	hyun1	O123				
-5778.1	煢		𠙦	97		k	ing	4	4	king4	L38				
+5778.1	煢		焭	97		k	ing	4	4	king4	L38				
 5779.1	煇			97		w	an	6	6	wan6	T31				
 5779.2	煇			97		f	ai	1	1	fai1	E11			同輝	
 5780.1	煸			97		p	in	1	1	pin1	C41				
@@ -6992,10 +6992,10 @@
 5784.1	煣			97		j	au	2	2	jau2	S8				
 5785.1	煺			97		t	eoi	3	3	teoi3	G76				
 5786.1	煿			97		b	ok	3	8	bok3	B70				
-5787.1	熅			97		w	an	1	1	wan1	T26				
+5787.1	熅		煴	97		w	an	1	1	wan1	T26				
 5788.1	熀			97		f	ong	2	2	fong2	E34				
 5789.1	熄			97		s	ik	1	7	sik1	R93				
-5790.1	熈			97		h	ei	1	1	hei1	O60			同熙	
+5790.1	熈		煕|熙	97		h	ei	1	1	hei1	O60			同熙	
 5791.1	熗			97		c	oeng	3	3	coeng3	Q105				
 5792.1	熘			97		l	au	6	6	lau6	I31			同餾	
 5792.2	熘			97		l	au	4	4	lau4	I29	A		同餾	
@@ -7047,8 +7047,8 @@
 5828.2	燋			97		c	iu	4	4	ciu4	Q67			通樵	
 5829.1	燔			97		f	aan	4	4	faan4	E8				
 5830.1	燃			97		j	in	4	4	jin4	S54				
-5831.1	燄			97		j	im	6	6	jim6	S50			同焰	
-5831.2	燄			97		j	im	4	4	jim4	S48	A		同焰	
+5831.1	燄		焰|𦦨	97		j	im	6	6	jim6	S50			同焰	
+5831.2	燄		焰|𦦨	97		j	im	4	4	jim4	S48	A		同焰	
 5832.1	燉			97		d	eon	6	6	deon6	F97				
 5832.2	燉			97		d	an	6	6	dan6	F34	A			
 5833.1	熾			98		c	i	3	3	ci3	Q61				
@@ -7115,13 +7115,13 @@
 5884.1	爩			98		w	at	1	7	wat1	T33				
 5885.1	爪			98		z	aau	2	2	zaau2	P9				
 5886.1	㸓			98		f	at	1	7	fat1	E23				
-5887.1	爭			99		z	ang	1	1	zang1	P44				
-5887.2	爭			99		z	aang	1	1	zaang1	P19	V			
+5887.1	爭		争	99		z	ang	1	1	zang1	P44				
+5887.2	爭		争	99		z	aang	1	1	zaang1	P19	V			
 5888.1	爬			99		p	aa	4	4	paa4	C3				
 5889.1	爰			99		w	un	4	4	wun4	T64				
 5889.2	爰			99		j	yun	4	4	jyun4	A57	A			
-5890.1	爲			99		w	ai	4	4	wai4	T23		作爲		
-5890.2	爲			99		w	ai	6	6	wai6	T25		因爲		
+5890.1	爲		為	99		w	ai	4	4	wai4	T23		作爲		
+5890.2	爲		為	99		w	ai	6	6	wai6	T25		因爲		
 5891.1	𢆡			99		n	in	1	1	nin1	H45				
 5892.1	爵			99		z	oek	3	8	zoek3	P112				
 5893.1	父			99		f	u	6	6	fu6	E43		父親		
@@ -7228,7 +7228,7 @@
 5984.2	犿			101		f	un	1	1	fun1	E47	A			
 5985.1	犺			101		k	ong	3	3	kong3	L43				
 5986.1	狄			101		d	ik	6	9	dik6	F76				
-5987.1	狀			101		z	ong	6	6	zong6	P105				
+5987.1	狀		状	101		z	ong	6	6	zong6	P105				
 5988.1	狃			101		n	au	2	2	nau2	H22				
 5989.1	狁			101		w	an	5	5	wan5	T30				
 5990.1	𤜯			101		k	ap	6	9	kap6	L21				
@@ -7292,8 +7292,8 @@
 6043.1	猝			102		c	yut	3	8	cyut3	Q130				
 6044.1	猛			102		m	aang	5	5	maang5	D17				
 6045.1	猰			102		j	aak	3	8	jaak3	S5				
-6046.1	猪			102		z	yu	1	1	zyu1	P130			同豬	
-6047.1	猫			102		m	aau	1	1	maau1	D8			同貓	
+6046.1	猪		豬	102		z	yu	1	1	zyu1	P130			同豬	
+6047.1	猫		貓	102		m	aau	1	1	maau1	D8			同貓	
 6048.1	猢			102		w	u	4	4	wu4	T56				
 6049.1	献			102		h	in	3	3	hin3	O73			同獻	
 6050.1	猹			102		z	aa	1	1	zaa1	P1				
@@ -7332,14 +7332,14 @@
 6080.1	獌			102		m	aan	6	6	maan6	D15				
 6081.1	獐			102		z	oeng	1	1	zoeng1	P108				
 6082.1	獍			102		g	ing	3	3	ging3	J72				
-6083.1	獎			102		z	oeng	2	2	zoeng2	P109				
+6083.1	獎		奨|奬	102		z	oeng	2	2	zoeng2	P109				
 6084.1	獟			102		h	iu	1	1	hiu1	O65				
 6085.1	獠			102		l	iu	4	4	liu4	I55		夜獵		
 6085.2	獠			102		l	ou	5	5	lou5	I76		古時駡人語		
 6086.1	獗			102		k	yut	3	8	kyut3	L62				
 6087.1	獘			102		b	ai	6	6	bai6	B25				
 6088.1	獢			102		h	iu	1	1	hiu1	O65				
-6089.1	獋			102		h	ou	4	4	hou4	O83			同嗥	
+6089.1	獋		獆|獔	102		h	ou	4	4	hou4	O83			同嗥	
 6090.1	獞			102		t	ung	4	4	tung4	G85				
 6091.1	獝			102		w	at	6	9	wat6	T34				
 6092.1	𤢖			102		s	iu	1	1	siu1	R69			同魈	
@@ -7370,10 +7370,10 @@
 6115.1	玀			103		l	o	4	4	lo4	I81				
 6116.1	玃			103		f	ok	3	8	fok3	E37				
 6117.1	玁			103		h	im	2	2	him2	O69				
-6118.1	玄			103		j	yun	4	4	jyun4	A57				
+6118.1	玄		𤣥	103		j	yun	4	4	jyun4	A57				
 6119.1	玅			103		m	iu	6	6	miu6	D57		同妙		
-6120.1	玆			103		z	i	1	1	zi1	P64				
-6120.2	玆			103		j	yun	4	4	jyun4	A57	A			
+6120.1	玆		兹|茲	103		z	i	1	1	zi1	P64				
+6120.2	玆		兹|茲	103		j	yun	4	4	jyun4	A57	A			
 6121.1	玈			103		l	ou	4	4	lou4	I75				
 6122.1	率			103		s	eot	1	7	seot1	R128		率領		
 6122.2	率			103		l	eot	6	9	leot6	I106		比率		
@@ -7506,7 +7506,7 @@
 6242.1	瑣			104		s	o	2	2	so2	R100				
 6243.1	瑰			104		gw	ai	1	1	gwai1	K12		珍奇		
 6243.2	瑰			104		gw	ai	3	3	gwai3	K14		玫瑰		
-6244.1	瑤			105		j	iu	4	4	jiu4	S42				
+6244.1	瑤		瑶	105		j	iu	4	4	jiu4	S42				
 6245.1	瑲			105		c	oeng	1	1	coeng1	Q103				
 6246.1	瑠			105		l	au	4	4	lau4	I29			同琉	
 6247.1	瑳			105		c	o	1	1	co1	Q89				
@@ -7594,7 +7594,7 @@
 6322.1	瓽			106		d	ong	6	6	dong6	F89				
 6323.1	甀			106		z	eoi	6	6	zeoi6	P117				
 6324.1	瓿			106		p	au	2	2	pau2	C20				
-6325.1	瓶			106		p	ing	4	4	ping4	C48				
+6325.1	瓶		甁	106		p	ing	4	4	ping4	C48				
 6326.1	甄			106		z	an	1	1	zan1	P40				
 6326.2	甄			106		j	an	1	1	jan1	S19	A			
 6327.1	甃			106		z	au	3	3	zau3	P34				
@@ -7626,7 +7626,7 @@
 6349.1	甝			107		h	on	4	4	hon4	O97				
 6350.1	生			107		s	aang	1	1	saang1	R18				
 6351.1	甡			107		s	an	1	1	san1	R38				
-6352.1	產			107		c	aan	2	2	caan2	Q18				
+6352.1	產		産	107		c	aan	2	2	caan2	Q18				
 6353.1	甦			107		s	ou	1	1	sou1	R96				
 6354.1	甤			107		j	eoi	4	4	jeoi4	S78				
 6355.1	甥			107		s	aang	1	1	saang1	R18				
@@ -7685,7 +7685,7 @@
 6401.1	畧			108		l	oek	6	9	loek6	I97			同略	
 6402.1	略			108		l	oek	6	9	loek6	I97				
 6403.1	畡			108		g	oi	1	1	goi1	J82				
-6404.1	畱			108		l	au	4	4	lau4	I29			同留	
+6404.1	畱		留	108		l	au	4	4	lau4	I29			同留	
 6405.1	異			108		j	i	6	6	ji6	S38				
 6406.1	畮			108		m	au	5	5	mau5	D29			同畝	
 6407.1	畲			108		s	e	4	4	se4	R54				
@@ -7694,8 +7694,8 @@
 6409.1	番			108		f	aan	1	1	faan1	E5		番茄		
 6409.2	番			108		p	un	1	1	pun1	C69		番禺		
 6409.3	番			108		p	o	4	4	po4	C58		姓		
-6410.1	畫			108		w	aa	6	6	waa6	T5		圖畫		
-6410.2	畫			108		w	aak	6	9	waak6	T19		描畫		
+6410.1	畫		畵	108		w	aa	6	6	waa6	T5		圖畫		
+6410.2	畫		畵	108		w	aak	6	9	waak6	T19		描畫		
 6411.1	畯			108		z	eon	3	3	zeon3	P120				
 6412.1	榃			108		d	am	4	4	dam4	F30				
 6413.1	畺			108		g	oeng	1	1	goeng1	J94				
@@ -7711,11 +7711,11 @@
 6422.1	疇			108		c	au	4	4	cau4	Q35				
 6423.1	疆			108		g	oeng	1	1	goeng1	J94				
 6424.1	疈			108		b	ik	1	7	bik1	B57				
-6425.1	疊			108		d	ip	6	9	dip6	F67				
+6425.1	疊		叠	108		d	ip	6	9	dip6	F67				
 6426.1	疋			108		s	o	1	1	so1	R99				
 6426.2	疋			108		p	at	1	7	pat1	C28			同匹	
 6426.3	疋			108		ng	aa	5	5	ngaa5	N5			同雅	
-6427.1	疍			108		d	aan	6	6	daan6	F13				
+6427.1	疍		蛋	108		d	aan	6	6	daan6	F13				
 6428.1	疎			108		s	o	1	1	so1	R99				
 6429.1	疏			108		s	o	1	1	so1	R99		疏遠		
 6429.2	疏			108		s	o	3	3	so3	R101		注疏		
@@ -7802,8 +7802,8 @@
 6496.1	痠			109		s	yun	1	1	syun1	R142				
 6497.1	瘂			109			aa	2	2	aa2	A2		瘂口無言	同啞	
 6497.2	瘂			109		ng	aa	2	2	ngaa2	N2	A	瘂口無言	同啞	
-6498.1	痳			109		l	am	4	4	lam4	I34				
-6499.1	痲			109		m	aa	4	4	maa4	D2				
+6498.1	痳		痲	109		l	am	4	4	lam4	I34				
+6499.1	痲		痳	109		m	aa	4	4	maa4	D2				
 6500.1	瘃			109		z	uk	6	9	zuk6	P129				
 6501.1	痱			109		f	ai	6	6	fai6	E13				
 6501.2	痱			109		f	ei	2	2	fei2	E26	A			
@@ -7830,7 +7830,7 @@
 6519.1	瘍			110		j	oeng	4	4	joeng4	S73				
 6520.1	瘇			110		z	ung	2	2	zung2	P124				
 6521.1	瘊			110		h	au	4	4	hau4	O38				
-6522.1	瘉			110		j	yu	6	6	jyu6	A53				
+6522.1	瘉		癒	110		j	yu	6	6	jyu6	A53				
 6523.1	瘐			110		j	yu	5	5	jyu5	A52				
 6524.1	瘓			110		w	un	6	6	wun6	T66				
 6525.1	瘋			110		f	ung	1	1	fung1	E50				
@@ -7846,7 +7846,7 @@
 6534.1	瘟			110		w	an	1	1	wan1	T26				
 6535.1	瘝			110		gw	aan	1	1	gwaan1	K7				
 6536.1	瘧			110		j	oek	6	9	joek6	S77				
-6537.1	瘦			110		s	au	3	3	sau3	R30				
+6537.1	瘦		痩	110		s	au	3	3	sau3	R30				
 6538.1	瘢			110		b	aan	1	1	baan1	B13				
 6539.1	瘠			110		z	ik	3	8	zik3	P89				
 6540.1	瘡			110		c	ong	1	1	cong1	Q98				
@@ -7869,7 +7869,7 @@
 6556.1	瘳			110		c	au	1	1	cau1	Q32				
 6557.1	瘮			110		s	am	3	3	sam3	R35				
 6558.1	癍			110		b	aan	1	1	baan1	B13				
-6559.1	癅			110		l	au	4	4	lau4	I29			同瘤	
+6559.1	癅		瘤	110		l	au	4	4	lau4	I29			同瘤	
 6560.1	療			110		l	iu	4	4	liu4	I55				
 6561.1	㿊			110		c	aam	2	2	caam2	Q13				
 6562.1	癉			110		d	aan	3	3	daan3	F12		憎恨		
@@ -7889,7 +7889,7 @@
 6573.1	癘			110		l	ai	6	6	lai6	I27				
 6574.1	癐			110		g	ui	6	6	gui6	J105				
 6575.1	癙			110		s	yu	2	2	syu2	R137				
-6576.1	癒			110		j	yu	6	6	jyu6	A53				
+6576.1	癒		瘉	110		j	yu	6	6	jyu6	A53				
 6577.1	𤺺			110		d	aan	3	3	daan3	F12				
 6578.1	癔			110		j	i	3	3	ji3	S35				
 6579.1	癕			110		j	ung	1	1	jung1	S83			同癰	
@@ -7929,9 +7929,9 @@
 6611.1	皆			111		g	aai	1	1	gaai1	J5				
 6612.1	皇			111		w	ong	4	4	wong4	T48				
 6613.1	皈			111		gw	ai	1	1	gwai1	K12				
-6614.1	皋			111		g	ou	1	1	gou1	J76				
+6614.1	皋		皐|臯|𦤎	111		g	ou	1	1	gou1	J76				
 6615.1	皎			111		g	aau	2	2	gaau2	J9				
-6616.1	皐			111		g	ou	1	1	gou1	J76			同皋	
+6616.1	皐		皋|臯|𦤎	111		g	ou	1	1	gou1	J76			同皋	
 6617.1	皕			111		b	ik	1	7	bik1	B57				
 6618.1	皓			111		h	ou	6	6	hou6	O84				
 6619.1	皖			111		w	un	5	5	wun5	T65				
@@ -7940,12 +7940,12 @@
 6621.1	皝			111		f	ong	2	2	fong2	E34				
 6622.1	皚			111		ng	oi	4	4	ngoi4	N70				
 6622.2	皚			111		j	i	4	4	ji4	S36	A			
-6623.1	皞			111		h	ou	6	6	hou6	O84				
+6623.1	皞		曍|皡|皥	111		h	ou	6	6	hou6	O84				
 6624.1	皛			111		k	iu	5	5	kiu5	L31				
 6625.1	皜			111		h	ou	6	6	hou6	O84			同皓	
 6626.1	㿥			111		h	ok	6	9	hok6	O108			同翯	
 6627.1	皠			111		c	eoi	3	3	ceoi3	Q110				
-6628.1	皥			111		h	ou	6	6	hou6	O84			同皞	
+6628.1	皥		曍|皞|皡	111		h	ou	6	6	hou6	O84			同皞	
 6629.1	皤			111		p	o	4	4	po4	C58				
 6630.1	皦			112		g	iu	2	2	giu2	J55				
 6631.1	皫			112		p	iu	5	5	piu5	C40				
@@ -7986,10 +7986,10 @@
 6664.1	益			112		j	ik	1	7	jik1	S67				
 6665.1	盔			112		kw	ai	1	1	kwai1	M9				
 6666.1	盒			112		h	ap	6	9	hap6	O56				
-6667.1	盗			112		d	ou	6	6	dou6	F80				
+6667.1	盗		盜	112		d	ou	6	6	dou6	F80				
 6668.1	盛			112		s	ing	6	6	sing6	R92		盛大		
 6668.2	盛			112		s	ing	4	4	sing4	R91		盛物		
-6669.1	盜			112		d	ou	6	6	dou6	F80			盗(本)	
+6669.1	盜		盗	112		d	ou	6	6	dou6	F80			盗(本)	
 6670.1	盝			112		l	uk	6	9	luk6	I112				
 6671.1	盞			112		z	aan	2	2	zaan2	P16				
 6672.1	盟			112		m	ang	4	4	mang4	D39				
@@ -8156,8 +8156,8 @@
 6809.1	瞳			115		t	ung	4	4	tung4	G85				
 6810.1	瞵			115		l	eon	4	4	leon4	I103				
 6811.1	瞤			115		s	eon	3	3	seon3	R124				
-6812.1	瞯			115		g	aan	3	3	gaan3	J16				
-6812.2	瞯			115		h	aan	2	2	haan2	O21	A			
+6812.1	瞯		瞷	115		g	aan	3	3	gaan3	J16				
+6812.2	瞯		瞷	115		h	aan	2	2	haan2	O21	A			
 6813.1	瞪			115		d	ang	6	6	dang6	F38				
 6813.2	瞪			115		d	ang	1	1	dang1	F35	A			
 6814.1	瞲			115		h	yut	3	8	hyut3	O126				
@@ -8265,7 +8265,7 @@
 6903.1	硭			116		m	ong	4	4	mong4	D75				
 6904.1	砦			116		z	aai	6	6	zaai6	P7				
 6905.1	硐			116		d	ung	6	6	dung6	F102				
-6906.1	研			116		j	in	4	4	jin4	S54				
+6906.1	研		硏	116		j	in	4	4	jin4	S54				
 6907.1	硃			116		z	yu	1	1	zyu1	P130				
 6908.1	硇			116		n	aau	4	4	naau4	H8				
 6909.1	硌			116		g	ok	3	8	gok3	J92		硌脚		
@@ -8454,7 +8454,7 @@
 7078.1	祚			119		z	ou	6	6	zou6	P94				
 7079.1	祔			119		f	u	6	6	fu6	E43				
 7080.1	祗			119		z	i	1	1	zi1	P64				
-7081.1	祕			119		b	ei	3	3	bei3	B37			同秘	
+7081.1	祕		秘	119		b	ei	3	3	bei3	B37			同秘	
 7082.1	祠			119		c	i	4	4	ci4	Q62				
 7083.1	票			119		p	iu	3	3	piu3	C38				
 7084.1	祭			119		z	ai	3	3	zai3	P30				
@@ -8468,9 +8468,9 @@
 7091.2	禁			119		k	am	1	1	kam1	L13		弱不禁風		
 7092.1	䄍			119		z	aa	3	3	zaa3	P3				
 7093.1	祼			119		g	un	3	3	gun3	J108				
-7094.1	禀			119		b	an	2	2	ban2	B28				
-7094.2	禀			119		l	am	5	5	lam5	I35			通廩	
-7095.1	祿			119		l	uk	6	9	luk6	I112				
+7094.1	禀		稟	119		b	an	2	2	ban2	B28				
+7094.2	禀		稟	119		l	am	5	5	lam5	I35			通廩	
+7095.1	祿		禄	119		l	uk	6	9	luk6	I112				
 7096.1	禍			119		w	o	6	6	wo6	T45				
 7097.1	禊			119		h	ai	6	6	hai6	O34				
 7098.1	禖			119		m	ui	4	4	mui4	D80				
@@ -8514,10 +8514,10 @@
 7130.1	禹			120		j	yu	5	5	jyu5	A52				
 7131.1	离			120		c	i	1	1	ci1	Q59			同螭	
 7131.2	离			120		l	ei	4	4	lei4	I42			同離	
-7132.1	禼			120		s	it	3	8	sit3	R86				
+7132.1	禼		𥜽	120		s	it	3	8	sit3	R86				
 7133.1	禽			120		k	am	4	4	kam4	L15				
 7134.1	禾			120		w	o	4	4	wo4	T43				
-7135.1	禿			120		t	uk	1	7	tuk1	G86				
+7135.1	禿		秃	120		t	uk	1	7	tuk1	G86				
 7136.1	秀			120		s	au	3	3	sau3	R30				
 7137.1	私			120		s	i	1	1	si1	R63				
 7138.1	秆			120		g	on	2	2	gon2	J86				
@@ -8548,7 +8548,7 @@
 7162.1	秩			120		d	it	6	9	dit6	F70				
 7163.1	秝			120		l	ik	6	9	lik6	I72				
 7164.1	秭			120		z	i	2	2	zi2	P65				
-7165.1	秘			120		b	ei	3	3	bei3	B37				
+7165.1	秘		祕	120		b	ei	3	3	bei3	B37				
 7166.1	秜			120		n	ei	4	4	nei4	H33				
 7167.1	秸			120		g	aai	1	1	gaai1	J5				
 7168.1	移			120		j	i	4	4	ji4	S36				
@@ -8558,11 +8558,11 @@
 7172.1	稍			120		s	aau	2	2	saau2	R9				
 7173.1	稈			121		g	on	2	2	gon2	J86			同秆	
 7174.1	程			121		c	ing	4	4	cing4	Q81				
-7175.1	稇			121		kw	an	2	2	kwan2	M15			同稛	
+7175.1	稇		稛	121		kw	an	2	2	kwan2	M15			同稛	
 7176.1	稌			121		t	ou	4	4	tou4	G59				
 7177.1	稀			121		h	ei	1	1	hei1	O60				
 7178.1	稃			121		f	u	1	1	fu1	E38				
-7179.1	稅			121		s	eoi	3	3	seoi3	R118				
+7179.1	稅		税	121		s	eoi	3	3	seoi3	R118				
 7180.1	稊			121		t	ai	4	4	tai4	G18				
 7181.1	稂			121		l	ong	4	4	long4	I86				
 7182.1	稑			121		l	uk	6	9	luk6	I112				
@@ -8573,7 +8573,7 @@
 7186.1	稙			121		z	ik	6	9	zik6	P90				
 7187.1	稞			121		f	o	1	1	fo1	E30				
 7188.1	稒			121		g	u	3	3	gu3	J104				
-7189.1	稛			121		kw	an	2	2	kwan2	M15				
+7189.1	稛		稇	121		kw	an	2	2	kwan2	M15				
 7190.1	稚			121		z	i	6	6	zi6	P67				
 7191.1	稗			121		b	aai	6	6	baai6	B8		稗草		
 7191.2	稗			121		b	ai	6	6	bai6	B25	A	稗草		
@@ -8581,8 +8581,8 @@
 7192.1	稔			121		n	am	5	5	nam5	H27		熟稔		
 7192.2	稔			121		n	im	1	1	nim1	H41		新興縣稔村		
 7193.1	稠			121		c	au	4	4	cau4	Q35				
-7194.1	稟			121		b	an	2	2	ban2	B28			同禀	
-7194.2	稟			121		l	am	5	5	lam5	I35			同禀	
+7194.1	稟		禀	121		b	an	2	2	ban2	B28			同禀	
+7194.2	稟		禀	121		l	am	5	5	lam5	I35			同禀	
 7195.1	稖			121		p	aang	5	5	paang5	C14				
 7196.1	稧			121		h	ai	6	6	hai6	O34				
 7197.1	榖			121		g	uk	1	7	guk1	J113				
@@ -8605,7 +8605,7 @@
 7209.1	稿			121		g	ou	2	2	gou2	J77				
 7210.1	稼			121		g	aa	3	3	gaa3	J3				
 7211.1	稺			121		z	i	6	6	zi6	P67			同稚	
-7212.1	穎			121		w	ing	6	6	wing6	T38				
+7212.1	穎		頴	121		w	ing	6	6	wing6	T38				
 7213.1	積			121		z	ik	1	7	zik1	P88				
 7214.1	穊			121		g	ei	3	3	gei3	J48				
 7215.1	穆			121		m	uk	6	9	muk6	D93				
@@ -8616,7 +8616,7 @@
 7220.1	穋			121		l	uk	6	9	luk6	I112				
 7221.1	穇			121		s	aam	1	1	saam1	R11				
 7222.1	穉			121		z	i	6	6	zi6	P67			同稚	
-7223.1	穗			121		s	eoi	6	6	seoi6	R121				
+7223.1	穗		穂	121		s	eoi	6	6	seoi6	R121				
 7224.1	穜			121		t	ung	4	4	tung4	G85		穜稑		
 7224.2	穜			121		z	ung	3	3	zung3	P125		種（本）		
 7225.1	穡			121		s	ik	1	7	sik1	R93				
@@ -8695,7 +8695,7 @@
 7290.1	窻			122		c	oeng	1	1	coeng1	Q103			同窗	
 7291.1	窸			123		s	ik	1	7	sik1	R93				
 7292.1	䆲			123		kw	aang	1	1	kwaang1	M6				
-7293.1	窾			123		f	un	2	2	fun2	E48				
+7293.1	窾		窽	123		f	un	2	2	fun2	E48				
 7294.1	竀			123		c	ang	1	1	cang1	Q45				
 7295.1	竁			123		c	eoi	3	3	ceoi3	Q110				
 7296.1	窿			123		l	ung	1	1	lung1	I107				
@@ -8735,7 +8735,7 @@
 7325.1	竿			123		g	on	1	1	gon1	J85				
 7326.1	竽			123		j	yu	4	4	jyu4	A51				
 7327.1	竾			123		c	i	4	4	ci4	Q62			同篪	
-7328.1	笄			123		g	ai	1	1	gai1	J23				
+7328.1	笄		筓	123		g	ai	1	1	gai1	J23				
 7329.1	笓			123		p	ei	4	4	pei4	C32				
 7330.1	笑			123		s	iu	3	3	siu3	R71				
 7331.1	笊			123		z	aau	3	3	zaau3	P10				
@@ -8746,7 +8746,7 @@
 7336.1	笆			123		b	aa	1	1	baa1	B1				
 7337.1	笈			123		k	ap	1	7	kap1	L20				
 7338.1	笨			124		b	an	6	6	ban6	B30				
-7339.1	笻			124		k	ung	4	4	kung4	L59			同筇	
+7339.1	笻		筇	124		k	ung	4	4	kung4	L59			同筇	
 7340.1	笴			124		g	o	2	2	go2	J80				
 7341.1	笸			124		p	o	2	2	po2	C56				
 7342.1	笘			124		s	im	1	1	sim1	R74				
@@ -8769,9 +8769,9 @@
 7358.1	笳			124		g	aa	1	1	gaa1	J1				
 7359.1	笲			124		f	aan	4	4	faan4	E8				
 7360.1	笞			124		c	i	1	1	ci1	Q59				
-7361.1	筇			124		k	ung	4	4	kung4	L59				
+7361.1	筇		笻	124		k	ung	4	4	kung4	L59				
 7362.1	筐			124		h	ong	1	1	hong1	O100				
-7363.1	筓			124		g	ai	1	1	gai1	J23			同笄	
+7363.1	筓		笄	124		g	ai	1	1	gai1	J23			同笄	
 7364.1	筀			124		g	ai	3	3	gai3	J25				
 7365.1	等			124		d	ang	2	2	dang2	F36				
 7366.1	𥬯			124		h	aau	2	2	haau2	O10				
@@ -8785,7 +8785,7 @@
 7374.1	筏			124		f	at	6	9	fat6	E24				
 7375.1	筕			124		h	ang	4	4	hang4	O52				
 7376.1	筌			124		c	yun	4	4	cyun4	Q129				
-7377.1	答			124		d	aap	3	8	daap3	F15				
+7377.1	答		荅	124		d	aap	3	8	daap3	F15				
 7378.1	筋			124		g	an	1	1	gan1	J35				
 7379.1	筍			124		s	eon	2	2	seon2	R123				
 7380.1	筄			124		j	iu	6	6	jiu6	S44				
@@ -8837,7 +8837,7 @@
 7423.1	箄			125		p	aai	4	4	paai4	C5		大筏		
 7423.2	箄			125		b	ei	6	6	bei6	B38		漁具		
 7424.1	劄			125		z	aap	3	8	zaap3	P22				
-7425.1	箏			125		z	aang	1	1	zaang1	P19				
+7425.1	箏		筝	125		z	aang	1	1	zaang1	P19				
 7426.1	箙			125		f	uk	6	9	fuk6	E56				
 7427.1	箔			125		b	ok	6	9	bok6	B71				
 7428.1	箈			125		c	i	4	4	ci4	Q62				
@@ -8869,12 +8869,12 @@
 7454.1	䈰			125		s	aau	1	1	saau1	R8			同筲	
 7455.1	篝			125		g	au	1	1	gau1	J27				
 7456.1	篤			125		d	uk	1	7	duk1	F103				
-7457.1	篡			125		s	aan	3	3	saan3	R16				
+7457.1	篡		簒	125		s	aan	3	3	saan3	R16				
 7458.1	篔			125		w	an	4	4	wan4	T29				
 7459.1	篠			125		s	iu	2	2	siu2	R70				
 7460.1	篗			125		j	yut	6	9	jyut6	A61				
 7461.1	篩			125		s	ai	1	1	sai1	R24				
-7462.1	篦			125		b	ei	6	6	bei6	B38				
+7462.1	篦		箆	125		b	ei	6	6	bei6	B38				
 7463.1	篪			125		c	i	4	4	ci4	Q62				
 7464.1	篷			125		p	ung	4	4	pung4	C78				
 7465.1	篘			125		c	au	1	1	cau1	Q32				
@@ -8893,11 +8893,11 @@
 7477.1	篺			125		p	aai	4	4	paai4	C5				
 7478.1	篿			125		t	yun	4	4	tyun4	G87		圓形竹器		
 7478.2	篿			125		z	yun	1	1	zyun1	P134		一種占卜		
-7479.1	𫂙			125		c	uk	1	7	cuk1	Q121			同簌	
+7479.1	𫂙		簌	125		c	uk	1	7	cuk1	Q121			同簌	
 7480.1	簌			125		c	uk	1	7	cuk1	Q121				
 7481.1	篴			125		d	ek	6	9	dek6	F53			古笛字	
 7482.1	篻			125		p	iu	3	3	piu3	C38				
-7483.1	簒			125		s	aan	3	3	saan3	R16			同篡	
+7483.1	簒		篡	125		s	aan	3	3	saan3	R16			同篡	
 7484.1	篹			125		z	aan	6	6	zaan6	P18				
 7485.1	簍			125		l	au	5	5	lau5	I30				
 7486.1	篳			125		b	at	1	7	bat1	B32				
@@ -8913,8 +8913,8 @@
 7495.2	𥱼			125		b	ei	6	6	bei6	B38		漁具	同箄	
 7496.1	簆			125		k	au	3	3	kau3	L10			同筘	
 7497.1	簋			125		gw	ai	2	2	gwai2	K13				
-7498.1	篸			125		c	am	1	1	cam1	Q36		篸𥰭		
-7498.2	篸			125		c	aam	2	2	caam2	Q13		泥篸（廣）		
+7498.1	篸		𥮾	125		c	am	1	1	cam1	Q36		篸𥰭		
+7498.2	篸		𥮾	125		c	aam	2	2	caam2	Q13		泥篸（廣）		
 7499.1	簮			126		z	aam	1	1	zaam1	P12			同簪	
 7500.1	簙			126		b	ok	3	8	bok3	B70				
 7501.1	簭			126		s	ai	6	6	sai6	R27				
@@ -8947,8 +8947,8 @@
 7526.1	簴			126		g	eoi	6	6	geoi6	J101			同虡	
 7527.1	簹			126		d	ong	1	1	dong1	F86				
 7528.1	簽			126		c	im	1	1	cim1	Q68				
-7529.1	簷			126		j	im	4	4	jim4	S48			同檐	
-7529.2	簷			126		s	im	4	4	sim4	R77	A		同檐	
+7529.1	簷		檐	126		j	im	4	4	jim4	S48			同檐	
+7529.2	簷		檐	126		s	im	4	4	sim4	R77	A		同檐	
 7530.1	簶			126		l	uk	6	9	luk6	I112				
 7531.1	簾			126		l	im	4	4	lim4	I58				
 7532.1	簿			126		b	ou	6	6	bou6	B61				
@@ -8985,10 +8985,10 @@
 7560.1	籬			126		l	ei	4	4	lei4	I42				
 7561.1	籰			126		j	yut	6	9	jyut6	A61			同篗	
 7562.1	籯			126		j	ing	4	4	jing4	S64				
-7563.1	𥸤			126		j	yu	6	6	jyu6	A53				
-7563.2	𥸤			126		j	oek	6	9	joek6	S77	A			
-7564.1	籲			126		j	yu	6	6	jyu6	A53			同𥸤	
-7564.2	籲			126		j	oek	6	9	joek6	S77	A		同𥸤	
+7563.1	𥸤		籲	126		j	yu	6	6	jyu6	A53				
+7563.2	𥸤		籲	126		j	oek	6	9	joek6	S77	A			
+7564.1	籲		𥸤	126		j	yu	6	6	jyu6	A53			同𥸤	
+7564.2	籲		𥸤	126		j	oek	6	9	joek6	S77	A		同𥸤	
 7565.1	米			127		m	ai	5	5	mai5	D25				
 7566.1	䉺			127		h	ong	2	2	hong2	O101				
 7567.1	籼			127		s	in	1	1	sin1	R79				
@@ -9030,11 +9030,11 @@
 7598.2	粺			127		b	ai	6	6	bai6	B25	A			
 7599.1	粼			127		l	eon	4	4	leon4	I103				
 7600.1	粹			127		s	eoi	6	6	seoi6	R121				
-7601.1	粽			127		z	ung	3	3	zung3	P125				
+7601.1	粽		糉|糭	127		z	ung	3	3	zung3	P125				
 7602.1	糂			127		s	aam	2	2	saam2	R12			同糝	
 7603.1	糊			127		w	u	4	4	wu4	T56				
 7604.1	糇			127		h	au	4	4	hau4	O38				
-7605.1	糉			127		z	ung	3	3	zung3	P125			同粽	
+7605.1	糉		粽|糭	127		z	ung	3	3	zung3	P125			同粽	
 7606.1	糌			127		z	aam	1	1	zaam1	P12				
 7607.1	糈			127		s	eoi	2	2	seoi2	R117				
 7608.1	糅			127		j	au	2	2	jau2	S8				
@@ -9055,12 +9055,12 @@
 7621.1	糡			127		g	oeng	6	6	goeng6	J96				
 7622.1	糜			127		m	ei	4	4	mei4	D45				
 7623.1	䊢			127		z	oeng	1	1	zoeng1	P108				
-7624.1	糝			127		s	aam	2	2	saam2	R12				
+7624.1	糝		糁	127		s	aam	2	2	saam2	R12				
 7625.1	糦			127		c	i	3	3	ci3	Q61			同饎	
 7626.1	糧			127		l	oeng	4	4	loeng4	I94				
 7627.1	糨			128		g	oeng	6	6	goeng6	J96			同糡	
 7628.1	䊪			128		l	ai	6	6	lai6	I27			同糲	
-7629.1	糭			128		z	ung	3	3	zung3	P125				
+7629.1	糭		粽|糉	128		z	ung	3	3	zung3	P125				
 7630.1	糯			128		n	o	6	6	no6	H61				
 7631.1	糰			128		t	yun	4	4	tyun4	G87				
 7632.1	糲			128		l	ai	6	6	lai6	I27				
@@ -9211,7 +9211,7 @@
 7759.1	緉			129		l	oeng	5	5	loeng5	I95				
 7760.1	綺			129		j	i	2	2	ji2	S34				
 7761.1	緁			129		c	ap	1	7	cap1	Q48			緝(本)	
-7762.1	綫			130		s	in	3	3	sin3	R81				
+7762.1	綫		線	130		s	in	3	3	sin3	R81				
 7763.1	綽			130		c	oek	3	8	coek3	Q107				
 7764.1	緋			130		f	ei	1	1	fei1	E25				
 7765.1	緔			130		s	oeng	5	5	soeng5	R113				
@@ -9222,7 +9222,7 @@
 7770.1	緌			130		j	eoi	4	4	jeoi4	S78				
 7771.1	緐			130		f	aan	4	4	faan4	E8		緐華	同繁	
 7772.1	維			130		w	ai	4	4	wai4	T23				
-7773.1	綿			130		m	in	4	4	min4	D58				
+7773.1	綿		緜	130		m	in	4	4	min4	D58				
 7774.1	綼			130		b	ik	1	7	bik1	B57				
 7775.1	綸			130		l	eon	4	4	leon4	I103		垂綸		
 7775.2	綸			130		gw	aan	1	1	gwaan1	K7		綸巾		
@@ -9244,11 +9244,11 @@
 7790.1	綟			130		l	it	6	9	lit6	I66				
 7791.1	綮			130		k	ai	2	2	kai2	L7		戟衣		
 7791.2	綮			130		h	ing	3	3	hing3	O78		肯綮		
-7792.1	綠			130		l	uk	6	9	luk6	I112				
+7792.1	綠		緑	130		l	uk	6	9	luk6	I112				
 7793.1	綴			130		z	eoi	3	3	zeoi3	P116		補綴		
 7793.2	綴			130		z	yut	3	8	zyut3	P138		停止		
 7794.1	緇			130		z	i	1	1	zi1	P64				
-7795.1	緒			130		s	eoi	5	5	seoi5	R120				
+7795.1	緒		緖	130		s	eoi	5	5	seoi5	R120				
 7796.1	緙			130		k	aak	3	8	kaak3	L5				
 7797.1	緤			130		s	it	3	8	sit3	R86				
 7798.1	緗			130		s	oeng	1	1	soeng1	R109				
@@ -9267,8 +9267,8 @@
 7810.1	緞			130		d	yun	6	6	dyun6	F108				
 7811.1	緶			130		p	in	4	4	pin4	C43				
 7812.1	緥			130		b	ou	2	2	bou2	B59			同褓	
-7813.1	緜			130		m	in	4	4	min4	D58			同綿	
-7814.1	線			130		s	in	3	3	sin3	R81				
+7813.1	緜		綿	130		m	in	4	4	min4	D58			同綿	
+7814.1	線		綫	130		s	in	3	3	sin3	R81				
 7815.1	緱			130		g	au	1	1	gau1	J27				
 7816.1	緩			130		w	un	6	6	wun6	T66				
 7817.1	緵			130		z	ung	1	1	zung1	P123				
@@ -9281,9 +9281,9 @@
 7822.1	編			130		p	in	1	1	pin1	C41				
 7823.1	緡			130		m	an	4	4	man4	D33				
 7824.1	緯			130		w	ai	5	5	wai5	T24				
-7825.1	緣			130		j	yun	4	4	jyun4	A57				
-7826.1	縕			130		w	an	3	3	wan3	T28		亂麻		
-7826.2	縕			130		w	an	1	1	wan1	T26		縕絪		
+7825.1	緣		縁	130		j	yun	4	4	jyun4	A57				
+7826.1	縕		緼	130		w	an	3	3	wan3	T28		亂麻		
+7826.2	縕		緼	130		w	an	1	1	wan1	T26		縕絪		
 7827.1	縟			130		j	uk	6	9	juk6	S89				
 7828.1	縠			130		h	uk	6	9	huk6	O122				
 7829.1	𦃂			130		g	an	2	2	gan2	J36			同緊	
@@ -9357,12 +9357,12 @@
 7882.1	繒			131		z	ang	1	1	zang1	P44				
 7883.1	繠			131		j	eoi	5	5	jeoi5	S79				
 7884.1	繣			131		w	aak	6	9	waak6	T19				
-7885.1	繡			131		s	au	3	3	sau3	R30				
+7885.1	繡		綉	131		s	au	3	3	sau3	R30				
 7886.1	繦		繈	131		k	oeng	5	5	koeng5	L49				
 7887.1	繘			131		w	at	6	9	wat6	T34				
 7888.1	繨			131		d	aat	6	9	daat6	F18				
 7889.1	繭			131		g	aan	2	2	gaan2	J15				
-7890.1	繫			131		h	ai	6	6	hai6	O34				
+7890.1	繫		繋	131		h	ai	6	6	hai6	O34				
 7891.1	繮			131		g	oeng	1	1	goeng1	J94				
 7892.1	繩			131		s	ing	4	4	sing4	R91				
 7893.1	繰			131		z	ou	2	2	zou2	P92		絳紫色帛		
@@ -9409,7 +9409,7 @@
 7922.2	纛			132		d	uk	6	9	duk6	F104	A			
 7923.1	纚			132		s	aai	2	2	saai2	R5				
 7924.1	纘			132		z	yun	2	2	zyun2	P135				
-7925.1	纜			132		l	aam	6	6	laam6	I11				
+7925.1	纜		䌫	132		l	aam	6	6	laam6	I11				
 7926.1	缶			132		f	au	2	2	fau2	E14				
 7927.1	缸			132		g	ong	1	1	gong1	J88				
 7928.1	缻			132		f	au	2	2	fau2	E14				
@@ -9452,7 +9452,7 @@
 7961.1	罠			133		m	an	4	4	man4	D33				
 7962.1	罣			133		gw	aa	3	3	gwaa3	K3				
 7963.1	𭁹			133		gw	aa	3	3	gwaa3	K3			同挂	
-7964.1	眾			133		z	ung	3	3	zung3	P125			同衆	
+7964.1	眾		衆	133		z	ung	3	3	zung3	P125			同衆	
 7965.1	𦊾			133		f	au	4	4	fau4	E15			同罘	
 7966.1	罥			133		g	yun	3	3	gyun3	J117				
 7967.1	罦			133		f	u	1	1	fu1	E38				
@@ -9466,14 +9466,14 @@
 7973.1	睘			133		k	ing	4	4	king4	L38				
 7974.1	罨			133		j	im	2	2	jim2	S46		網類		
 7974.2	罨			133		ng	ap	1	7	ngap1	N53		臭罨（廣）		
-7975.1	罩			133		z	aau	3	3	zaau3	P10				
+7975.1	罩		𦋐	133		z	aau	3	3	zaau3	P10				
 7976.1	罪			133		z	eoi	6	6	zeoi6	P117				
 7977.1	署			133		s	yu	5	5	syu5	R140				
 7977.2	署			133		c	yu	5	5	cyu5	Q125	A			
 7978.1	罱			133		n	aam	5	5	naam5	H13				
 7979.1	罳			133		s	i	1	1	si1	R63				
-7980.1	罰			133		f	at	6	9	fat6	E24				
-7981.1	罵			133		m	aa	6	6	maa6	D4			同駡	
+7980.1	罰		𠟟	133		f	at	6	9	fat6	E24				
+7981.1	罵		駡	133		m	aa	6	6	maa6	D4			同駡	
 7982.1	罶			133		l	au	5	5	lau5	I30				
 7983.1	罸			133		f	at	6	9	fat6	E24			同罰	
 7984.1	罷			133		b	aa	6	6	baa6	B4		停止		
@@ -9521,15 +9521,15 @@
 8020.1	着			134		z	oek	6	9	zoek6	P113		語助詞		
 8020.2	着			134		z	oek	3	8	zoek3	P112		穿着		
 8021.1	䍮			134		s	iu	6	6	siu6	R73				
-8022.1	羡			134		s	in	6	6	sin6	R84		羡慕		
-8022.2	羡			134		j	in	4	4	jin4	S54		通延、埏		
+8022.1	羡		羨	134		s	in	6	6	sin6	R84		羡慕		
+8022.2	羡		羨	134		j	in	4	4	jin4	S54		通延、埏		
 8023.1	羕			134		j	oeng	6	6	joeng6	S75				
 8024.1	羥			134		k	oeng	5	5	koeng5	L49				
 8024.2	羥			134		c	oeng	1	1	coeng1	Q103	A			
 8025.1	義			134		j	i	6	6	ji6	S38				
 8026.1	羦			134		w	un	4	4	wun4	T64				
-8027.1	羣			134		kw	an	4	4	kwan4	M17			同群	
-8028.1	群			134		kw	an	4	4	kwan4	M17				
+8027.1	羣		群	134		kw	an	4	4	kwan4	M17			同群	
+8028.1	群		羣	134		kw	an	4	4	kwan4	M17				
 8029.1	羧			134		s	o	1	1	so1	R99				
 8030.1	羯			134		k	it	3	8	kit3	L35				
 8031.1	羰			134		t	ong	1	1	tong1	G68				
@@ -9541,7 +9541,7 @@
 8036.1	羶			134		z	in	1	1	zin1	P76			同膻	
 8036.2	羶			134		s	aan	1	1	saan1	R14	A		同膻	
 8037.1	羸			134		l	eoi	4	4	leoi4	I99				
-8038.1	羹			134		g	ang	1	1	gang1	J39				
+8038.1	羹		羮	134		g	ang	1	1	gang1	J39				
 8039.1	羼			134		c	aan	3	3	caan3	Q19				
 8040.1	羽			134		j	yu	5	5	jyu5	A52				
 8041.1	羿			134		ng	ai	6	6	ngai6	N35				
@@ -9585,14 +9585,14 @@
 8075.1	䎔			135		f	u	1	1	fu1	E38				
 8076.1	翰			135		h	on	6	6	hon6	O99				
 8077.1	𦑶			135		d	aap	6	9	daap6	F16			同䎓	
-8078.1	翱			135		ng	ou	4	4	ngou4	N61				
+8078.1	翱		翶|翺	135		ng	ou	4	4	ngou4	N61				
 8079.1	翯			135		h	ok	6	9	hok6	O108				
 8080.1	翳			135			ai	3	3	ai3	A18				
 8080.2	翳			135		ng	ai	3	3	ngai3	N32	A			
 8081.1	𦒃			135		gw	ang	1	1	gwang1	K20				
 8082.1	翹			135		k	iu	4	4	kiu4	L30				
 8083.1	翼			135		j	ik	6	9	jik6	S68				
-8084.1	翺			135		ng	ou	4	4	ngou4	N61			同翱	
+8084.1	翺		翱|翶	135		ng	ou	4	4	ngou4	N61			同翱	
 8085.1	翻			135		f	aan	1	1	faan1	E5				
 8086.1	翽			135		w	ai	3	3	wai3	T22				
 8087.1	翾			135		h	yun	1	1	hyun1	O123				
@@ -9604,7 +9604,7 @@
 8092.1	者			135		z	e	2	2	ze2	P53				
 8093.1	耆			135		k	ei	4	4	kei4	L25				
 8094.1	耄			135		m	ou	6	6	mou6	D70				
-8095.1	耇			135		g	au	2	2	gau2	J28				
+8095.1	耇		耈|耉	135		g	au	2	2	gau2	J28				
 8096.1	耋			135		d	it	6	9	dit6	F70				
 8097.1	而			135		j	i	4	4	ji4	S36				
 8097.2	而			135		n	ang	4	4	nang4	H29			通能	
@@ -9648,15 +9648,15 @@
 8131.1	聀			136		z	ik	1	7	zik1	P88			同職	
 8132.1	耻			136		c	i	2	2	ci2	Q60				
 8133.1	𦕈			136		m	iu	5	5	miu5	D56			同眇	
-8134.1	耼			136		d	aam	1	1	daam1	F7				
+8134.1	耼		聃	136		d	aam	1	1	daam1	F7				
 8135.1	耿			136		g	ang	2	2	gang2	J40				
 8136.1	耽			136		d	aam	1	1	daam1	F7				
-8137.1	𦕓			136		s	ai	3	3	sai3	R26			同婿	
-8138.1	聃			136		d	aam	1	1	daam1	F7			同耼	
+8137.1	𦕓		聓	136		s	ai	3	3	sai3	R26			同婿	
+8138.1	聃		耼	136		d	aam	1	1	daam1	F7			同耼	
 8139.1	聅			136		c	it	3	8	cit3	Q77				
 8140.1	聆			136		l	ing	4	4	ling4	I68				
 8141.1	聊			136		l	iu	4	4	liu4	I55				
-8142.1	聓			136		s	ai	3	3	sai3	R26			同𦕓	
+8142.1	聓		𦕓	136		s	ai	3	3	sai3	R26			同𦕓	
 8143.1	聏			136		j	i	4	4	ji4	S36				
 8144.1	聒			136		k	ut	3	8	kut3	L58				
 8145.1	聘			136		p	ing	3	3	ping3	C47				
@@ -9794,14 +9794,14 @@
 8260.1	脅			138		h	ip	3	8	hip3	O74				
 8261.1	能			138		n	ang	4	4	nang4	H29				
 8262.1	脤			138		s	an	5	5	san5	R40				
-8263.1	脚			138		g	oek	3	8	goek3	J97				
+8263.1	脚		腳	138		g	oek	3	8	goek3	J97				
 8264.1	脖			138		b	ut	6	9	but6	B81				
 8265.1	脯			138		f	u	2	2	fu2	E39		乾果、乾肉		
 8265.2	脯			138		p	ou	2	2	pou2	C51		胸脯		
 8266.1	脰			138		d	au	6	6	dau6	F26				
 8267.1	脛			138		h	ing	5	5	hing5	O79				
 8267.2	脛			138		g	ing	3	3	ging3	J72	A			
-8268.1	脣			138		s	eon	4	4	seon4	R125			同唇	
+8268.1	脣		唇	138		s	eon	4	4	seon4	R125			同唇	
 8269.1	脭			138		c	ing	4	4	cing4	Q81				
 8270.1	脡			138		t	ing	5	5	ting5	G54				
 8271.1	脠			138		z	in	1	1	zin1	P76				
@@ -9814,12 +9814,12 @@
 8277.2	脕			139		m	aan	5	5	maan5	D14	A			
 8278.1	脗			139		m	an	5	5	man5	D34			同吻	
 8279.1	脝			139		h	ang	1	1	hang1	O50				
-8280.1	脫			139		t	yut	3	8	tyut3	G89				
+8280.1	脫		脱	139		t	yut	3	8	tyut3	G89				
 8281.1	脘			139		g	un	2	2	gun2	J107				
 8281.2	脘			139		w	un	2	2	wun2	T63	A			
 8282.1	脲			139		n	iu	6	6	niu6	H40				
-8283.1	朘		脧	139		z	eoi	1	1	zeoi1	P114		男孩生殖器		按是書「朘、脧」合為一字
-8283.2	朘		脧	139		z	eon	1	1	zeon1	P118		朘削		按是書「朘、脧」合為一字
+8283.1	朘|脧			139		z	eoi	1	1	zeoi1	P114		男孩生殖器		按是書「朘、脧」合為一字
+8283.2	朘|脧			139		z	eon	1	1	zeon1	P118		朘削		按是書「朘、脧」合為一字
 8284.1	豚			139		t	yun	4	4	tyun4	G87				
 8285.1	腈			139		c	ing	1	1	cing1	Q78				
 8286.1	脿			139		b	iu	2	2	biu2	B45				
@@ -9828,10 +9828,10 @@
 8289.1	腖			139		d	ung	3	3	dung3	F101				
 8290.1	腎			139		s	an	5	5	san5	R40				
 8290.2	腎			139		s	an	6	6	san6	R41	A			
-8291.1	腌			139		j	im	1	1	jim1	S45		腌臢		
-8291.2	腌			139		j	ip	3	8	jip3	S57		腌魚		
+8291.1	腌		醃	139		j	im	1	1	jim1	S45		腌臢		
+8291.2	腌		醃	139		j	ip	3	8	jip3	S57		腌魚		
 8292.1	脹			139		z	oeng	3	3	zoeng3	P110				
-8293.1	胼			139		p	in	4	4	pin4	C43				
+8293.1	胼		腁	139		p	in	4	4	pin4	C43				
 8294.1	腓			139		f	ei	4	4	fei4	E27				
 8295.1	腆			139		t	in	2	2	tin2	G45				
 8296.1	腄			139		c	eoi	4	4	ceoi4	Q111				
@@ -9878,7 +9878,7 @@
 8334.1	腺			139		s	in	3	3	sin3	R81				
 8335.1	腯			139		d	at	1	7	dat1	F41				
 8336.1	腧			139		s	yu	6	6	syu6	R141				
-8337.1	腳			139		g	oek	3	8	goek3	J97			同脚	
+8337.1	腳		脚	139		g	oek	3	8	goek3	J97			同脚	
 8338.1	腤			139			am	3	3	am3	A24				
 8338.2	腤			139		ng	am	3	3	ngam3	N44	A			
 8339.1	幐			139		t	ang	4	4	tang4	G31				
@@ -9891,7 +9891,7 @@
 8345.1	䐜			139		c	an	1	1	can1	Q41				
 8346.1	膊			139		b	ok	3	8	bok3	B70				
 8347.1	膈			139		g	aak	3	8	gaak3	J22				
-8348.1	膃			139		w	at	1	7	wat1	T33				
+8348.1	膃		腽	139		w	at	1	7	wat1	T33				
 8349.1	膍			139		p	ei	4	4	pei4	C32				
 8350.1	膌			139		z	ek	3	8	zek3	P62				
 8351.1	膎			139		h	aai	4	4	haai4	O6				
@@ -9908,7 +9908,7 @@
 8359.2	膏			140		g	ou	3	3	gou3	J78		滋潤		
 8360.1	腿			140		t	eoi	2	2	teoi2	G75				
 8361.1	膥			140		c	eon	1	1	ceon1	Q112				
-8362.1	膝			140		s	at	1	7	sat1	R46				
+8362.1	膝		𦡀	140		s	at	1	7	sat1	R46				
 8363.1	膞			140		z	yun	1	1	zyun1	P134				
 8364.1	膘			140		b	iu	1	1	biu1	B44				
 8365.1	膜			140		m	ok	6	9	mok6	D79		薄膜		
@@ -9983,8 +9983,8 @@
 8428.1	臢			141		z	im	1	1	zim1	P72				
 8429.1	臠			141		l	yun	5	5	lyun5	I115				
 8430.1	臣			141		s	an	4	4	san4	R39				
-8431.1	卧			141		ng	o	6	6	ngo6	N66				
-8432.1	臥			141		ng	o	6	6	ngo6	N66			同卧	
+8431.1	卧		臥	141		ng	o	6	6	ngo6	N66				
+8432.1	臥		卧	141		ng	o	6	6	ngo6	N66			同卧	
 8433.1	臧			141		z	ong	1	1	zong1	P102				
 8433.2	臧			141		c	ong	4	4	cong4	Q101		收臧	通藏	
 8433.3	臧			141		z	ong	6	6	zong6	P105		寶臧	通藏	
@@ -9993,7 +9993,7 @@
 8436.1	臬			141		j	it	6	9	jit6	S60				
 8437.1	臭			141		c	au	3	3	cau3	Q34				
 8438.1	臮			141		k	ei	3	3	kei3	L24			同曁	
-8439.1	臯			141		g	ou	1	1	gou1	J76			同皋	
+8439.1	臯		皋|皐|𦤎	141		g	ou	1	1	gou1	J76			同皋	
 8440.1	臲			141		j	it	6	9	jit6	S60				
 8441.1	𦤦			141		h	ot	3	8	hot3	O106				
 8442.1	至			141		z	i	3	3	zi3	P66				
@@ -10008,28 +10008,28 @@
 8451.1	舀			141		j	iu	5	5	jiu5	S43				
 8452.1	舁			141		j	yu	4	4	jyu4	A51				
 8453.1	舂			141		z	ung	1	1	zung1	P123				
-8454.1	舃			141		s	ik	1	7	sik1	R93				
-8455.1	舄			141		s	ik	1	7	sik1	R93			同舃	
+8454.1	舃		舄	141		s	ik	1	7	sik1	R93				
+8455.1	舄		舃	141		s	ik	1	7	sik1	R93			同舃	
 8456.1	舅			141		k	au	5	5	kau5	L12				
 8457.1	與			141		j	yu	5	5	jyu5	A52				
 8457.2	與			141		j	yu	6	6	jyu6	A53		參與		
 8457.3	與			141		j	yu	4	4	jyu4	A51			同歟	
 8458.1	興			142		h	ing	1	1	hing1	O77		興盛		
 8458.2	興			142		h	ing	3	3	hing3	O78		高興		
-8459.1	舉			142		g	eoi	2	2	geoi2	J99				
+8459.1	舉		擧	142		g	eoi	2	2	geoi2	J99				
 8460.1	舊			142		g	au	6	6	gau6	J30				
 8461.1	舋			142		m	an	6	6	man6	D35		罅坼		
 8461.2	舋			142		j	an	6	6	jan6	S24			同釁	
 8462.1	舌			142		s	it	6	9	sit6	R87				
-8463.1	舍			142		s	e	3	3	se3	R53				
-8464.1	䑙			142		d	aam	1	1	daam1	F7				
+8463.1	舍		舎	142		s	e	3	3	se3	R53				
+8464.1	䑙		舑	142		d	aam	1	1	daam1	F7				
 8465.1	舐			142		s	aai	5	5	saai5	R7				
 8466.1	舒			142		s	yu	1	1	syu1	R136				
-8467.1	舖			142		p	ou	3	3	pou3	C52				
+8467.1	舖		舗	142		p	ou	3	3	pou3	C52				
 8468.1	舓			142		s	aai	5	5	saai5	R7				
 8469.1	舔			142		t	im	2	2	tim2	G40				
-8470.1	舕			142		t	aam	3	3	taam3	G6				
-8471.1	舘			142		g	un	2	2	gun2	J107				
+8470.1	舕		𦧡	142		t	aam	3	3	taam3	G6				
+8471.1	舘		館	142		g	un	2	2	gun2	J107				
 8472.1	𦧲			142		l	oe	1	1	loe1	I91		吐（廣）		
 8472.2	𦧲			142		l	oe	2	2	loe2	I92		糾纏（廣）		
 8473.1	舚			142		d	aam	1	1	daam1	F7			同䑙	
@@ -10102,8 +10102,8 @@
 8533.1	艱			143		g	aan	1	1	gaan1	J14				
 8534.1	色			143		s	ik	1	7	sik1	R93				
 8535.1	艴			143		f	at	1	7	fat1	E23				
-8536.1	艶			143		j	im	6	6	jim6	S50			同艷	
-8537.1	艷			143		j	im	6	6	jim6	S50				
+8536.1	艶		艷|豓|豔	143		j	im	6	6	jim6	S50			同艷	
+8537.1	艷		艶|豓|豔	143		j	im	6	6	jim6	S50				
 8538.1	艸			143		c	ou	2	2	cou2	Q85			同草	
 8539.1	艼			143		d	ing	2	2	ding2	F72				
 8540.1	艾			143		ng	aai	6	6	ngaai6	N10				
@@ -10241,7 +10241,7 @@
 8639.2	苔			145		t	oi	1	1	toi1	G65		舌苔		
 8640.1	茅			145		m	aau	4	4	maau4	D9				
 8641.1	苺			145		m	ui	4	4	mui4	D80			同莓	
-8642.1	荊			145		g	ing	1	1	ging1	J70				
+8642.1	荊		荆	145		g	ing	1	1	ging1	J70				
 8643.1	茙			145		j	ung	4	4	jung4	S85				
 8644.1	茸			145		j	ung	4	4	jung4	S85		茸毛		
 8644.2	茸			145		j	ung	5	5	jung5	S86		推入		
@@ -10279,8 +10279,8 @@
 8668.1	荇			145		h	ang	6	6	hang6	O54				
 8669.1	荃			145		c	yun	4	4	cyun4	Q129				
 8670.1	茶			145		c	aa	4	4	caa4	Q4				
-8671.1	荅			145		d	aap	3	8	daap3	F15				
-8671.2	荅			145		t	aap	3	8	taap3	G13		通嗒		
+8671.1	荅		答	145		d	aap	3	8	daap3	F15				
+8671.2	荅		答	145		t	aap	3	8	taap3	G13		通嗒		
 8672.1	𦮀			145		t	yut	3	8	tyut3	G89			同莌	
 8673.1	荀			145		s	eon	1	1	seon1	R122				
 8674.1	荈			145		c	yun	2	2	cyun2	Q127				
@@ -10299,10 +10299,10 @@
 8685.1	茛			146		g	an	3	3	gan3	J37				
 8686.1	荍			146		k	iu	4	4	kiu4	L30			同蕎	
 8687.1	茹			146		j	yu	4	4	jyu4	A51				
-8688.1	茘			146		l	ai	6	6	lai6	I27			同荔	
-8689.1	荔			146		l	ai	6	6	lai6	I27				
-8690.1	茲			146		z	i	1	1	zi1	P64		現在		
-8690.2	茲			146		c	i	4	4	ci4	Q62		龜茲		
+8688.1	茘		荔	146		l	ai	6	6	lai6	I27			同荔	
+8689.1	荔		茘	146		l	ai	6	6	lai6	I27				
+8690.1	茲		兹|玆	146		z	i	1	1	zi1	P64		現在		
+8690.2	茲		兹|玆	146		c	i	4	4	ci4	Q62		龜茲		
 8691.1	莰			146		h	am	2	2	ham2	O42				
 8692.1	荺			146		w	an	5	5	wan5	T30				
 8693.1	莕			146		h	ang	6	6	hang6	O54				
@@ -10354,7 +10354,7 @@
 8728.1	𦮼			146		g	ei	6	6	gei6	J49		草名		
 8728.2	𦮼			146		k	ei	4	4	kei4	L25		豆𦮼	通萁	
 8728.3	𦮼			146		g	ei	1	1	gei1	J46		草名	通萁	
-8729.1	莊			146		z	ong	1	1	zong1	P102				
+8729.1	莊		荘	146		z	ong	1	1	zong1	P102				
 8730.1	荵			146		j	an	2	2	jan2	S20				
 8731.1	荾			146		s	eoi	1	1	seoi1	R116				
 8732.1	荓			146		p	ing	4	4	ping4	C48				
@@ -10431,8 +10431,8 @@
 8793.1	菉			147		l	uk	6	9	luk6	I112				
 8794.1	菰			147		g	u	1	1	gu1	J102				
 8795.1	菡			147		h	aam	5	5	haam5	O18				
-8796.1	菑			147		z	i	1	1	zi1	P64				
-8796.2	菑			147		z	oi	1	1	zoi1	P98			同災	
+8796.1	菑		葘	147		z	i	1	1	zi1	P64				
+8796.2	菑		葘	147		z	oi	1	1	zoi1	P98			同災	
 8797.1	葜			147		h	at	6	9	hat6	O58				
 8798.1	葑			147		f	ung	1	1	fung1	E50				
 8799.1	著			147		z	yu	3	3	zyu3	P132		著作		
@@ -10452,7 +10452,7 @@
 8809.2	葢			147		k	oi	3	3	koi3	L41	A	覆葢	同蓋	
 8809.3	葢			147		g	ap	3	8	gap3	J43		姓	同蓋	
 8809.4	葢			147		h	ap	6	9	hap6	O56			同蓋	
-8810.1	葬			147		z	ong	3	3	zong3	P104				
+8810.1	葬		塟	147		z	ong	3	3	zong3	P104				
 8811.1	萷			147		s	iu	1	1	siu1	R69		蕭疏		
 8811.2	萷			147		s	ok	3	8	sok3	R108		萷蔘		
 8812.1	萴			147		z	ak	1	7	zak1	P51				
@@ -10460,7 +10460,7 @@
 8814.1	萬			147		m	aan	6	6	maan6	D15				
 8815.1	葛			147		g	ot	3	8	got3	J91				
 8816.1	葸			147		s	aai	2	2	saai2	R5				
-8817.1	萼			147		ng	ok	6	9	ngok6	N80				
+8817.1	萼		蕚	147		ng	ok	6	9	ngok6	N80				
 8818.1	萵			147		w	o	1	1	wo1	T40				
 8819.1	萩			147		c	au	1	1	cau1	Q32				
 8820.1	董			147		d	ung	2	2	dung2	F100				
@@ -10481,7 +10481,7 @@
 8831.1	葼			148		z	ung	1	1	zung1	P123				
 8832.1	葄			148		z	ou	6	6	zou6	P94				
 8833.1	葡			148		p	ou	4	4	pou4	C53				
-8834.1	葱			148		c	ung	1	1	cung1	Q116				
+8834.1	葱		蔥	148		c	ung	1	1	cung1	Q116				
 8835.1	葪			148		g	aai	3	3	gaai3	J7		慸葪		
 8835.2	葪			148		g	ai	3	3	gai3	J25			同薊	
 8836.1	葶			148		t	ing	4	4	ting4	G53				
@@ -10517,7 +10517,7 @@
 8862.1	蒧			148		d	im	2	2	dim2	F60				
 8863.1	蒱			148		p	ou	4	4	pou4	C53				
 8864.1	蒔			148		s	i	4	4	si4	R66				
-8865.1	蒕			148		w	an	1	1	wan1	T26				
+8865.1	蒕		蒀	148		w	an	1	1	wan1	T26				
 8866.1	蓇			148		gw	at	1	7	gwat1	K21				
 8867.1	蒽			148		j	an	1	1	jan1	S19				
 8868.1	䔇			148		h	ei	2	2	hei2	O61		䔇蕨		
@@ -10583,7 +10583,7 @@
 8921.1	蔦			149		n	iu	5	5	niu5	H39				
 8922.1	蔸			149		d	au	1	1	dau1	F23				
 8923.1	蔇			149		g	ei	3	3	gei3	J48				
-8924.1	蔥			149		c	ung	1	1	cung1	Q116			同葱	
+8924.1	蔥		葱	149		c	ung	1	1	cung1	Q116			同葱	
 8925.1	蓧			149		d	iu	6	6	diu6	F58				
 8926.1	蓨			149		t	iu	1	1	tiu1	G35		草名		
 8926.2	蓨			149		t	iu	4	4	tiu4	G37		古縣名		
@@ -10608,7 +10608,7 @@
 8945.1	蔤			149		m	at	6	9	mat6	D41				
 8946.1	蔚			149		w	ai	3	3	wai3	T22		蔚藍		
 8946.2	蔚			149		w	at	1	7	wat1	T33		蔚縣		
-8947.1	蔣			149		z	oeng	2	2	zoeng2	P109				
+8947.1	蔣		蒋	149		z	oeng	2	2	zoeng2	P109				
 8948.1	蓼			149		l	iu	5	5	liu5	I56		草名		
 8948.2	蓼			149		l	uk	6	9	luk6	I112		長大貌		
 8949.1	蔃			149		g	oeng	2	2	goeng2	J95				
@@ -10624,14 +10624,14 @@
 8958.1	蕨			149		k	yut	3	8	kyut3	L62				
 8959.1	蕆			149		c	in	2	2	cin2	Q73				
 8959.2	蕆			149		z	in	2	2	zin2	P77	A			
-8960.1	蕤			149		j	eoi	4	4	jeoi4	S78				
+8960.1	蕤		㽔	149		j	eoi	4	4	jeoi4	S78				
 8961.1	蕓			149		w	an	4	4	wan4	T29				
 8962.1	蕋			149		j	eoi	5	5	jeoi5	S79			同蕊	
 8963.1	蔽			149		b	ai	3	3	bai3	B24				
 8964.1	蕞			149		z	eoi	3	3	zeoi3	P116				
 8965.1	蕢			149		gw	ai	6	6	gwai6	K15				
 8966.1	蕗			149		l	ou	6	6	lou6	I77				
-8967.1	蕚			149		ng	ok	6	9	ngok6	N80			同萼	
+8967.1	蕚		萼	149		ng	ok	6	9	ngok6	N80			同萼	
 8968.1	蕒			149		m	aai	5	5	maai5	D6				
 8969.1	蕪			149		m	ou	4	4	mou4	D68				
 8970.1	蔾			149		l	ai	4	4	lai4	I25			同藜	
@@ -10646,7 +10646,7 @@
 8978.1	蕂			149		s	ing	3	3	sing3	R90				
 8979.1	蕏			149		z	yu	1	1	zyu1	P130				
 8980.1	蕕			150		j	au	4	4	jau4	S10				
-8981.1	蒍			150		w	ai	2	2	wai2	T21				
+8981.1	蒍		蔿	150		w	ai	2	2	wai2	T21				
 8982.1	蕫			150		d	ung	2	2	dung2	F100				
 8983.1	蒾			150		m	ai	4	4	mai4	D24				
 8984.1	䔿			150		z	yun	2	2	zyun2	P135				
@@ -10699,7 +10699,7 @@
 9025.1	薠			150		f	aan	4	4	faan4	E8				
 9026.1	蕿			150		h	yun	1	1	hyun1	O123			同萱	
 9027.1	薋			150		c	i	4	4	ci4	Q62				
-9028.1	薀			150		w	an	3	3	wan3	T28				
+9028.1	薀		蕰	150		w	an	3	3	wan3	T28				
 9029.1	薄			150		b	ok	6	9	bok6	B71				
 9030.1	薃			150		h	ou	6	6	hou6	O84				
 9031.1	薓			150		s	am	1	1	sam1	R33		人薓	同參(人參)	
@@ -10727,7 +10727,7 @@
 9047.1	薱			150		d	eoi	6	6	deoi6	F95				
 9048.1	薯			150		s	yu	4	4	syu4	R139				
 9049.1	藊			150		b	in	2	2	bin2	B47				
-9050.1	薰			150		f	an	1	1	fan1	E17				
+9050.1	薰		薫	150		f	an	1	1	fan1	E17				
 9051.1	薶			150		w	o	1	1	wo1	T40		沾污		
 9051.2	薶			150		m	aai	4	4	maai4	D5			同埋	
 9052.1	藐			150		m	iu	5	5	miu5	D56				
@@ -10787,23 +10787,23 @@
 9100.1	藼			151		h	yun	1	1	hyun1	O123			萱(本)	
 9101.1	蘂			151		j	eoi	5	5	jeoi5	S79			同蕊	
 9102.1	藺			151		l	eon	6	6	leon6	I105				
-9103.1	蘊			151		w	an	5	5	wan5	T30				
-9103.2	蘊			151		w	an	3	3	wan3	T28	A			
+9103.1	蘊		藴	151		w	an	5	5	wan5	T30				
+9103.2	蘊		藴	151		w	an	3	3	wan3	T28	A			
 9104.1	蘜			151		g	uk	1	7	guk1	J113			同菊	
 9105.1	蘦			151		l	ing	4	4	ling4	I68				
 9106.1	蘧			151		k	eoi	4	4	keoi4	L53				
 9107.1	蘡			151		j	ing	1	1	jing1	S61				
 9108.1	蘩			151		f	aan	4	4	faan4	E8				
 9109.1	蘤			151		f	aa	1	1	faa1	E1			同花	
-9110.1	蘖			151		j	ip	6	9	jip6	S58				
-9110.2	蘖			151		j	it	6	9	jit6	S60	A			
+9110.1	蘖		蘗	151		j	ip	6	9	jip6	S58				
+9110.2	蘖		蘗	151		j	it	6	9	jit6	S60	A			
 9111.1	蘥			151		j	oek	6	9	joek6	S77				
 9112.1	蘞			151		l	im	6	6	lim6	I60				
 9113.1	蘚			151		s	in	2	2	sin2	R80				
 9114.1	蘘			151		j	oeng	4	4	joeng4	S73				
 9115.1	蘢			151		l	ung	4	4	lung4	I108				
 9116.1	蘭			151		l	aan	4	4	laan4	I13				
-9117.1	蘗			151		p	aak	3	8	paak3	C17			同檗	
+9117.1	蘗		蘖	151		p	aak	3	8	paak3	C17			同檗	
 9118.1	蘴			151		f	ung	1	1	fung1	E50				
 9119.1	䕸			151		g	aai	1	1	gaai1	J5				
 9120.1	蘸			151		z	aam	3	3	zaam3	P14				
@@ -10833,11 +10833,11 @@
 9140.2	處			152		c	yu	2	2	cyu2	Q122		處理		
 9140.3	處			152		s	yu	3	3	syu3	R138	D	呢處		
 9141.1	虙			152		f	uk	6	9	fuk6	E56				
-9142.1	虛			152		h	eoi	1	1	heoi1	O113				
+9142.1	虛		虚	152		h	eoi	1	1	heoi1	O113				
 9143.1	號			152		h	ou	6	6	hou6	O84		符號		
 9143.2	號			152		h	ou	4	4	hou4	O83		號叫		
 9144.1	虞			152		j	yu	4	4	jyu4	A51				
-9145.1	虜			152		l	ou	5	5	lou5	I76			同虜	
+9145.1	虜		虜	152		l	ou	5	5	lou5	I76			同虜	
 9146.1	虜			152		l	ou	5	5	lou5	I76				
 9147.1	虡			152		g	eoi	6	6	geoi6	J101				
 9148.1	虢			152		gw	ik	1	7	gwik1	K25				
@@ -10876,8 +10876,8 @@
 9179.1	蚡			153		f	an	4	4	fan4	E20			同鼢	
 9180.1	蚣			153		g	ung	1	1	gung1	J109				
 9181.1	蚏			153		j	yut	6	9	jyut6	A61				
-9182.1	蚦			153		j	im	4	4	jim4	S48				
-9182.2	蚦			153		n	aam	4	4	naam4	H12	A			
+9182.1	蚦		蚺	153		j	im	4	4	jim4	S48				
+9182.2	蚦		蚺	153		n	aam	4	4	naam4	H12	A			
 9183.1	蚊			153		m	an	1	1	man1	D32				
 9183.2	蚊			153		m	an	4	4	man4	D33	L			
 9184.1	蚢			153		h	ong	4	4	hong4	O103				
@@ -10893,8 +10893,8 @@
 9193.1	蛆			153		c	eoi	1	1	ceoi1	Q108		蠅幼蟲		
 9193.2	蛆			153		z	eoi	1	1	zeoi1	P114		蝍蛆		
 9194.1	蚰			153		j	au	4	4	jau4	S10				
-9195.1	蚺			153		j	im	4	4	jim4	S48			同蚦	
-9195.2	蚺			153		n	aam	4	4	naam4	H12	A		同蚦	
+9195.1	蚺		蚦	153		j	im	4	4	jim4	S48			同蚦	
+9195.2	蚺		蚦	153		n	aam	4	4	naam4	H12	A		同蚦	
 9196.1	𧊅			153		gw	aai	2	2	gwaai2	K5				
 9197.1	蚱			153		z	aa	3	3	zaa3	P3				
 9197.2	蚱			153		z	aak	3	8	zaak3	P26	A			
@@ -10907,7 +10907,7 @@
 9204.1	蚿			153		j	in	4	4	jin4	S54				
 9205.1	蛇			153		s	e	4	4	se4	R54		爬行類動物		
 9205.2	蛇			153		j	i	4	4	ji4	S36		委蛇		
-9206.1	蛋			153		d	aan	6	6	daan6	F13				
+9206.1	蛋		疍	153		d	aan	6	6	daan6	F13				
 9207.1	蛁			153		d	iu	1	1	diu1	F55				
 9208.1	蚴			153		j	au	3	3	jau3	S9				
 9209.1	蛓			153		c	i	3	3	ci3	Q61				
@@ -10962,8 +10962,8 @@
 9249.2	蜍			154		s	yu	4	4	syu4	R139	A			
 9250.1	蜉			154		f	au	4	4	fau4	E15				
 9251.1	蜂			154		f	ung	1	1	fung1	E50				
-9252.1	蛻			154		t	eoi	3	3	teoi3	G76				
-9252.2	蛻			154		s	eoi	3	3	seoi3	R118	G			
+9252.1	蛻		蜕	154		t	eoi	3	3	teoi3	G76				
+9252.2	蛻		蜕	154		s	eoi	3	3	seoi3	R118	G			
 9253.1	蜋			154		l	ong	4	4	long4	I86			同螂	
 9254.1	𧋦			154		m	ei	1	1	mei1	D44				
 9255.1	蛹			154		j	ung	2	2	jung2	S84				
@@ -11140,8 +11140,8 @@
 9407.1	蠄			156		k	am	4	4	kam4	L15				
 9408.1	䗴			156		t	ing	4	4	ting4	G53				
 9409.1	蟾			156		s	im	4	4	sim4	R77				
-9410.1	蟹			156		h	aai	5	5	haai5	O7				
-9411.1	蠏			156		h	aai	5	5	haai5	O7			同蟹	
+9410.1	蟹		蠏	156		h	aai	5	5	haai5	O7				
+9411.1	蠏		蟹	156		h	aai	5	5	haai5	O7			同蟹	
 9412.1	蟺			156		s	in	6	6	sin6	R84				
 9413.1	蠊			156		l	im	4	4	lim4	I58				
 9414.1	蠃			156		l	o	2	2	lo2	I79		蜾蠃		
@@ -11168,7 +11168,7 @@
 9433.1	䗻			156		z	it	3	8	zit3	P82				
 9434.1	蠡			156		l	ai	5	5	lai5	I26				
 9435.1	蠟			156		l	aap	6	9	laap6	I21				
-9436.1	蠧			156		d	ou	3	3	dou3	F79			同蠹	
+9436.1	蠧		蠹	156		d	ou	3	3	dou3	F79			同蠹	
 9437.1	蠨			156		s	iu	1	1	siu1	R69				
 9438.1	蠥			156		j	ip	6	9	jip6	S58				
 9438.2	蠥			156		j	it	6	9	jit6	S60	A			
@@ -11180,7 +11180,7 @@
 9443.1	蠭			156		f	ung	1	1	fung1	E50				
 9444.1	蠰			156		j	oeng	6	6	joeng6	S75				
 9445.1	蠲			156		g	yun	1	1	gyun1	J115				
-9446.1	蠹			156		d	ou	3	3	dou3	F79				
+9446.1	蠹		蠧	156		d	ou	3	3	dou3	F79				
 9447.1	蠶			156		c	aam	4	4	caam4	Q15				
 9448.1	蠸			156		k	yun	4	4	kyun4	L61				
 9449.1	蠷			156		k	eoi	4	4	keoi4	L53				
@@ -11196,7 +11196,7 @@
 9458.1	衅			156		j	an	6	6	jan6	S24				
 9459.1	䘑			156		m	ak	6	9	mak6	D43			同脉	
 9460.1	衈			156		n	ei	6	6	nei6	H35				
-9461.1	衆			157		z	ung	3	3	zung3	P125				
+9461.1	衆		眾	157		z	ung	3	3	zung3	P125				
 9462.1	衇			157		m	ak	6	9	mak6	D43			同脉	
 9463.1	衉			157		h	aak	3	8	haak3	O30				
 9464.1	䘒			157		z	eoi	1	1	zeoi1	P114		同朘		
@@ -11223,11 +11223,11 @@
 9479.1	衚			157		w	u	4	4	wu4	T56				
 9480.1	衝			157		c	ung	1	1	cung1	Q116		衝鋒		
 9480.2	衝			157		c	ung	3	3	cung3	Q118		向		
-9481.1	衛			157		w	ai	6	6	wai6	T25				
+9481.1	衛		衞	157		w	ai	6	6	wai6	T25				
 9482.1	衠			157		z	eon	1	1	zeon1	P118				
 9483.1	衡			157		h	ang	4	4	hang4	O52		衡量		
 9483.2	衡			157		w	aang	4	4	waang4	T14		通橫		
-9484.1	衞			157		w	ai	6	6	wai6	T25			同衛	
+9484.1	衞		衛	157		w	ai	6	6	wai6	T25			同衛	
 9485.1	衢			157		k	eoi	4	4	keoi4	L53				
 9486.1	衣			157		j	i	1	1	ji1	S33		衣服		
 9486.2	衣			157		j	i	3	3	ji3	S35		穿		
@@ -11254,7 +11254,7 @@
 9502.2	衹			157		z	i	2	2	zi2	P65		同只	同祇	
 9503.1	袀			157		gw	an	1	1	gwan1	K16				
 9504.1	衺			157		c	e	4	4	ce4	Q54				
-9505.1	衮			158		gw	an	2	2	gwan2	K17				
+9505.1	衮		袞	158		gw	an	2	2	gwan2	K17				
 9506.1	衷			158		c	ung	1	1	cung1	Q116				
 9506.2	衷			158		z	ung	1	1	zung1	P123	A			
 9507.1	袂			158		m	ai	6	6	mai6	D26				
@@ -11278,7 +11278,7 @@
 9522.1	衰			158		s	eoi	1	1	seoi1	R116		衰弱		
 9522.2	衰			158		c	eoi	1	1	ceoi1	Q108			通縗	
 9523.1	袠			158		d	it	6	9	dit6	F70			同帙	
-9524.1	袞			158		gw	an	2	2	gwan2	K17			同衮	
+9524.1	袞		衮	158		gw	an	2	2	gwan2	K17			同衮	
 9525.1	袌			158		p	ou	5	5	pou5	C54				
 9526.1	袤			158		m	au	6	6	mau6	D30				
 9527.1	袨			158		j	yun	6	6	jyun6	A59				
@@ -11323,7 +11323,7 @@
 9562.1	裕			158		j	yu	6	6	jyu6	A53				
 9563.1	裞			158		s	eoi	3	3	seoi3	R118				
 9564.1	裠			158		kw	an	4	4	kwan4	M17			同裙	
-9565.1	裝			158		z	ong	1	1	zong1	P102				
+9565.1	裝		装	158		z	ong	1	1	zong1	P102				
 9566.1	裙			158		kw	an	4	4	kwan4	M17				
 9567.1	𧚔			158		t	ung	2	2	tung2	G83				
 9568.1	裱			158		b	iu	2	2	biu2	B45				
@@ -11365,7 +11365,7 @@
 9598.1	褕			159		j	yu	4	4	jyu4	A51				
 9599.1	褌			159		gw	an	1	1	gwan1	K16				
 9600.1	褊			159		b	in	2	2	bin2	B47				
-9601.1	褒			159		b	ou	1	1	bou1	B58				
+9601.1	褒		襃	159		b	ou	1	1	bou1	B58				
 9602.1	褘			159		f	ai	1	1	fai1	E11				
 9603.1	褖			159		t	eon	3	3	teon3	G80				
 9604.1	褥			159		j	uk	6	9	juk6	S89				
@@ -11375,7 +11375,7 @@
 9608.1	褫			159		c	i	2	2	ci2	Q60				
 9609.1	褭			159		n	iu	5	5	niu5	H39				
 9610.1	褱			159		w	aai	4	4	waai4	T7				
-9611.1	襃			159		b	ou	1	1	bou1	B58			同褒	
+9611.1	襃		褒	159		b	ou	1	1	bou1	B58			同褒	
 9612.1	褢			159		w	aai	4	4	waai4	T7				
 9613.1	褯			159		z	ik	6	9	zik6	P90				
 9614.1	褲			159		f	u	3	3	fu3	E40				
@@ -11410,8 +11410,8 @@
 9638.1	襌			159		d	aan	1	1	daan1	F11				
 9639.1	襐			159		z	oeng	6	6	zoeng6	P111				
 9640.1	襍			159		z	aap	6	9	zaap6	P23			同雜	
-9641.1	襇			159		g	aan	2	2	gaan2	J15				
-9641.2	襇			159		g	aan	3	3	gaan3	J16	A			
+9641.1	襇		襉	159		g	aan	2	2	gaan2	J15				
+9641.2	襇		襉	159		g	aan	3	3	gaan3	J16	A			
 9642.1	襁			159		k	oeng	5	5	koeng5	L49				
 9643.1	襏			159		b	ut	6	9	but6	B81				
 9644.1	襟			159		k	am	1	1	kam1	L13				
@@ -11463,7 +11463,7 @@
 9683.1	覃			160		t	aam	4	4	taam4	G7		延長		
 9683.2	覃			160		c	am	4	4	cam4	Q39		姓		
 9684.1	覆			160		f	uk	1	7	fuk1	E55				
-9685.1	覇			160		b	aa	3	3	baa3	B3			同霸	
+9685.1	覇		霸	160		b	aa	3	3	baa3	B3			同霸	
 9686.1	覈			160		h	at	6	9	hat6	O58				
 9687.1	覉			160		g	ei	1	1	gei1	J46			同羇	
 9688.1	覊			160		g	ei	1	1	gei1	J46			同羈	
@@ -11482,7 +11482,7 @@
 9699.1	覜			161		t	iu	3	3	tiu3	G36				
 9700.1	覡			161		h	at	6	9	hat6	O58				
 9701.1	覤			161		gw	ik	1	7	gwik1	K25			同虩	
-9702.1	覥			161		t	in	2	2	tin2	G45				
+9702.1	覥		𧡝	161		t	in	2	2	tin2	G45				
 9703.1	覩			161		d	ou	2	2	dou2	F78				
 9704.1	覦			161		j	yu	4	4	jyu4	A51				
 9705.1	親			161		c	an	1	1	can1	Q41		親人		
@@ -11495,13 +11495,13 @@
 9710.1	𧢃			161		l	au	4	4	lau4	I29				
 9711.1	覷			161		c	eoi	3	3	ceoi3	Q110				
 9712.1	覶			161		l	o	4	4	lo4	I81				
-9713.1	覵			161		g	aan	3	3	gaan3	J16			同瞯	
-9713.2	覵			161		h	aan	2	2	haan2	O21	A		同瞯	
+9713.1	覵		覸	161		g	aan	3	3	gaan3	J16			同瞯	
+9713.2	覵		覸	161		h	aan	2	2	haan2	O21	A		同瞯	
 9714.1	覻			161		c	eoi	3	3	ceoi3	Q110			同覷	
 9715.1	覺			161		g	ok	3	8	gok3	J92		覺悟		
 9715.2	覺			161		g	aau	3	3	gaau3	J10		睡覺		
 9716.1	𧢝			161		l	ai	6	6	lai6	I27				
-9717.1	覽			161		l	aam	5	5	laam5	I10				
+9717.1	覽		覧	161		l	aam	5	5	laam5	I10				
 9718.1	覼			161		l	o	4	4	lo4	I81				
 9719.1	覿			161		d	ik	6	9	dik6	F76				
 9720.1	觀			161		g	un	1	1	gun1	J106		觀望		
@@ -11635,8 +11635,8 @@
 9823.1	詮			163		c	yun	4	4	cyun4	Q129				
 9824.1	誂			163		t	iu	1	1	tiu1	G35		挑逗		
 9824.2	誂			163		d	iu	3	3	diu3	F57		倉猝		
-9825.1	詤			163		f	ong	1	1	fong1	E33			同謊	
-9825.2	詤			163		f	ong	2	2	fong2	E34	G		同謊	
+9825.1	詤		謊	163		f	ong	1	1	fong1	E33			同謊	
+9825.2	詤		謊	163		f	ong	2	2	fong2	E34	G		同謊	
 9826.1	詹			163		z	im	1	1	zim1	P72				
 9827.1	詭			163		gw	ai	2	2	gwai2	K13				
 9828.1	詣			163		ng	ai	6	6	ngai6	N35				
@@ -11668,12 +11668,12 @@
 9852.1	誥			163		g	ou	3	3	gou3	J78				
 9853.1	誘			163		j	au	5	5	jau5	S11				
 9854.1	誨			163		f	ui	3	3	fui3	E46				
-9855.1	誕			163		d	aan	3	3	daan3	F12				
+9855.1	誕		𧩙	163		d	aan	3	3	daan3	F12				
 9856.1	䛡			163		w	aa	6	6	waa6	T5			話(本)	
 9857.1	誑			163		k	ong	4	4	kong4	L44				
-9858.1	說			163		s	yut	3	8	syut3	R148		說話		
-9858.2	說			163		s	eoi	3	3	seoi3	R118		游說		
-9858.3	說			163		j	yut	6	9	jyut6	A61			同悅	
+9858.1	說		説	163		s	yut	3	8	syut3	R148		說話		
+9858.2	說		説	163		s	eoi	3	3	seoi3	R118		游說		
+9858.3	說		説	163		j	yut	6	9	jyut6	A61			同悅	
 9859.1	誋			163		g	ei	6	6	gei6	J49				
 9860.1	認			163		j	ing	6	6	jing6	S66				
 9861.1	誦			163		z	ung	6	6	zung6	P126				
@@ -11720,7 +11720,7 @@
 9895.1	諜			164		d	ip	6	9	dip6	F67				
 9896.1	諾			164		n	ok	6	9	nok6	H67				
 9897.1	諵			164		n	aam	4	4	naam4	H12				
-9898.1	諫			164		g	aan	3	3	gaan3	J16				
+9898.1	諫		諌	164		g	aan	3	3	gaan3	J16				
 9899.1	諴			164		h	aam	4	4	haam4	O17				
 9900.1	諧			164		h	aai	4	4	haai4	O6				
 9901.1	諟			164		s	i	6	6	si6	R68				
@@ -11754,7 +11754,7 @@
 9925.2	謏			164		s	au	2	2	sau2	R29	A			
 9926.1	謝			164		z	e	6	6	ze6	P56				
 9927.1	謕			164		t	ai	4	4	tai4	G18			同啼	
-9928.1	謠			164		j	iu	4	4	jiu4	S42				
+9928.1	謠		謡	164		j	iu	4	4	jiu4	S42				
 9929.1	謟			164		t	ou	1	1	tou1	G56				
 9930.1	謑			164		h	ai	5	5	hai5	O33				
 9931.1	謄			164		t	ang	4	4	tang4	G31				
@@ -11821,7 +11821,7 @@
 9985.1	議			165		j	i	5	5	ji5	S37				
 9986.1	譬			165		p	ei	3	3	pei3	C31				
 9987.1	譸			165		z	au	1	1	zau1	P32				
-9988.1	護			165		w	u	6	6	wu6	T57				
+9988.1	護		䕶	165		w	u	6	6	wu6	T57				
 9989.1	譽			165		j	yu	6	6	jyu6	A53				
 9990.1	譴			165		h	in	2	2	hin2	O72				
 9991.1	讀			165		d	uk	6	9	duk6	F104		讀書		
@@ -11834,7 +11834,7 @@
 9996.2	讎			165		c	au	4	4	cau4	Q35		讎定		
 9997.1	讐			165		s	au	4	4	sau4	R31		同仇	同讎	
 9997.2	讐			165		c	au	4	4	cau4	Q35		讐定	同讎	
-9998.1	讆			165		w	ai	6	6	wai6	T25				
+9998.1	讆		讏	165		w	ai	6	6	wai6	T25				
 9999.1	讋			165		z	ip	3	8	zip3	P80				
 10000.1	讇			165		c	im	2	2	cim2	Q69			同諂	
 10001.1	變			165		b	in	3	3	bin3	B48				
@@ -11877,19 +11877,19 @@
 10035.1	豐			166		f	ung	1	1	fung1	E50				
 10036.1	豒			166		d	it	6	9	dit6	F70			同秩	
 10037.1	䝄			166		s	oeng	1	1	soeng1	R109				
-10038.1	豓			166		j	im	6	6	jim6	S50			同艷	
-10039.1	豔			166		j	im	6	6	jim6	S50			同艷	
+10038.1	豓		艶|艷|豔	166		j	im	6	6	jim6	S50			同艷	
+10039.1	豔		艶|艷|豓	166		j	im	6	6	jim6	S50			同艷	
 10040.1	豕			166		c	i	2	2	ci2	Q60				
 10041.1	豗			166		f	ui	1	1	fui1	E44				
 10042.1	豝			166		b	aa	1	1	baa1	B1				
 10043.1	象			166		z	oeng	6	6	zoeng6	P111				
-10044.1	豜			166		g	in	1	1	gin1	J62				
+10044.1	豜		豣	166		g	in	1	1	gin1	J62				
 10045.1	豢			167		w	aan	6	6	waan6	T13				
 10046.1	豤			167		h	an	2	2	han2	O47				
 10047.1	豨			167		h	ei	1	1	hei1	O60				
 10048.1	豪			167		h	ou	4	4	hou4	O83				
 10049.1	䝋			167		z	ung	3	3	zung3	P125				
-10050.1	豬			167		z	yu	1	1	zyu1	P130				
+10050.1	豬		猪	167		z	yu	1	1	zyu1	P130				
 10051.1	豫			167		j	yu	6	6	jyu6	A53				
 10052.1	豭			167		g	aa	1	1	gaa1	J1				
 10053.1	豲			167		w	un	4	4	wun4	T64				
@@ -11915,7 +11915,7 @@
 10069.2	貉			167		m	ak	6	9	mak6	D43			同貊	
 10070.1	貍			167		l	ei	4	4	lei4	I42				
 10071.1	貌			167		m	aau	6	6	maau6	D11				
-10072.1	貓			167		m	aau	1	1	maau1	D8				
+10072.1	貓		猫	167		m	aau	1	1	maau1	D8				
 10073.1	䝟			167		j	aak	3	8	jaak3	S5			同猰	
 10074.1	貒			167		t	eon	1	1	teon1	G78				
 10075.1	貐			167		j	yu	5	5	jyu5	A52			同㺄	
@@ -11934,7 +11934,7 @@
 10088.1	貣			167		t	ik	1	7	tik1	G55				
 10089.1	財			167		c	oi	4	4	coi4	Q97				
 10090.1	貤			168		j	i	4	4	ji4	S36				
-10091.1	𧴯			168		m	e	1	1	me1	D48				
+10091.1	𧴯		孭	168		m	e	1	1	me1	D48				
 10092.1	責			168		z	aak	3	8	zaak3	P26				
 10093.1	貨			168		f	o	3	3	fo3	E32				
 10094.1	販			168		f	aan	3	3	faan3	E7				
@@ -11981,7 +11981,7 @@
 10127.1	賒			168		s	e	1	1	se1	R51				
 10128.1	賓			168		b	an	1	1	ban1	B27				
 10128.2	賓			168		b	an	3	3	ban3	B29			通擯	
-10129.1	賔			168		b	an	1	1	ban1	B27			同賓	
+10129.1	賔		賓	168		b	an	1	1	ban1	B27			同賓	
 10130.1	賣			168		m	aai	6	6	maai6	D7				
 10131.1	賦			168		f	u	3	3	fu3	E40				
 10132.1	䝼			168		c	ing	2	2	cing2	Q79				
@@ -12003,7 +12003,7 @@
 10146.1	賧			168		d	aam	6	6	daam6	F10				
 10147.1	賨			168		c	ung	4	4	cung4	Q119				
 10148.1	賭			168		d	ou	2	2	dou2	F78				
-10149.1	賴			168		l	aai	6	6	laai6	I7				
+10149.1	賴		頼	168		l	aai	6	6	laai6	I7				
 10150.1	賵			168		f	ung	3	3	fung3	E52				
 10151.1	䝿			168		gw	ai	3	3	gwai3	K14			古貴字	
 10152.1	賮			168		z	eon	2	2	zeon2	P119			贐(本)	
@@ -12021,7 +12021,7 @@
 10162.1	贏			169		j	ing	4	4	jing4	S64				
 10162.2	贏			169		j	eng	4	4	jeng4	S32	V			
 10163.1	贉			169		t	aam	5	5	taam5	G8				
-10164.1	贋			169		ng	aan	6	6	ngaan6	N22				
+10164.1	贋		贗	169		ng	aan	6	6	ngaan6	N22				
 10165.1	贊			169		z	aan	3	3	zaan3	P17				
 10166.1	贇			169		w	an	1	1	wan1	T26				
 10167.1	贈			169		z	ang	6	6	zang6	P46				
@@ -12033,7 +12033,7 @@
 10172.1	贐			169		z	eon	2	2	zeon2	P119				
 10173.1	贓			169		z	ong	1	1	zong1	P102			同贜	
 10174.1	贖			169		s	uk	6	9	suk6	R135				
-10175.1	贗			169		ng	aan	6	6	ngaan6	N22			同贋	
+10175.1	贗		贋	169		ng	aan	6	6	ngaan6	N22			同贋	
 10176.1	贕			169		d	uk	6	9	duk6	F104				
 10177.1	贛			169		g	am	3	3	gam3	J33				
 10178.1	贜			169		z	ong	1	1	zong1	P102				
@@ -12141,8 +12141,8 @@
 10265.1	跣			171		s	in	2	2	sin2	R80				
 10266.1	跧			171		c	yun	4	4	cyun4	Q129				
 10267.1	跲			171		g	aap	3	8	gaap3	J19				
-10268.1	跺			171		d	o	2	2	do2	F82				
-10269.1	跥			171		d	o	2	2	do2	F82			同跺	
+10268.1	跺		跥	171		d	o	2	2	do2	F82				
+10269.1	跥		跺	171		d	o	2	2	do2	F82			同跺	
 10270.1	跪			171		gw	ai	6	6	gwai6	K15				
 10271.1	路			171		l	ou	6	6	lou6	I77				
 10272.1	跳			171		t	iu	3	3	tiu3	G36				
@@ -12255,7 +12255,7 @@
 10359.1	躀			172		gw	aan	3	3	gwaan3	K8				
 10360.1	蹺			172		h	iu	1	1	hiu1	O65				
 10361.1	蹮			172		s	in	1	1	sin1	R79			同躚	
-10362.1	𨆼			172		c	yu	4	4	cyu4	Q124				
+10362.1	𨆼		蹰|躕	172		c	yu	4	4	cyu4	Q124				
 10363.1	蹽			172		l	iu	4	4	liu4	I55				
 10364.1	蹶			172		k	yut	3	8	kyut3	L62				
 10365.1	蹷			172		k	yut	3	8	kyut3	L62				
@@ -12291,14 +12291,14 @@
 10391.1	躍			172		j	oek	6	9	joek6	S77		跳躍		
 10391.2	躍			172		t	ik	1	7	tik1	G55		同趯		
 10392.1	躓			172		z	i	3	3	zi3	P66				
-10393.1	躕			172		c	yu	4	4	cyu4	Q124			同𨆼	
+10393.1	躕		蹰|𨆼	172		c	yu	4	4	cyu4	Q124			同𨆼	
 10394.1	躔			172		c	in	4	4	cin4	Q74				
 10395.1	躑			172		z	aak	6	9	zaak6	P27				
 10396.1	躒			172		l	ik	1	7	lik1	I71		走動		
 10396.2	躒			172		l	ok	3	8	lok3	I89		卓躒		
 10397.1	躐			173		l	ip	6	9	lip6	I64				
 10398.1	躚			173		s	in	1	1	sin1	R79				
-10399.1	躗			173		w	ai	6	6	wai6	T25				
+10399.1	躗		躛	173		w	ai	6	6	wai6	T25				
 10400.1	躠			173		s	it	3	8	sit3	R86				
 10401.1	𨇨			173		s	it	3	8	sit3	R86			同躠	
 10402.1	躝			173		l	aan	1	1	laan1	I12				
@@ -12321,8 +12321,8 @@
 10417.1	䠶			173		s	e	6	6	se6	R56		䠶箭	同射	
 10417.2	䠶			173		j	e	6	6	je6	S31		僕䠶	同射	
 10417.3	䠶			173		j	ik	6	9	jik6	S68		無䠶	同射	
-10418.1	躲			173		d	o	2	2	do2	F82				
-10419.1	躱			173		d	o	2	2	do2	F82			同躲	
+10418.1	躲		躱	173		d	o	2	2	do2	F82				
+10419.1	躱		躲	173		d	o	2	2	do2	F82			同躲	
 10420.1	躳			173		g	ung	1	1	gung1	J109			同躬	
 10421.1	躺			173		t	ong	2	2	tong2	G69				
 10422.1	躶			173		l	o	2	2	lo2	I79			同裸	
@@ -12339,7 +12339,7 @@
 10432.1	軏			173		j	yut	6	9	jyut6	A61				
 10433.1	軎			173		w	ai	6	6	wai6	T25				
 10434.1	軔			173		j	an	6	6	jan6	S24				
-10435.1	軔			173		j	an	6	6	jan6	S24			同軔	
+10435.1	軔		軔	173		j	an	6	6	jan6	S24			同軔	
 10436.1	䡇			173		j	yut	6	9	jyut6	A61			同軏	
 10437.1	軛			173			aak	1	7	aak1	A15				
 10437.2	軛			173		ng	aak	1	7	ngaak1	N28	A			
@@ -12402,12 +12402,12 @@
 10488.1	輣			174		p	aang	4	4	paang4	C13				
 10489.1	輖			174		z	au	1	1	zau1	P32				
 10490.1	輡			174		h	am	2	2	ham2	O42				
-10491.1	軿			174		p	ing	4	4	ping4	C48				
+10491.1	軿		輧	174		p	ing	4	4	ping4	C48				
 10492.1	輬			174		l	oeng	4	4	loeng4	I94				
 10493.1	輝			174		f	ai	1	1	fai1	E11				
 10494.1	輨			174		g	un	2	2	gun2	J107				
 10495.1	輟			174		z	yut	3	8	zyut3	P138				
-10496.1	輜			174		z	i	1	1	zi1	P64				
+10496.1	輜		輺	174		z	i	1	1	zi1	P64				
 10497.1	輳			174		c	au	3	3	cau3	Q34				
 10498.1	輻			174		f	uk	1	7	fuk1	E55				
 10499.1	輭			174		j	yun	5	5	jyun5	A58			同軟	
@@ -12423,7 +12423,7 @@
 10509.1	轃			174		z	eon	1	1	zeon1	P118				
 10510.1	轂			174		g	uk	1	7	guk1	J113				
 10511.1	轅			174		j	yun	4	4	jyun4	A57				
-10512.1	轀			174		w	an	1	1	wan1	T26				
+10512.1	轀		輼	174		w	an	1	1	wan1	T26				
 10513.1	輿			174		j	yu	4	4	jyu4	A51				
 10514.1	轄			174		h	at	6	9	hat6	O58				
 10515.1	輾			175		z	in	2	2	zin2	P77		輾轉		
@@ -12487,7 +12487,7 @@
 10569.1	辳			176		n	ung	4	4	nung4	H73			同農	
 10570.1	辵			176		c	oek	3	8	coek3	Q107				
 10571.1	迂			176		j	yu	1	1	jyu1	A48				
-10572.1	达			176		d	ai	3	3	dai3	F21		滑		
+10572.1	达		迖	176		d	ai	3	3	dai3	F21		滑		
 10573.1	迅			176		s	eon	3	3	seon3	R124				
 10574.1	迄			176		ng	at	6	9	ngat6	N56				
 10575.1	迆			176		j	i	5	5	ji5	S37		斜行、延伸	同迤	
@@ -12506,23 +12506,23 @@
 10584.1	迣			176		l	it	6	9	lit6	I66		同迾		
 10584.2	迣			176		l	ai	6	6	lai6	I27		飛越		
 10585.1	述			176		s	eot	6	9	seot6	R129				
-10586.1	迪			176		d	ik	6	9	dik6	F76				
+10586.1	迪		廸	176		d	ik	6	9	dik6	F76				
 10587.1	迥			176		gw	ing	2	2	gwing2	K24				
 10588.1	迭			176		d	it	6	9	dit6	F70				
 10589.1	迮			176		z	aak	3	8	zaak3	P26				
 10590.1	迤			176		j	i	5	5	ji5	S37		斜行、延伸		
 10590.2	迤			176		j	i	4	4	ji4	S36		逶迤		
-10591.1	迫			176		b	aak	1	7	baak1	B20		逼迫		
-10591.2	迫			176		b	ik	1	7	bik1	B57		迫擊炮		
+10591.1	迫		廹	176		b	aak	1	7	baak1	B20		逼迫		
+10591.2	迫		廹	176		b	ik	1	7	bik1	B57		迫擊炮		
 10592.1	迩			176		j	i	5	5	ji5	S37			同邇	
 10593.1	迢			176		t	iu	4	4	tiu4	G37				
 10594.1	迦			176		g	aa	1	1	gaa1	J1				
 10594.2	迦			176		h	aai	6	6	haai6	O8			同邂	
 10595.1	迨			176		d	oi	6	6	doi6	F85				
-10596.1	迺			176		n	aai	5	5	naai5	H6				
+10596.1	迺		廼	176		n	aai	5	5	naai5	H6				
 10597.1	迾			176		l	it	6	9	lit6	I66		列隊出入		
 10597.2	迾			176		l	aat	6	9	laat6	I22	D	列		
-10598.1	迴			176		w	ui	4	4	wui4	T59				
+10598.1	迴		廻	176		w	ui	4	4	wui4	T59				
 10599.1	适			176		k	ut	3	8	kut3	L58				
 10600.1	追			176		z	eoi	1	1	zeoi1	P114				
 10601.1	逈			176		gw	ing	2	2	gwing2	K24			同迥	
@@ -12594,7 +12594,7 @@
 10658.1	遑			177		w	ong	4	4	wong4	T48				
 10659.1	遁			177		d	eon	6	6	deon6	F97				
 10660.1	逾			177		j	yu	4	4	jyu4	A51				
-10661.1	迸			177		b	ing	3	3	bing3	B55				
+10661.1	迸		逬	177		b	ing	3	3	bing3	B55				
 10662.1	遊			177		j	au	4	4	jau4	S10				
 10663.1	遒			177		c	au	4	4	cau4	Q35				
 10664.1	道			177		d	ou	6	6	dou6	F80				
@@ -12610,7 +12610,7 @@
 10673.1	遣			177		h	in	2	2	hin2	O72				
 10674.1	遝			177		d	aap	6	9	daap6	F16				
 10675.1	遞			177		d	ai	6	6	dai6	F22				
-10676.1	遙			177		j	iu	4	4	jiu4	S42				
+10676.1	遙		遥	177		j	iu	4	4	jiu4	S42				
 10677.1	遛			177		l	au	4	4	lau4	I29		逗遛		
 10677.2	遛			177		l	au	6	6	lau6	I31		遛遛		
 10678.1	遡			177		s	ou	3	3	sou3	R98			同溯	
@@ -12689,7 +12689,7 @@
 10740.1	邲			178		b	ei	3	3	bei3	B37				
 10741.1	邵			178		s	iu	6	6	siu6	R73				
 10742.1	邰			178		t	oi	4	4	toi4	G66				
-10743.1	邢			178		j	ing	4	4	jing4	S64				
+10743.1	邢		郉	178		j	ing	4	4	jing4	S64				
 10744.1	邽			178		gw	ai	1	1	gwai1	K12				
 10745.1	邿			178		s	i	1	1	si1	R63				
 10746.1	𨚵			178		z	oi	3	3	zoi3	P100				
@@ -12719,7 +12719,7 @@
 10768.1	郗			179		c	i	1	1	ci1	Q59				
 10769.1	郛			179		f	u	1	1	fu1	E38				
 10770.1	郤			179		gw	ik	1	7	gwik1	K25				
-10771.1	郎			179		l	ong	4	4	long4	I86				
+10771.1	郎		郞	179		l	ong	4	4	long4	I86				
 10772.1	郡			179		gw	an	6	6	gwan6	K19				
 10773.1	郰			179		z	au	1	1	zau1	P32				
 10774.1	郴			179		s	am	1	1	sam1	R33				
@@ -12757,8 +12757,8 @@
 10805.2	鄗			179		h	aau	1	1	haau1	O9		水名		
 10806.1	鄐			179		c	uk	1	7	cuk1	Q121				
 10807.1	鄍			179		m	ing	4	4	ming4	D63				
-10808.1	鄉			179		h	oeng	1	1	hoeng1	O110				
-10808.2	鄉			179		h	oeng	3	3	hoeng3	O112			同嚮	
+10808.1	鄉		郷|鄕	179		h	oeng	1	1	hoeng1	O110				
+10808.2	鄉		郷|鄕	179		h	oeng	3	3	hoeng3	O112			同嚮	
 10809.1	鄢			179		j	in	1	1	jin1	S51				
 10810.1	鄞			179		ng	an	4	4	ngan4	N49				
 10811.1	䣛			179		s	at	1	7	sat1	R46				
@@ -12782,7 +12782,7 @@
 10827.1	鄬			179		w	ai	4	4	wai4	T23				
 10828.1	鄮			179		m	au	6	6	mau6	D30				
 10829.1	鄯			179		s	in	6	6	sin6	R84				
-10830.1	鄰			179		l	eon	4	4	leon4	I103				
+10830.1	鄰		隣	179		l	eon	4	4	leon4	I103				
 10831.1	鄭			179		z	eng	6	6	zeng6	P60				
 10832.1	鄫			179		c	ang	4	4	cang4	Q47				
 10833.1	鄩			179		c	am	4	4	cam4	Q39				
@@ -12855,8 +12855,8 @@
 10887.1	酸			180		s	yun	1	1	syun1	R142				
 10888.1	酳			180		j	an	6	6	jan6	S24				
 10889.1	醋			180		c	ou	3	3	cou3	Q86				
-10890.1	醃			180		j	im	1	1	jim1	S45				
-10890.2	醃			180		j	ip	3	8	jip3	S57	V			
+10890.1	醃		腌	180		j	im	1	1	jim1	S45				
+10890.2	醃		腌	180		j	ip	3	8	jip3	S57	V			
 10891.1	醆			181		z	aan	2	2	zaan2	P16			同盞	
 10892.1	醌			181		kw	an	1	1	kwan1	M14				
 10893.1	醄			181		t	ou	4	4	tou4	G59				
@@ -12878,7 +12878,7 @@
 10907.1	醢			181		h	oi	2	2	hoi2	O90				
 10908.1	醛			181		c	yun	4	4	cyun4	Q129				
 10909.1	醠			181			ong	3	3	ong3	A42				
-10910.1	醞			181		w	an	3	3	wan3	T28				
+10910.1	醞		醖	181		w	an	3	3	wan3	T28				
 10911.1	醜			181		c	au	2	2	cau2	Q33				
 10912.1	䤌			181		c	oeng	1	1	coeng1	Q103				
 10913.1	醟			181		w	ing	6	6	wing6	T38				
@@ -12890,7 +12890,7 @@
 10919.1	醧			181		j	yu	3	3	jyu3	A50				
 10920.1	醫			181		j	i	1	1	ji1	S33				
 10921.1	醨			181		l	ei	4	4	lei4	I42				
-10922.1	醬			181		z	oeng	3	3	zoeng3	P110				
+10922.1	醬		醤	181		z	oeng	3	3	zoeng3	P110				
 10923.1	醪			181		l	ou	4	4	lou4	I75				
 10924.1	醰			181		t	aam	4	4	taam4	G7				
 10925.1	醭			181		b	uk	6	9	buk6	B85				
@@ -12939,7 +12939,7 @@
 10959.2	釘			182		d	eng	1	1	deng1	F49	V			
 10960.1	釙			182		p	ok	3	8	pok3	C64				
 10961.1	釗			182		c	iu	1	1	ciu1	Q64				
-10962.1	釜			182		f	u	2	2	fu2	E39				
+10962.1	釜		釡	182		f	u	2	2	fu2	E39				
 10963.1	釕			182		l	iu	5	5	liu5	I56		化學元素名		
 10963.2	釕			182		l	iu	6	6	liu6	I57		釕銱兒		
 10964.1	釢			182		n	aai	5	5	naai5	H6				
@@ -12977,7 +12977,7 @@
 10992.1	鈆			182		j	yun	4	4	jyun4	A57				
 10993.1	欽			182		j	am	1	1	jam1	S13				
 10994.1	鈞			182		gw	an	1	1	gwan1	K16				
-10995.1	鈎			182		ng	au	1	1	ngau1	N36				
+10995.1	鈎		鉤	182		ng	au	1	1	ngau1	N36				
 10996.1	鈁			182		f	ong	1	1	fong1	E33				
 10997.1	鈧			182		k	ong	3	3	kong3	L43				
 10998.1	鈥			182		f	o	2	2	fo2	E31				
@@ -13014,7 +13014,7 @@
 11023.1	鈴			183		l	ing	4	4	ling4	I68				
 11024.1	鉩			183		s	aai	2	2	saai2	R5			古璽字	
 11025.1	鉛			183		j	yun	4	4	jyun4	A57				
-11026.1	鉤			183		ng	au	1	1	ngau1	N36			同鈎	
+11026.1	鉤		鈎	183		ng	au	1	1	ngau1	N36			同鈎	
 11027.1	鉚			183		m	aau	5	5	maau5	D10				
 11028.1	鉋			183		p	aau	4	4	paau4	C9		同刨		
 11029.1	鉒			183		z	yu	3	3	zyu3	P132				
@@ -13039,8 +13039,8 @@
 11045.1	鋮			183		s	ing	4	4	sing4	R91				
 11046.1	銕			183		t	it	3	8	tit3	G50			同鐵	
 11047.1	銍			183		z	at	6	9	zat6	P50				
-11048.1	鈃			183		j	ing	4	4	jing4	S64		酒器		
-11048.2	鈃			183		g	in	1	1	gin1	J62		人名		
+11048.1	鈃		銒	183		j	ing	4	4	jing4	S64		酒器		
+11048.2	鈃		銒	183		g	in	1	1	gin1	J62		人名		
 11049.1	銅			183		t	ung	4	4	tung4	G85				
 11050.1	銦			183		j	an	1	1	jan1	S19				
 11051.1	銖			183		z	yu	1	1	zyu1	P130				
@@ -13098,7 +13098,7 @@
 11094.1	鋋			184		s	in	4	4	sin4	R82				
 11094.2	鋋			184		j	in	4	4	jin4	S54	A			
 11095.1	鋯			184		g	ou	3	3	gou3	J78				
-11096.1	銹			184		s	au	3	3	sau3	R30				
+11096.1	銹		鏽	184		s	au	3	3	sau3	R30				
 11097.1	鋵			184		t	uk	1	7	tuk1	G86				
 11098.1	鋨			184		ng	o	4	4	ngo4	N64				
 11099.1	鋂			184		m	ui	4	4	mui4	D80				
@@ -13108,7 +13108,7 @@
 11103.1	鋝			184		l	yut	3	8	lyut3	I117				
 11104.1	鋅			184		s	an	1	1	san1	R38				
 11105.1	鋶			184		l	au	5	5	lau5	I30				
-11106.1	銳			184		j	eoi	6	6	jeoi6	S80				
+11106.1	銳		鋭	184		j	eoi	6	6	jeoi6	S80				
 11107.1	䤬			184		s	o	1	1	so1	R99				
 11107.2	䤬			184		s	aa	1	1	saa1	R1	A			
 11108.1	鋈			184		j	uk	1	7	juk1	S88				
@@ -13158,7 +13158,7 @@
 11144.1	錠			184		d	ing	6	6	ding6	F74				
 11145.1	錧			184		g	un	2	2	gun2	J107				
 11146.1	鍆			184		m	un	4	4	mun4	D84				
-11147.1	錄			184		l	uk	6	9	luk6	I112				
+11147.1	錄		録	184		l	uk	6	9	luk6	I112				
 11148.1	鋸			184		g	eoi	3	3	geoi3	J100				
 11148.2	鋸			184		g	oe	3	3	goe3	J93	V			
 11149.1	錣			184		z	yut	3	8	zyut3	P138				
@@ -13171,7 +13171,7 @@
 11156.1	鍥			185		k	it	3	8	kit3	L35				
 11157.1	鍖			185		z	am	1	1	zam1	P36				
 11158.1	鍳			185		g	aam	3	3	gaam3	J13				
-11159.1	鍊			185		l	in	6	6	lin6	I63				
+11159.1	鍊		錬	185		l	in	6	6	lin6	I63				
 11160.1	鍼			185		k	im	4	4	kim4	L32				
 11160.2	鍼			185		z	am	1	1	zam1	P36			同針	
 11161.1	鍇			185		k	aai	2	2	kaai2	L3				
@@ -13212,7 +13212,7 @@
 11193.1	鍪			185		m	au	4	4	mau4	D28				
 11194.1	鍵			185		g	in	6	6	gin6	J65				
 11195.1	鎒			185		n	au	6	6	nau6	H24			同耨	
-11196.1	鎮			185		z	an	3	3	zan3	P42				
+11196.1	鎮		鎭	185		z	an	3	3	zan3	P42				
 11197.1	鎛			185		b	ok	3	8	bok3	B70				
 11198.1	鎘			185		g	aak	3	8	gaak3	J22				
 11199.1	鎷			185		m	aa	5	5	maa5	D3				
@@ -13223,8 +13223,8 @@
 11204.1	鎉			185		t	aap	3	8	taap3	G13				
 11205.1	鎧			185		h	oi	2	2	hoi2	O90				
 11206.1	鎚			185		c	eoi	4	4	ceoi4	Q111		同錘		
-11207.1	鎸			185		z	yun	1	1	zyun1	P134			同鐫	
-11207.2	鎸			185		z	eon	3	3	zeon3	P120	A		同鐫	
+11207.1	鎸		鐫|鑴	185		z	yun	1	1	zyun1	P134			同鐫	
+11207.2	鎸		鐫|鑴	185		z	eon	3	3	zeon3	P120	A		同鐫	
 11208.1	鎳			185		n	ip	6	9	nip6	H50				
 11208.2	鎳			185		n	ip	1	7	nip1	H49	A			
 11209.1	鎢			185		w	u	1	1	wu1	T53				
@@ -13323,14 +13323,14 @@
 11290.1	鐭			186			ou	3	3	ou3	A32				
 11290.2	鐭			186		ng	ou	3	3	ngou3	N60	A			
 11291.1	鑀			186			oi	3	3	oi3	A38				
-11292.1	鐫			186		z	yun	1	1	zyun1	P134				
-11292.2	鐫			186		z	eon	3	3	zeon3	P120	A			
+11292.1	鐫		鎸|鑴	186		z	yun	1	1	zyun1	P134				
+11292.2	鐫		鎸|鑴	186		z	eon	3	3	zeon3	P120	A			
 11293.1	鐠			186		p	ou	2	2	pou2	C51				
-11294.1	鐮			186		l	im	4	4	lim4	I58				
-11295.1	䥥			186		l	im	4	4	lim4	I58			同鐮	
+11294.1	鐮		䥥	186		l	im	4	4	lim4	I58				
+11295.1	䥥		鐮	186		l	im	4	4	lim4	I58			同鐮	
 11296.1	䥝			186		ng	ou	4	4	ngou4	N61				
 11297.1	鐿			186		j	i	3	3	ji3	S35				
-11298.1	鏽			186		s	au	3	3	sau3	R30			同銹	
+11298.1	鏽		銹	186		s	au	3	3	sau3	R30			同銹	
 11299.1	鑄			186		z	yu	3	3	zyu3	P132				
 11300.1	鑋			186		h	ing	1	1	hing1	O77		同𨆪		
 11301.1	鑒			186		g	aam	3	3	gaam3	J13				
@@ -13359,7 +13359,7 @@
 11323.1	鑭			187		l	aan	4	4	laan4	I13				
 11324.1	鑷			187		n	ip	6	9	nip6	H50				
 11325.1	鑵			187		g	un	3	3	gun3	J108			同罐	
-11326.1	鑴			187		kw	ai	4	4	kwai4	M12				
+11326.1	鑴		鎸|鐫	187		kw	ai	4	4	kwai4	M12				
 11327.1	鑹			187		c	yun	1	1	cyun1	Q126				
 11328.1	鑼			187		l	o	4	4	lo4	I81				
 11329.1	鑿			187		z	ok	6	9	zok6	P107				
@@ -13380,7 +13380,7 @@
 11342.1	閆			187		j	im	4	4	jim4	S48				
 11343.1	閈			187		h	on	6	6	hon6	O99				
 11344.1	閉			187		b	ai	3	3	bai3	B24				
-11345.1	閏			187		j	eon	6	6	jeon6	S82				
+11345.1	閏		閠	187		j	eon	6	6	jeon6	S82				
 11346.1	開			187		h	oi	1	1	hoi1	O89				
 11347.1	閑			187		h	aan	4	4	haan4	O22				
 11348.1	閎			187		w	ang	4	4	wang4	T32				
@@ -13400,7 +13400,7 @@
 11357.1	閟			188		b	ei	3	3	bei3	B37				
 11358.1	閙			188		n	aau	6	6	naau6	H10				
 11359.1	閨			188		gw	ai	1	1	gwai1	K12				
-11360.1	閧			188		h	ung	6	6	hung6	O120				
+11360.1	閧		鬨	188		h	ung	6	6	hung6	O120				
 11361.1	閩			188		m	an	5	5	man5	D34				
 11362.1	閥			188		f	at	6	9	fat6	E24				
 11363.1	閤			188		g	ok	3	8	gok3	J92			同閣	
@@ -13413,7 +13413,7 @@
 11367.1	閭			188		l	eoi	4	4	leoi4	I99				
 11368.1	䦟			188		c	aai	2	2	caai2	Q6				
 11368.2	䦟			188		c	eoi	2	2	ceoi2	Q109	A			
-11369.1	閱			188		j	yut	6	9	jyut6	A61				
+11369.1	閱		閲	188		j	yut	6	9	jyut6	A61				
 11370.1	閬			188		l	ong	5	5	long5	I87				
 11371.1	閾			188		w	ik	6	9	wik6	T39				
 11372.1	閹			188		j	im	1	1	jim1	S45				
@@ -13440,7 +13440,7 @@
 11390.1	闇			188			am	2	2	am2	A23		暗		
 11390.2	闇			188		ng	am	2	2	ngam2	N43	A	暗		
 11390.3	闇			188			am	1	1	am1	A22		諒闇		
-11391.1	闊			188		f	ut	3	8	fut3	E49				
+11391.1	闊		濶	188		f	ut	3	8	fut3	E49				
 11392.1	闈			188		w	ai	4	4	wai4	T23				
 11393.1	闋			188		k	yut	3	8	kyut3	L62				
 11394.1	闔			188		h	ap	6	9	hap6	O56				
@@ -13529,7 +13529,7 @@
 11455.1	陘			189		j	ing	4	4	jing4	S64				
 11456.1	陟			189		z	ik	1	7	zik1	P88				
 11457.1	陗			189		c	iu	3	3	ciu3	Q66			同峭	
-11458.1	陧			189		n	ip	6	9	nip6	H50				
+11458.1	陧		隉	189		n	ip	6	9	nip6	H50				
 11459.1	陞			189		s	ing	1	1	sing1	R88				
 11460.1	除			189		c	eoi	4	4	ceoi4	Q111				
 11460.2	除			189		c	yu	4	4	cyu4	Q124	V			
@@ -13566,7 +13566,7 @@
 11483.1	陽			190		j	oeng	4	4	joeng4	S73				
 11484.1	隅			190		j	yu	4	4	jyu4	A51				
 11485.1	隈			190		w	ui	1	1	wui1	T58				
-11486.1	隉			190		n	ip	6	9	nip6	H50			同陧	
+11486.1	隉		陧	190		n	ip	6	9	nip6	H50			同陧	
 11487.1	隍			190		w	ong	4	4	wong4	T48				
 11488.1	隃			190		j	yu	4	4	jyu4	A51				
 11489.1	隂			190		j	am	1	1	jam1	S13		隂陽	同陰	
@@ -13575,7 +13575,7 @@
 11490.1	隆			190		l	ung	4	4	lung4	I108				
 11491.1	隊			190		d	eoi	6	6	deoi6	F95				
 11492.1	隔			190		g	aak	3	8	gaak3	J22				
-11493.1	隙			190		gw	ik	1	7	gwik1	K25				
+11493.1	隙		𨻶	190		gw	ik	1	7	gwik1	K25				
 11494.1	隕			190		w	an	5	5	wan5	T30				
 11494.2	隕			190		j	yun	4	4	jyun4	A57		幅隕		
 11495.1	隑			190		g	oi	1	1	goi1	J82				
@@ -13592,13 +13592,13 @@
 11500.2	𨻳			190		j	in	1	1	jin1	S51			同鄢	
 11501.1	隞			190		ng	ou	4	4	ngou4	N61				
 11502.1	䧢			190		k	eoi	1	1	keoi1	L52				
-11503.1	𨻶			190		gw	ik	1	7	gwik1	K25			同隙	
+11503.1	𨻶		隙	190		gw	ik	1	7	gwik1	K25			同隙	
 11504.1	隝			190		d	ou	2	2	dou2	F78				
 11505.1	際			190		z	ai	3	3	zai3	P30				
 11506.1	障			190		z	oeng	3	3	zoeng3	P110				
 11507.1	隟			190		gw	ik	1	7	gwik1	K25			同隙	
 11508.1	隤			190		t	eoi	4	4	teoi4	G77				
-11509.1	隣			190		l	eon	4	4	leon4	I103			同鄰	
+11509.1	隣		鄰	190		l	eon	4	4	leon4	I103			同鄰	
 11510.1	隥			190		d	ang	3	3	dang3	F37				
 11511.1	隫			190		f	an	4	4	fan4	E20			同墳	
 11512.1	隨			190		c	eoi	4	4	ceoi4	Q111				
@@ -13614,13 +13614,13 @@
 11520.1	隴			190		l	ung	5	5	lung5	I109				
 11521.1	隶			190		d	ai	6	6	dai6	F22			逮(本)	
 11522.1	𨽻			190		d	ai	6	6	dai6	F22			同隸	
-11523.1	隷			190		d	ai	6	6	dai6	F22			同隸	
-11524.1	隸			191		d	ai	6	6	dai6	F22				
-11524.2	隸			191		l	ai	6	6	lai6	I27	R			
+11523.1	隷		隸	190		d	ai	6	6	dai6	F22			同隸	
+11524.1	隸		隷	191		d	ai	6	6	dai6	F22				
+11524.2	隸		隷	191		l	ai	6	6	lai6	I27	R			
 11525.1	隹			191		z	eoi	1	1	zeoi1	P114				
 11526.1	隼			191		z	eon	2	2	zeon2	P119				
-11527.1	隽			191		s	yun	5	5	syun5	R146		隽永		
-11527.2	隽			191		z	eon	3	3	zeon3	P120			通俊	
+11527.1	隽		雋	191		s	yun	5	5	syun5	R146		隽永		
+11527.2	隽		雋	191		z	eon	3	3	zeon3	P120			通俊	
 11528.1	隺			191		h	ok	6	9	hok6	O108				
 11529.1	隻			191		z	ek	3	8	zek3	P62				
 11530.1	雀			191		z	oek	3	8	zoek3	P112				
@@ -13632,8 +13632,8 @@
 11535.1	雇			191		g	u	3	3	gu3	J104				
 11536.1	雌			191		c	i	1	1	ci1	Q59				
 11537.1	雎			191		z	eoi	1	1	zeoi1	P114				
-11538.1	雋			191		s	yun	5	5	syun5	R146		雋永	同隽	
-11538.2	雋			191		z	eon	3	3	zeon3	P120			同隽	
+11538.1	雋		隽	191		s	yun	5	5	syun5	R146		雋永	同隽	
+11538.2	雋		隽	191		z	eon	3	3	zeon3	P120			同隽	
 11539.1	雉			191		z	i	6	6	zi6	P67				
 11540.1	雊			191		g	au	3	3	gau3	J29				
 11541.1	雍			191		j	ung	1	1	jung1	S83				
@@ -13642,9 +13642,9 @@
 11544.1	雖			191		s	eoi	1	1	seoi1	R116				
 11545.1	雚			191		g	un	3	3	gun3	J108				
 11546.1	雙			191		s	oeng	1	1	soeng1	R109				
-11547.1	雞			191		g	ai	1	1	gai1	J23			同鷄	
+11547.1	雞		鷄	191		g	ai	1	1	gai1	J23			同鷄	
 11548.1	雘			191		w	ok	3	8	wok3	T51				
-11549.1	雛			191		c	o	4	4	co4	Q92				
+11549.1	雛		鶵	191		c	o	4	4	co4	Q92				
 11550.1	雜			191		z	aap	6	9	zaap6	P23				
 11551.1	雝			191		j	ung	1	1	jung1	S83			同雍	
 11552.1	難			191		n	aan	4	4	naan4	H14		困難		
@@ -13653,7 +13653,7 @@
 11554.1	雧			191		z	aap	6	9	zaap6	P23			集(本)	
 11555.1	雨			191		j	yu	5	5	jyu5	A52		雨水		
 11555.2	雨			191		j	yu	6	6	jyu6	A53		動詞		
-11556.1	雩			191		j	yu	4	4	jyu4	A51				
+11556.1	雩		𩁹	191		j	yu	4	4	jyu4	A51				
 11557.1	雪			191		s	yut	3	8	syut3	R148				
 11558.1	雲			191		w	an	4	4	wan4	T29				
 11559.1	雰			191		f	an	1	1	fan1	E17				
@@ -13701,7 +13701,7 @@
 11598.2	露			192		l	au	6	6	lau6	I31		顯露		
 11599.1	霮			192		d	aam	6	6	daam6	F10				
 11600.1	霱			192		w	at	6	9	wat6	T34				
-11601.1	霸			192		b	aa	3	3	baa3	B3				
+11601.1	霸		覇	192		b	aa	3	3	baa3	B3				
 11602.1	霶			192		p	ong	4	4	pong4	C61				
 11603.1	霹			192		p	ik	1	7	pik1	C49				
 11604.1	霼			192		h	ei	3	3	hei3	O62				
@@ -13727,7 +13727,7 @@
 11618.1	靖			192		z	ing	6	6	zing6	P87				
 11619.1	靚			192		z	ing	6	6	zing6	P87		靚粧		
 11619.2	靚			192		l	eng	3	3	leng3	I48	D	漂亮		
-11620.1	靜			192		z	ing	6	6	zing6	P87				
+11620.1	靜		静	192		z	ing	6	6	zing6	P87				
 11621.1	靛			192		d	in	6	6	din6	F66				
 11622.1	非			192		f	ei	1	1	fei1	E25				
 11623.1	啡			193		f	ei	1	1	fei1	E25				
@@ -13749,8 +13749,8 @@
 11635.1	靯			193		d	ou	6	6	dou6	F80				
 11636.1	靰			193		w	u	1	1	wu1	T53				
 11637.1	靮			193		d	ik	1	7	dik1	F75				
-11638.1	靭			193		j	an	6	6	jan6	S24			同韌	
-11639.1	靱			193		j	an	6	6	jan6	S24			同韌	
+11638.1	靭		靱	193		j	an	6	6	jan6	S24			同韌	
+11639.1	靱		靭	193		j	an	6	6	jan6	S24			同韌	
 11640.1	靫			193		c	aai	1	1	caai1	Q5				
 11641.1	靴			193		h	oe	1	1	hoe1	O109				
 11642.1	靳			193		g	an	3	3	gan3	J37				
@@ -13873,8 +13873,8 @@
 11740.1	韭			195		g	au	2	2	gau2	J28				
 11741.1	韮			195		g	au	2	2	gau2	J28			同韭	
 11742.1	韰			195		h	aai	6	6	haai6	O8				
-11743.1	䪡			195		z	ai	1	1	zai1	P28			同䪢	
-11744.1	䪢			195		z	ai	1	1	zai1	P28				
+11743.1	䪡		䪢	195		z	ai	1	1	zai1	P28			同䪢	
+11744.1	䪢		䪡	195		z	ai	1	1	zai1	P28				
 11745.1	䪥			195		h	aai	6	6	haai6	O8				
 11746.1	音			195		j	am	1	1	jam1	S13				
 11747.1	韵			195		w	an	6	6	wan6	T31				
@@ -13929,12 +13929,12 @@
 11786.1	頸			196		g	eng	2	2	geng2	J52				
 11787.1	頻			196		p	an	4	4	pan4	C25				
 11788.1	頲			196		t	ing	5	5	ting5	G54				
-11789.1	頹			196		t	eoi	4	4	teoi4	G77				
+11789.1	頹		頽	196		t	eoi	4	4	teoi4	G77				
 11790.1	𩓿			196		j	im	4	4	jim4	S48			同髯	
 11791.1	頯			196		kw	ai	4	4	kwai4	M12				
 11792.1	頷			196		h	am	5	5	ham5	O45				
 11793.1	䫉			196		m	aau	6	6	maau6	D11				
-11794.1	頴			196		w	ing	6	6	wing6	T38			同穎	
+11794.1	頴		穎	196		w	ing	6	6	wing6	T38			同穎	
 11795.1	頵			196		w	an	1	1	wan1	T26				
 11796.1	頮			196		f	ui	3	3	fui3	E46				
 11797.1	䫏			196		h	ei	1	1	hei1	O60			魌(本)	
@@ -13951,7 +13951,7 @@
 11808.1	顋			196		s	oi	1	1	soi1	R103			同腮	
 11809.1	顎			196		ng	ok	6	9	ngok6	N80			同腭	
 11810.1	顓			196		z	yun	1	1	zyun1	P134				
-11811.1	顏			196		ng	aan	4	4	ngaan4	N20				
+11811.1	顏		顔	196		ng	aan	4	4	ngaan4	N20				
 11812.1	額			196		ng	aak	6	9	ngaak6	N29				
 11813.1	顐			196		w	an	6	6	wan6	T31			同諢	
 11814.1	願			196		j	yun	6	6	jyun6	A59				
@@ -13991,9 +13991,9 @@
 11846.1	颲			197		l	it	6	9	lit6	I66				
 11847.1	颳			197		gw	aat	3	8	gwaat3	K10				
 11848.1	䬅			197		l	ai	6	6	lai6	I27				
-11849.1	𩗗			197		g	eoi	6	6	geoi6	J101			同颶	
+11849.1	𩗗		颶	197		g	eoi	6	6	geoi6	J101			同颶	
 11850.1	𩗴			197		b	ung	6	6	bung6	B83				
-11851.1	颶			197		g	eoi	6	6	geoi6	J101				
+11851.1	颶		𩗗	197		g	eoi	6	6	geoi6	J101				
 11852.1	颺			197		j	oeng	4	4	joeng4	S73				
 11853.1	颸			197		s	i	1	1	si1	R63				
 11854.1	䬔			197		j	yu	4	4	jyu4	A51				
@@ -14010,7 +14010,7 @@
 11864.1	飂			197		l	au	4	4	lau4	I29		高風貌		
 11864.2	飂			197		l	iu	4	4	liu4	I55		飂戾		
 11865.1	飇			197		b	iu	1	1	biu1	B44			同飆	
-11866.1	飆			197		b	iu	1	1	biu1	B44				
+11866.1	飆		飈	197		b	iu	1	1	biu1	B44				
 11867.1	飉			197		l	iu	4	4	liu4	I55				
 11868.1	䬟			197		l	au	4	4	lau4	I29				
 11869.1	飌			197		f	ung	1	1	fung1	E50		飌雨	古風字	
@@ -14037,8 +14037,8 @@
 11886.1	飫			198		j	yu	3	3	jyu3	A50				
 11887.1	飭			198		c	ik	1	7	cik1	Q82				
 11888.1	飯			198		f	aan	6	6	faan6	E9				
-11889.1	飲			198		j	am	2	2	jam2	S14		喝		
-11889.2	飲			198		j	am	3	3	jam3	S15		使飲		
+11889.1	飲		飮	198		j	am	2	2	jam2	S14		喝		
+11889.2	飲		飮	198		j	am	3	3	jam3	S15		使飲		
 11890.1	飰			198		f	aan	6	6	faan6	E9				
 11891.1	䬴			198		m	ut	3	8	mut3	D87			同秣	
 11892.1	飺			198		c	i	1	1	ci1	Q59				
@@ -14074,8 +14074,8 @@
 11919.1	餒			198		n	oi	5	5	noi5	H62				
 11919.2	餒			198		n	eoi	5	5	neoi5	H69	A			
 11920.1	餕			198		z	eon	3	3	zeon3	P120				
-11921.1	餅			198		b	ing	2	2	bing2	B54				
-11921.2	餅			198		b	eng	2	2	beng2	B40	V			
+11921.1	餅		餠	198		b	ing	2	2	bing2	B54				
+11921.2	餅		餠	198		b	eng	2	2	beng2	B40	V			
 11922.1	餞			198		z	in	3	3	zin3	P78				
 11923.1	餦			198		z	oeng	1	1	zoeng1	P108				
 11924.1	餜			198		gw	o	2	2	gwo2	K27				
@@ -14092,7 +14092,7 @@
 11931.1	餡			199		h	aam	6	6	haam6	O19				
 11932.1	餤			199		d	aam	6	6	daam6	F10		餅		
 11932.2	餤			199		t	aam	4	4	taam4	G7		進食		
-11933.1	館			199		g	un	2	2	gun2	J107				
+11933.1	館		舘	199		g	un	2	2	gun2	J107				
 11934.1	餟			199		z	yut	3	8	zyut3	P138			同醊	
 11934.2	餟			199		z	eoi	3	3	zeoi3	P116	A		同醊	
 11935.1	餬			199		w	u	4	4	wu4	T56				
@@ -14171,8 +14171,8 @@
 12001.1	馯			200		h	on	4	4	hon4	O97		姓		
 12001.2	馯			200		h	on	6	6	hon6	O99			同駻	
 12002.1	馵			200		z	yu	3	3	zyu3	P132				
-12003.1	馱			200		t	o	4	4	to4	G63		用馬馱		
-12003.2	馱			200		d	o	6	6	do6	F84		馱子		
+12003.1	馱		駄	200		t	o	4	4	to4	G63		用馬馱		
+12003.2	馱		駄	200		d	o	6	6	do6	F84		馱子		
 12004.1	馲			200		t	ok	3	8	tok3	G72				
 12005.1	馴			200		s	eon	4	4	seon4	R125				
 12005.2	馴			200		c	eon	4	4	ceon4	Q114	A			
@@ -14209,7 +14209,7 @@
 12032.1	駬			200		j	i	5	5	ji5	S37				
 12033.1	𩣊			200		s	yut	3	8	syut3	R148				
 12034.1	駤			200		z	i	3	3	zi3	P66				
-12035.1	駡			200		m	aa	6	6	maa6	D4				
+12035.1	駡		罵	200		m	aa	6	6	maa6	D4				
 12036.1	駰			200		j	an	1	1	jan1	S19				
 12037.1	駪			200		s	an	1	1	san1	R38				
 12038.1	駱			200		l	ok	3	8	lok3	I89				
@@ -14219,7 +14219,7 @@
 12041.2	駭			200		h	oi	5	5	hoi5	O92	A			
 12042.1	駴			200		h	aai	5	5	haai5	O7				
 12043.1	駷			201		s	ung	2	2	sung2	R131				
-12044.1	駠		駵	201		l	au	4	4	lau4	I29				音序表字形作駵
+12044.1	駵		駠	201		l	au	4	4	lau4	I29				
 12045.1	駹			201		m	ong	4	4	mong4	D75				
 12046.1	駻			201		h	on	6	6	hon6	O99				
 12047.1	騁			201		c	ing	2	2	cing2	Q79				
@@ -14233,8 +14233,8 @@
 12054.1	騃			201		ng	oi	4	4	ngoi4	N70		呆板	同呆	
 12054.2	騃			201		d	aai	1	1	daai1	F3		笨；癡	同呆	
 12055.1	駿			201		z	eon	3	3	zeon3	P120				
-12056.1	駢			201		p	in	4	4	pin4	C43				
-12056.2	駢			201		p	ing	4	4	ping4	C48	A			
+12056.1	駢		騈	201		p	in	4	4	pin4	C43				
+12056.2	駢		騈	201		p	ing	4	4	ping4	C48	A			
 12057.1	騏			201		k	ei	4	4	kei4	L25				
 12058.1	騎			201		k	ei	4	4	kei4	L25		跨坐		
 12058.2	騎			201		k	e	4	4	ke4	L27	V	跨坐		
@@ -14272,7 +14272,7 @@
 12087.1	騶			201		z	au	1	1	zau1	P32				
 12088.1	騫			201		h	in	1	1	hin1	O71				
 12089.1	騸			201		s	in	3	3	sin3	R81				
-12090.1	騭			201		z	at	1	7	zat1	P49				
+12090.1	騭		隲|𨽥	201		z	at	1	7	zat1	P49				
 12091.1	騷			201		s	ou	1	1	sou1	R96				
 12092.1	驁			201		ng	ou	4	4	ngou4	N61				
 12093.1	騺			201		z	i	3	3	zi3	P66				
@@ -14312,7 +14312,7 @@
 12125.1	驫			202		b	iu	1	1	biu1	B44				
 12126.1	骨			202		gw	at	1	7	gwat1	K21				
 12127.1	骭			202		g	on	3	3	gon3	J87				
-12128.1	骫			202		w	ai	2	2	wai2	T21				
+12128.1	骫		骩	202		w	ai	2	2	wai2	T21				
 12129.1	骱			202		g	aai	3	3	gaai3	J7				
 12130.1	骰			202		t	au	4	4	tau4	G23				
 12130.2	骰			202		s	ik	1	7	sik1	R93	A			
@@ -14349,14 +14349,14 @@
 12159.1	髑			202		d	uk	6	9	duk6	F104				
 12160.1	髕			202		b	an	3	3	ban3	B29				
 12161.1	髖			202		f	un	1	1	fun1	E47				
-12162.1	高			203		g	ou	1	1	gou1	J76				
-12163.1	髙			203		g	ou	1	1	gou1	J76			同高	
+12162.1	高		髙	203		g	ou	1	1	gou1	J76				
+12163.1	髙		高	203		g	ou	1	1	gou1	J76			同高	
 12164.1	䯧			203		k	ing	2	2	king2	L37			同廎	
 12165.1	髟			203		b	iu	1	1	biu1	B44				
 12166.1	髠			203		kw	an	1	1	kwan1	M14			同髡	
 12167.1	髡			203		kw	an	1	1	kwan1	M14				
 12168.1	髢			203		t	ai	3	3	tai3	G17				
-12169.1	髤			203		j	au	1	1	jau1	S7				
+12169.1	髤		髹	203		j	au	1	1	jau1	S7				
 12170.1	髩			203		b	an	3	3	ban3	B29			同鬢	
 12171.1	䯱			203		p	ei	1	1	pei1	C29				
 12172.1	髥			203		j	im	4	4	jim4	S48			同髯	
@@ -14368,17 +14368,17 @@
 12177.1	髧			203		d	aam	6	6	daam6	F10		頭髮下垂		
 12177.2	髧			203		d	am	3	3	dam3	F29	D	垂下貌		
 12178.1	髬			203		p	ei	1	1	pei1	C29				
-12179.1	髮			203		f	aat	3	8	faat3	E10				
+12179.1	髮		髪	203		f	aat	3	8	faat3	E10				
 12180.1	髭			203		z	i	1	1	zi1	P64				
 12181.1	髯			203		j	im	4	4	jim4	S48				
 12182.1	髴			203		f	at	1	7	fat1	E23				
 12183.1	髫			203		t	iu	4	4	tiu4	G37				
 12184.1	髲			203		b	ei	6	6	bei6	B38				
 12185.1	髳			203		m	aau	4	4	maau4	D9				
-12186.1	髻			203		g	ai	3	3	gai3	J25				
+12186.1	髻		䯻	203		g	ai	3	3	gai3	J25				
 12187.1	髵			203		j	i	4	4	ji4	S36				
 12188.1	髺			203		k	ut	3	8	kut3	L58				
-12189.1	髹			203		j	au	1	1	jau1	S7			髤(本)	
+12189.1	髹		髤	203		j	au	1	1	jau1	S7			髤(本)	
 12190.1	髾			203		s	aau	1	1	saau1	R8				
 12191.1	鬁			203		l	ei	1	1	lei1	I41				
 12192.1	髽			203		z	aa	1	1	zaa1	P1				
@@ -14419,18 +14419,18 @@
 12225.1	鬥			204		d	au	3	3	dau3	F25				
 12226.1	鬦			204		d	au	3	3	dau3	F25			同鬥	
 12227.1	鬧			204		n	aau	6	6	naau6	H10				
-12228.1	鬨			204		h	ung	6	6	hung6	O120				
-12229.1	鬩			204		j	ik	1	7	jik1	S67				
+12228.1	鬨		閧	204		h	ung	6	6	hung6	O120				
+12229.1	鬩		䦧	204		j	ik	1	7	jik1	S67				
 12230.1	𩰓			204		h	ung	6	6	hung6	O120			同鬨	
-12231.1	鬪			204		d	au	3	3	dau3	F25			同鬥	
+12231.1	鬪		闘	204		d	au	3	3	dau3	F25			同鬥	
 12232.1	鬫			204		h	aam	2	2	haam2	O15				
 12233.1	𩰙			204		h	ap	6	9	hap6	O56				
 12233.2	𩰙			204		k	ap	1	7	kap1	L20		通鈒		
 12233.3	𩰙			204		t	aap	3	8	taap3	G13			通闒	
-12234.1	鬬			204		d	au	3	3	dau3	F25				
+12234.1	鬬		鬭	204		d	au	3	3	dau3	F25				
 12235.1	鬮			204		g	au	1	1	gau1	J27				
 12236.1	鬯			204		c	oeng	3	3	coeng3	Q105				
-12237.1	鬱			204		w	at	1	7	wat1	T33				
+12237.1	鬱		鬰	204		w	at	1	7	wat1	T33				
 12238.1	鬲			204		l	ik	6	9	lik6	I72		古炊器		
 12238.2	鬲			204		g	aak	3	8	gaak3	J22		鬲津		
 12239.1	鬴			204		f	u	2	2	fu2	E39			同釜	
@@ -14517,7 +14517,7 @@
 12312.1	鮭			205		gw	ai	1	1	gwai1	K12				
 12313.1	鮚			205		g	it	3	8	git3	J68				
 12314.1	鮳			205		k	aau	3	3	kaau3	L4				
-12315.1	䱎			205		g	ang	2	2	gang2	J40				
+12315.1	䱎		䱍	205		g	ang	2	2	gang2	J40				
 12316.1	鮪			205		f	ui	2	2	fui2	E45				
 12317.1	鮞			205		j	i	4	4	ji4	S36				
 12318.1	鮬			205		f	u	1	1	fu1	E38				
@@ -14617,11 +14617,11 @@
 12399.1	𩹲			207		p	ou	1	1	pou1	C50			同鯆	
 12400.1	䱷			207		j	yu	4	4	jyu4	A51				
 12401.1	鰬			207		k	in	4	4	kin4	L34				
-12402.1	鰮			207		w	an	1	1	wan1	T26				
+12402.1	鰮		鰛	207		w	an	1	1	wan1	T26				
 12403.1	鰣			207		s	i	4	4	si4	R66				
 12404.1	鰨			207		t	aap	3	8	taap3	G13				
 12405.1	䱻			207		w	aat	6	9	waat6	T17				
-12406.1	鰥			207		gw	aan	1	1	gwaan1	K7				
+12406.1	鰥		𩻴	207		gw	aan	1	1	gwaan1	K7				
 12407.1	鰤			207		s	i	1	1	si1	R63				
 12408.1	鰧			207		t	ang	4	4	tang4	G31				
 12409.1	鰩			207		j	iu	4	4	jiu4	S42				
@@ -14710,7 +14710,7 @@
 12484.1	䲨			208		h	ung	4	4	hung4	O119			同鴻	
 12485.1	鳶			208		j	yun	1	1	jyun1	A54				
 12486.1	鳴			208		m	ing	4	4	ming4	D63				
-12487.1	鳳			208		f	ung	6	6	fung6	E54				
+12487.1	鳳		鳯	208		f	ung	6	6	fung6	E54				
 12488.1	鳲			208		s	i	1	1	si1	R63				
 12489.1	鳿			208		j	uk	6	9	juk6	S89				
 12490.1	鳺			208		f	u	1	1	fu1	E38				
@@ -14776,8 +14776,8 @@
 12543.1	鵑			209		g	yun	1	1	gyun1	J115				
 12544.1	鵠			209		h	uk	6	9	huk6	O122		天鵝		
 12544.2	鵠			209		g	uk	1	7	guk1	J113		鵠的		
-12545.1	鵞			209		ng	o	4	4	ngo4	N64			同鵝	
-12546.1	鵝			209		ng	o	4	4	ngo4	N64				
+12545.1	鵞		鵝	209		ng	o	4	4	ngo4	N64			同鵝	
+12546.1	鵝		鵞	209		ng	o	4	4	ngo4	N64				
 12547.1	鵚			209		t	uk	1	7	tuk1	G86				
 12548.1	鵖			209		g	ip	3	8	gip3	J67				
 12549.1	鵌			209		t	ou	4	4	tou4	G59				
@@ -14791,7 +14791,7 @@
 12556.2	鵶			209		ng	aa	1	1	ngaa1	N1	A		同鴉	
 12557.1	鵲			209		z	oek	3	8	zoek3	P112				
 12557.2	鵲			209		c	oek	3	8	coek3	Q107	A			
-12558.1	鶇			209		d	ung	1	1	dung1	F99				
+12558.1	鶇		鶫	209		d	ung	1	1	dung1	F99				
 12559.1	鵪			209			am	1	1	am1	A22				
 12559.2	鵪			209		ng	am	1	1	ngam1	N42	A			
 12560.1	鶆			209		l	oi	4	4	loi4	I82				
@@ -14839,13 +14839,13 @@
 12599.1	鶰			209		j	yun	4	4	jyun4	A57				
 12600.1	鷉			209		t	ai	1	1	tai1	G15				
 12601.1	鷂			209		j	iu	6	6	jiu6	S44				
-12602.1	鷄			209		g	ai	1	1	gai1	J23				
+12602.1	鷄		雞	209		g	ai	1	1	gai1	J23				
 12603.1	鶺			209		z	ik	3	8	zik3	P89				
 12604.1	鶬			209		c	ong	1	1	cong1	Q98		鶬鶊		
 12604.2	鶬			209		c	oeng	1	1	coeng1	Q103		金飾貌		
 12605.1	鶲			210		j	ung	1	1	jung1	S83				
 12606.1	鶹			210		l	au	4	4	lau4	I29				
-12607.1	鶵			210		c	o	4	4	co4	Q92			同雛	
+12607.1	鶵		雛	210		c	o	4	4	co4	Q92			同雛	
 12608.1	鷁			210		j	ik	6	9	jik6	S68				
 12609.1	鶼			210		g	im	1	1	gim1	J58				
 12610.1	鶯			210			ang	1	1	ang1	A25				
@@ -14885,8 +14885,8 @@
 12638.1	𪆃			210		t	yun	4	4	tyun4	G87			同鷻	
 12639.1	鷻			210		t	yun	4	4	tyun4	G87				
 12640.1	𪆫			210		k	eoi	4	4	keoi4	L53				
-12641.1	鷴			210		h	aan	4	4	haan4	O22				
-12642.1	鷳			210		h	aan	4	4	haan4	O22				
+12641.1	鷴		鷳|鷼	210		h	aan	4	4	haan4	O22				
+12642.1	鷳		鷴|鷼	210		h	aan	4	4	haan4	O22				
 12643.1	鷸			210		w	at	6	9	wat6	T34				
 12644.1	鷥			210		s	i	1	1	si1	R63				
 12645.1	鸉			210		j	oeng	4	4	joeng4	S73				
@@ -14963,25 +14963,25 @@
 12708.2	麥			211		m	aak	6	9	maak6	D22	A			
 12709.1	麧			211		h	at	6	9	hat6	O58				
 12710.1	麩			211		f	u	1	1	fu1	E38				
-12711.1	麪			211		m	in	6	6	min6	D60			同麵	
-12712.1	麯			212		k	uk	1	7	kuk1	L60				
-12712.2	麯			212		g	uk	1	7	guk1	J113	R			
+12711.1	麪		麫|麵|麺	211		m	in	6	6	min6	D60			同麵	
+12712.1	麯		麴|麹	212		k	uk	1	7	kuk1	L60				
+12712.2	麯		麴|麹	212		g	uk	1	7	guk1	J113	R			
 12713.1	麰			212		m	au	4	4	mau4	D28				
 12714.1	䴸			212		f	u	1	1	fu1	E38			同麩	
 12715.1	䴹			212		gw	o	2	2	gwo2	K27				
-12716.1	麴			212		k	uk	1	7	kuk1	L60			同麯	
-12716.2	麴			212		g	uk	1	7	guk1	J113	R		同麯	
-12717.1	麵			212		m	in	6	6	min6	D60				
+12716.1	麴		麯|麹	212		k	uk	1	7	kuk1	L60			同麯	
+12716.2	麴		麯|麹	212		g	uk	1	7	guk1	J113	R		同麯	
+12717.1	麵		麪|麫|麺	212		m	in	6	6	min6	D60				
 12718.1	麻			212		m	aa	4	4	maa4	D2				
-12719.1	麽			212		m	o	1	1	mo1	D71				
-12720.1	麼			212		m	o	1	1	mo1	D71			同麽	
+12719.1	麽		麼	212		m	o	1	1	mo1	D71				
+12720.1	麼		麽	212		m	o	1	1	mo1	D71			同麽	
 12721.1	蔴			212		m	aa	4	4	maa4	D2				
 12722.1	麾			212		f	ai	1	1	fai1	E11				
 12723.1	黀			212		z	au	1	1	zau1	P32				
 12724.1	黁			212		n	yun	5	5	nyun5	H75				
 12725.1	爢			212		m	ei	4	4	mei4	D45				
 12726.1	黂			212		f	an	4	4	fan4	E20				
-12727.1	黃			212		w	ong	4	4	wong4	T48				
+12727.1	黃		黄	212		w	ong	4	4	wong4	T48				
 12728.1	黅			212		g	am	1	1	gam1	J31				
 12729.1	黈			212		t	au	2	2	tau2	G21				
 12730.1	黋			212		k	ong	3	3	kong3	L43				
@@ -14995,7 +14995,7 @@
 12737.1	黏			212		n	im	4	4	nim4	H43				
 12738.1	䵚			212		t	ou	2	2	tou2	G57				
 12739.1	黐			212		c	i	1	1	ci1	Q59				
-12740.1	黑			212		h	ak	1	7	hak1	O59				
+12740.1	黑		黒	212		h	ak	1	7	hak1	O59				
 12741.1	黓			212		j	ik	6	9	jik6	S68				
 12742.1	默			212		m	ak	6	9	mak6	D43				
 12743.1	黔			212		k	im	4	4	kim4	L32				
@@ -15030,7 +15030,7 @@
 12764.2	黯			213		ng	am	2	2	ngam2	N43	A			
 12765.1	黰			213		z	an	2	2	zan2	P41				
 12766.1	黴			213		m	ei	4	4	mei4	D45				
-12767.1	黲			213		c	aam	2	2	caam2	Q13				
+12767.1	黲		黪	213		c	aam	2	2	caam2	Q13				
 12768.1	䵴			213		w	an	6	6	wan6	T31				
 12769.1	䵲			213		c	iu	1	1	ciu1	Q64				
 12770.1	黵			213		z	aam	2	2	zaam2	P13				
@@ -15084,10 +15084,10 @@
 12818.1	鼯			214			ng	4	4	ng4	N86				
 12819.1	鼱			214		z	ing	1	1	zing1	P84				
 12820.1	䶆			214		z	eoi	1	1	zeoi1	P114				
-12821.1	鼴			214		j	in	2	2	jin2	S52			同鼹	
+12821.1	鼴		鼹	214		j	in	2	2	jin2	S52			同鼹	
 12822.1	鼵			214		d	at	6	9	dat6	F42				
 12823.1	鼲			214		w	an	4	4	wan4	T29				
-12824.1	鼹			214		j	in	2	2	jin2	S52				
+12824.1	鼹		鼴	214		j	in	2	2	jin2	S52				
 12825.1	鼶			214		s	i	1	1	si1	R63				
 12826.1	鼷			214		h	ai	4	4	hai4	O32				
 12827.1	鼻			214		b	ei	6	6	bei6	B38				
@@ -15159,17 +15159,17 @@
 12884.1	齼			216		c	o	2	2	co2	Q90				
 12885.1	齾			216		ng	aa	3	3	ngaa3	N3				
 12886.1	龍			216		l	ung	4	4	lung4	I108				
-12887.1	龎			216		p	ong	4	4	pong4	C61			同龐	
-12888.1	龐			216		p	ong	4	4	pong4	C61				
+12887.1	龎		龐	216		p	ong	4	4	pong4	C61			同龐	
+12888.1	龐		龎	216		p	ong	4	4	pong4	C61				
 12889.1	龑			216		j	im	2	2	jim2	S46				
 12890.1	龔			216		g	ung	1	1	gung1	J109				
 12891.1	龕			216		h	am	1	1	ham1	O41				
 12892.1	龜			216		gw	ai	1	1	gwai1	K12		烏龜		
 12892.2	龜			216		g	au	1	1	gau1	J27		龜茲		
 12892.3	龜			216		gw	an	1	1	gwan1	K16		龜裂		
-12893.1	龜			216		gw	ai	1	1	gwai1	K12		烏龜	同龜	
-12893.2	龜			216		g	au	1	1	gau1	J27		龜茲	同龜	
-12893.3	龜			216		gw	an	1	1	gwan1	K16		龜裂	同龜	
+12893.1	龜		龜	216		gw	ai	1	1	gwai1	K12		烏龜	同龜	
+12893.2	龜		龜	216		g	au	1	1	gau1	J27		龜茲	同龜	
+12893.3	龜		龜	216		gw	an	1	1	gwan1	K16		龜裂	同龜	
 12894.1	龠			216		j	oek	6	9	joek6	S77				
 12895.1	龡			216		c	eoi	1	1	ceoi1	Q108			古吹字	
 12896.1	龢			216		w	o	4	4	wo4	T43		同和		
@@ -15199,23 +15199,23 @@
 12920.1	罍				258	l	eoi	4	4	leoi4	I99				
 12921.1	茧				259	g	aan	2	2	gaan2	J15				
 12922.1	碱				259	g	aan	2	2	gaan2	J15				
-12923.1	耈				260	g	au	2	2	gau2	J28				
-12924.1	敿				261	g	iu	2	2	giu2	J55				
+12923.1	耈		耇|耉		260	g	au	2	2	gau2	J28				
+12924.1	敿		敽		261	g	iu	2	2	giu2	J55				
 12925.1	冏				264	gw	ing	2	2	gwing2	K24				
 12926.1	𢡱				265	k	ok	3	8	kok3	L46				
 12927.1	㵐				266	k	yut	3	8	kyut3	L62				
 12928.1	䳘				268	ng	o	4	4	ngo4	N64				
 12929.1	匸				270	h	ai	5	5	hai5	O33				
-12930.1	曍				271	h	ou	6	6	hou6	O84				
-12931.1	争				274	z	ang	1	1	zang1	P44				
+12930.1	曍		皞|皡|皥		271	h	ou	6	6	hou6	O84				
+12931.1	争		爭		274	z	ang	1	1	zang1	P44				
 12932.1	毡				275	z	in	1	1	zin1	P76				
 12933.1	像				277	z	oeng	6	6	zoeng6	P111				
-12934.1	敘				277	z	eoi	6	6	zeoi6	P117				
+12934.1	敘		叙|敍		277	z	eoi	6	6	zeoi6	P117				
 12935.1	廵				282	c	eon	4	4	ceon4	Q114				
 12936.1	⿰糸㝉	C			282	c	yu	5	5	cyu5	Q125				
-12937.1	羨				285	s	in	6	6	sin6	R84				
-12937.2	羨				290	j	in	4	4	jin4	S54				
-12938.1	廾				287	j	aa	6	6	jaa6	S3				
+12937.1	羨		羡		285	s	in	6	6	sin6	R84				
+12937.2	羨		羡		290	j	in	4	4	jin4	S54				
+12938.1	廾		廾		287	j	aa	6	6	jaa6	S3				
 12939.1	攸				288	j	au	4	4	jau4	S10				
 12940.1	禸				288	j	au	5	5	jau5	S11				
 12941.1	帵				293	w	un	2	2	wun2	T63				
