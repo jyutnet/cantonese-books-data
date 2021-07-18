@@ -1785,7 +1785,7 @@
 1783	10	8	n	ao	下平	n	aau	4	4	naau4	錨			
 1784	10	9	n	ao	下平	n	aau	4	4	naau4	猱			
 1785	10	10	n	ao	下平	n	aau	4	4	naau4	獿			
-1786	10	11	n	ao	下平	n	aau	4	4	naau4	峱			原字形部首似作彳
+1786	10	11	n	ao	下平	n	aau	4	4	naau4	峱			原字形部首似作彳，今從部首檢字表
 1787	10	1	ng	ao	下平	ng	aau	4	4	ngaau4	爻			
 1788	10	2	ng	ao	下平	ng	aau	4	4	ngaau4	筊		竹纜	
 1789	10	3	ng	ao	下平	ng	aau	4	4	ngaau4	肴			
@@ -2486,7 +2486,7 @@
 2484	14	12	b	ou	上上	b	ou	2	2	bou2	圃			
 2485	14	1	p	ou	上上	p	ou	2	2	pou2	普			
 2486	14	2	p	ou	上上	p	ou	2	2	pou2	鐠			
-2487	14	3	p	ou	上上	p	ou	2	2	pou2	譜			本作⿰飠普
+2487	14	3	p	ou	上上	p	ou	2	2	pou2	譜			本作⿰飠普，今從部首檢字表及 1955 年版
 2488	14	4	p	ou	上上	p	ou	2	2	pou2	䲕			
 2489	14	5	p	ou	上上	p	ou	2	2	pou2	浦			
 2490	14	6	p	ou	上上	p	ou	2	2	pou2	溥			
@@ -4447,7 +4447,7 @@
 4445	25	5	l	oey	下上	l	eoi	5	5	leoi5	鋁			
 4446	25	6	l	oey	下上	l	eoi	5	5	leoi5	旅			
 4447	25	7	l	oey	下上	l	eoi	5	5	leoi5	膂			
-4448	25	8	l	oey	下上	l	eoi	5	5	leoi5	𭄸			本作⿱旅刀
+4448	25	8	l	oey	下上	l	eoi	5	5	leoi5	𭄸			本作⿱旅刀，今從部首檢字表
 4449	25	9	l	oey	下上	l	eoi	5	5	leoi5	裏		俗音	
 4450	25	10	l	oey	下上	l	eoi	5	5	leoi5	婁			
 4451	25	11	l	oey	下上	l	eoi	5	5	leoi5	屢			
@@ -10330,7 +10330,7 @@
 10328	67	1	y	ing	下入	j	ik	6	9	jik6	埸		疆～	
 10329	67	2	y	ing	下入	j	ik	6	9	jik6	睪			
 10330	67	3	y	ing	下入	j	ik	6	9	jik6	圛			
-10331	67	4	y	ing	下入	j	ik	6	9	jik6	懌			本作⿰巾睪
+10331	67	4	y	ing	下入	j	ik	6	9	jik6	懌			本作⿰巾睪，今從部首檢字表及 1955 年版
 10332	67	5	y	ing	下入	j	ik	6	9	jik6	嶧			
 10333	67	6	y	ing	下入	j	ik	6	9	jik6	斁		厭也	
 10334	67	7	y	ing	下入	j	ik	6	9	jik6	繹			
@@ -10415,7 +10415,7 @@
 10413	68	2	b	ong	上平	b	ong	1	1	bong1	梆			
 10414	68	3	b	ong	上平	b	ong	1	1	bong1	幫			
 10415	68	4	b	ong	上平	b	ong	1	1	bong1	幇			
-10416	68	5	b	ong	上平	b	ong	1	1	bong1	帮			原書作幫，與正體同。今據1955年版易作帮
+10416	68	5	b	ong	上平	b	ong	1	1	bong1	帮			原書作幫，與正體同。今據 1955 年版易作帮
 10417	68	6	b	ong	上平	b	ong	1	1	bong1	傍		～晚	
 10418	68	7	b	ong	上平	b	ong	1	1	bong1	彭		強盛	
 10419	68	8	b	ong	上平	b	ong	1	1	bong1	浜			
