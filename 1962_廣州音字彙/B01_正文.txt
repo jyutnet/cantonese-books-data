@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-07-18
+# 資料庫版本: 2021-08-01
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	(輔助檢索用異體)	字條註	校訂註
 1	1	1		a	上平		aa	1	1	aa1	鴉			
 2	1	2		a	上平		aa	1	1	aa1	雅			
@@ -101,7 +101,7 @@
 99	1	1	b	a	上去	b	aa	3	3	baa3	霸	覇		
 100	1	2	b	a	上去	b	aa	3	3	baa3	伯			
 101	1	3	b	a	上去	b	aa	3	3	baa3	壩			
-102	1	4	b	a	上去	b	aa	3	3	baa3	垻			本作埧
+102	1	4	b	a	上去	b	aa	3	3	baa3	垻			字形本作埧，今從 1955 年版
 103	1	5	b	a	上去	b	aa	3	3	baa3	灞			
 104	1	6	b	a	上去	b	aa	3	3	baa3	霸	覇		
 105	1	7	b	a	上去	b	aa	3	3	baa3	欛		刀柄	
@@ -1236,7 +1236,7 @@
 1234	7	13	t	oh	下平	t	o	4	4	to4	馱	駄		
 1235	7	14	t	oh	下平	t	o	4	4	to4	鼉			
 1236	7	15	t	oh	下平	t	o	4	4	to4	堶			
-1237	7	16	t	oh	下平	t	o	4	4	to4	駞			原書字體不清晰
+1237	7	16	t	oh	下平	t	o	4	4	to4	駞			
 1238	7	1	n	oh	下平	n	o	4	4	no4	那		多也，何也	
 1239	7	2	n	oh	下平	n	o	4	4	no4	挪			
 1240	7	3	n	oh	下平	n	o	4	4	no4	儺			
@@ -1332,8 +1332,8 @@
 1330	8	1	ts	oh	上上	z	o	2	2	zo2	左			
 1331	8	2	ts	oh	上上	z	o	2	2	zo2	俎			
 1332	8	3	ts	oh	上上	z	o	2	2	zo2	阻			
-1333	8	1	s	oh	上上	s	o	2	2	so2	鎖			
-1334	8	2	s	oh	上上	s	o	2	2	so2	瑣			
+1333	8	1	s	oh	上上	s	o	2	2	so2	鎖	鎻		
+1334	8	2	s	oh	上上	s	o	2	2	so2	瑣	𤨏		
 1335	8	3	s	oh	上上	s	o	2	2	so2	嗩			
 1336	8	4	s	oh	上上	s	o	2	2	so2	所			
 1337	8	5	s	oh	上上	s	o	2	2	so2	璅			
@@ -1905,7 +1905,7 @@
 1903	11	1	m	au	下上	m	au	5	5	mau5	某			
 1904	11	2	m	au	下上	m	au	5	5	mau5	牡			
 1905	11	3	m	au	下上	m	au	5	5	mau5	畝			
-1906	11	4	m	au	下上	m	au	5	5	mau5	畆			
+1906	11	4	m	au	下上	m	au	5	5	mau5	畆	𤱔		
 1907	11	5	m	au	下上	m	au	5	5	mau5	畮			
 1908	11	1	n	au	下上	n	au	5	5	nau5	獶			
 1909	11	1	l	au	下上	l	au	5	5	lau5	柳			
@@ -4326,7 +4326,7 @@
 4324	25	3	k	oey	上平	k	eoi	1	1	keoi1	軀			
 4325	25	4	k	oey	上平	k	eoi	1	1	keoi1	驅			
 4326	25	5	k	oey	上平	k	eoi	1	1	keoi1	敺			
-4327	25	6	k	oey	上平	k	eoi	1	1	keoi1	駈			原書字體不清晰
+4327	25	6	k	oey	上平	k	eoi	1	1	keoi1	駈			
 4328	25	7	k	oey	上平	k	eoi	1	1	keoi1	佉			
 4329	25	8	k	oey	上平	k	eoi	1	1	keoi1	胠			
 4330	25	9	k	oey	上平	k	eoi	1	1	keoi1	祛			
@@ -4447,7 +4447,7 @@
 4445	25	5	l	oey	下上	l	eoi	5	5	leoi5	鋁			
 4446	25	6	l	oey	下上	l	eoi	5	5	leoi5	旅			
 4447	25	7	l	oey	下上	l	eoi	5	5	leoi5	膂			
-4448	25	8	l	oey	下上	l	eoi	5	5	leoi5	𭄸			本作⿱旅刀，今從部首檢字表
+4448	25	8	l	oey	下上	l	eoi	5	5	leoi5	𭄸			字形本作⿱旅刀，今從部首檢字表
 4449	25	9	l	oey	下上	l	eoi	5	5	leoi5	裏		俗音	
 4450	25	10	l	oey	下上	l	eoi	5	5	leoi5	婁			
 4451	25	11	l	oey	下上	l	eoi	5	5	leoi5	屢			
@@ -4536,7 +4536,7 @@
 4534	26	1	ch'	oey	上平	c	eoi	1	1	ceoi1	吹			
 4535	26	2	ch'	oey	上平	c	eoi	1	1	ceoi1	炊			
 4536	26	3	ch'	oey	上平	c	eoi	1	1	ceoi1	衰			
-4537	26	1	ts	oey	上平	z	eoi	1	1	zeoi1	雎			本作睢
+4537	26	1	ts	oey	上平	z	eoi	1	1	zeoi1	雎			字形本作睢，今從 1955 年版
 4538	26	2	ts	oey	上平	z	eoi	1	1	zeoi1	沮		水名	
 4539	26	3	ts	oey	上平	z	eoi	1	1	zeoi1	菹			
 4540	26	4	ts	oey	上平	z	eoi	1	1	zeoi1	疽			
@@ -5361,7 +5361,7 @@
 5359	31	4	sh	iu	下平	s	iu	4	4	siu4	髫			
 5360	31	5	sh	iu	下平	s	iu	4	4	siu4	齠			
 5361	31	6	sh	iu	下平	s	iu	4	4	siu4	韶			
-5362	31	7	sh	iu	下平	s	iu	4	4	siu4	岧			字本作岩
+5362	31	7	sh	iu	下平	s	iu	4	4	siu4	岧			字形本作「岩」，今從部首檢字表
 5363	32	1	s	iu	上平	s	iu	1	1	siu1	消			
 5364	32	2	s	iu	上平	s	iu	1	1	siu1	宵			
 5365	32	3	s	iu	上平	s	iu	1	1	siu1	梢			
@@ -5523,7 +5523,7 @@
 5521	33	1	n	am	下上	n	aam	5	5	naam5	腩			
 5522	33	1	l	am	下上	l	aam	5	5	laam5	覽	覧		
 5523	33	2	l	am	下上	l	aam	5	5	laam5	攬	𭣄		
-5524	33	3	l	am	下上	l	aam	5	5	laam5	欖			
+5524	33	3	l	am	下上	l	aam	5	5	laam5	欖	㰖		
 5525	33	4	l	am	下上	l	aam	5	5	laam5	杬			
 5526	33	5	l	am	下上	l	aam	5	5	laam5	擥			
 5527	33	6	l	am	下上	l	aam	5	5	laam5	罱			
@@ -8159,7 +8159,7 @@
 8157	51	6	m	oon	下平	m	un	4	4	mun4	蹣			
 8158	51	7	m	oon	下平	m	un	4	4	mun4	鞔			
 8159	51	8	m	oon	下平	m	un	4	4	mun4	亹		水峽	
-8160	51	9	m	oon	下平	m	un	4	4	mun4	穈			下方「禾」原字模作「木」
+8160	51	9	m	oon	下平	m	un	4	4	mun4	穈			原書字形下方「禾」本作「木」
 8161	51	10	m	oon	下平	m	un	4	4	mun4	漫		～～	
 8162	52	1	b	un	上平	b	an	1	1	ban1	賓			
 8163	52	2	b	un	上平	b	an	1	1	ban1	宾			
@@ -9593,7 +9593,7 @@
 9591	62	6	y	eung	下入	j	oek	6	9	joek6	藥			
 9592	62	7	y	eung	下入	j	oek	6	9	joek6	葯			
 9593	62	8	y	eung	下入	j	oek	6	9	joek6	礿			
-9594	62	9	y	eung	下入	j	oek	6	9	joek6	禴			本作𧟇，依部首檢字表改
+9594	62	9	y	eung	下入	j	oek	6	9	joek6	禴			字形本作𧟇，今從部首檢字表
 9595	62	1	y	eung	下去	j	oeng	6	6	joeng6	恙			
 9596	62	2	y	eung	下去	j	oeng	6	6	joeng6	㺊			
 9597	62	3	y	eung	下去	j	oeng	6	6	joeng6	仰			
@@ -10330,7 +10330,7 @@
 10328	67	1	y	ing	下入	j	ik	6	9	jik6	埸		疆～	
 10329	67	2	y	ing	下入	j	ik	6	9	jik6	睪			
 10330	67	3	y	ing	下入	j	ik	6	9	jik6	圛			
-10331	67	4	y	ing	下入	j	ik	6	9	jik6	懌			本作⿰巾睪，今從部首檢字表及 1955 年版
+10331	67	4	y	ing	下入	j	ik	6	9	jik6	懌			字形本作⿰巾睪，今從部首檢字表及 1955 年版
 10332	67	5	y	ing	下入	j	ik	6	9	jik6	嶧			
 10333	67	6	y	ing	下入	j	ik	6	9	jik6	斁		厭也	
 10334	67	7	y	ing	下入	j	ik	6	9	jik6	繹			
@@ -10415,7 +10415,7 @@
 10413	68	2	b	ong	上平	b	ong	1	1	bong1	梆			
 10414	68	3	b	ong	上平	b	ong	1	1	bong1	幫			
 10415	68	4	b	ong	上平	b	ong	1	1	bong1	幇			
-10416	68	5	b	ong	上平	b	ong	1	1	bong1	帮			原書作幫，與正體同。今據 1955 年版易作帮
+10416	68	5	b	ong	上平	b	ong	1	1	bong1	帮			字形本作幫，與正體同。今據 1955 年版易作帮
 10417	68	6	b	ong	上平	b	ong	1	1	bong1	傍		～晚	
 10418	68	7	b	ong	上平	b	ong	1	1	bong1	彭		強盛	
 10419	68	8	b	ong	上平	b	ong	1	1	bong1	浜			
@@ -10542,7 +10542,7 @@
 10540	69	7	d	ong	上平	d	ong	1	1	dong1	噹			
 10541	69	8	d	ong	上平	d	ong	1	1	dong1	檔			
 10542	69	1	t	ong	上平	t	ong	1	1	tong1	湯			
-10543	69	2	t	ong	上平	t	ong	1	1	tong1	鞺			本作⿰革當
+10543	69	2	t	ong	上平	t	ong	1	1	tong1	鞺			字形本作⿰革當，今從 1955 年版
 10544	69	3	t	ong	上平	t	ong	1	1	tong1	鼞			
 10545	69	4	t	ong	上平	t	ong	1	1	tong1	鏜			
 10546	69	1	g	ong	上平	g	ong	1	1	gong1	江			
