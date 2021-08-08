@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-08-01
+# 資料庫版本: 2021-08-08
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	(輔助檢索用異體)	字條註	校訂註
 1	1	1		a	上平		aa	1	1	aa1	鴉			
 2	1	2		a	上平		aa	1	1	aa1	雅			
@@ -3176,7 +3176,7 @@
 3174	18	5	h	ai	下上	h	aai	5	5	haai5	懈			
 3175	18	6	h	ai	下上	h	aai	5	5	haai5	澥			
 3176	18	7	h	ai	下上	h	aai	5	5	haai5	嶰			
-3177	18	1	sh	ai	下上	s	aai	5	5	saai5	舐			
+3177	18	1	sh	ai	下上	s	aai	5	5	saai5	舐	䑛		
 3178	18	2	sh	ai	下上	s	aai	5	5	saai5	舓			
 3179	18	1	ng	ai	下平	ng	aai	4	4	ngaai4	厓			
 3180	18	2	ng	ai	下平	ng	aai	4	4	ngaai4	捱			
@@ -4680,8 +4680,8 @@
 4678	26	24	s	oey	下去	s	eoi	6	6	seoi6	篲			
 4679	26	1	y	oey	下去	j	eoi	6	6	jeoi6	銳	鋭		
 4680	26	2	y	oey	下去	j	eoi	6	6	jeoi6	裔			
-4681	26	3	y	oey	下去	j	eoi	6	6	jeoi6	睿			
-4682	26	4	y	oey	下去	j	eoi	6	6	jeoi6	叡			
+4681	26	3	y	oey	下去	j	eoi	6	6	jeoi6	睿	𥈠		
+4682	26	4	y	oey	下去	j	eoi	6	6	jeoi6	叡	𠮉		
 4683	26	5	y	oey	下去	j	eoi	6	6	jeoi6	汭			
 4684	26	6	y	oey	下去	j	eoi	6	6	jeoi6	芮			
 4685	26	7	y	oey	下去	j	eoi	6	6	jeoi6	蜹			
@@ -11337,7 +11337,7 @@
 11335	74	14	ch	ung	上平	z	ung	1	1	zung1	潀			
 11336	74	15	ch	ung	上平	z	ung	1	1	zung1	夂			
 11337	74	16	ch	ung	上平	z	ung	1	1	zung1	衷			
-11338	74	17	ch	ung	上平	z	ung	1	1	zung1	⿰骨眾			
+11338	74	17	ch	ung	上平	z	ung	1	1	zung1	𩩺			
 11339	74	1	h	ung	上上	h	ung	2	2	hung2	孔			
 11340	74	2	h	ung	上上	h	ung	2	2	hung2	恐			
 11341	74	3	h	ung	上上	h	ung	2	2	hung2	倥		～傯	

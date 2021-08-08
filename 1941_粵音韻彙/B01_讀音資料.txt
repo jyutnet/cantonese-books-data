@@ -1,4 +1,4 @@
-# 資料庫版本: 2020-07-16
+# 資料庫版本: 2021-08-08
 編號	頁	粵拼讀音	字	(輔助檢索用異體)	原書字形結構	註解	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	聲母類	超平調標記
 1	1	aa1	丫					aa	1	1		
 2	1	aa1	呀					aa	1	1		
@@ -351,7 +351,7 @@
 349	3	haai6	瀣				h	aai	6	6		
 350	3	haai6	薤				h	aai	6	6		
 351	3	haai6	䪥				h	aai	6	6		
-352	3	haai6	叡				h	aai	6	6		
+352	3	haai6	叡	𠮉			h	aai	6	6		
 353	3	haai6	解			姓氏	h	aai	6	6		
 354	3	haai6	廨				h	aai	6	6		
 355	3	haai6	邂				h	aai	6	6		
@@ -406,7 +406,7 @@
 404	3	saai2	葸				s	aai	2	2	1	
 405	3	saai2	枲				s	aai	2	2	1	
 406	3	saai2	璽				s	aai	2	2	1	
-407	3	saai5	舐				s	aai	5	5	2	
+407	3	saai5	舐	䑛			s	aai	5	5	2	
 408	3	saai5	舓				s	aai	5	5	2	
 409	3	saai3	曬				s	aai	3	3	2	
 410	3	saai3	晒				s	aai	3	3	2	
@@ -662,7 +662,7 @@
 660	4	laam4	嵐				l	aam	4	4		
 661	4	laam5	攬	𭣄			l	aam	5	5		
 662	4	laam5	擥				l	aam	5	5		
-663	4	laam5	欖				l	aam	5	5		
+663	4	laam5	欖	㰖			l	aam	5	5		
 664	4	laam5	爦				l	aam	5	5		
 665	4	laam5	覽	覧			l	aam	5	5		
 666	4	laam6	濫				l	aam	6	6		
@@ -6494,9 +6494,9 @@
 6492	35	so1	鮻				s	o	1	1	1	
 6493	35	so1	嗦				s	o	1	1	1	
 6494	35	so2	所				s	o	2	2	1	
-6495	35	so2	鎖				s	o	2	2	1	
+6495	35	so2	鎖	鎻			s	o	2	2	1	
 6496	35	so2	鏁				s	o	2	2	1	
-6497	36	so2	瑣				s	o	2	2	1	
+6497	36	so2	瑣	𤨏			s	o	2	2	1	
 6498	36	so2	璅				s	o	2	2	1	
 6499	36	so2	嗩				s	o	2	2	1	
 6500	36	so1	梳				s	o	1	1	2	
@@ -7425,8 +7425,8 @@
 7423	41	jeoi5	蕋				j	eoi	5	5		
 7424	41	jeoi6	銳	鋭			j	eoi	6	6		
 7425	41	jeoi6	裔				j	eoi	6	6		
-7426	41	jeoi6	睿				j	eoi	6	6		
-7427	41	jeoi6	叡				j	eoi	6	6		
+7426	41	jeoi6	睿	𥈠			j	eoi	6	6		
+7427	41	jeoi6	叡	𠮉			j	eoi	6	6		
 7428	41	jeoi6	枘				j	eoi	6	6		
 7429	41	jeoi6	汭				j	eoi	6	6		
 7430	41	jeoi6	芮				j	eoi	6	6		
@@ -8853,7 +8853,7 @@
 8851	48	cung4	从				c	ung	4	4	1	
 8852	48	cung4	從				c	ung	4	4	1	
 8853	48	cung4	㞞				c	ung	4	4	1	
-8854	48	cung4	⿰骨衆				c	ung	4	4	1	
+8854	48	cung4	𩩺		⿰骨衆		c	ung	4	4	1	
 8855	48	cung4	悰				c	ung	4	4	1	
 8856	48	cung4	淙				c	ung	4	4	1	
 8857	48	cung4	琮				c	ung	4	4	1	
