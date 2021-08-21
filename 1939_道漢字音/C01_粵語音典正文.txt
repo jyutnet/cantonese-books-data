@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-08-07
+# 資料庫版本: 2021-08-21
 粵語音典字號	道字典字號	卷一補遺標記	頁	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	(輔助檢索用異體)	字形標記	字形描述	校訂註
 B01A01	D0101		1	z	i	1	1	i	zi1	之				
 B01A02	D0106		1	z	i	1	1	i	zi1	支				
@@ -25,9 +25,9 @@ B01A22			1	z	i	1	1	i	zi1	玆	兹|茲
 B01A23			1	z	i	1	1	i	zi1	恣				
 B01A24			1	z	i	1	1	i	zi1	瓻				
 B01A25			1	z	i	1	1	i	zi1	梔				
-B01A26			1	z	i	1	1	i	zi1	淄				
+B01A26			1	z	i	1	1	i	zi1	淄	湽			
 B01A27			1	z	i	1	1	i	zi1	胾				
-B01A28			1	z	i	1	1	i	zi1	淄				
+B01A28			1	z	i	1	1	i	zi1	湽	淄			
 B01A29			1	z	i	1	1	i	zi1	𨀥				
 B01A30			1	z	i	1	1	i	zi1	粢				
 B01A31			1	z	i	1	1	i	zi1	椔				
@@ -37,7 +37,7 @@ B01A34			1	z	i	1	1	i	zi1	貲
 B01A35			1	z	i	1	1	i	zi1	菑	葘			
 B01A36			1	z	i	1	1	i	zi1	搘				
 B01A37			1	z	i	1	1	i	zi1	鄑				
-B01A38			1	z	i	1	1	i	zi1	孳	孶			
+B01A38			1	z	i	1	1	i	zi1	孶	孳			
 B01A39			1	z	i	1	1	i	zi1	趑				
 B01A40			1	z	i	1	1	i	zi1	嵫				
 B01A41	D0105		1	z	i	1	1	i	zi1	資				
@@ -304,12 +304,12 @@ B02A10			2	s	i	1	1	i	si1	邿
 B02A11			2	s	i	1	1	i	si1	俬				
 B02A12			2	s	i	1	1	i	si1	虒				
 B02A13	D0224		2	s	i	1	1	i	si1	師				
-B02A14	D0228		2	s	i	1	1	i	si1	絲				
+B02A14			2	s	i	1	1	i	si1	𢇁				
 B02A15			2	s	i	1	1	i	si1	荼				
 B02A16			2	s	i	1	1	i	si1	偲				
 B02A17			2	s	i	1	1	i	si1	笥				
 B02A18			2	s	i	1	1	i	si1	絁				
-B02A19			2	s	i	1	1	i	si1	絲				
+B02A19	D0228		2	s	i	1	1	i	si1	絲				
 B02A20	D0233		2	s	i	1	1	i	si1	斯				
 B02A21			2	s	i	1	1	i	si1	葹				
 B02A22	D0231		2	s	i	1	1	i	si1	獅				
@@ -320,7 +320,7 @@ B02A26			2	s	i	1	1	i	si1	蓍
 B02A27			2	s	i	1	1	i	si1	厮				
 B02A28			2	s	i	1	1	i	si1	鳲				
 B02A29			2	s	i	1	1	i	si1	罳				
-B02A30			2	s	i	1	1	i	si1	褫				
+B02A30			2	s	i	1	1	i	si1	禠				
 B02A31			2	s	i	1	1	i	si1	蜤				
 B02A32			2	s	i	1	1	i	si1	㒋				
 B02A33			2	s	i	1	1	i	si1	蓰				
@@ -332,7 +332,7 @@ B02A38			2	s	i	1	1	i	si1	澌
 B02A39			2	s	i	1	1	i	si1	螄				
 B02A40			2	s	i	1	1	i	si1	篩				
 B02A41			2	s	i	1	1	i	si1	褷				
-B02A42			2	s	i	1	1	i	si1	鷥				
+B02A42			2	s	i	1	1	i	si1	⿱𢆶鳥				
 B02A43			2	s	i	1	1	i	si1	蟖				
 B02A44			2	s	i	1	1	i	si1	颸				
 B02A45			2	s	i	1	1	i	si1	釃				
@@ -387,7 +387,7 @@ B02F15	D0255		2	s	i	6	6	i	si6	視
 B02F16			2	s	i	6	6	i	si6	嗜				
 B02F17			2	s	i	6	6	i	si6	禔				
 B02F18			2	s	i	6	6	i	si6	蒔				
-B02F19			2	s	i	6	6	i	si6	𠐻				
+B02F19			2	s	i	6	6	i	si6	僿				
 B02F20			2	s	i	6	6	i	si6	諟				
 B02G01	D0258		2	j	i	1	1	i	ji1	衣				
 B02G02	D0301		2	j	i	1	1	i	ji1	伊				
@@ -399,7 +399,7 @@ B02G07			2	j	i	1	1	i	ji1	姨
 B02G08			2	j	i	1	1	i	ji1	咿				
 B02G09			2	j	i	1	1	i	ji1	猗				
 B02G10			2	j	i	1	1	i	ji1	蛜				
-B02G11			2	j	i	1	1	i	ji1	褘				
+B02G11			2	j	i	1	1	i	ji1	禕				
 B02G12			2	j	i	1	1	i	ji1	銥				
 B02G13			2	j	i	1	1	i	ji1	漪				
 B02G14	D0261		2	j	i	1	1	i	ji1	噫				
@@ -487,7 +487,7 @@ B02J49	D0318		2	j	i	4	4	i	ji4	飴
 B02J50			2	j	i	4	4	i	ji4	輀				
 B02J51			2	j	i	4	4	i	ji4	椸				
 B02J52	D0310		2	j	i	4	4	i	ji4	疑				
-B02J53			2	j	i	4	4	i	ji4	⿰亻⿱𢆉豕				
+B02J53			2	j	i	4	4	i	ji4	⿰亻⿱𦍌𧰨				
 B02J54	D0315		2	j	i	4	4	i	ji4	儀				
 B02J55			2	j	i	4	4	i	ji4	髵				
 B02J56			2	j	i	4	4	i	ji4	頤				
@@ -531,7 +531,7 @@ B02L06			2	j	i	6	6	i	ji6	珥
 B02L07			2	j	i	6	6	i	ji6	袘				
 B02L08	D0332		2	j	i	6	6	i	ji6	異				
 B02L09			2	j	i	6	6	i	ji6	貳				
-B02L10			2	j	i	6	6	i	ji6	⿱𢆉豕				
+B02L10			2	j	i	6	6	i	ji6	⿱𦍌𧰨				
 B02L11	D0329		2	j	i	6	6	i	ji6	義				
 B02L12	D0330		2	j	i	6	6	i	ji6	肄				
 B02L13	D0333		2	j	i	6	6	i	ji6	誼				
@@ -656,7 +656,7 @@ B04F02	D0426		4	l	ung	1	1	ung	lung1	窿
 B04F03			4	l	ung	2	2	ung	lung2	籠				
 B04G01	D0428		4	l	ung	4	4	ung	lung4	隆				
 B04G02			4	l	ung	4	4	ung	lung4	𤸇				
-B04G03			4	l	ung	4	4	ung	lung4	⿰⿱立月⿻己三				
+B04G03			4	l	ung	4	4	ung	lung4	⿰𦚏⿷己三				
 B04G04	D0427		4	l	ung	4	4	ung	lung4	龍				
 B04G05			4	l	ung	4	4	ung	lung4	癃				
 B04G06			4	l	ung	4	4	ung	lung4	窿				
@@ -664,7 +664,7 @@ B04G07	D0432		4	l	ung	4	4	ung	lung4	嚨
 B04G08			4	l	ung	4	4	ung	lung4	瀧				
 B04G09			4	l	ung	4	4	ung	lung4	蘢				
 B04G10			4	l	ung	4	4	ung	lung4	櫳				
-B04G11			4	l	ung	4	4	ung	lung4	矓				
+B04G11			4	l	ung	4	4	ung	lung4	曨				
 B04G12	D0429		4	l	ung	4	4	ung	lung4	瓏				
 B04G13			4	l	ung	4	4	ung	lung4	朧				
 B04G14			4	l	ung	4	4	ung	lung4	襱				
@@ -684,7 +684,7 @@ B04H02			4	l	uk	1	7	ung	luk1	摝
 B04H03	D0436		4	l	uk	1	7	ung	luk1	碌				
 B04H04			4	l	uk	1	7	ung	luk1	睩				
 B04H05			4	l	uk	1	7	ung	luk1	簏				
-B04H06			4	l	uk	1	7	ung	luk1	軗				
+B04H06			4	l	uk	1	7	ung	luk1	轂				
 B04H07	D0437		4	l	uk	1	7	ung	luk1	轆				
 B04H08			4	l	uk	1	7	ung	luk1	麓				
 B04H09	D0438		4	l	uk	6	9	ung	luk6	六				
@@ -700,7 +700,7 @@ B04H18			4	l	uk	6	9	ung	luk6	逯
 B04H19			4	l	uk	6	9	ung	luk6	勠				
 B04H20			4	l	uk	6	9	ung	luk6	稑				
 B04H21			4	l	uk	6	9	ung	luk6	氯				
-B04H22	D0443		4	l	uk	6	9	ung	luk6	䘵				
+B04H22	D0443		4	l	uk	6	9	ung	luk6	祿	禄			
 B04H23			4	l	uk	6	9	ung	luk6	摝				
 B04H24			4	l	uk	6	9	ung	luk6	睩				
 B04H25			4	l	uk	6	9	ung	luk6	漉				
@@ -786,13 +786,13 @@ B05B08	D0522		5	l	aam	5	5	aam	laam5	覽	覧
 B05B09			5	l	aam	5	5	aam	laam5	㩜				
 B05B10			5	l	aam	5	5	aam	laam5	擥				
 B05B11			5	l	aam	5	5	aam	laam5	籃				
-B05B12			5	l	aam	5	5	aam	laam5	覽	覧			
+B05B12			5	l	aam	5	5	aam	laam5	覧	覽			
 B05B13			5	l	aam	6	6	aam	laam6	嚂				
 B05B14	D0524		5	l	aam	6	6	aam	laam6	濫				
 B05B15			5	l	aam	6	6	aam	laam6	檻				
 B05B16	D0523		5	l	aam	6	6	aam	laam6	艦				
 B05B17			5	l	aam	6	6	aam	laam6	轞				
-B05B18	D0525		5	l	aam	6	6	aam	laam6	纜	䌫			
+B05B18			5	l	aam	6	6	aam	laam6	䌫	纜			
 B05C01			5	l	aap	3	8	aam	laap3	躐				
 B05C02	D0527		5	l	aap	6	9	aam	laap6	立				
 B05C03	D0526		5	l	aap	6	9	aam	laap6	垃				
@@ -831,7 +831,7 @@ B05D25			5	l	im	6	6	im	lim6	㶑
 B05E01	D0538		5	l	ip	6	9	im	lip6	獵				
 B05E02			5	l	ip	6	9	im	lip6	擸				
 B05E03			5	l	ip	6	9	im	lip6	邋				
-B05E04			5	l	ip	6	9	im	lip6	𩮻				
+B05E04			5	l	ip	6	9	im	lip6	𩯡				
 B05E05			5	l	ip	6	9	im	lip6	躐				
 B05E06			5	l	ip	6	9	im	lip6	鬣				
 B05F01			5	l	am	1	1	am	lam1	冧				
@@ -845,8 +845,8 @@ B05G07	D0542		5	l	am	4	4	am	lam4	霖
 B05G08			5	l	am	5	5	am	lam5	稟	禀			
 B05G09	D0544		5	l	am	5	5	am	lam5	凛				
 B05G10	D0543		5	l	am	5	5	am	lam5	廪	廩			
-B05G11			5	l	am	5	5	am	lam5	壈	𡒄			
-B05G12			5	l	am	5	5	am	lam5	澟	𪷤			
+B05G11			5	l	am	5	5	am	lam5	𡒄	壈			
+B05G12			5	l	am	5	5	am	lam5	𪷤	澟			
 B05G13			5	l	am	5	5	am	lam5	懔	懍			
 B05H01			5	l	ap	1	7	am	lap1	苙				
 B05H02	D0545		5	l	ap	1	7	am	lap1	笠				
@@ -931,7 +931,7 @@ B05N17			5	l	eon	4	4	eon	leon4	遴
 B05N18			5	l	eon	4	4	eon	leon4	疄				
 B05N19			5	l	eon	4	4	eon	leon4	瞵				
 B05N20			5	l	eon	4	4	eon	leon4	磷				
-B05N21			5	l	eon	4	4	eon	leon4	𪊲				
+B05N21			5	l	eon	4	4	eon	leon4	麐				
 B05N22			5	l	eon	4	4	eon	leon4	轔				
 B05N23	D0626		5	l	eon	4	4	eon	leon4	鱗				
 B05N24	D0627		5	l	eon	4	4	eon	leon4	麟				
@@ -942,7 +942,7 @@ B05N28			5	l	eon	6	6	eon	leon6	紊
 B05N29	D0629		5	l	eon	6	6	eon	leon6	論				
 B05N30			5	l	eon	6	6	eon	leon6	遴				
 B05N31			5	l	eon	6	6	eon	leon6	甐				
-B05N32			5	l	eon	6	6	eon	leon6	憐				
+B05N32			5	l	eon	6	6	eon	leon6	橉				
 B05N33			5	l	eon	6	6	eon	leon6	藺				
 B05N34			5	l	eon	6	6	eon	leon6	躪				
 B05O01			5	l	eot	6	9	eon	leot6	聿				
@@ -1041,7 +1041,7 @@ B06B01			6	l	aai	6	6	aai	laai6	賴	頼
 B06B02			6	l	aai	6	6	aai	laai6	瀨	瀬			
 B06B03			6	l	aai	6	6	aai	laai6	藾				
 B06B04			6	l	aai	6	6	aai	laai6	籟				
-B06C01			6	l	ei	1	1	ei	lei1	里				
+B06C01			6	l	ei	1	1	ei	lei1	哩				
 B06C02			6	l	ei	1	1	ei	lei1	喱				
 B06C03	D0707		6	l	ei	1	1	ei	lei1	璃				
 B06C04			6	l	ei	1	1	ei	lei1	鬁				
@@ -1155,7 +1155,7 @@ B06H25			6	l	au	4	4	au	lau4	窶
 B06H26			6	l	au	4	4	au	lau4	簍				
 B06H27			6	l	au	4	4	au	lau4	耬				
 B06H28			6	l	au	4	4	au	lau4	螻				
-B06H29			6	l	au	4	4	au	lau4	駠				
+B06H29			6	l	au	4	4	au	lau4	駵	駠			
 B06H30			6	l	au	4	4	au	lau4	懰				
 B06H31			6	l	au	4	4	au	lau4	䝏				
 B06H32			6	l	au	4	4	au	lau4	瀏				
@@ -1172,7 +1172,7 @@ B06H42			6	l	au	4	4	au	lau4	髏
 B06H43			6	l	au	4	4	au	lau4	䬟				
 B06H44			6	l	au	5	5	au	lau5	栁				
 B06H45			6	l	au	5	5	au	lau5	塿				
-B06H46	D0740		6	l	au	5	5	au	lau5	柳				
+B06H46			6	l	au	5	5	au	lau5	桺	柳			
 B06H47			6	l	au	5	5	au	lau5	嶁				
 B06H48			6	l	au	5	5	au	lau5	綹				
 B06H49			6	l	au	5	5	au	lau5	罶				
@@ -1290,72 +1290,71 @@ B06L01	D0820		6	l	eoi	1	1	eoi	leoi1	蕾
 B06M01			6	l	eoi	4	4	eoi	leoi4	累				
 B06M02	D0821		6	l	eoi	4	4	eoi	leoi4	雷				
 B06M03			6	l	eoi	4	4	eoi	leoi4	嫘				
-B06M04			6	l	eoi	4	4	eoi	leoi4	慺				
+B06M04			6	l	eoi	4	4	eoi	leoi4	慺				原字條重複，只收一次
 B06M05	D0822		6	l	eoi	4	4	eoi	leoi4	閭				
 B06M06	D0823		6	l	eoi	4	4	eoi	leoi4	瘰				
 B06M07	D0824		6	l	eoi	4	4	eoi	leoi4	擂				
 B06M08			6	l	eoi	4	4	eoi	leoi4	蕾				
-B06M09			6	l	eoi	4	4	eoi	leoi4	慺				
-B06M10			6	l	eoi	4	4	eoi	leoi4	縲				
-B06M11			6	l	eoi	4	4	eoi	leoi4	礌				
-B06M12			6	l	eoi	4	4	eoi	leoi4	壘				
-B06M13			6	l	eoi	4	4	eoi	leoi4	攂				
-B06M14			6	l	eoi	4	4	eoi	leoi4	櫚				
-B06M15			6	l	eoi	4	4	eoi	leoi4	藘				
-B06M16			6	l	eoi	4	4	eoi	leoi4	羸				
-B06M17			6	l	eoi	4	4	eoi	leoi4	櫑				
-B06M18			6	l	eoi	4	4	eoi	leoi4	罍				
-B06M19	D0825		6	l	eoi	4	4	eoi	leoi4	騾				
-B06M20			6	l	eoi	4	4	eoi	leoi4	鐳				
-B06M21			6	l	eoi	4	4	eoi	leoi4	纍				
-B06M22			6	l	eoi	4	4	eoi	leoi4	驘				
-B06M23			6	l	eoi	4	4	eoi	leoi4	㶟				
-B06M24			6	l	eoi	4	4	eoi	leoi4	虆				
-B06M25			6	l	eoi	4	4	eoi	leoi4	欙				
-B06M26	D0828		6	l	eoi	5	5	eoi	leoi5	呂	吕			
-B06M27	D0829		6	l	eoi	5	5	eoi	leoi5	侶	侣			
-B06M28			6	l	eoi	5	5	eoi	leoi5	祣				
-B06M29	D0827		6	l	eoi	5	5	eoi	leoi5	旅				
-B06M30			6	l	eoi	5	5	eoi	leoi5	梠				
-B06M31			6	l	eoi	5	5	eoi	leoi5	𭄸				字形本作⿱旅刀，今從卷一道漢字典(P.6)
-B06M32			6	l	eoi	5	5	eoi	leoi5	屡				
-B06M33			6	l	eoi	5	5	eoi	leoi5	裡				
-B06M34			6	l	eoi	5	5	eoi	leoi5	絫				
-B06M35			6	l	eoi	5	5	eoi	leoi5	裏				
-B06M36			6	l	eoi	5	5	eoi	leoi5	膂				
-B06M37			6	l	eoi	5	5	eoi	leoi5	寠				
-B06M38			6	l	eoi	5	5	eoi	leoi5	嶁				
-B06M39	D0826		6	l	eoi	5	5	eoi	leoi5	屢				
-B06M40			6	l	eoi	5	5	eoi	leoi5	鋁				
-B06M41	D0831		6	l	eoi	5	5	eoi	leoi5	磊				
-B06M42			6	l	eoi	5	5	eoi	leoi5	窶				
-B06M43			6	l	eoi	5	5	eoi	leoi5	儢				
-B06M44			6	l	eoi	5	5	eoi	leoi5	儡				
-B06M45			6	l	eoi	5	5	eoi	leoi5	縷				
-B06M46	D0830		6	l	eoi	5	5	eoi	leoi5	壘				
-B06M47			6	l	eoi	5	5	eoi	leoi5	藟				
-B06M48			6	l	eoi	5	5	eoi	leoi5	礧				
-B06M49			6	l	eoi	5	5	eoi	leoi5	灅				
-B06M50			6	l	eoi	5	5	eoi	leoi5	鑥				
-B06M51			6	l	eoi	5	5	eoi	leoi5	蘽				
-B06M52			6	l	eoi	6	6	eoi	leoi6	泪				
-B06M53	D0835		6	l	eoi	6	6	eoi	leoi6	戾	戻			
-B06M54			6	l	eoi	6	6	eoi	leoi6	唳				
-B06M55	D0837		6	l	eoi	6	6	eoi	leoi6	淚	涙			
-B06M56			6	l	eoi	6	6	eoi	leoi6	捩				
-B06M57	D0834		6	l	eoi	6	6	eoi	leoi6	累				
-B06M58			6	l	eoi	6	6	eoi	leoi6	棙				
-B06M59	D0833		6	l	eoi	6	6	eoi	leoi6	彙	彚			
-B06M60			6	l	eoi	6	6	eoi	leoi6	樏				
-B06M61	D0836		6	l	eoi	6	6	eoi	leoi6	慮				
-B06M62			6	l	eoi	6	6	eoi	leoi6	擂				
-B06M63			6	l	eoi	6	6	eoi	leoi6	勴				
-B06M64	D0838		6	l	eoi	6	6	eoi	leoi6	濾				
-B06M65	D0832		6	l	eoi	6	6	eoi	leoi6	類				
-B06M66			6	l	eoi	6	6	eoi	leoi6	盭				
-B06M67			6	l	eoi	6	6	eoi	leoi6	纇				
-B06M68			6	l	eoi	6	6	eoi	leoi6	𧭜				
-B06M69			6	l	eoi	6	6	eoi	leoi6	鑢				
+B06M09			6	l	eoi	4	4	eoi	leoi4	縲				
+B06M10			6	l	eoi	4	4	eoi	leoi4	礌				
+B06M11			6	l	eoi	4	4	eoi	leoi4	壘				
+B06M12			6	l	eoi	4	4	eoi	leoi4	攂				
+B06M13			6	l	eoi	4	4	eoi	leoi4	櫚				
+B06M14			6	l	eoi	4	4	eoi	leoi4	藘				
+B06M15			6	l	eoi	4	4	eoi	leoi4	羸				
+B06M16			6	l	eoi	4	4	eoi	leoi4	櫑				
+B06M17			6	l	eoi	4	4	eoi	leoi4	罍				
+B06M18	D0825		6	l	eoi	4	4	eoi	leoi4	騾				
+B06M19			6	l	eoi	4	4	eoi	leoi4	鐳				
+B06M20			6	l	eoi	4	4	eoi	leoi4	纍				
+B06M21			6	l	eoi	4	4	eoi	leoi4	驘				
+B06M22			6	l	eoi	4	4	eoi	leoi4	㶟				
+B06M23			6	l	eoi	4	4	eoi	leoi4	虆				
+B06M24			6	l	eoi	4	4	eoi	leoi4	欙				
+B06M25	D0828		6	l	eoi	5	5	eoi	leoi5	呂	吕			
+B06M26	D0829		6	l	eoi	5	5	eoi	leoi5	侶	侣			
+B06M27			6	l	eoi	5	5	eoi	leoi5	祣				
+B06M28	D0827		6	l	eoi	5	5	eoi	leoi5	旅				
+B06M29			6	l	eoi	5	5	eoi	leoi5	梠				
+B06M30			6	l	eoi	5	5	eoi	leoi5	𭄸				字形本作⿱旅刀，今從卷一道漢字典(P.6)
+B06M31			6	l	eoi	5	5	eoi	leoi5	屡				
+B06M32			6	l	eoi	5	5	eoi	leoi5	裡				
+B06M33			6	l	eoi	5	5	eoi	leoi5	絫				
+B06M34			6	l	eoi	5	5	eoi	leoi5	裏				
+B06M35			6	l	eoi	5	5	eoi	leoi5	膂				
+B06M36			6	l	eoi	5	5	eoi	leoi5	寠				
+B06M37			6	l	eoi	5	5	eoi	leoi5	嶁				
+B06M38	D0826		6	l	eoi	5	5	eoi	leoi5	屢				
+B06M39			6	l	eoi	5	5	eoi	leoi5	鋁				
+B06M40	D0831		6	l	eoi	5	5	eoi	leoi5	磊				
+B06M41			6	l	eoi	5	5	eoi	leoi5	窶				
+B06M42			6	l	eoi	5	5	eoi	leoi5	儢				
+B06M43			6	l	eoi	5	5	eoi	leoi5	儡				
+B06M44			6	l	eoi	5	5	eoi	leoi5	縷				
+B06M45	D0830		6	l	eoi	5	5	eoi	leoi5	壘				
+B06M46			6	l	eoi	5	5	eoi	leoi5	藟				
+B06M47			6	l	eoi	5	5	eoi	leoi5	礧				
+B06M48			6	l	eoi	5	5	eoi	leoi5	灅				
+B06M49			6	l	eoi	5	5	eoi	leoi5	鑥				
+B06M50			6	l	eoi	5	5	eoi	leoi5	蘽				
+B06M51			6	l	eoi	6	6	eoi	leoi6	泪				
+B06M52	D0835		6	l	eoi	6	6	eoi	leoi6	戾	戻			
+B06M53			6	l	eoi	6	6	eoi	leoi6	唳				
+B06M54	D0837		6	l	eoi	6	6	eoi	leoi6	淚	涙			
+B06M55			6	l	eoi	6	6	eoi	leoi6	捩				
+B06M56	D0834		6	l	eoi	6	6	eoi	leoi6	累				
+B06M57			6	l	eoi	6	6	eoi	leoi6	棙				
+B06M58	D0833		6	l	eoi	6	6	eoi	leoi6	彙	彚			
+B06M59			6	l	eoi	6	6	eoi	leoi6	樏				
+B06M60	D0836		6	l	eoi	6	6	eoi	leoi6	慮				
+B06M61			6	l	eoi	6	6	eoi	leoi6	擂				
+B06M62			6	l	eoi	6	6	eoi	leoi6	勴				
+B06M63	D0838		6	l	eoi	6	6	eoi	leoi6	濾				
+B06M64	D0832		6	l	eoi	6	6	eoi	leoi6	類				
+B06M65			6	l	eoi	6	6	eoi	leoi6	盭				
+B06M66			6	l	eoi	6	6	eoi	leoi6	纇				
+B06M67			6	l	eoi	6	6	eoi	leoi6	𧭜				
+B06M68			6	l	eoi	6	6	eoi	leoi6	鑢				
 B06N01	D0839		6	l	oi	4	4	oi	loi4	來				
 B06N02			6	l	oi	4	4	oi	loi4	郲				
 B06N03			6	l	oi	4	4	oi	loi4	淶				
@@ -1441,7 +1440,7 @@ B07E14			7	l	o	3	3	o	lo3	啰
 B07E15			7	l	o	3	3	o	lo3	囉				
 B07F01			7	l	o	4	4	o	lo4	罗				
 B07F02	D0908		7	l	o	4	4	o	lo4	羅				
-B07F03			7	l	o	4	4	o	lo4	䯞				
+B07F03			7	l	o	4	4	o	lo4	腡				
 B07F04			7	l	o	4	4	o	lo4	蔂				
 B07F05	D0911		7	l	o	4	4	o	lo4	螺				
 B07F06			7	l	o	4	4	o	lo4	蠃				
@@ -1507,10 +1506,10 @@ B08D06			8	c	aang	4	4	aang	caang4	瞪
 B08D07			8	c	aang	4	4	aang	caang4	鼚				
 B08E01	D1018		8	c	aak	1	7	aang	caak1	測				
 B08E02	D1019		8	c	aak	1	7	aang	caak1	惻				
-B08E03	D1020		8	c	aak	3	8	aang	caak3	冊	册			
+B08E03			8	c	aak	3	8	aang	caak3	册	冊			
 B08E04			8	c	aak	3	8	aang	caak3	坼				
 B08E05	D1022		8	c	aak	3	8	aang	caak3	拆				
-B08E06			8	c	aak	3	8	aang	caak3	柵	栅			
+B08E06			8	c	aak	3	8	aang	caak3	栅	柵			
 B08E07	D1021		8	c	aak	3	8	aang	caak3	策				
 B08E08			8	c	aak	3	8	aang	caak3	測				
 B08E09			8	c	aak	3	8	aang	caak3	矠				
@@ -1560,7 +1559,7 @@ B09C03	D1037		9	b	aak	3	8	aang	baak3	百
 B09C04	D1038		9	b	aak	3	8	aang	baak3	伯				
 B09C05			9	b	aak	3	8	aang	baak3	佰				
 B09C06			9	b	aak	3	8	aang	baak3	陌				
-B09C07			9	b	aak	3	8	aang	baak3	栢	柏			
+B09C07			9	b	aak	3	8	aang	baak3	粨				
 B09C08			9	b	aak	3	8	aang	baak3	檗				
 B09C09			9	b	aak	3	8	aang	baak3	蘗	蘖			
 B09C10	D1039		9	b	aak	6	9	aang	baak6	白				
@@ -1586,15 +1585,15 @@ B09E13			9	p	aang	4	4	aang	paang4	蟛
 B09E14	D1108		9	p	aang	4	4	aang	paang4	鵬				
 B09E15			9	p	aang	4	4	aang	paang4	騯				
 B09E16	D1109		9	p	aang	5	5	aang	paang5	棒				
-B09F01	D1110		9	p	aak	1	7	aang	paak1	拍				
-B09F02	D1113		9	p	aak	1	7	aang	paak1	帕				
-B09F03	D1114		9	p	aak	1	7	aang	paak1	柏	栢			
-B09F04	D1112		9	p	aak	1	7	aang	paak1	珀				
-B09F05			9	p	aak	1	7	aang	paak1	胉				
-B09F06			9	p	aak	1	7	aang	paak1	栢	柏			
-B09F07			9	p	aak	1	7	aang	paak1	粕				
-B09F08			9	p	aak	1	7	aang	paak1	舶				
-B09F09	D1111		9	p	aak	1	7	aang	paak1	魄				
+B09F01	D1110		9	p	aak	3	8	aang	paak3	拍				
+B09F02	D1113		9	p	aak	3	8	aang	paak3	帕				
+B09F03	D1114		9	p	aak	3	8	aang	paak3	柏	栢			
+B09F04	D1112		9	p	aak	3	8	aang	paak3	珀				
+B09F05			9	p	aak	3	8	aang	paak3	胉				
+B09F06			9	p	aak	3	8	aang	paak3	栢	柏			
+B09F07			9	p	aak	3	8	aang	paak3	粕				
+B09F08			9	p	aak	3	8	aang	paak3	舶				
+B09F09	D1111		9	p	aak	3	8	aang	paak3	魄				
 B09G01			9	m	aang	1	1	aang	maang1	錳				
 B09G02	D1115		9	m	aang	2	2	aang	maang2	蜢				
 B09H01	D1116		9	m	aang	4	4	aang	maang4	盲				
@@ -1698,7 +1697,7 @@ B10A26			10	z	ing	1	1	ing	zing1	癥
 B10A27			10	z	ing	1	1	ing	zing1	鼱				
 B10A28	D1212		10	z	ing	2	2	ing	zing2	井				
 B10A29	D1211		10	z	ing	2	2	ing	zing2	整				
-B10A30			10	z	ing	3	3	ing	zing3	①				
+B10A30			10	z	ing	3	3	ing	zing3	⿱一⿰⿺乚丶丶				
 B10A31	D1214		10	z	ing	3	3	ing	zing3	正				
 B10A32	D1213		10	z	ing	3	3	ing	zing3	政				
 B10A33	D1216		10	z	ing	3	3	ing	zing3	症				
@@ -1717,7 +1716,7 @@ B10C01			10	z	ik	1	7	ing	zik1	仄
 B10C02	D1226		10	z	ik	1	7	ing	zik1	即	卽			
 B10C03			10	z	ik	1	7	ing	zik1	昃				
 B10C04			10	z	ik	1	7	ing	zik1	𬉿	炙			
-B10C05			10	z	ik	1	7	ing	zik1	即	卽			
+B10C05			10	z	ik	1	7	ing	zik1	卽	即			
 B10C06			10	z	ik	1	7	ing	zik1	迹				
 B10C07	D1229		10	z	ik	1	7	ing	zik1	唧	喞			
 B10C08			10	z	ik	1	7	ing	zik1	堲				
@@ -1743,29 +1742,28 @@ B10C27	D1225		10	z	ik	1	7	ing	zik1	職
 B10C28	D1224		10	z	ik	1	7	ing	zik1	織				
 B10C29			10	z	ik	1	7	ing	zik1	鯽				
 B10C30			10	z	ik	1	7	ing	zik1	鶺				
-B10C31		1	10	z	ik	1	7	ing	zik1	炙				據卷一道漢字典(P.47)補收
-B10C32			10	z	ik	3	8	ing	zik3	脊				
-B10C33	D1233		10	z	ik	3	8	ing	zik3	瘠				
-B10C34			10	z	ik	3	8	ing	zik3	鶺				
-B10C35	D1239		10	z	ik	6	9	ing	zik6	夕				
-B10C36			10	z	ik	6	9	ing	zik6	汐				
-B10C37	D1234		10	z	ik	6	9	ing	zik6	直				
-B10C38			10	z	ik	6	9	ing	zik6	矽				
-B10C39			10	z	ik	6	9	ing	zik6	穸				
-B10C40	D1236		10	z	ik	6	9	ing	zik6	席				
-B10C41	D1235		10	z	ik	6	9	ing	zik6	值	値			
-B10C42			10	z	ik	6	9	ing	zik6	𡨜				
-B10C43			10	z	ik	6	9	ing	zik6	埴				
-B10C44	D1240		10	z	ik	6	9	ing	zik6	寂				
-B10C45			10	z	ik	6	9	ing	zik6	犆				
-B10C46			10	z	ik	6	9	ing	zik6	湜				
-B10C47	D1241		10	z	ik	6	9	ing	zik6	殖				
-B10C48	D1242		10	z	ik	6	9	ing	zik6	植				
-B10C49			10	z	ik	6	9	ing	zik6	稙				
-B10C50			10	z	ik	6	9	ing	zik6	耤				
-B10C51			10	z	ik	6	9	ing	zik6	蓆				
-B10C52	D1237		10	z	ik	6	9	ing	zik6	藉				
-B10C53	D1238		10	z	ik	6	9	ing	zik6	籍				
+B10C31			10	z	ik	3	8	ing	zik3	脊				
+B10C32	D1233		10	z	ik	3	8	ing	zik3	瘠				
+B10C33			10	z	ik	3	8	ing	zik3	鶺				
+B10C34	D1239		10	z	ik	6	9	ing	zik6	夕				
+B10C35			10	z	ik	6	9	ing	zik6	汐				
+B10C36	D1234		10	z	ik	6	9	ing	zik6	直				
+B10C37			10	z	ik	6	9	ing	zik6	矽				
+B10C38			10	z	ik	6	9	ing	zik6	穸				
+B10C39	D1236		10	z	ik	6	9	ing	zik6	席				
+B10C40	D1235		10	z	ik	6	9	ing	zik6	值	値			
+B10C41			10	z	ik	6	9	ing	zik6	𡨜				
+B10C42			10	z	ik	6	9	ing	zik6	埴				
+B10C43	D1240		10	z	ik	6	9	ing	zik6	寂				
+B10C44			10	z	ik	6	9	ing	zik6	犆				
+B10C45			10	z	ik	6	9	ing	zik6	湜				
+B10C46	D1241		10	z	ik	6	9	ing	zik6	殖				
+B10C47	D1242		10	z	ik	6	9	ing	zik6	植				
+B10C48			10	z	ik	6	9	ing	zik6	稙				
+B10C49			10	z	ik	6	9	ing	zik6	耤				
+B10C50			10	z	ik	6	9	ing	zik6	蓆				
+B10C51	D1237		10	z	ik	6	9	ing	zik6	藉				
+B10C52	D1238		10	z	ik	6	9	ing	zik6	籍				
 B10D01	D1244		10	c	ing	1	1	ing	cing1	青	靑			
 B10D02			10	c	ing	1	1	ing	cing1	圊				
 B10D03	D1245		10	c	ing	1	1	ing	cing1	清	淸			
@@ -1818,7 +1816,7 @@ B10F16			10	c	ik	1	7	ing	cik1	鏚
 B10F17			10	c	ik	1	7	ing	cik1	鼜				
 B10F18		1	10	c	ik	1	7	ing	cik1	勑				據卷一道漢字典(P.22)補收
 B10F19	D1314		10	c	ik	3	8	ing	cik3	赤				
-B10G01	D1315		10	n	ing	1	1	ing	ning1	擰				
+B10G01			10	n	ing	1	1	ing	ning1	⿰扌𡨴				
 B10H01	D1316		10	n	ing	4	4	ing	ning4	寕	寜|寧			
 B10H02			10	n	ing	4	4	ing	ning4	𡩋	寗|甯			原字條重複，只收一次
 B10H03			10	n	ing	4	4	ing	ning4	寧	寜			
@@ -1826,7 +1824,7 @@ B10H04			10	n	ing	4	4	ing	ning4	儜
 B10H05			10	n	ing	4	4	ing	ning4	濘				
 B10H06			10	n	ing	4	4	ing	ning4	𤡛	獰			
 B10H07	D1318		10	n	ing	4	4	ing	ning4	檸				
-B10H08			10	n	ing	4	4	ing	ning4	嚀				
+B10H08			10	n	ing	4	4	ing	ning4	⿰口𡨴				
 B10H09			10	n	ing	4	4	ing	ning4	鸋				
 B10H10	D1320		10	n	ing	6	6	ing	ning6	佞				
 B10H11			10	n	ing	6	6	ing	ning6	寕	寜|寧			
@@ -1917,7 +1915,7 @@ B10L24			10	s	ik	1	7	ing	sik1	蜥
 B10L25			10	s	ik	1	7	ing	sik1	踖				
 B10L26			10	s	ik	1	7	ing	sik1	奭				
 B10L27	D1415		10	s	ik	1	7	ing	sik1	澀				
-B10L28			10	s	ik	1	7	ing	sik1	餙				
+B10L28			10	s	ik	1	7	ing	sik1	⿰飠⿱𠂉布				
 B10L29			10	s	ik	1	7	ing	sik1	潟	澙			
 B10L30			10	s	ik	1	7	ing	sik1	澁				
 B10L31	D1347		10	s	ik	1	7	ing	sik1	適				
@@ -2060,7 +2058,7 @@ B10P01	D1454		10	g	ing	1	1	ing	ging1	京
 B10P02	D1459		10	g	ing	1	1	ing	ging1	矜				
 B10P03			10	g	ing	1	1	ing	ging1	涇				
 B10P04	D1456		10	g	ing	1	1	ing	ging1	荊	荆			
-B10P05			10	g	ing	1	1	ing	ging1	𦀇				
+B10P05			10	g	ing	1	1	ing	ging1	⿰糹⿱ス土				
 B10P06			10	g	ing	1	1	ing	ging1	痙				
 B10P07	D1455		10	g	ing	1	1	ing	ging1	經				
 B10P08	D1458		10	g	ing	1	1	ing	ging1	兢				
@@ -2174,9 +2172,9 @@ B11C25			11	d	ik	6	9	ing	dik6	籊
 B11C26			11	d	ik	6	9	ing	dik6	覿				
 B11C27			11	d	ik	6	9	ing	dik6	鸐				
 B11D01			11	t	ing	1	1	ing	ting1	听				
-B11D02			11	t	ing	1	1	ing	ting1	聽				
+B11D02			11	t	ing	1	1	ing	ting1	聼	聽			
 B11D03			11	t	ing	3	3	ing	ting3	听				
-B11D04	D1534		11	t	ing	3	3	ing	ting3	聽				
+B11D04	D1534		11	t	ing	3	3	ing	ting3	聼	聽			
 B11E01	D1536		11	t	ing	4	4	ing	ting4	廷				本書廷部件均作𢌜，為免混亂一律作廷
 B11E02	D1537		11	t	ing	4	4	ing	ting4	亭				
 B11E03	D1535		11	t	ing	4	4	ing	ting4	庭				
@@ -2244,7 +2242,7 @@ B11I04			11	b	ik	1	7	ing	bik1	愎
 B11I05			11	b	ik	1	7	ing	bik1	湢				
 B11I06			11	b	ik	1	7	ing	bik1	愊				
 B11I07			11	b	ik	1	7	ing	bik1	腷				
-B11I08			11	b	ik	1	7	ing	bik1	福				
+B11I08			11	b	ik	1	7	ing	bik1	楅				
 B11I09			11	b	ik	1	7	ing	bik1	煏				
 B11I10	D1607		11	b	ik	1	7	ing	bik1	逼				
 B11I11	D1608		11	b	ik	1	7	ing	bik1	碧				
@@ -2440,7 +2438,7 @@ B12A23			12	z	ung	1	1	ung	zung1	㙡
 B12A24			12	z	ung	1	1	ung	zung1	粽	糉|糭			
 B12A25			12	z	ung	1	1	ung	zung1	綜				
 B12A26			12	z	ung	1	1	ung	zung1	瑽				
-B12A27			12	z	ung	1	1	ung	zung1	潀	潨			
+B12A27			12	z	ung	1	1	ung	zung1	潨	潀			
 B12A28			12	z	ung	1	1	ung	zung1	糉	粽|糭			
 B12A29			12	z	ung	1	1	ung	zung1	賨				
 B12A30			12	z	ung	1	1	ung	zung1	樅				
@@ -2581,10 +2579,10 @@ B12E01			12	c	ung	4	4	ung	cung4	从
 B12E02	D1751		12	c	ung	4	4	ung	cung4	虫				
 B12E03			12	c	ung	4	4	ung	cung4	䖝				
 B12E04	D1801		12	c	ung	4	4	ung	cung4	松				
-B12E05	D1804		12	c	ung	4	4	ung	cung4	從				
+B12E05			12	c	ung	4	4	ung	cung4	⿰彳⿱䒑之				
 B12E06	D1802		12	c	ung	4	4	ung	cung4	重				
 B12E07			12	c	ung	4	4	ung	cung4	淞				
-B12E08			12	c	ung	4	4	ung	cung4	從				
+B12E08	D1804		12	c	ung	4	4	ung	cung4	從				
 B12E09			12	c	ung	4	4	ung	cung4	藂				
 B12E10	D1803		12	c	ung	4	4	ung	cung4	叢				
 B12E11	D1752		12	c	ung	4	4	ung	cung4	蟲				
@@ -2712,9 +2710,9 @@ B12L11			12	j	ung	1	1	ung	jung1	蕹
 B12L12			12	j	ung	1	1	ung	jung1	雝				
 B12L13			12	j	ung	1	1	ung	jung1	癕				
 B12L14			12	j	ung	1	1	ung	jung1	灉				
-B12L15	D1841		12	j	ung	1	1	ung	jung1	癰				
+B12L15			12	j	ung	1	1	ung	jung1	廱				
 B12L16			12	j	ung	1	1	ung	jung1	饔				
-B12L17			12	j	ung	1	1	ung	jung1	癰				
+B12L17	D1841		12	j	ung	1	1	ung	jung1	癰				
 B12L18	D1842		12	j	ung	2	2	ung	jung2	冗	宂			
 B12L19			12	j	ung	2	2	ung	jung2	甬				
 B12L20			12	j	ung	2	2	ung	jung2	俑				
@@ -2843,12 +2841,12 @@ B12Q14			12	g	uk	1	7	ung	guk1	踘
 B12Q15			12	g	uk	1	7	ung	guk1	鋊				
 B12Q16			12	g	uk	1	7	ung	guk1	縠				
 B12Q17			12	g	uk	1	7	ung	guk1	鋦				
-B12Q18			12	g	uk	1	7	ung	guk1	榖				
+B12Q18			12	g	uk	1	7	ung	guk1	糓				
 B12Q19			12	g	uk	1	7	ung	guk1	轂				
 B12Q20	D1943		12	g	uk	1	7	ung	guk1	鞠				
 B12Q21	D1944		12	g	uk	1	7	ung	guk1	鵠				
-B12Q22			12	g	uk	1	7	ung	guk1	濲				
-B12Q23			12	g	uk	1	7	ung	guk1	𨢋				
+B12Q22			12	g	uk	1	7	ung	guk1	瀫				
+B12Q23			12	g	uk	1	7	ung	guk1	⿱殼酉				
 B12Q24			12	g	uk	1	7	ung	guk1	麴	麯|麹			
 B12Q25			12	g	uk	1	7	ung	guk1	鞫				
 B12Q26			12	g	uk	1	7	ung	guk1	鵴				
@@ -3111,7 +3109,7 @@ B13Q33			13	f	uk	6	9	ung	fuk6	幞
 B13Q34			13	f	uk	6	9	ung	fuk6	蔔				
 B13Q35			13	f	uk	6	9	ung	fuk6	鵩				
 B13Q36			13	f	uk	6	9	ung	fuk6	鰒				
-B13R01			13		ung	3	3	ung	ung3	瓫				
+B13R01			13		ung	3	3	ung	ung3	瓮				
 B13R02	D2136		13		ung	3	3	ung	ung3	甕				
 B13R03			13		ung	3	3	ung	ung3	蕹				
 B13R04			13		ung	3	3	ung	ung3	罋				
@@ -3171,7 +3169,7 @@ B13U17			13	h	ung	6	6	ung	hung6	蕻
 B13V01			13	h	uk	1	7	ung	huk1	曲				
 B13V02	D2201		13	h	uk	1	7	ung	huk1	哭				
 B13V03			13	h	uk	1	7	ung	huk1	勖				
-B13V04			13	h	uk	1	7	ung	huk1	𨢋				
+B13V04			13	h	uk	1	7	ung	huk1	⿱殼酉				
 B13V05			13	h	uk	6	9	ung	huk6	斛				
 B13V06	D2203		13	h	uk	6	9	ung	huk6	酷				
 B13V07			13	h	uk	6	9	ung	huk6	槲				
@@ -3243,7 +3241,7 @@ B14Q02	D2239		14	d	ek	6	9	eng	dek6	笛
 B14Q03	D2240		14	d	ek	6	9	eng	dek6	糴				
 B14Q04			14	d	ek	6	9	eng	dek6	篴				
 B15A01			15	t	eng	1	1	eng	teng1	听				
-B15A02	D2302		15	t	eng	1	1	eng	teng1	聽				
+B15A02	D2302		15	t	eng	1	1	eng	teng1	聼	聽			
 B15A03			15	t	eng	1	1	eng	teng1	廰				
 B15A04	D2301		15	t	eng	1	1	eng	teng1	廳	㕔			
 B15B01	D2303		15	t	eng	5	5	eng	teng5	艇				
@@ -3299,7 +3297,7 @@ B16C05			16	z	aat	3	8	aan	zaat3	匝
 B16C06			16	z	aat	3	8	aan	zaat3	拃				
 B16C07	D2323		16	z	aat	3	8	aan	zaat3	軋				
 B16C08			16	z	aat	3	8	aan	zaat3	茁				
-B16C09	D2324		16	z	aat	3	8	aan	zaat3	紮	紥			
+B16C09			16	z	aat	3	8	aan	zaat3	紥	紮			
 B16C10			16	z	aat	3	8	aan	zaat3	猰				
 B16C11			16	z	aat	3	8	aan	zaat3	䝟				
 B16C12			16	z	aat	3	8	aan	zaat3	鍘				
@@ -3338,11 +3336,11 @@ B16H05	D2338		16	n	aan	6	6	aan	naan6	難
 B16I01			16	n	aat	6	9	aan	naat6	豽				
 B16I02	D2401		16	n	aat	6	9	aan	naat6	捺				
 B16J01	D2402		16	s	aan	1	1	aan	saan1	山				
-B16J02	D2403		16	s	aan	1	1	aan	saan1	刪	删			
+B16J02			16	s	aan	1	1	aan	saan1	删	刪			
 B16J03	D2404		16	s	aan	1	1	aan	saan1	舢				
-B16J04			16	s	aan	1	1	aan	saan1	姍	姗			
+B16J04			16	s	aan	1	1	aan	saan1	姗	姍			
 B16J05			16	s	aan	1	1	aan	saan1	芟				
-B16J06			16	s	aan	1	1	aan	saan1	柵	栅			
+B16J06			16	s	aan	1	1	aan	saan1	栅	柵			
 B16J07	D2406		16	s	aan	1	1	aan	saan1	閂				
 B16J08	D2405		16	s	aan	1	1	aan	saan1	珊				
 B16J09			16	s	aan	1	1	aan	saan1	跚				
@@ -3799,7 +3797,7 @@ B18E01			18	c	in	4	4	in	cin4	匁
 B18E02	D2713		18	c	in	4	4	in	cin4	前				
 B18E03			18	c	in	4	4	in	cin4	歬				
 B18E04			18	c	in	4	4	in	cin4	媊				
-B18E05			18	c	in	4	4	in	cin4	𠪨	廛			本書廛部件均作𠪨（無首畫點筆），為免混亂一律作廛
+B18E05			18	c	in	4	4	in	cin4	𠪨	廛			
 B18E06	D2712		18	c	in	4	4	in	cin4	錢				
 B18E07			18	c	in	4	4	in	cin4	瀍				
 B18E08			18	c	in	4	4	in	cin4	㕓				
@@ -3968,9 +3966,9 @@ B18L10	D2814		18	j	in	4	4	in	jin4	涎
 B18L11			18	j	in	4	4	in	jin4	郔				
 B18L12	D2815		18	j	in	4	4	in	jin4	焉				
 B18L13			18	j	in	4	4	in	jin4	舷				
-B18L14			18	j	in	4	4	in	jin4	妍	姸			
+B18L14			18	j	in	4	4	in	jin4	姸	妍			
 B18L15			18	j	in	4	4	in	jin4	絃				
-B18L16			18	j	in	4	4	in	jin4	挻				
+B18L16			18	j	in	4	4	in	jin4	梴				
 B18L17	D2811		18	j	in	4	4	in	jin4	然				
 B18L18			18	j	in	4	4	in	jin4	⿱⿰月犬灬				
 B18L19	D2816		18	j	in	4	4	in	jin4	筵				
@@ -4158,10 +4156,10 @@ B19G03			19	b	in	1	1	in	bin1	萹
 B19G04			19	b	in	1	1	in	bin1	稨				
 B19G05			19	b	in	1	1	in	bin1	緶				
 B19G06			19	b	in	1	1	in	bin1	箯				
-B19G07	D2913		19	b	in	1	1	in	bin1	邊				
+B19G07			19	b	in	1	1	in	bin1	𮞽				
 B19G08			19	b	in	1	1	in	bin1	蝙				
 B19G09	D2914		19	b	in	1	1	in	bin1	鞭				
-B19G10			19	b	in	1	1	in	bin1	邊				
+B19G10	D2913		19	b	in	1	1	in	bin1	邊				
 B19G11	D2915		19	b	in	1	1	in	bin1	辮				
 B19G12			19	b	in	1	1	in	bin1	籩				
 B19G13			19	b	in	1	1	in	bin1	𩽲				
@@ -4197,7 +4195,7 @@ B19I02			19	b	it	1	7	in	bit1	珌
 B19I03			19	b	it	1	7	in	bit1	鉍				
 B19I04			19	b	it	1	7	in	bit1	觱				
 B19I05			19	b	it	3	8	in	bit3	別	别			
-B19I06			19	b	it	3	8	in	bit3	㿜				
+B19I06			19	b	it	3	8	in	bit3	癟				
 B19I07			19	b	it	3	8	in	bit3	鷩				
 B19I08	D2926		19	b	it	3	8	in	bit3	鱉				
 B19I09			19	b	it	3	8	in	bit3	鼈				
@@ -4279,7 +4277,7 @@ B19P16			19	h	in	2	2	in	hin2	俔
 B19P17			19	h	in	2	2	in	hin2	峴				
 B19P18	D3006		19	h	in	2	2	in	hin2	蜆				
 B19P19	D3007		19	h	in	2	2	in	hin2	遣				
-B19P20			19	h	in	2	2	in	hin2	幰				
+B19P20			19	h	in	2	2	in	hin2	⿰巾𭂅				
 B19P21			19	h	in	2	2	in	hin2	繾				
 B19P22			19	h	in	2	2	in	hin2	譴				
 B19P23	D3005		19	h	in	2	2	in	hin2	顯				
@@ -4345,7 +4343,7 @@ B21A06			21	p	un	3	3	un	pun3	沜
 B21A07			21	p	un	3	3	un	pun3	牉				
 B21A08			21	p	un	3	3	un	pun3	絆				
 B21A09			21	p	un	3	3	un	pun3	頖				
-B21B01			21	p	un	4	4	un	pun4	拌				
+B21B01			21	p	un	4	4	un	pun4	柈				
 B21B02	D3028		21	p	un	4	4	un	pun4	盆				
 B21B03			21	p	un	4	4	un	pun4	胖				
 B21B04			21	p	un	4	4	un	pun4	般				
@@ -4434,7 +4432,7 @@ B21I11	D3108		21	w	un	2	2	un	wun2	腕
 B21I12	D3107		21	w	un	2	2	un	wun2	皖				
 B21I13			21	w	un	2	2	un	wun2	筦				
 B21I14	D3106		21	w	un	2	2	un	wun2	碗				
-B21I15			21	w	un	2	2	un	wun2	掔				
+B21I15			21	w	un	2	2	un	wun2	𢯲				
 B21I16			21	w	un	2	2	un	wun2	豌				
 B21J01	D3109		21	w	un	4	4	un	wun4	垣				
 B21J02			21	w	un	4	4	un	wun4	洹				
@@ -4660,7 +4658,7 @@ B22K15	D3236		22	j	an	1	1	an	jan1	湮
 B22K16			22	j	an	1	1	an	jan1	陻				
 B22K17			22	j	an	1	1	an	jan1	婣				
 B22K18			22	j	an	1	1	an	jan1	焮				
-B22K19			22	j	an	1	1	an	jan1	姻				
+B22K19			22	j	an	1	1	an	jan1	絪				
 B22K20	D3238		22	j	an	1	1	an	jan1	甄				
 B22K21			22	j	an	1	1	an	jan1	禋				
 B22K22			22	j	an	1	1	an	jan1	溵				
@@ -4671,7 +4669,7 @@ B22K26			22	j	an	1	1	an	jan1	鞇
 B22K27			22	j	an	1	1	an	jan1	諲				
 B22K28			22	j	an	1	1	an	jan1	駰				
 B22K29			22	j	an	1	1	an	jan1	闉				
-B22K30			22	j	an	1	1	an	jan1	薽				
+B22K30			22	j	an	1	1	an	jan1	籈				
 B22K31	D3239		22	j	an	2	2	an	jan2	忍				
 B22K32			22	j	an	2	2	an	jan2	涊				
 B22K33			22	j	an	2	2	an	jan2	隠				
@@ -4703,21 +4701,20 @@ B22L21			22	j	an	6	6	an	jan6	仞	仭
 B22L22	D3305		22	j	an	6	6	an	jan6	孕				
 B22L23			22	j	an	6	6	an	jan6	牣				
 B22L24			22	j	an	6	6	an	jan6	肕				
-B22L25			22	j	an	6	6	an	jan6	紉				
+B22L25			22	j	an	6	6	an	jan6	紉				原字條重複，只收一次
 B22L26			22	j	an	6	6	an	jan6	胤				
 B22L27			22	j	an	6	6	an	jan6	芿				
 B22L28			22	j	an	6	6	an	jan6	軔				
 B22L29			22	j	an	6	6	an	jan6	訒				
 B22L30			22	j	an	6	6	an	jan6	衅				
 B22L31	D3306		22	j	an	6	6	an	jan6	韌				
-B22L32			22	j	an	6	6	an	jan6	紉				
-B22L33			22	j	an	6	6	an	jan6	媵				
-B22L34			22	j	an	6	6	an	jan6	認				
-B22L35			22	j	an	6	6	an	jan6	酳				
-B22L36			22	j	an	6	6	an	jan6	𡢘				
-B22L37			22	j	an	6	6	an	jan6	憖				
-B22L38			22	j	an	6	6	an	jan6	舋				
-B22L39			22	j	an	6	6	an	jan6	釁				
+B22L32			22	j	an	6	6	an	jan6	媵				
+B22L33			22	j	an	6	6	an	jan6	認				
+B22L34			22	j	an	6	6	an	jan6	酳				
+B22L35			22	j	an	6	6	an	jan6	𡢘				
+B22L36			22	j	an	6	6	an	jan6	憖				
+B22L37			22	j	an	6	6	an	jan6	舋				
+B22L38			22	j	an	6	6	an	jan6	釁				
 B22M01			22	j	at	1	7	an	jat1	乙				
 B22M02	D3307		22	j	at	1	7	an	jat1	一				
 B22M03	D3308		22	j	at	1	7	an	jat1	壹				
@@ -4756,7 +4753,7 @@ B22N14			22	g	an	2	2	an	gan2	慬
 B22N15			22	g	an	2	2	an	gan2	廑	厪			
 B22N16			22	g	an	2	2	an	gan2	瑾				
 B22N17			22	g	an	2	2	an	gan2	槿				
-B22N18	D3319		22	g	an	2	2	an	gan2	緊				
+B22N18			22	g	an	2	2	an	gan2	𦂳	緊			
 B22N19			22	g	an	2	2	an	gan2	殣				
 B22N20			22	g	an	2	2	an	gan2	㢙				
 B22N21	D3320		22	g	an	2	2	an	gan2	謹				
@@ -4804,7 +4801,7 @@ B22U07			22	ng	an	4	4	an	ngan4	狺
 B22U08			22	ng	an	4	4	an	ngan4	硍				
 B22U09			22	ng	an	4	4	an	ngan4	訢				
 B22U10	D3331		22	ng	an	4	4	an	ngan4	銀				
-B22U11			22	ng	an	4	4	an	ngan4	䦖				
+B22U11			22	ng	an	4	4	an	ngan4	誾				
 B22U12			22	ng	an	4	4	an	ngan4	嚚				
 B22U13			22	ng	an	6	6	an	ngan6	韌				
 B22V01	D3332		22	ng	at	6	9	an	ngat6	兀				
@@ -4948,7 +4945,7 @@ B23H15			23	m	an	4	4	an	man4	雯
 B23H16			23	m	an	4	4	an	man4	瑉				
 B23H17	D3425		23	m	an	4	4	an	man4	聞				
 B23H18			23	m	an	4	4	an	man4	閩				
-B23H19			23	m	an	4	4	an	man4	瑉				
+B23H19			23	m	an	4	4	an	man4	䃉				
 B23H20			23	m	an	4	4	an	man4	閿				
 B23H21			23	m	an	5	5	an	man5	勽				
 B23H22	D3429		23	m	an	5	5	an	man5	刎				
@@ -4989,7 +4986,7 @@ B23I07			23	m	at	6	9	an	mat6	宻
 B23I08	D3439		23	m	at	6	9	an	mat6	袜				
 B23I09	D3437		23	m	at	6	9	an	mat6	密				
 B23I10	D3436		23	m	at	6	9	an	mat6	蜜				
-B23I11			23	m	at	6	9	an	mat6	蔑				
+B23I11			23	m	at	6	9	an	mat6	篾				
 B23I12			23	m	at	6	9	an	mat6	謐				
 B23I13	D3438		23	m	at	6	9	an	mat6	襪				
 B23I14			23	m	at	6	9	an	mat6	韈				
@@ -5068,7 +5065,7 @@ B23L07			23	f	at	1	7	an	fat1	曶
 B23L08			23	f	at	1	7	an	fat1	拂				
 B23L09	D3514		23	f	at	1	7	an	fat1	忽				
 B23L10			23	f	at	1	7	an	fat1	昒				
-B23L11			23	f	at	1	7	an	fat1	芾				
+B23L11			23	f	at	1	7	an	fat1	⿱⺾市				
 B23L12			23	f	at	1	7	an	fat1	茀				
 B23L13			23	f	at	1	7	an	fat1	氟				
 B23L14			23	f	at	1	7	an	fat1	祓				
@@ -5104,7 +5101,7 @@ B23L43			23	f	at	6	9	an	fat6	韍
 B23L44			23	f	at	6	9	an	fat6	罸				
 B23M01	D3520		23	w	an	1	1	an	wan1	温	溫			
 B23M02			23	w	an	1	1	an	wan1	嗢				
-B23M03			23	w	an	1	1	an	wan1	蒕	蒀			
+B23M03			23	w	an	1	1	an	wan1	蒀	蒕			
 B23M04			23	w	an	1	1	an	wan1	溫	温			
 B23M05			23	w	an	1	1	an	wan1	煴	熅			
 B23M06			23	w	an	1	1	an	wan1	氲	氳			
@@ -5112,7 +5109,7 @@ B23M07			23	w	an	1	1	an	wan1	褞
 B23M08	D3521		23	w	an	1	1	an	wan1	瘟				
 B23M09			23	w	an	1	1	an	wan1	奫				
 B23M10			23	w	an	1	1	an	wan1	緼	縕			
-B23M11			23	w	an	1	1	an	wan1	轀	輼			
+B23M11			23	w	an	1	1	an	wan1	輼	轀			
 B23M12			23	w	an	1	1	an	wan1	蕰	薀			
 B23M13			23	w	an	1	1	an	wan1	豱				
 B23M14			23	w	an	1	1	an	wan1	贇				
@@ -5156,24 +5153,23 @@ B23N27	D3538		23	w	an	5	5	an	wan5	殞
 B23N28			23	w	an	5	5	an	wan5	霣				
 B23N29			23	w	an	5	5	an	wan5	韞				
 B23N30	D3537		23	w	an	5	5	an	wan5	藴	蘊			
-B23N31			23	w	an	5	5	an	wan5	鼲				
-B23N32			23	w	an	6	6	an	wan6	圂				
-B23N33	D3541		23	w	an	6	6	an	wan6	混				
-B23N34			23	w	an	6	6	an	wan6	掍				
-B23N35	D3542		23	w	an	6	6	an	wan6	渾				
-B23N36			23	w	an	6	6	an	wan6	鄆				
-B23N37			23	w	an	6	6	an	wan6	惲				
-B23N38	D3539		23	w	an	6	6	an	wan6	運				
-B23N39			23	w	an	6	6	an	wan6	琿				
-B23N40			23	w	an	6	6	an	wan6	韵				
-B23N41			23	w	an	6	6	an	wan6	溷				
-B23N42			23	w	an	6	6	an	wan6	暈				
-B23N43			23	w	an	6	6	an	wan6	慁				
-B23N44			23	w	an	6	6	an	wan6	諢				
-B23N45			23	w	an	6	6	an	wan6	餫				
-B23N46			23	w	an	6	6	an	wan6	韗				
-B23N47	D3540		23	w	an	6	6	an	wan6	韻				
-B23N48			23	w	an	6	6	an	wan6	鯶				
+B23N31			23	w	an	6	6	an	wan6	圂				
+B23N32	D3541		23	w	an	6	6	an	wan6	混				
+B23N33			23	w	an	6	6	an	wan6	掍				
+B23N34	D3542		23	w	an	6	6	an	wan6	渾				
+B23N35			23	w	an	6	6	an	wan6	鄆				
+B23N36			23	w	an	6	6	an	wan6	惲				
+B23N37	D3539		23	w	an	6	6	an	wan6	運				
+B23N38			23	w	an	6	6	an	wan6	琿				
+B23N39			23	w	an	6	6	an	wan6	韵				
+B23N40			23	w	an	6	6	an	wan6	溷				
+B23N41			23	w	an	6	6	an	wan6	暈				
+B23N42			23	w	an	6	6	an	wan6	慁				
+B23N43			23	w	an	6	6	an	wan6	諢				
+B23N44			23	w	an	6	6	an	wan6	餫				
+B23N45			23	w	an	6	6	an	wan6	韗				
+B23N46	D3540		23	w	an	6	6	an	wan6	韻				
+B23N47			23	w	an	6	6	an	wan6	鯶				
 B23O01	D3543		23	w	at	1	7	an	wat1	屈				
 B23O02			23	w	at	1	7	an	wat1	圣				
 B23O03			23	w	at	1	7	an	wat1	尉				
@@ -5222,7 +5218,7 @@ B23P23	D3601		23	gw	an	3	3	an	gwan3	棍
 B23P24			23	gw	an	3	3	an	gwan3	攟				
 B23Q01	D3602		23	gw	an	6	6	an	gwan6	郡				
 B23Q02			23	gw	an	6	6	an	gwan6	𨛦				
-B23R01			23	gw	at	1	7	an	gwat1	汩				
+B23R01			23	gw	at	1	7	an	gwat1	汨				
 B23R02			23	gw	at	1	7	an	gwat1	扢				
 B23R03	D3603		23	gw	at	1	7	an	gwat1	骨				
 B23R04			23	gw	at	1	7	an	gwat1	淈				
@@ -5262,7 +5258,7 @@ B23S19			23	kw	an	2	2	an	kwan2	梱
 B23S20	D3609		23	kw	an	2	2	an	kwan2	菌				
 B23S21			23	kw	an	2	2	an	kwan2	壼				
 B23S22	D3610		23	kw	an	2	2	an	kwan2	綑				
-B23S23			23	kw	an	2	2	an	kwan2	稇	稛			
+B23S23			23	kw	an	2	2	an	kwan2	稛	稇			
 B23S24			23	kw	an	2	2	an	kwan2	㥵				
 B23S25			23	kw	an	2	2	an	kwan2	緄				
 B23S26			23	kw	an	2	2	an	kwan2	箘				
@@ -5352,7 +5348,7 @@ B24D02			24	c	aam	1	1	aam	caam1	𠫵
 B24D03	D3636		24	c	aam	1	1	aam	caam1	參	叁|参			
 B24D04			24	c	aam	1	1	aam	caam1	叅				
 B24D05			24	c	aam	1	1	aam	caam1	毿				
-B24D06			24	c	aam	1	1	aam	caam1	驂				
+B24D06			24	c	aam	1	1	aam	caam1	𬳯				
 B24D07			24	c	aam	2	2	aam	caam2	惨	慘			
 B24D08			24	c	aam	2	2	aam	caam2	𫮅	墋			
 B24D09			24	c	aam	2	2	aam	caam2	掺	摻			
@@ -5417,7 +5413,7 @@ B24I06			24	s	aam	1	1	aam	saam1	釤
 B24I07			24	s	aam	1	1	aam	saam1	糁	糝			
 B24I08			24	s	aam	1	1	aam	saam1	𫃰	縿			
 B24I09			24	s	aam	1	1	aam	saam1	蔪				
-B24I10			24	s	aam	1	1	aam	saam1	糁	糝			
+B24I10			24	s	aam	1	1	aam	saam1	糝	糁			
 B24I11			24	s	aam	3	3	aam	saam3	三				
 B24I12			24	s	aam	3	3	aam	saam3	釤				
 B24I13			24	s	aam	3	3	aam	saam3	糂				
@@ -5564,10 +5560,10 @@ B25F08			25	t	aap	3	8	aam	taap3	毾
 B25F09	D3807		25	t	aap	3	8	aam	taap3	榻				
 B25F10			25	t	aap	3	8	aam	taap3	遢				
 B25F11			25	t	aap	3	8	aam	taap3	錔				
-B25F12			25	t	aap	3	8	aam	taap3	䶀				
+B25F12			25	t	aap	3	8	aam	taap3	䌈				
 B25F13			25	t	aap	3	8	aam	taap3	蹹				
 B25F14			25	t	aap	3	8	aam	taap3	闒				
-B25G01			25		aap	3	8	aam	aap3	狎				
+B25G01			25		aap	3	8	aam	aap3	押				
 B25G02			25		aap	3	8	aam	aap3	魻				
 B25G03	D3808		25		aap	3	8	aam	aap3	鴨				
 B25H01			25	h	aam	1	1	aam	haam1	酣				
@@ -5608,7 +5604,7 @@ B25J10			25	h	aap	6	9	aam	haap6	峽
 B25J11			25	h	aap	6	9	aam	haap6	盍				
 B25J12	D3823		25	h	aap	6	9	aam	haap6	挾				
 B25J13	D3822		25	h	aap	6	9	aam	haap6	狹				
-B25J14			25	h	aap	6	9	aam	haap6	陝				
+B25J14			25	h	aap	6	9	aam	haap6	陜				
 B25J15			25	h	aap	6	9	aam	haap6	梜				
 B25J16			25	h	aap	6	9	aam	haap6	愜				
 B25J17			25	h	aap	6	9	aam	haap6	硤				
@@ -5740,7 +5736,7 @@ B26L03			26	s	ip	3	8	im	sip3	揲
 B26L04			26	s	ip	3	8	im	sip3	霅				
 B26L05			26	s	ip	3	8	im	sip3	𤁳				
 B26L06			26	s	ip	3	8	im	sip3	韘				
-B26L07			26	s	ip	3	8	im	sip3	熚				
+B26L07			26	s	ip	3	8	im	sip3	爗				
 B26L08			26	s	ip	3	8	im	sip3	灄				
 B26L09			26	s	ip	3	8	im	sip3	囁				
 B26L10	D3921		26	s	ip	3	8	im	sip3	懾				
@@ -5764,10 +5760,10 @@ B26M14			26	j	im	2	2	im	jim2	广
 B26M15			26	j	im	2	2	im	jim2	奄				
 B26M16			26	j	im	2	2	im	jim2	揜				
 B26M17	D3927		26	j	im	2	2	im	jim2	掩				
-B26M18			26	j	im	2	2	im	jim2	揜				
+B26M18			26	j	im	2	2	im	jim2	渰				
 B26M19			26	j	im	2	2	im	jim2	罨				
 B26M20			26	j	im	2	2	im	jim2	檿				
-B26M21			26	j	im	2	2	im	jim2	厴				
+B26M21			26	j	im	2	2	im	jim2	⿱厭卑				
 B26M22			26	j	im	2	2	im	jim2	靨				
 B26M23			26	j	im	2	2	im	jim2	黶				
 B26M24			26	j	im	3	3	im	jim3	猒				
@@ -5789,7 +5785,7 @@ B26N09	D3935		26	j	im	4	4	im	jim4	閻
 B26N10	D3934		26	j	im	4	4	im	jim4	燄	焰|𦦨			
 B26N11			26	j	im	4	4	im	jim4	噞				
 B26N12			26	j	im	4	4	im	jim4	簷	檐			
-B26N13			26	j	im	4	4	im	jim4	盬				
+B26N13			26	j	im	4	4	im	jim4	𬐱				字形本作⿱⿰臣⿱𠂉占皿
 B26N14	D3931		26	j	im	4	4	im	jim4	嚴				
 B26N15			26	j	im	4	4	im	jim4	爓				
 B26N16			26	j	im	4	4	im	jim4	儼				
@@ -5833,7 +5829,7 @@ B26O06			26	j	ip	6	9	im	jip6	𠉪
 B26O07	D3944		26	j	ip	6	9	im	jip6	業				
 B26O08	D3945		26	j	ip	6	9	im	jip6	葉				
 B26O09			26	j	ip	6	9	im	jip6	厭				
-B26O10			26	j	ip	6	9	im	jip6	槷				
+B26O10			26	j	ip	6	9	im	jip6	𣙗	槷			
 B26O11			26	j	ip	6	9	im	jip6	𠟪				
 B26O12			26	j	ip	6	9	im	jip6	鄴				
 B26O13			26	j	ip	6	9	im	jip6	燁				
@@ -5843,7 +5839,7 @@ B26O16			26	j	ip	6	9	im	jip6	饁
 B26O17			26	j	ip	6	9	im	jip6	闑				
 B26O18			26	j	ip	6	9	im	jip6	鎳				
 B26O19			26	j	ip	6	9	im	jip6	擪				
-B26O20			26	j	ip	6	9	im	jip6	熚				
+B26O20			26	j	ip	6	9	im	jip6	爗				
 B26O21	D3946		26	j	ip	6	9	im	jip6	孽	孼			
 B26O22			26	j	ip	6	9	im	jip6	櫱				
 B26O23			26	j	ip	6	9	im	jip6	蘖	蘗			
@@ -6042,7 +6038,7 @@ B28J11			28	s	am	1	1	am	sam1	葠
 B28J12			28	s	am	1	1	am	sam1	蓡				
 B28J13			28	s	am	1	1	am	sam1	槮				
 B28J14			28	s	am	1	1	am	sam1	踸				
-B28J15			28	s	am	1	1	am	sam1	蓡				
+B28J15			28	s	am	1	1	am	sam1	薓				
 B28J16			28	s	am	2	2	am	sam2	伈				
 B28J17			28	s	am	2	2	am	sam2	邥				
 B28J18	D4126		28	s	am	2	2	am	sam2	沈				
@@ -6061,7 +6057,7 @@ B28J30			28	s	am	2	2	am	sam2	瀋
 B28J31			28	s	am	2	2	am	sam2	讅				
 B28J32			28	s	am	3	3	am	sam3	沁				
 B28J33	D4129		28	s	am	3	3	am	sam3	滲				
-B28J34			28	s	am	3	3	am	sam3	潘				
+B28J34			28	s	am	3	3	am	sam3	瀋				
 B28J35			28	s	am	3	3	am	sam3	蘸				
 B28K01	D4130		28	s	am	4	4	am	sam4	忱				
 B28K02	D4131		28	s	am	4	4	am	sam4	岑				
@@ -6370,9 +6366,9 @@ B30H10			30	g	ang	1	1	ang	gang1	稉
 B30H11	D4341		30	g	ang	1	1	ang	gang1	粳				
 B30H12			30	g	ang	1	1	ang	gang1	縆	緪			
 B30H13			30	g	ang	1	1	ang	gang1	賡				
-B30H14	D4339		30	g	ang	1	1	ang	gang1	羮	羹			
+B30H14			30	g	ang	1	1	ang	gang1	羹	羮			
 B30H15			30	g	ang	1	1	ang	gang1	鶊				
-B30H16			30	g	ang	2	2	ang	gang2	亙	亘			
+B30H16			30	g	ang	2	2	ang	gang2	𠀕	亘|亙			
 B30H17	D4401		30	g	ang	2	2	ang	gang2	亘	亙			
 B30H18			30	g	ang	2	2	ang	gang2	秔				
 B30H19	D4342		30	g	ang	2	2	ang	gang2	耿				
@@ -6807,7 +6803,7 @@ B32T08			32	t	ong	2	2	ong	tong2	趟
 B32T09			32	t	ong	2	2	ong	tong2	踼				
 B32T10			32	t	ong	2	2	ong	tong2	鐋				
 B32T11			32	t	ong	2	2	ong	tong2	儻				
-B32T12			32	t	ong	2	2	ong	tong2	戃				
+B32T12			32	t	ong	2	2	ong	tong2	攩				
 B32T13	D4704		32	t	ong	3	3	ong	tong3	熨				
 B32T14	D4706		32	t	ong	3	3	ong	tong3	躺				
 B32T15	D4705		32	t	ong	3	3	ong	tong3	燙				
@@ -6822,7 +6818,7 @@ B32U08			32	t	ong	4	4	ong	tong4	幢
 B32U09			32	t	ong	4	4	ong	tong4	螗				
 B32U10			32	t	ong	4	4	ong	tong4	瞠				
 B32U11	D4711		32	t	ong	4	4	ong	tong4	糖				
-B32U12			32	t	ong	4	4	ong	tong4	榶				
+B32U12			32	t	ong	4	4	ong	tong4	赯				
 B32U13	D4713		32	t	ong	4	4	ong	tong4	螳				
 B32U14			32	t	ong	4	4	ong	tong4	餳				
 B32U15			32	t	ong	4	4	ong	tong4	餹				
@@ -7012,7 +7008,7 @@ B33J32			33	f	ong	2	2	ong	fong2	幌
 B33J33			33	f	ong	2	2	ong	fong2	滉				
 B33J34			33	f	ong	2	2	ong	fong2	榥				
 B33J35			33	f	ong	2	2	ong	fong2	髣				
-B33J36	D4822		33	f	ong	3	3	ong	fong3	況	况			
+B33J36			33	f	ong	3	3	ong	fong3	况	況			
 B33J37	D4821		33	f	ong	3	3	ong	fong3	放				
 B33J38			33	f	ong	3	3	ong	fong3	貺				
 B33J39			33	f	ong	3	3	ong	fong3	鄺				
@@ -7048,7 +7044,7 @@ B33N02	D4834		33	w	ong	4	4	ong	wong4	皇
 B33N03	D4835		33	w	ong	4	4	ong	wong4	凰				
 B33N04			33	w	ong	4	4	ong	wong4	偟				
 B33N05			33	w	ong	4	4	ong	wong4	喤				
-B33N06	D4832		33	w	ong	4	4	ong	wong4	黃	黄			
+B33N06			33	w	ong	4	4	ong	wong4	黄	黃			
 B33N07			33	w	ong	4	4	ong	wong4	湟				
 B33N08	D4839		33	w	ong	4	4	ong	wong4	徨				
 B33N09	D4837		33	w	ong	4	4	ong	wong4	惶				
@@ -7073,7 +7069,7 @@ B33N27			33	w	ong	6	6	ong	wong6	王
 B33N28	D4844		33	w	ong	6	6	ong	wong6	旺				
 B33N29			33	w	ong	6	6	ong	wong6	迋				
 B33O01			33	w	ok	3	8	ong	wok3	濩				
-B33O02			33	w	ok	3	8	ong	wok3	獲				
+B33O02			33	w	ok	3	8	ong	wok3	𫉬				
 B33O03			33	w	ok	3	8	ong	wok3	雘				
 B33O04			33	w	ok	3	8	ong	wok3	檴				
 B33O05			33	w	ok	3	8	ong	wok3	彠				
@@ -7118,11 +7114,11 @@ B33R04	D4856		33	kw	ong	3	3	ong	kwong3	曠
 B33R05	D4857		33	kw	ong	3	3	ong	kwong3	礦				
 B33R06			33	kw	ong	3	3	ong	kwong3	纊				
 B33R07			33	kw	ong	3	3	ong	kwong3	鑛				
-B33S01			33	kw	ong	4	4	ong	kwong4	呈				
+B33S01			33	kw	ong	4	4	ong	kwong4	呈	呈			
 B33S02	D4901		33	kw	ong	4	4	ong	kwong4	狂				
 B33T01			33	kw	ok	3	8	ong	kwok3	椁				
 B33T02			33	kw	ok	3	8	ong	kwok3	廓				
-B33T03			33	kw	ok	3	8	ong	kwok3	櫎				
+B33T03			33	kw	ok	3	8	ong	kwok3	槨				
 B33T04			33	kw	ok	3	8	ong	kwok3	擴				
 B33T05			33	kw	ok	3	8	ong	kwok3	彍				
 B33T06			33	kw	ok	3	8	ong	kwok3	蠼				
@@ -7186,7 +7182,7 @@ B34A13			34	g	on	2	2	on	gon2	赶
 B34A14	D4926		34	g	on	2	2	on	gon2	稈				
 B34A15	D4925		34	g	on	2	2	on	gon2	趕				
 B34A16			34	g	on	2	2	on	gon2	擀				
-B34A17			34	g	on	3	3	on	gon3	旱				
+B34A17			34	g	on	3	3	on	gon3	旰				
 B34A18			34	g	on	3	3	on	gon3	骭				
 B34A19	D4927		34	g	on	3	3	on	gon3	幹				
 B34A20			34	g	on	3	3	on	gon3	榦				
@@ -7297,7 +7293,7 @@ B36A35	D5023		36	z	eon	2	2	eon	zeon2	贐
 B36A36			36	z	eon	2	2	eon	zeon2	鱒				
 B36A37	D5025		36	z	eon	3	3	eon	zeon3	俊				
 B36A38			36	z	eon	3	3	eon	zeon3	峻				
-B36A39	D5026		36	z	eon	3	3	eon	zeon3	晉	晉|晋			
+B36A39			36	z	eon	3	3	eon	zeon3	晋	晉			
 B36A40			36	z	eon	3	3	eon	zeon3	晉	晋			
 B36A41			36	z	eon	3	3	eon	zeon3	浚				
 B36A42			36	z	eon	3	3	eon	zeon3	陖				
@@ -7411,7 +7407,7 @@ B36I17	D5114		36	s	eon	6	6	eon	seon6	順
 B36I18			36	s	eon	6	6	eon	seon6	蜃				
 B36I19			36	s	eon	6	6	eon	seon6	鬊				
 B36J01	D5115		36	s	eot	1	7	eon	seot1	戌				
-B36J02	D5119		36	s	eot	1	7	eon	seot1	䘏				
+B36J02			36	s	eot	1	7	eon	seot1	卹				
 B36J03	D5116		36	s	eot	1	7	eon	seot1	恤				
 B36J04			36	s	eot	1	7	eon	seot1	帥				
 B36J05	D5117		36	s	eot	1	7	eon	seot1	率				
@@ -7485,7 +7481,7 @@ B38C03			38	z	yut	3	8	yun	zyut3	柮
 B38C04			38	z	yut	3	8	yun	zyut3	茁				
 B38C05			38	z	yut	3	8	yun	zyut3	剟				
 B38C06			38	z	yut	3	8	yun	zyut3	絀				
-B38C07			38	z	yut	3	8	yun	zyut3	梲	棁			
+B38C07			38	z	yut	3	8	yun	zyut3	棁	梲			
 B38C08	D5140		38	z	yut	3	8	yun	zyut3	啜				
 B38C09			38	z	yut	3	8	yun	zyut3	惙				
 B38C10			38	z	yut	3	8	yun	zyut3	掇				
@@ -7499,7 +7495,7 @@ B38C17			38	z	yut	3	8	yun	zyut3	醊
 B38C18			38	z	yut	3	8	yun	zyut3	錣				
 B38C19			38	z	yut	3	8	yun	zyut3	餟				
 B38C20			38	z	yut	3	8	yun	zyut3	歠				
-B38C21	D5142		38	z	yut	6	9	yun	zyut6	絕				
+B38C21			38	z	yut	6	9	yun	zyut6	絶	絕			
 B38C22			38	z	yut	6	9	yun	zyut6	蕝				
 B38D01	D5143		38	c	yun	1	1	yun	cyun1	川				
 B38D02			38	c	yun	1	1	yun	cyun1	巛				
@@ -7594,14 +7590,14 @@ B38I04	D5228		38	s	yun	4	4	yun	syun4	漩
 B38I05			38	s	yun	4	4	yun	syun4	璇				
 B38I06			38	s	yun	4	4	yun	syun4	蔙				
 B38I07			38	s	yun	4	4	yun	syun4	還				
-B38I08			38	s	yun	4	4	yun	syun4	𤪽				
+B38I08			38	s	yun	4	4	yun	syun4	璿				
 B38I09			38	s	yun	4	4	yun	syun4	鏇				
 B38I10	D5229		38	s	yun	5	5	yun	syun5	吮				
 B38I11			38	s	yun	6	6	yun	syun6	彖				
 B38I12			38	s	yun	6	6	yun	syun6	瑑				
 B38I13	D5230		38	s	yun	6	6	yun	syun6	篆				
 B38J01	D5232		38	s	yut	3	8	yun	syut3	雪				
-B38J02	D5231		38	s	yut	3	8	yun	syut3	說	説			
+B38J02	D5231		38	s	yut	3	8	yun	syut3	説	說			
 B38J03			38	s	yut	3	8	yun	syut3	鱈				
 B38K01			38	j	yun	1	1	yun	jyun1	夗				
 B38K02			38	j	yun	1	1	yun	jyun1	眢				
@@ -7666,7 +7662,7 @@ B38L32			38	j	yun	4	4	yun	jyun4	鈆
 B38L33	D5249		38	j	yun	4	4	yun	jyun4	源				
 B38L34	D5250		38	j	yun	4	4	yun	jyun4	圓	圎			
 B38L35	D5251		38	j	yun	4	4	yun	jyun4	猿				
-B38L36			38	j	yun	4	4	yun	jyun4	椽				
+B38L36			38	j	yun	4	4	yun	jyun4	掾				
 B38L37			38	j	yun	4	4	yun	jyun4	嫄				
 B38L38	D5245		38	j	yun	4	4	yun	jyun4	園				
 B38L39			38	j	yun	4	4	yun	jyun4	楥				
@@ -7724,15 +7720,15 @@ B38M08			38	j	yut	6	9	yun	jyut6	戉
 B38M09			38	j	yut	6	9	yun	jyut6	刖				
 B38M10			38	j	yut	6	9	yun	jyut6	狘				
 B38M11			38	j	yut	6	9	yun	jyut6	軏				
-B38M12	D5319		38	j	yut	6	9	yun	jyut6	悅	悦			
+B38M12	D5319		38	j	yut	6	9	yun	jyut6	悦	悅			
 B38M13			38	j	yut	6	9	yun	jyut6	軛				
-B38M14	D5316		38	j	yut	6	9	yun	jyut6	粵	粤			
+B38M14			38	j	yut	6	9	yun	jyut6	粤	粵			
 B38M15	D5320		38	j	yut	6	9	yun	jyut6	越				
 B38M16			38	j	yut	6	9	yun	jyut6	軶				
 B38M17			38	j	yut	6	9	yun	jyut6	鉞				
 B38M18			38	j	yut	6	9	yun	jyut6	愈				
-B38M19			38	j	yut	6	9	yun	jyut6	說	説			
-B38M20	D5317		38	j	yut	6	9	yun	jyut6	閱	閲			
+B38M19			38	j	yut	6	9	yun	jyut6	説	說			
+B38M20	D5317		38	j	yut	6	9	yun	jyut6	閲	閱			
 B38M21			38	j	yut	6	9	yun	jyut6	樾				
 B38M22			38	j	yut	6	9	yun	jyut6	𧑅				
 B38N01	D5321		38	g	yun	1	1	yun	gyun1	捐				
@@ -7759,7 +7755,7 @@ B38N21			38	g	yun	3	3	yun	gyun3	鄄
 B38N22			38	g	yun	3	3	yun	gyun3	罥				
 B38N23	D5328		38	g	yun	3	3	yun	gyun3	絹				
 B38N24			38	g	yun	3	3	yun	gyun3	獧				
-B38O01			38	g	yun	6	6	yun	gyun6	券				
+B38O01			38	g	yun	6	6	yun	gyun6	劵				
 B38O02	D5330		38	g	yun	6	6	yun	gyun6	倦				
 B38O03			38	g	yun	6	6	yun	gyun6	睠				
 B38P01			38	g	yut	6	9	yun	gyut6	橛				
@@ -7844,9 +7840,9 @@ B39D15			39	t	yun	4	4	yun	tyun4	䊜
 B39D16			39	t	yun	4	4	yun	tyun4	糰				
 B39D17			39	t	yun	5	5	yun	tyun5	斷				
 B39E01			39	t	yut	3	8	yun	tyut3	侻				
-B39E02			39	t	yut	3	8	yun	tyut3	挩	捝			
-B39E03	D5350		39	t	yut	3	8	yun	tyut3	脫	脱			
-B39E04			39	t	yut	3	8	yun	tyut3	梲	棁			
+B39E02			39	t	yut	3	8	yun	tyut3	捝	挩			
+B39E03	D5350		39	t	yut	3	8	yun	tyut3	脱	脫			
+B39E04			39	t	yut	3	8	yun	tyut3	棁	梲			
 B39F01			39	h	yun	1	1	yun	hyun1	咺				
 B39F02			39	h	yun	1	1	yun	hyun1	弮				
 B39F03			39	h	yun	1	1	yun	hyun1	烜				
@@ -8013,7 +8009,7 @@ B40F10			40	c	oek	3	8	oeng	coek3	棹
 B40F11			40	c	oek	3	8	oeng	coek3	斮				
 B40F12			40	c	oek	3	8	oeng	coek3	焯				
 B40F13			40	c	oek	3	8	oeng	coek3	婼				
-B40F14			40	c	oek	3	8	oeng	coek3	棹				
+B40F14			40	c	oek	3	8	oeng	coek3	槕				
 B40F15			40	c	oek	3	8	oeng	coek3	綽				
 B40F16			40	c	oek	3	8	oeng	coek3	趠				
 B40F17			40	c	oek	3	8	oeng	coek3	戳				
@@ -8187,7 +8183,7 @@ B41D03			41	k	oeng	4	4	oeng	koeng4	彊
 B41D04	D5610		41	k	oeng	5	5	oeng	koeng5	強	强			
 B41D05			41	k	oeng	5	5	oeng	koeng5	强	強			
 B41D06			41	k	oeng	5	5	oeng	koeng5	襁				
-B41D07			41	k	oeng	5	5	oeng	koeng5	繈	繦			
+B41D07			41	k	oeng	5	5	oeng	koeng5	繦	繈			
 B41D08			41	k	oeng	5	5	oeng	koeng5	鏹				字形本作⿰金强
 B41E01	D5612		41	k	oek	3	8	oeng	koek3	却	卻			
 B41E02			41	k	oek	3	8	oeng	koek3	㕁				
@@ -8229,7 +8225,7 @@ B42A04			42	z	aai	1	1	aai	zaai1	嚌
 B42A05			42	z	aai	2	2	aai	zaai2	葸				
 B42A06	D5625		42	z	aai	3	3	aai	zaai3	債				
 B42B01			42	z	aai	6	6	aai	zaai6	豸				
-B42B02			42	z	aai	6	6	aai	zaai6	呰				
+B42B02			42	z	aai	6	6	aai	zaai6	砦				
 B42B03			42	z	aai	6	6	aai	zaai6	廌				
 B42B04	D5626		42	z	aai	6	6	aai	zaai6	寨				
 B42C01	D5627		42	c	aai	1	1	aai	caai1	差				
@@ -8766,7 +8762,7 @@ B45E34	D6008		45	m	ei	6	6	ei	mei6	未
 B45E35	D6009		45	m	ei	6	6	ei	mei6	味				
 B45E36	D6010		45	m	ei	6	6	ei	mei6	媚				
 B45E37	D6011		45	m	ei	6	6	ei	mei6	寐				
-B45E38			45	m	ei	6	6	ei	mei6	魅				
+B45E38			45	m	ei	6	6	ei	mei6	鬽				
 B45E39			45	m	ei	6	6	ei	mei6	鮇				
 B45F01	D6013		45	f	ei	1	1	ei	fei1	妃				
 B45F02	D6012		45	f	ei	1	1	ei	fei1	非				
@@ -8832,9 +8828,9 @@ B45H26			45	h	ei	1	1	ei	hei1	䤈
 B45H27			45	h	ei	1	1	ei	hei1	憙				
 B45H28			45	h	ei	1	1	ei	hei1	羲				
 B45H29			45	h	ei	1	1	ei	hei1	魌				
-B45H30			45	h	ei	1	1	ei	hei1	嚱				
+B45H30			45	h	ei	1	1	ei	hei1	𡃰				
 B45H31			45	h	ei	1	1	ei	hei1	譆				
-B45H32			45	h	ei	1	1	ei	hei1	巇				
+B45H32			45	h	ei	1	1	ei	hei1	𡾟				
 B45H33			45	h	ei	1	1	ei	hei1	醯				
 B45H34			45	h	ei	1	1	ei	hei1	曦				
 B45H35	D6023		45	h	ei	1	1	ei	hei1	犧				
@@ -8912,7 +8908,7 @@ B46F07	D6103		46	n	aau	4	4	aau	naau4	錨
 B46F08			46	n	aau	4	4	aau	naau4	鐃				
 B46F09			46	n	aau	4	4	aau	naau4	獿				
 B46F10			46	n	aau	6	6	aau	naau6	淖				
-B46F11			46	n	aau	6	6	aau	naau6	𨳪				
+B46F11			46	n	aau	6	6	aau	naau6	閙				
 B46F12	D6104		46	n	aau	6	6	aau	naau6	撓				
 B46F13	D6105		46	n	aau	6	6	aau	naau6	鬧				
 B46F14			46	n	aau	6	6	aau	naau6	橈				
@@ -8928,7 +8924,7 @@ B46G08			46	s	aau	1	1	aau	saau1	鞘
 B46G09			46	s	aau	1	1	aau	saau1	䈰				
 B46G10			46	s	aau	1	1	aau	saau1	䈾				
 B46G11			46	s	aau	1	1	aau	saau1	餿				
-B46G12			46	s	aau	1	1	aau	saau1	𩬏				
+B46G12			46	s	aau	1	1	aau	saau1	髾				
 B46G13			46	s	aau	1	1	aau	saau1	𥳓				
 B46G14	D6107		46	s	aau	2	2	aau	saau2	搜	捜			
 B46G15	D6108		46	s	aau	2	2	aau	saau2	稍				
@@ -9008,7 +9004,7 @@ B47C01	D6140		47	p	aau	4	4	aau	paau4	刨
 B47C02	D6141		47	p	aau	4	4	aau	paau4	庖				
 B47C03			47	p	aau	4	4	aau	paau4	咆				
 B47C04			47	p	aau	4	4	aau	paau4	炰				
-B47C05			47	p	aau	4	4	aau	paau4	瓟				
+B47C05			47	p	aau	4	4	aau	paau4	爮				
 B47C06			47	p	aau	4	4	aau	paau4	皰				
 B47C07			47	p	aau	4	4	aau	paau4	瓟				
 B47C08			47	p	aau	4	4	aau	paau4	匏				
@@ -9037,11 +9033,11 @@ B47E15	D6203		47	m	aau	6	6	aau	maau6	貌
 B47E16			47	m	aau	6	6	aau	maau6	貎				
 B47E17			47	m	aau	6	6	aau	maau6	䫉				
 B47E18			47	m	aau	6	6	aau	maau6	𨘷				
-B47F01			47		aau	1	1	aau	aau1	坳	㘭			
-B47F02	D6204		47		aau	2	2	aau	aau2	拗	抝			
+B47F01			47		aau	1	1	aau	aau1	㘭	坳			
+B47F02			47		aau	2	2	aau	aau2	抝	拗			
 B47F03	D6205		47		aau	3	3	aau	aau3	凹				
-B47F04	D6206		47		aau	3	3	aau	aau3	拗	抝			
-B47F05			47		aau	3	3	aau	aau3	坳	㘭			
+B47F04			47		aau	3	3	aau	aau3	抝	拗			
+B47F05			47		aau	3	3	aau	aau3	㘭	坳			
 B47F06			47		aau	3	3	aau	aau3	靿				
 B47G01			47	h	aau	1	1	aau	haau1	尻				
 B47G02			47	h	aau	1	1	aau	haau1	芤				
@@ -9269,7 +9265,7 @@ B48G03			48	s	au	6	6	au	sau6	寿
 B48G04	D6331		48	s	au	6	6	au	sau6	受				
 B48G05	D6333		48	s	au	6	6	au	sau6	售				
 B48G06	D6332		48	s	au	6	6	au	sau6	授				
-B48G07			48	s	au	6	6	au	sau6	𡔽				
+B48G07			48	s	au	6	6	au	sau6	夀	壽			
 B48G08	D6334		48	s	au	6	6	au	sau6	壽	夀			
 B48G09			48	s	au	6	6	au	sau6	綬				
 B48H01	D6335		48	j	au	1	1	au	jau1	丘				
@@ -9687,7 +9683,7 @@ B50C08			50	c	ai	1	1	ai	cai1	𪗋
 B50C09	D6601		50	c	ai	3	3	ai	cai3	切				
 B50C10			50	c	ai	3	3	ai	cai3	妻				
 B50C11	D6602		50	c	ai	3	3	ai	cai3	砌				
-B50D01			50	c	ai	4	4	ai	cai4	齐				
+B50D01			50	c	ai	4	4	ai	cai4	𪯠				
 B50D02	D6603		50	c	ai	4	4	ai	cai4	齊				
 B50D03	D6604		50	c	ai	4	4	ai	cai4	儕				
 B50D04			50	c	ai	4	4	ai	cai4	懠				
@@ -9742,12 +9738,12 @@ B50H02			50	j	ai	6	6	ai	jai6	泄
 B50H03			50	j	ai	6	6	ai	jai6	洩				
 B50H04			50	j	ai	6	6	ai	jai6	枻				
 B50H05			50	j	ai	6	6	ai	jai6	拽				
-B50H06			50	j	ai	6	6	ai	jai6	䄁				
+B50H06			50	j	ai	6	6	ai	jai6	袣				
 B50H07			50	j	ai	6	6	ai	jai6	跇				
 B50H08			50	j	ai	6	6	ai	jai6	勩				
 B50I01	D6624		50	g	ai	1	1	ai	gai1	笄	筓			
 B50I02			50	g	ai	1	1	ai	gai1	枅				
-B50I03			50	g	ai	1	1	ai	gai1	笄	筓			
+B50I03			50	g	ai	1	1	ai	gai1	筓	笄			
 B50I04			50	g	ai	1	1	ai	gai1	鳮				
 B50I05			50	g	ai	1	1	ai	gai1	雞	鷄			
 B50I06	D6623		50	g	ai	1	1	ai	gai1	鷄	雞			
@@ -9772,7 +9768,7 @@ B50K04			50	k	ai	1	1	ai	kai1	蹊
 B50K05			50	k	ai	1	1	ai	kai1	谿				
 B50K06			50	k	ai	1	1	ai	kai1	鸂				
 B50K07			50	k	ai	2	2	ai	kai2	启				
-B50K08	D6631		50	k	ai	2	2	ai	kai2	啟	啓			
+B50K08			50	k	ai	2	2	ai	kai2	啓	啟			
 B50K09			50	k	ai	2	2	ai	kai2	棨				
 B50K10			50	k	ai	2	2	ai	kai2	綮				
 B50K11			50	k	ai	2	2	ai	kai2	稽				
@@ -9871,7 +9867,7 @@ B50O17	D6709		50	d	ai	6	6	ai	dai6	隸	隷
 B50O18			50	d	ai	6	6	ai	dai6	靆				
 B51A01	D6711		51	t	ai	1	1	ai	tai1	梯				
 B51A02	D6712		51	t	ai	1	1	ai	tai1	銻				
-B51A03	D6715		51	t	ai	2	2	ai	tai2	体				
+B51A03			51	t	ai	2	2	ai	tai2	⿰亻夲				
 B51A04	D6713		51	t	ai	2	2	ai	tai2	睇				
 B51A05			51	t	ai	2	2	ai	tai2	躰				
 B51A06	D6714		51	t	ai	2	2	ai	tai2	體				
@@ -9955,12 +9951,12 @@ B51H09			51	f	ai	1	1	ai	fai1	煇
 B51H10			51	f	ai	1	1	ai	fai1	褘				
 B51H11			51	f	ai	1	1	ai	fai1	麾				
 B51H12	D6741		51	f	ai	1	1	ai	fai1	輝				
-B51H13			51	f	ai	1	1	ai	fai1	葷				
+B51H13			51	f	ai	1	1	ai	fai1	翬				
 B51H14	D6742		51	f	ai	1	1	ai	fai1	徽				
 B51H15	D6746		51	f	ai	3	3	ai	fai3	沸				
 B51H16			51	f	ai	3	3	ai	fai3	𣏕				
 B51H17	D6743		51	f	ai	3	3	ai	fai3	肺				
-B51H18			51	f	ai	3	3	ai	fai3	芾				
+B51H18			51	f	ai	3	3	ai	fai3	⿱⺾市				
 B51H19			51	f	ai	3	3	ai	fai3	茷				
 B51H20	D6747		51	f	ai	3	3	ai	fai3	疿				
 B51H21	D6744		51	f	ai	3	3	ai	fai3	費				
@@ -9978,7 +9974,7 @@ B51J06			51	w	ai	1	1	ai	wai1	萎
 B51J07			51	w	ai	1	1	ai	wai1	葳				
 B51J08			51	w	ai	1	1	ai	wai1	楲				
 B51J09			51	w	ai	1	1	ai	wai1	蝛				
-B51J10			51	w	ai	2	2	ai	wai2	卉	𠦄			
+B51J10			51	w	ai	2	2	ai	wai2	𠦄	卉			
 B51J11			51	w	ai	2	2	ai	wai2	䖝				
 B51J12	D6750		51	w	ai	2	2	ai	wai2	委				
 B51J13			51	w	ai	2	2	ai	wai2	虺				
@@ -10031,7 +10027,7 @@ B51K16	D6813		51	w	ai	4	4	ai	wai4	遺
 B51K17	D6818		51	w	ai	4	4	ai	wai4	闈				
 B51K18			51	w	ai	4	4	ai	wai4	濰				
 B51K19			51	w	ai	5	5	ai	wai5	匸				
-B51K20	D6820		51	w	ai	5	5	ai	wai5	卉	𠦄			
+B51K20			51	w	ai	5	5	ai	wai5	𠦄	卉			
 B51K21	D6821		51	w	ai	5	5	ai	wai5	韋				
 B51K22	D6822		51	w	ai	5	5	ai	wai5	偉				
 B51K23			51	w	ai	5	5	ai	wai5	煒				
@@ -10165,7 +10161,7 @@ B51O12			51	kw	ai	4	4	ai	kwai4	雟	嶲
 B51O13			51	kw	ai	4	4	ai	kwai4	騤				
 B51O14			51	kw	ai	4	4	ai	kwai4	酅				
 B51O15			51	kw	ai	4	4	ai	kwai4	攜	携|擕			
-B51O16			51	kw	ai	4	4	ai	kwai4	夔				
+B51O16			51	kw	ai	4	4	ai	kwai4	𡖂	夔			
 B51O17			51	kw	ai	4	4	ai	kwai4	欈				
 B51O18			51	kw	ai	4	4	ai	kwai4	蠵				
 B51O19			51	kw	ai	4	4	ai	kwai4	觿				
@@ -10224,9 +10220,9 @@ B52A10			52	z	ou	2	2	ou	zou2	蚤
 B52A11	D6912		52	z	ou	2	2	ou	zou2	組				
 B52A12	D6913		52	z	ou	2	2	ou	zou2	棗				
 B52A13			52	z	ou	2	2	ou	zou2	駔				
-B52A14			52	z	ou	2	2	ou	zou2	蚤				
+B52A14			52	z	ou	2	2	ou	zou2	𧎮				
 B52A15			52	z	ou	2	2	ou	zou2	璅				
-B52A16			52	z	ou	2	2	ou	zou2	⿱艹⿰⺡⿳厶大氺				
+B52A16			52	z	ou	2	2	ou	zou2	⿱艹⿰⺡𭆞				
 B52A17			52	z	ou	2	2	ou	zou2	璪				
 B52A18			52	z	ou	2	2	ou	zou2	薻				
 B52A19	D6914		52	z	ou	2	2	ou	zou2	藻				
@@ -10247,7 +10243,7 @@ B52B10			52	z	ou	6	6	ou	zou6	艁
 B52C01			52	c	ou	1	1	ou	cou1	怚				
 B52C02	D6922		52	c	ou	1	1	ou	cou1	粗				
 B52C03			52	c	ou	1	1	ou	cou1	觕				
-B52C04			52	c	ou	1	1	ou	cou1	⿰⺡⿳厶大氺				
+B52C04			52	c	ou	1	1	ou	cou1	⿰氵𭆞				
 B52C05			52	c	ou	1	1	ou	cou1	𰔝				
 B52C06			52	c	ou	1	1	ou	cou1	麄				
 B52C07	D6921		52	c	ou	1	1	ou	cou1	操				
@@ -10255,7 +10251,7 @@ B52C08			52	c	ou	1	1	ou	cou1	澡
 B52C09			52	c	ou	1	1	ou	cou1	麤				
 B52C10			52	c	ou	2	2	ou	cou2	艸				
 B52C11	D6924		52	c	ou	2	2	ou	cou2	草				
-B52C12			52	c	ou	2	2	ou	cou2	⿱艹⿰⺡⿳厶大氺				
+B52C12			52	c	ou	2	2	ou	cou2	⿱艹⿰⺡𭆞				
 B52C13			52	c	ou	2	2	ou	cou2	薻				
 B52C14	D6923		52	c	ou	2	2	ou	cou2	藻				
 B52C15			52	c	ou	3	3	ou	cou3	怚				
@@ -10382,7 +10378,7 @@ B52I08			52	ng	ou	4	4	ou	ngou4	摮
 B52I09	D7023		52	ng	ou	4	4	ou	ngou4	熬				
 B52I10			52	ng	ou	4	4	ou	ngou4	獒				
 B52I11			52	ng	ou	4	4	ou	ngou4	聱				
-B52I12			52	ng	ou	4	4	ou	ngou4	螫				
+B52I12			52	ng	ou	4	4	ou	ngou4	螯				
 B52I13			52	ng	ou	4	4	ou	ngou4	謷				
 B52I14			52	ng	ou	4	4	ou	ngou4	翺	翱|翶			
 B52I15			52	ng	ou	4	4	ou	ngou4	驁				
@@ -10460,7 +10456,7 @@ B53A20			53	t	ou	2	2	ou	tou2	禂
 B53A21	D7053		53	t	ou	2	2	ou	tou2	搗				
 B53A22	D7054		53	t	ou	2	2	ou	tou2	禱				
 B53A23	D7055		53	t	ou	3	3	ou	tou3	吐				
-B53A24	D7056		53	t	ou	3	3	ou	tou3	兔	兎			
+B53A24			53	t	ou	3	3	ou	tou3	兎	兔			
 B53A25			53	t	ou	3	3	ou	tou3	兔	兎|兔			
 B53A26	D7057		53	t	ou	3	3	ou	tou3	套				
 B53A27			53	t	ou	3	3	ou	tou3	堍				
@@ -10603,7 +10599,7 @@ B53G23	D7151		53	m	ou	4	4	ou	mou4	謨
 B53G24	D7157		53	m	ou	5	5	ou	mou5	冇				
 B53G25	D7155		53	m	ou	5	5	ou	mou5	母				
 B53G26	D7154		53	m	ou	5	5	ou	mou5	武				
-B53G27			53	m	ou	5	5	ou	mou5	"⿹弋止 "				
+B53G27			53	m	ou	5	5	ou	mou5	⿹弋止				
 B53G28	D7156		53	m	ou	5	5	ou	mou5	姆				
 B53G29			53	m	ou	5	5	ou	mou5	拇				
 B53G30			53	m	ou	5	5	ou	mou5	姥				
@@ -10685,7 +10681,7 @@ B53J16	D7225		53	h	ou	6	6	ou	hou6	皓
 B53J17			53	h	ou	6	6	ou	hou6	滈				
 B53J18	D7226		53	h	ou	6	6	ou	hou6	號				
 B53J19			53	h	ou	6	6	ou	hou6	曍	皞|皡|皥			
-B53J20			53	h	ou	6	6	ou	hou6	暭				
+B53J20			53	h	ou	6	6	ou	hou6	皡	曍|皞|皥			
 B53J21			53	h	ou	6	6	ou	hou6	鎬				
 B53J22			53	h	ou	6	6	ou	hou6	顥				
 B53J23			53	h	ou	6	6	ou	hou6	灝				
@@ -10824,14 +10820,14 @@ B54F23	D7316		54	s	eoi	2	2	eoi	seoi2	髓
 B54F24			54	s	eoi	3	3	eoi	seoi3	𭭚				
 B54F25			54	s	eoi	3	3	eoi	seoi3	砕				
 B54F26	D7318		54	s	eoi	3	3	eoi	seoi3	帥				
-B54F27			54	s	eoi	3	3	eoi	seoi3	涗	涚			
+B54F27			54	s	eoi	3	3	eoi	seoi3	涚	涗			
 B54F28			54	s	eoi	3	3	eoi	seoi3	帨				
-B54F29	D7317		54	s	eoi	3	3	eoi	seoi3	稅	税			
+B54F29			54	s	eoi	3	3	eoi	seoi3	棁	梲			
 B54F30			54	s	eoi	3	3	eoi	seoi3	裞				
 B54F31			54	s	eoi	3	3	eoi	seoi3	嵗				
 B54F32	D7320		54	s	eoi	3	3	eoi	seoi3	碎				
 B54F33	D7319		54	s	eoi	3	3	eoi	seoi3	歲	歳			
-B54F34			54	s	eoi	3	3	eoi	seoi3	說	説			
+B54F34			54	s	eoi	3	3	eoi	seoi3	説	說			
 B54F35	D7321		54	s	eoi	3	3	eoi	seoi3	墅				
 B54G01	D7323		54	s	eoi	4	4	eoi	seoi4	垂				
 B54G02			54	s	eoi	4	4	eoi	seoi4	厜				
@@ -10875,7 +10871,7 @@ B54G39			54	s	eoi	6	6	eoi	seoi6	璲
 B54G40			54	s	eoi	6	6	eoi	seoi6	穟				
 B54G41			54	s	eoi	6	6	eoi	seoi6	襚				
 B54G42			54	s	eoi	6	6	eoi	seoi6	邃				
-B54G43			54	s	eoi	6	6	eoi	seoi6	𣄚				
+B54G43			54	s	eoi	6	6	eoi	seoi6	旞				
 B54G44			54	s	eoi	6	6	eoi	seoi6	鐩				
 B54H01			54	j	eoi	1	1	eoi	jeoi1	嬃				
 B54H02	D7338		54	j	eoi	1	1	eoi	jeoi1	錐				
@@ -10895,13 +10891,13 @@ B54I13	D7342		54	j	eoi	6	6	eoi	jeoi6	裔
 B54I14			54	j	eoi	6	6	eoi	jeoi6	𥈠	睿			
 B54I15			54	j	eoi	6	6	eoi	jeoi6	蜹				
 B54I16			54	j	eoi	6	6	eoi	jeoi6	緌				
-B54I17	D7341		54	j	eoi	6	6	eoi	jeoi6	銳	鋭			
+B54I17			54	j	eoi	6	6	eoi	jeoi6	鋭	銳			
 B54I18			54	j	eoi	6	6	eoi	jeoi6	蕤	㽔			
 B54I19			54	j	eoi	6	6	eoi	jeoi6	𠮉	叡			
 B54J01	D7344		54	g	eoi	1	1	eoi	geoi1	車				
 B54J02			54	g	eoi	1	1	eoi	geoi1	㞐				
 B54J03	D7343		54	g	eoi	1	1	eoi	geoi1	居				
-B54J04			54	g	eoi	1	1	eoi	geoi1	車				
+B54J04			54	g	eoi	1	1	eoi	geoi1	⿱亠𠦆				
 B54J05			54	g	eoi	1	1	eoi	geoi1	据				
 B54J06			54	g	eoi	1	1	eoi	geoi1	崌				
 B54J07			54	g	eoi	1	1	eoi	geoi1	腒				
@@ -10967,7 +10963,7 @@ B54L10			54	k	eoi	1	1	eoi	keoi1	跔
 B54L11	D7407		54	k	eoi	1	1	eoi	keoi1	區				
 B54L12			54	k	eoi	1	1	eoi	keoi1	萭				
 B54L13	D7408		54	k	eoi	1	1	eoi	keoi1	嶇				
-B54L14			54	k	eoi	1	1	eoi	keoi1	𣂏	㪺			
+B54L14			54	k	eoi	1	1	eoi	keoi1	㪺	𣂏			
 B54L15			54	k	eoi	1	1	eoi	keoi1	敺				字形本作⿰區支，今從卷一道漢字典(P.19)
 B54L16			54	k	eoi	1	1	eoi	keoi1	駈				
 B54L17			54	k	eoi	1	1	eoi	keoi1	樞				
@@ -11002,7 +10998,7 @@ B54M23			54	k	eoi	5	5	eoi	keoi5	渠
 B55A01	D7420		55	d	eoi	1	1	eoi	deoi1	堆				
 B55A02			55	d	eoi	1	1	eoi	deoi1	焞				
 B55A03			55	d	eoi	2	2	eoi	deoi2	對				
-B55A04	D7421		55	d	eoi	3	3	eoi	deoi3	兌	兑			
+B55A04			55	d	eoi	3	3	eoi	deoi3	兑	兌			
 B55A05			55	d	eoi	3	3	eoi	deoi3	祋				
 B55A06			55	d	eoi	3	3	eoi	deoi3	对				
 B55A07	D7423		55	d	eoi	3	3	eoi	deoi3	碓				
@@ -11010,7 +11006,7 @@ B55A08	D7422		55	d	eoi	3	3	eoi	deoi3	對
 B55A09			55	d	eoi	3	3	eoi	deoi3	駾				
 B55A10			55	d	eoi	3	3	eoi	deoi3	懟				
 B55A11			55	d	eoi	3	3	eoi	deoi3	轛				
-B55B01			55	d	eoi	6	6	eoi	deoi6	兌	兑			
+B55B01			55	d	eoi	6	6	eoi	deoi6	兑	兌			
 B55B02			55	d	eoi	6	6	eoi	deoi6	帨				
 B55B03	D7424		55	d	eoi	6	6	eoi	deoi6	隊				
 B55B04			55	d	eoi	6	6	eoi	deoi6	錞				
@@ -11024,7 +11020,7 @@ B55C02			55	t	eoi	1	1	eoi	teoi1	蓷
 B55C03	D7426		55	t	eoi	2	2	eoi	teoi2	腿				
 B55C04			55	t	eoi	2	2	eoi	teoi2	骽				
 B55C05	D7427		55	t	eoi	3	3	eoi	teoi3	退				
-B55C06			55	t	eoi	3	3	eoi	teoi3	蛻	蜕			
+B55C06			55	t	eoi	3	3	eoi	teoi3	蜕	蛻			
 B55D01			55	t	eoi	4	4	eoi	teoi4	嵬				
 B55D02			55	t	eoi	4	4	eoi	teoi4	僓				
 B55D03			55	t	eoi	4	4	eoi	teoi4	隤				
@@ -11044,8 +11040,8 @@ B55E07			55	h	eoi	1	1	eoi	heoi1	欨
 B55E08			55	h	eoi	1	1	eoi	heoi1	紆				
 B55E09			55	h	eoi	1	1	eoi	heoi1	訏				
 B55E10			55	h	eoi	1	1	eoi	heoi1	冔				
-B55E11	D7430		55	h	eoi	1	1	eoi	heoi1	虛	虚			
-B55E12			55	h	eoi	1	1	eoi	heoi1	噓	嘘			
+B55E11			55	h	eoi	1	1	eoi	heoi1	虚	虛			
+B55E12			55	h	eoi	1	1	eoi	heoi1	嘘	噓			
 B55E13	D7431		55	h	eoi	1	1	eoi	heoi1	墟				
 B55E14			55	h	eoi	1	1	eoi	heoi1	魼				
 B55E15			55	h	eoi	1	1	eoi	heoi1	歔				
@@ -11096,7 +11092,7 @@ B56D01	D7503		56	c	oi	4	4	oi	coi4	才
 B56D02	D7504		56	c	oi	4	4	oi	coi4	材				
 B56D03	D7505		56	c	oi	4	4	oi	coi4	財				
 B56D04	D7506		56	c	oi	4	4	oi	coi4	裁				
-B56D05			56	c	oi	4	4	oi	coi4	②				
+B56D05			56	c	oi	4	4	oi	coi4	⿰糹⿳⺈𠔿比				
 B56D06	D7507		56	c	oi	4	4	oi	coi4	纔				
 B56E01	D7508		56	n	oi	6	6	oi	noi6	內				
 B56E02	D7509		56	n	oi	6	6	oi	noi6	奈				
@@ -11263,7 +11259,7 @@ B58B06			58	z	yu	2	2	yu	zyu2	陼
 B58B07	D7615		58	z	yu	2	2	yu	zyu2	煮	煑			
 B58B08			58	z	yu	2	2	yu	zyu2	翥				
 B58B09			58	z	yu	2	2	yu	zyu2	麈				
-B58B10			58	z	yu	2	2	yu	zyu2	鬻				
+B58B10			58	z	yu	2	2	yu	zyu2	䰞				
 B58C01	D7618		58	z	yu	3	3	yu	zyu3	注				
 B58C02			58	z	yu	3	3	yu	zyu3	炷				
 B58C03	D7616		58	z	yu	3	3	yu	zyu3	蛀				
@@ -11283,10 +11279,10 @@ B58E03			58	c	yu	2	2	yu	cyu2	𠁅
 B58F01			58	c	yu	3	3	yu	cyu3	処				
 B58F02	D7626		58	c	yu	3	3	yu	cyu3	處				
 B58F03			58	c	yu	3	3	yu	cyu3	𠁅				
-B58G01	D7627		58	c	yu	4	4	yu	cyu4	㕑	厨|廚|𢊍			
+B58G01			58	c	yu	4	4	yu	cyu4	厨	㕑|廚|𢊍			
 B58G02			58	c	yu	4	4	yu	cyu4	廚	㕑|厨|𢊍			
 B58G03			58	c	yu	4	4	yu	cyu4	滁				
-B58G04			58	c	yu	4	4	yu	cyu4	櫉	櫥			
+B58G04			58	c	yu	4	4	yu	cyu4	橱				
 B58G05			58	c	yu	4	4	yu	cyu4	儲				
 B58G06			58	c	yu	4	4	yu	cyu4	蹰	躕|𨆼			
 B58G07	D7628		58	c	yu	4	4	yu	cyu4	躇				
@@ -11501,7 +11497,7 @@ B58S26	D7743		58	j	yu	6	6	yu	jyu6	癒	瘉
 B58S27	D7744		58	j	yu	6	6	yu	jyu6	譽				
 B58S28			58	j	yu	6	6	yu	jyu6	籞				
 B58S29			58	j	yu	6	6	yu	jyu6	鸒				
-B61A01			61	b	u	2	2	u	bu2	䲕				
+B61A01			61	p	u	2	2	u	pu2	䲕				
 B61B01	D7745		61	f	u	1	1	u	fu1	夫				
 B61B02	D7746		61	f	u	1	1	u	fu1	伕				
 B61B03			61	f	u	1	1	u	fu1	虍				
@@ -11653,7 +11649,7 @@ B61E15			61	w	u	4	4	u	wu4	醐
 B61E16	D7841		61	w	u	4	4	u	wu4	餬				
 B61E17	D7843		61	w	u	4	4	u	wu4	鬍				
 B61E18			61	w	u	4	4	u	wu4	鶘				
-B61E19	D7846		61	w	u	6	6	u	wu6	戶	户|戸			
+B61E19	D7846		61	w	u	6	6	u	wu6	户	戶|戸			
 B61E20	D7844		61	w	u	6	6	u	wu6	互				
 B61E21			61	w	u	6	6	u	wu6	沍				
 B61E22			61	w	u	6	6	u	wu6	沪				
@@ -11675,59 +11671,59 @@ B61E37	D7845		61	w	u	6	6	u	wu6	護	䕶
 B61E38			61	w	u	6	6	u	wu6	䨼				
 B61E39			61	w	u	6	6	u	wu6	韄				
 B61E40			61	w	u	6	6	u	wu6	頀				
-B61F01			61	g	u	1	1	u	gu1	呱				
-B61F02	D7849		61	g	u	1	1	u	gu1	孤				
-B61F03			61	g	u	1	1	u	gu1	怙				
-B61F04	D7850		61	g	u	1	1	u	gu1	沽				
-B61F05	D7851		61	g	u	1	1	u	gu1	姑				
-B61F06			61	g	u	1	1	u	gu1	泒				
-B61F07			61	g	u	1	1	u	gu1	苽				
-B61F08			61	g	u	1	1	u	gu1	罛				
-B61F09			61	g	u	1	1	u	gu1	罟				
-B61F10			61	g	u	1	1	u	gu1	家				
-B61F11			61	g	u	1	1	u	gu1	蛄				
-B61F12	D7852		61	g	u	1	1	u	gu1	辜				
-B61F13	D7854		61	g	u	1	1	u	gu1	菇				
-B61F14			61	g	u	1	1	u	gu1	觚				
-B61F15	D7853		61	g	u	1	1	u	gu1	菰				
-B61F16			61	g	u	1	1	u	gu1	酤				
-B61F17			61	g	u	1	1	u	gu1	軱				
-B61F18			61	g	u	1	1	u	gu1	箛				
-B61F19	D7855		61	g	u	1	1	u	gu1	鴣				
-B61F20			61	g	u	1	1	u	gu1	鮬				
-B61F21			61	g	u	1	1	u	gu1	𨬟	𨬕			
-B61F22	D7856		61	g	u	2	2	u	gu2	古				
-B61F23	D7860		61	g	u	2	2	u	gu2	估				
-B61F24			61	g	u	2	2	u	gu2	岵				
-B61F25	D7859		61	g	u	2	2	u	gu2	股				
-B61F26			61	g	u	2	2	u	gu2	咕				
-B61F27	D7857		61	g	u	2	2	u	gu2	牯				
-B61F28			61	g	u	2	2	u	gu2	罟				
-B61F29			61	g	u	2	2	u	gu2	骨				
-B61F30			61	g	u	2	2	u	gu2	羖				
-B61F31			61	g	u	2	2	u	gu2	𦍩				
-B61F32			61	g	u	2	2	u	gu2	詁				
-B61F33	D7861		61	g	u	2	2	u	gu2	賈				
-B61F34	D7858		61	g	u	2	2	u	gu2	鼓				
-B61F35			61	g	u	2	2	u	gu2	鈷				
-B61F36	D7862		61	g	u	2	2	u	gu2	瞽				
-B61F37			61	g	u	2	2	u	gu2	嘏				
-B61F38			61	g	u	2	2	u	gu2	皷				
-B61F39			61	g	u	2	2	u	gu2	臌				
-B61F40			61	g	u	2	2	u	gu2	盬				
-B61F41	D7863		61	g	u	2	2	u	gu2	蠱				
-B61F42	D7902		61	g	u	3	3	u	gu3	固				
-B61F43	D7901		61	g	u	3	3	u	gu3	故				
-B61F44			61	g	u	3	3	u	gu3	堌				
-B61F45	D7865		61	g	u	3	3	u	gu3	雇				
-B61F46			61	g	u	3	3	u	gu3	痼				
-B61F47			61	g	u	3	3	u	gu3	頋				
-B61F48	D7864		61	g	u	3	3	u	gu3	僱				
-B61F49			61	g	u	3	3	u	gu3	錮				
-B61F50			61	g	u	3	3	u	gu3	鯝				
-B61F51	D7903		61	g	u	3	3	u	gu3	顧				
-B61G01	D7904		61	k	u	1	1	u	ku1	箍				
-B61G02	D7905		61	k	u	1	1	u	ku1	骷				
+B61F01			61	gw	u	1	1	u	gwu1	呱				
+B61F02	D7849		61	gw	u	1	1	u	gwu1	孤				
+B61F03			61	gw	u	1	1	u	gwu1	怙				
+B61F04	D7850		61	gw	u	1	1	u	gwu1	沽				
+B61F05	D7851		61	gw	u	1	1	u	gwu1	姑				
+B61F06			61	gw	u	1	1	u	gwu1	泒				
+B61F07			61	gw	u	1	1	u	gwu1	苽				
+B61F08			61	gw	u	1	1	u	gwu1	罛				
+B61F09			61	gw	u	1	1	u	gwu1	罟				
+B61F10			61	gw	u	1	1	u	gwu1	家				
+B61F11			61	gw	u	1	1	u	gwu1	蛄				
+B61F12	D7852		61	gw	u	1	1	u	gwu1	辜				
+B61F13	D7854		61	gw	u	1	1	u	gwu1	菇				
+B61F14			61	gw	u	1	1	u	gwu1	觚				
+B61F15	D7853		61	gw	u	1	1	u	gwu1	菰				
+B61F16			61	gw	u	1	1	u	gwu1	酤				
+B61F17			61	gw	u	1	1	u	gwu1	軱				
+B61F18			61	gw	u	1	1	u	gwu1	箛				
+B61F19	D7855		61	gw	u	1	1	u	gwu1	鴣				
+B61F20			61	gw	u	1	1	u	gwu1	鮬				
+B61F21			61	gw	u	1	1	u	gwu1	𨬟	𨬕			
+B61F22	D7856		61	gw	u	2	2	u	gwu2	古				
+B61F23	D7860		61	gw	u	2	2	u	gwu2	估				
+B61F24			61	gw	u	2	2	u	gwu2	岵				
+B61F25	D7859		61	gw	u	2	2	u	gwu2	股				
+B61F26			61	gw	u	2	2	u	gwu2	咕				
+B61F27	D7857		61	gw	u	2	2	u	gwu2	牯				
+B61F28			61	gw	u	2	2	u	gwu2	罟				
+B61F29			61	gw	u	2	2	u	gwu2	骨				
+B61F30			61	gw	u	2	2	u	gwu2	羖				
+B61F31			61	gw	u	2	2	u	gwu2	𦍩				
+B61F32			61	gw	u	2	2	u	gwu2	詁				
+B61F33	D7861		61	gw	u	2	2	u	gwu2	賈				
+B61F34	D7858		61	gw	u	2	2	u	gwu2	鼓				
+B61F35			61	gw	u	2	2	u	gwu2	鈷				
+B61F36	D7862		61	gw	u	2	2	u	gwu2	瞽				
+B61F37			61	gw	u	2	2	u	gwu2	嘏				
+B61F38			61	gw	u	2	2	u	gwu2	皷				
+B61F39			61	gw	u	2	2	u	gwu2	臌				
+B61F40			61	gw	u	2	2	u	gwu2	盬				
+B61F41	D7863		61	gw	u	2	2	u	gwu2	蠱				
+B61F42	D7902		61	gw	u	3	3	u	gwu3	固				
+B61F43	D7901		61	gw	u	3	3	u	gwu3	故				
+B61F44			61	gw	u	3	3	u	gwu3	堌				
+B61F45	D7865		61	gw	u	3	3	u	gwu3	雇				
+B61F46			61	gw	u	3	3	u	gwu3	痼				
+B61F47			61	gw	u	3	3	u	gwu3	頋				
+B61F48	D7864		61	gw	u	3	3	u	gwu3	僱				
+B61F49			61	gw	u	3	3	u	gwu3	錮				
+B61F50			61	gw	u	3	3	u	gwu3	鯝				
+B61F51	D7903		61	gw	u	3	3	u	gwu3	顧				
+B61G01	D7904		61	kw	u	1	1	u	kwu1	箍				
+B61G02	D7905		61	kw	u	1	1	u	kwu1	骷				
 B62A01	D7906		62	z	iu	1	1	iu	ziu1	招				
 B62A02			62	z	iu	1	1	iu	ziu1	炤				
 B62A03	D7908		62	z	iu	1	1	iu	ziu1	朝				
@@ -11777,7 +11773,7 @@ B62D01			62	c	iu	4	4	iu	ciu4	晁
 B62D02	D7926		62	c	iu	4	4	iu	ciu4	朝				
 B62D03	D7927		62	c	iu	4	4	iu	ciu4	潮				
 B62D04	D7929		62	c	iu	4	4	iu	ciu4	憔				
-B62D05			62	c	iu	4	4	iu	ciu4	嶣				
+B62D05			62	c	iu	4	4	iu	ciu4	嶕				
 B62D06	D7928		62	c	iu	4	4	iu	ciu4	樵				
 B62D07			62	c	iu	4	4	iu	ciu4	鼂				
 B62D08			62	c	iu	4	4	iu	ciu4	瞧				
@@ -12190,9 +12186,9 @@ B65I01			65	w	ui	4	4	ui	wui4	囘	回|囬
 B65I02	D8218		65	w	ui	4	4	ui	wui4	回	囘|囬			
 B65I03			65	w	ui	4	4	ui	wui4	囬	囘|回			
 B65I04			65	w	ui	4	4	ui	wui4	佪				
-B65I05	D8219		65	w	ui	4	4	ui	wui4	廻	迴			
+B65I05			65	w	ui	4	4	ui	wui4	𢌞				
 B65I06			65	w	ui	4	4	ui	wui4	洄				
-B65I07			65	w	ui	4	4	ui	wui4	廻	迴			
+B65I07	D8219		65	w	ui	4	4	ui	wui4	廻	迴			
 B65I08	D8220		65	w	ui	4	4	ui	wui4	徊				
 B65I09			65	w	ui	4	4	ui	wui4	迴	廻			
 B65I10			65	w	ui	4	4	ui	wui4	茴				
@@ -12202,7 +12198,7 @@ B65I13			65	w	ui	5	5	ui	wui5	會
 B65I14	D8221		65	w	ui	6	6	ui	wui6	會				
 B65I15	D8222		65	w	ui	6	6	ui	wui6	滙	匯			
 B65J01			65	kw	ui	2	2	ui	kwui2	洧				
-B65J02			65	kw	ui	2	2	ui	kwui2	肴				
+B65J02			65	kw	ui	2	2	ui	kwui2	痏				
 B65J03			65	kw	ui	2	2	ui	kwui2	傀				
 B65J04	D8223		65	kw	ui	2	2	ui	kwui2	賄				
 B65J05			65	kw	ui	2	2	ui	kwui2	蒍	蔿			
@@ -12212,7 +12208,7 @@ B65J08			65	kw	ui	2	2	ui	kwui2	儈
 B65J09			65	kw	ui	2	2	ui	kwui2	憒				
 B65J10	D8224		65	kw	ui	2	2	ui	kwui2	潰				
 B65J11			65	kw	ui	2	2	ui	kwui2	瘣				
-B65J12			65	kw	ui	2	2	ui	kwui2	蒍	蔿			
+B65J12			65	kw	ui	2	2	ui	kwui2	蔿	蒍			
 B65J13			65	kw	ui	2	2	ui	kwui2	澮				
 B65J14			65	kw	ui	2	2	ui	kwui2	廥				
 B65J15			65	kw	ui	2	2	ui	kwui2	獪				
@@ -12232,7 +12228,7 @@ B65J28			65	kw	ui	2	2	ui	kwui2	旝
 B65J29			65	kw	ui	2	2	ui	kwui2	䜋				
 B65J30			65	kw	ui	2	2	ui	kwui2	闠				
 B65J31			65	kw	ui	2	2	ui	kwui2	鱖				
-B65J32			65	kw	ui	2	2	ui	kwui2	繪				
+B65J32			65	kw	ui	2	2	ui	kwui2	鱠				
 B65J33			65	kw	ui	3	3	ui	kwui3	戤				
 B66A01			66	z	aa	1	1	aa	zaa1	吒				
 B66A02			66	z	aa	1	1	aa	zaa1	查	査			
@@ -12307,7 +12303,7 @@ B66G06			66	s	aa	1	1	aa	saa1	桬
 B66G07	D8249		66	s	aa	1	1	aa	saa1	痧				
 B66G08	D8247		66	s	aa	1	1	aa	saa1	裟				
 B66G09			66	s	aa	1	1	aa	saa1	魦				
-B66G10			66	s	aa	1	1	aa	saa1	鈔				
+B66G10			66	s	aa	1	1	aa	saa1	䤬				
 B66G11			66	s	aa	1	1	aa	saa1	鎩				
 B66G12	D8246		66	s	aa	1	1	aa	saa1	鯊				
 B66G13	D8252		66	s	aa	2	2	aa	saa2	耍				
@@ -12338,7 +12334,7 @@ B66K15			66	g	aa	1	1	aa	gaa1	葭
 B66K16			66	g	aa	1	1	aa	gaa1	鉫				
 B66K17	D8309		66	g	aa	1	1	aa	gaa1	嘉				
 B66K18			66	g	aa	1	1	aa	gaa1	豭				
-B66K19			66	g	aa	1	1	aa	gaa1	駕				
+B66K19			66	g	aa	1	1	aa	gaa1	鴐				
 B66K20			66	g	aa	1	1	aa	gaa1	鎵				
 B66K21			66	g	aa	2	2	aa	gaa2	叚				
 B66K22			66	g	aa	2	2	aa	gaa2	釓				
@@ -12633,7 +12629,7 @@ B68F14			68	s	o	1	1	o	so1	趖
 B68F15	D8523		68	s	o	1	1	o	so1	蔬				
 B68F16			68	s	o	1	1	o	so1	簑				
 B68F17			68	s	o	1	1	o	so1	囌				
-B68F18			68	s	o	2	2	o	so2	𠩄				
+B68F18			68	s	o	2	2	o	so2	𫠦				
 B68F19	D8529		68	s	o	2	2	o	so2	所				
 B68F20			68	s	o	2	2	o	so2	嗩				
 B68F21	D8530		68	s	o	2	2	o	so2	瑣	𤨏			
@@ -12654,7 +12650,7 @@ B68I06			68	g	o	3	3	o	go3	𪜭
 B68I07	D8536		68	g	o	3	3	o	go3	個				
 B68I08			68	g	o	3	3	o	go3	箇				
 B68J01			68	k	o	2	2	o	ko2	鈳				
-B68K01			68	ng	o	1	1	o	ngo1	坷				
+B68K01			68	ng	o	1	1	o	ngo1	珂				
 B68K02	D8538		68	ng	o	1	1	o	ngo1	疴				
 B68K03			68	ng	o	1	1	o	ngo1	屙				
 B68K04			68	ng	o	1	1	o	ngo1	娿				
@@ -12675,7 +12671,7 @@ B68L14	D8541		68	ng	o	4	4	o	ngo4	鵝	鵞
 B68L15			68	ng	o	4	4	o	ngo4	鵞	鵝			
 B68L16			68	ng	o	4	4	o	ngo4	⿰言爲				
 B68L17	D8545		68	ng	o	5	5	o	ngo5	我				
-B68L18			68	ng	o	5	5	o	ngo5	③				
+B68L18			68	ng	o	5	5	o	ngo5	⿱丿豕				
 B68L19	D8546		68	ng	o	6	6	o	ngo6	卧	臥			
 B68L20	D8547		68	ng	o	6	6	o	ngo6	餓				
 B68M01	D8548		68	d	o	1	1	o	do1	多				
@@ -12804,7 +12800,7 @@ B69J07	D8638		69	w	o	6	6	o	wo6	禍
 B69K01	D8639		69	gw	o	1	1	o	gwo1	戈				
 B69K02			69	gw	o	1	1	o	gwo1	堝				
 B69K03			69	gw	o	1	1	o	gwo1	過				
-B69K04			69	gw	o	1	1	o	gwo1	檛				
+B69K04			69	gw	o	1	1	o	gwo1	撾				
 B69K05			69	gw	o	1	1	o	gwo1	薖				
 B69K06	D8640		69	gw	o	2	2	o	gwo2	果				
 B69K07			69	gw	o	2	2	o	gwo2	堁				
@@ -12896,7 +12892,7 @@ B72E01	D8733		72	s	e	1	1	e	se1	些
 B72E02	D8734		72	s	e	1	1	e	se1	賒				
 B72E03			72	s	e	2	2	e	se2	舍	舎			
 B72E04	D8736		72	s	e	2	2	e	se2	捨				
-B72E05			72	s	e	2	2	e	se2	④				
+B72E05			72	s	e	2	2	e	se2	①				
 B72E06	D8735		72	s	e	2	2	e	se2	寫	冩			
 B72E07			72	s	e	2	2	e	se2	⿱艹冩				
 B72E08		1	72	s	e	2	2	e	se2	藛				據卷一道漢字典(P.29)補收
@@ -12941,7 +12937,7 @@ B72G20			72	j	e	6	6	e	je6	亱
 B72G21			72	j	e	6	6	e	je6	渃				
 B72G22			72	j	e	6	6	e	je6	偌				
 B72H01	D8810		72	g	e	3	3	e	ge3	嘅				
-B72H02			72	g	e	3	3	e	ge3	嘅				
+B72H02			72	g	e	3	3	e	ge3	⿰口旣				
 B72I01			72	k	e	2	2	e	ke2	茄				
 B72J01			72	k	e	4	4	e	ke4	伽				
 B72J02	D8811		72	k	e	4	4	e	ke4	茄				
@@ -12950,6 +12946,6 @@ B72J04	D8812		72	k	e	4	4	e	ke4	騎
 B72K01	D8813		72	d	e	1	1	e	de1	爹				
 B73A01	D8814		73	b	e	1	1	e	be1	啤				
 B73B01	D8815		73	m	e	1	1	e	me1	咩				
-B73B02			73	m	e	1	1	e	me1	𠴟				
+B73B02			73	m	e	1	1	e	me1	哶				
 B73B03	D8816		73	m	e	2	2	e	me2	歪				
 B73C01	D8817		73	f	e	1	1	e	fe1	啡				

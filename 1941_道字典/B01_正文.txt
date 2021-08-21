@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-08-07
+# 資料庫版本: 2021-08-21
 道字典字號	並見於道漢字音	頁碼	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字頭	(輔助檢索用異體)	釋義	釋義本作「同上」	校訂註
 D0101	Y	1	z	i	1	1	i	zi1	之		嘅也，助詞		
 D0102	Y	1	z	i	1	1	i	zi1	知		～曉，識也		
@@ -214,7 +214,7 @@ D0439	Y	4	l	uk	6	9	ung	luk6	陸		～續，姓～
 D0440	Y	4	l	uk	6	9	ung	luk6	鹿		獸名		
 D0441	Y	4	l	uk	6	9	ung	luk6	綠	緑	～色		
 D0442	Y	4	l	uk	6	9	ung	luk6	錄	録	記～		
-D0443	Y	4	l	uk	6	9	ung	luk6	䘵		俸～，福～		
+D0443	Y	4	l	uk	6	9	ung	luk6	祿	禄	俸～，福～		
 D0444	Y	4	l	uk	6	9	ung	luk6	戮		殺～		
 D0445	Y	4	l	eng	3	3	eng	leng3	靚		美麗也		
 D0446		4	l	eng	4	4	eng	leng4	鯪		土～魚		
@@ -247,7 +247,7 @@ D0521	Y	5	l	aam	4	4	aam	laam4	嵐		山～，瘴氣
 D0522	Y	5	l	aam	5	5	aam	laam5	覽	覧	觀～		
 D0523	Y	5	l	aam	6	6	aam	laam6	艦		戰船		
 D0524	Y	5	l	aam	6	6	aam	laam6	濫		泛～		
-D0525	Y	5	l	aam	6	6	aam	laam6	纜	䌫	大繩		
+D0525		5	l	aam	6	6	aam	laam6	纜	䌫	大繩		
 D0526	Y	5	l	aap	6	9	aam	laap6	垃		～圾		
 D0527	Y	5	l	aap	6	9	aam	laap6	立		起～，建也		
 D0528	Y	5	l	aap	6	9	aam	laap6	臘		～味		
@@ -360,7 +360,7 @@ D0736	Y	7	l	au	4	4	au	lau4	樓		～閣
 D0737	Y	7	l	au	4	4	au	lau4	劉		～姓		
 D0738	Y	7	l	au	4	4	au	lau4	硫		～磺		
 D0739	Y	7	l	au	4	4	au	lau4	琉		～璃		
-D0740	Y	7	l	au	5	5	au	lau5	柳		楊～		
+D0740		7	l	au	5	5	au	lau5	柳		楊～		
 D0741	Y	7	l	au	6	6	au	lau6	陋		鄙～，劣也		
 D0742	Y	7	l	au	6	6	au	lau6	漏		洩～，疏～		
 D0743	Y	7	l	ai	4	4	ai	lai4	黎		眾也。又姓		
@@ -456,7 +456,7 @@ D1016	Y	10	c	aang	3	3	aang	caang3	睜		～眼
 D1017	Y	10	c	aang	4	4	aang	caang4	橙		果名		
 D1018	Y	10	c	aak	1	7	aang	caak1	測		～量，～度		
 D1019	Y	10	c	aak	1	7	aang	caak1	惻		～忍		
-D1020	Y	10	c	aak	3	8	aang	caak3	冊	册	史～。簿也		
+D1020		10	c	aak	3	8	aang	caak3	冊	册	史～。簿也		
 D1021	Y	10	c	aak	3	8	aang	caak3	策		計～，簡～，～動		
 D1022	Y	10	c	aak	3	8	aang	caak3	拆		～開，～散		
 D1023	Y	10	c	aak	6	9	aang	caak6	賊		盜～，～害		
@@ -487,11 +487,11 @@ D1106	Y	11	p	aang	4	4	aang	paang4	澎		水湧也
 D1107	Y	11	p	aang	4	4	aang	paang4	膨		～脹		
 D1108	Y	11	p	aang	4	4	aang	paang4	鵬		大～鳥		
 D1109	Y	11	p	aang	5	5	aang	paang5	棒		棍～		
-D1110	Y	11	p	aak	1	7	aang	paak1	拍		～掌，～球		
-D1111	Y	11	p	aak	1	7	aang	paak1	魄		魂～		
-D1112	Y	11	p	aak	1	7	aang	paak1	珀		琥～		
-D1113	Y	11	p	aak	1	7	aang	paak1	帕		手巾		
-D1114	Y	11	p	aak	1	7	aang	paak1	柏	栢	～樹		
+D1110	Y	11	p	aak	3	8	aang	paak3	拍		～掌，～球		
+D1111	Y	11	p	aak	3	8	aang	paak3	魄		魂～		
+D1112	Y	11	p	aak	3	8	aang	paak3	珀		琥～		
+D1113	Y	11	p	aak	3	8	aang	paak3	帕		手巾		
+D1114	Y	11	p	aak	3	8	aang	paak3	柏	栢	～樹		
 D1115	Y	11	m	aang	2	2	aang	maang2	蜢		蚱～		
 D1116	Y	11	m	aang	4	4	aang	maang4	盲		目不見也		
 D1117	Y	11	m	aang	5	5	aang	maang5	猛		勇～，威～		
@@ -584,7 +584,7 @@ D1311	Y	13	c	ik	1	7	ing	cik1	戚		憂～，親～。心內不安
 D1312	Y	13	c	ik	1	7	ing	cik1	斥		～逐，～責		
 D1313	Y	13	c	ik	1	7	ing	cik1	叱		呵～，怒罵也		
 D1314	Y	13	c	ik	3	8	ing	cik3	赤		～色		
-D1315	Y	13	n	ing	1	1	ing	ning1	擰		用手携物		
+D1315		13	n	ing	1	1	ing	ning1	擰		用手携物		
 D1316	Y	13	n	ing	4	4	ing	ning4	寕	寜|寧	心安也，願也		
 D1317		13	n	ing	4	4	ing	ning4	獰		惡貌		
 D1318	Y	13	n	ing	4	4	ing	ning4	檸		～檬		
@@ -711,7 +711,7 @@ D1530	Y	15	d	ik	6	9	ing	dik6	狄		夷～
 D1531	Y	15	d	ik	6	9	ing	dik6	廸	迪	進也		
 D1532	Y	15	d	ik	6	9	ing	dik6	敵		對～，仇～		
 D1533	Y	15	d	ik	6	9	ing	dik6	滌		～蕩，洗～		
-D1534	Y	15	t	ing	3	3	ing	ting3	聽		～聞		
+D1534	Y	15	t	ing	3	3	ing	ting3	聼	聽	～聞		
 D1535	Y	15	t	ing	4	4	ing	ting4	庭		家～，門～		
 D1536	Y	15	t	ing	4	4	ing	ting4	廷		朝～		
 D1537	Y	15	t	ing	4	4	ing	ting4	亭		～臺		
@@ -1071,7 +1071,7 @@ D2238	Y	22	d	eng	6	6	eng	deng6	定		落～，～實，訂～
 D2239	Y	22	d	ek	6	9	eng	dek6	笛		簫～		
 D2240	Y	22	d	ek	6	9	eng	dek6	糴		買米		
 D2301	Y	23	t	eng	1	1	eng	teng1	廳	㕔	～堂		
-D2302	Y	23	t	eng	1	1	eng	teng1	聽		～聞		
+D2302	Y	23	t	eng	1	1	eng	teng1	聼	聽	～聞		
 D2303	Y	23	t	eng	5	5	eng	teng5	艇		船～		
 D2304	Y	23	t	ek	3	8	eng	tek3	踢		腳～物		
 D2305	Y	23	b	eng	2	2	eng	beng2	餅	餠	～食，燒～		
@@ -1093,7 +1093,7 @@ D2320	Y	23	z	aan	6	6	aan	zaan6	綻		破～，衣縫裂也
 D2321	Y	23	z	aat	3	8	aan	zaat3	扎		縛也		
 D2322	Y	23	z	aat	3	8	aan	zaat3	札		信～，書～		
 D2323	Y	23	z	aat	3	8	aan	zaat3	軋		傾～		
-D2324	Y	23	z	aat	3	8	aan	zaat3	紮	紥	縛也。又駐～		
+D2324		23	z	aat	3	8	aan	zaat3	紮	紥	縛也。又駐～		
 D2325	Y	23	z	aat	6	9	aan	zaat6	曱		甴～		
 D2326	Y	23	c	aan	1	1	aan	caan1	餐		飯～		
 D2327	Y	23	c	aan	2	2	aan	caan2	產	産	～業，生～		
@@ -1110,7 +1110,7 @@ D2337	Y	23	n	aan	4	4	aan	naan4	難		艱～
 D2338	Y	23	n	aan	6	6	aan	naan6	難		災～		
 D2401	Y	24	n	aat	6	9	aan	naat6	捺		書法也，如撇～		
 D2402	Y	24	s	aan	1	1	aan	saan1	山		岡～		
-D2403	Y	24	s	aan	1	1	aan	saan1	刪	删	改除也		
+D2403		24	s	aan	1	1	aan	saan1	刪	删	改除也		
 D2404	Y	24	s	aan	1	1	aan	saan1	舢		～板，小船也		
 D2405	Y	24	s	aan	1	1	aan	saan1	珊		～瑚		
 D2406	Y	24	s	aan	1	1	aan	saan1	閂		～門		
@@ -1552,7 +1552,7 @@ D3315	Y	33	g	an	1	1	an	gan1	根		樹～，～本
 D3316	Y	33	g	an	1	1	an	gan1	筋		～骨		
 D3317	Y	33	g	an	1	1	an	gan1	跟		腳踭也。又～隨		
 D3318	Y	33	g	an	1	1	an	gan1	觔		～両		
-D3319	Y	33	g	an	2	2	an	gan2	緊		～急		
+D3319		33	g	an	2	2	an	gan2	緊		～急		
 D3320	Y	33	g	an	2	2	an	gan2	謹		～慎，敬～		
 D3321	Y	33	g	an	2	2	an	gan2	僅		少也，略能也		
 D3322	Y	33	g	an	3	3	an	gan3	艮		八卦名		
@@ -2002,7 +2002,7 @@ D4335	Y	43	s	ang	1	1	ang	sang1	甥		姊妹之子曰～
 D4336	Y	43	s	ak	1	7	ang	sak1	塞		阻～，不通也		
 D4337	Y	43	g	ang	1	1	ang	gang1	庚		天干名。又年～		
 D4338	Y	43	g	ang	1	1	ang	gang1	更		改也，五～天		
-D4339	Y	43	g	ang	1	1	ang	gang1	羮	羹	～湯，匙～		
+D4339		43	g	ang	1	1	ang	gang1	羮	羹	～湯，匙～		
 D4340	Y	43	g	ang	1	1	ang	gang1	耕		～田		
 D4341	Y	43	g	ang	1	1	ang	gang1	粳		～米		
 D4342	Y	43	g	ang	2	2	ang	gang2	耿		忠～，又不安貌		
@@ -2225,7 +2225,7 @@ D4818		48	f	ong	2	2	ong	fong2	㤃		～彿，相似也	Y
 D4819	Y	48	f	ong	2	2	ong	fong2	舫		船		
 D4820	Y	48	f	ong	2	2	ong	fong2	晃		光明		
 D4821	Y	48	f	ong	3	3	ong	fong3	放		～開，～肆		
-D4822	Y	48	f	ong	3	3	ong	fong3	況	况	景～，何～，～且		
+D4822		48	f	ong	3	3	ong	fong3	況	况	景～，何～，～且		
 D4823	Y	48	f	ong	4	4	ong	fong4	房		～屋		
 D4824	Y	48	f	ong	4	4	ong	fong4	防		提～，又禁也		
 D4825	Y	48	f	ong	4	4	ong	fong4	妨		害也。預～		
@@ -2235,7 +2235,7 @@ D4828	Y	48	w	ong	2	2	ong	wong2	枉		冤～，又曲也
 D4829	Y	48	w	ong	2	2	ong	wong2	誑		大言，～言		
 D4830	Y	48	w	ong	4	4	ong	wong4	蝗		～蟲		
 D4831	Y	48	w	ong	4	4	ong	wong4	王		大～。又姓		
-D4832	Y	48	w	ong	4	4	ong	wong4	黃	黄	～色。又姓		
+D4832		48	w	ong	4	4	ong	wong4	黃	黄	～色。又姓		
 D4833	Y	48	w	ong	4	4	ong	wong4	璜		玉也。又裝～		
 D4834	Y	48	w	ong	4	4	ong	wong4	皇		～帝		
 D4835	Y	48	w	ong	4	4	ong	wong4	凰		鳳～		
@@ -2327,7 +2327,7 @@ D5022	Y	50	z	eon	2	2	eon	zeon2	燼		灰～
 D5023	Y	50	z	eon	2	2	eon	zeon2	贐		送行之禮曰～		
 D5024	Y	50	z	eon	3	3	eon	zeon3	進		～行，～退，前～		
 D5025	Y	50	z	eon	3	3	eon	zeon3	俊		英～，～傑		
-D5026	Y	50	z	eon	3	3	eon	zeon3	晉	晉|晋	進也。又國名		
+D5026		50	z	eon	3	3	eon	zeon3	晉	晉|晋	進也。又國名		
 D5027	Y	50	z	eon	3	3	eon	zeon3	竣		完工		
 D5029	Y	50	z	eon	6	6	eon	zeon6	盡		空也，終也，竭也		
 D5030	Y	50	z	eot	1	7	eon	zeot1	卒		終也。兵～		
@@ -2365,7 +2365,7 @@ D5115	Y	51	s	eot	1	7	eon	seot1	戌		時辰名，地支
 D5116	Y	51	s	eot	1	7	eon	seot1	恤		憐～		
 D5117	Y	51	s	eot	1	7	eon	seot1	率		督～，又大略也		
 D5118	Y	51	s	eot	1	7	eon	seot1	蟀		蟋～，蟲名		
-D5119	Y	51	s	eot	1	7	eon	seot1	䘏		仝恤		
+D5119		51	s	eot	1	7	eon	seot1	䘏		仝恤		
 D5120	Y	51	s	eot	6	9	eon	seot6	朮		白～，藥名		
 D5121	Y	51	s	eot	6	9	eon	seot6	述		作～，口～		
 D5122	Y	51	s	eot	6	9	eon	seot6	術		法～，算～		
@@ -2388,7 +2388,7 @@ D5138	Y	51	z	yun	6	6	yun	zyun6	傳		～記，經～，史～
 D5139	Y	51	z	yut	3	8	yun	zyut3	拙		呆～		
 D5140	Y	51	z	yut	3	8	yun	zyut3	啜		～食，又哭泣貌		
 D5141	Y	51	z	yut	3	8	yun	zyut3	輟		止也		
-D5142	Y	51	z	yut	6	9	yun	zyut6	絕		斷～，～路		
+D5142		51	z	yut	6	9	yun	zyut6	絕		斷～，～路		
 D5143	Y	51	c	yun	1	1	yun	cyun1	川		山～		
 D5144	Y	51	c	yun	1	1	yun	cyun1	村		鄉～		
 D5145	Y	51	c	yun	1	1	yun	cyun1	穿		～孔		
@@ -2423,7 +2423,7 @@ D5227	Y	52	s	yun	4	4	yun	syun4	旋		～轉，又回也
 D5228	Y	52	s	yun	4	4	yun	syun4	漩		水回～，轉也		
 D5229	Y	52	s	yun	5	5	yun	syun5	吮		以口啐之曰～		
 D5230	Y	52	s	yun	6	6	yun	syun6	篆		～字		
-D5231	Y	52	s	yut	3	8	yun	syut3	說	説	～話，演～		
+D5231	Y	52	s	yut	3	8	yun	syut3	説	說	～話，演～		
 D5232	Y	52	s	yut	3	8	yun	syut3	雪		霜～，落～		
 D5233	Y	52	j	yun	1	1	yun	jyun1	淵		深水也。又～博		
 D5234	Y	52	j	yun	1	1	yun	jyun1	冤	寃	～枉，～屈		
@@ -2459,10 +2459,10 @@ D5312	Y	53	j	yun	6	6	yun	jyun6	院		書～，又深屋也
 D5313	Y	53	j	yun	6	6	yun	jyun6	縣		省～，～邑		
 D5314	Y	53	j	yut	3	8	yun	jyut3	乙		一也。甲～		
 D5315	Y	53	j	yut	6	9	yun	jyut6	月		日～，～份		
-D5316	Y	53	j	yut	6	9	yun	jyut6	粵	粤	廣東曰～		
-D5317	Y	53	j	yut	6	9	yun	jyut6	閱	閲	視也。又～歷		
+D5316		53	j	yut	6	9	yun	jyut6	粵	粤	廣東曰～		
+D5317	Y	53	j	yut	6	9	yun	jyut6	閲	閱	視也。又～歷		
 D5318	Y	53	j	yut	6	9	yun	jyut6	穴		孔也		
-D5319	Y	53	j	yut	6	9	yun	jyut6	悅	悦	歡喜		
+D5319	Y	53	j	yut	6	9	yun	jyut6	悦	悅	歡喜		
 D5320	Y	53	j	yut	6	9	yun	jyut6	越		過也，超出		
 D5321	Y	53	g	yun	1	1	yun	gyun1	捐		～助，又棄也		
 D5322	Y	53	g	yun	1	1	yun	gyun1	涓		～滴，水流之貌		
@@ -2493,7 +2493,7 @@ D5346	Y	53	t	yun	4	4	yun	tyun4	團		～結，～圓，～叙
 D5347	Y	53	t	yun	4	4	yun	tyun4	屯		積聚		
 D5348	Y	53	t	yun	4	4	yun	tyun4	豚		豬也		
 D5349	Y	53	t	yun	4	4	yun	tyun4	臀		屁股		
-D5350	Y	53	t	yut	3	8	yun	tyut3	脫	脱	解～，～衫		
+D5350	Y	53	t	yut	3	8	yun	tyut3	脱	脫	解～，～衫		
 D5351	Y	53	h	yun	1	1	yun	hyun1	圈	圏	圓～		
 D5352	Y	53	h	yun	1	1	yun	hyun1	喧		～譁		
 D5353	Y	53	h	yun	1	1	yun	hyun1	萱		草名，又母曰～		
@@ -2887,9 +2887,9 @@ D6144	Y	61	m	aau	4	4	aau	maau4	茅		～草，～屋
 D6201	Y	62	m	aau	5	5	aau	maau5	卯		時辰名，如寅～		
 D6202	Y	62	m	aau	5	5	aau	maau5	牡		～丹花。又牝～		
 D6203	Y	62	m	aau	6	6	aau	maau6	貌		相～，容～		
-D6204	Y	62		aau	2	2	aau	aau2	拗	抝	～曲，～折		
+D6204		62	0	aau	2	2	aau	0aau2	拗	抝	～曲，～折		
 D6205	Y	62		aau	3	3	aau	aau3	凹		低下不平也，又彎曲		
-D6206	Y	62		aau	3	3	aau	aau3	拗	抝	固執，執～		
+D6206		62	0	aau	3	3	aau	0aau3	拗	抝	固執，執～		
 D6207	Y	62	h	aau	1	1	aau	haau1	哮		～喘，咆～		
 D6208	Y	62	h	aau	1	1	aau	haau1	敲		叩也，打也		
 D6209	Y	62	h	aau	2	2	aau	haau2	考		～試，祖～，壽～		
@@ -3122,7 +3122,7 @@ D6627	Y	66	g	ai	3	3	ai	gai3	繼		～續，承～
 D6628	Y	66	g	ai	6	6	ai	gai6	偈		傾～，佛～		
 D6629	Y	66	k	ai	1	1	ai	kai1	溪		小河也		
 D6630	Y	66	k	ai	1	1	ai	kai1	稽		～考，～查		
-D6631	Y	66	k	ai	2	2	ai	kai2	啟	啓	開也，發也		
+D6631		66	k	ai	2	2	ai	kai2	啟	啓	開也，發也		
 D6632	Y	66	k	ai	3	3	ai	kai3	契		～合，～據		
 D6633	Y	66	ng	ai	2	2	ai	ngai2	矮		～細，不高也		
 D6634	Y	66	ng	ai	3	3	ai	ngai3	隘		狹～，險阻之地		
@@ -3152,7 +3152,7 @@ D6711	Y	67	t	ai	1	1	ai	tai1	梯		樓～，階～
 D6712	Y	67	t	ai	1	1	ai	tai1	銻		礦物		
 D6713	Y	67	t	ai	2	2	ai	tai2	睇		看也		
 D6714	Y	67	t	ai	2	2	ai	tai2	體		身～，～質，～育		
-D6715	Y	67	t	ai	2	2	ai	tai2	体		身～，～質，～育	Y	
+D6715		67	t	ai	2	2	ai	tai2	体		身～，～質，～育	Y	
 D6716	Y	67	t	ai	3	3	ai	tai3	替		代～，衰～		
 D6717	Y	67	t	ai	3	3	ai	tai3	剃		～頭		
 D6718	Y	67	t	ai	3	3	ai	tai3	涕		～淚，～泣		
@@ -3208,7 +3208,7 @@ D6816	Y	68	w	ai	4	4	ai	wai4	維		～持，纖～，四～
 D6817	Y	68	w	ai	4	4	ai	wai4	帷		宮～		
 D6818	Y	68	w	ai	4	4	ai	wai4	闈		帳幕		
 D6819	Y	68	w	ai	4	4	ai	wai4	幃		帳幕	Y	
-D6820	Y	68	w	ai	5	5	ai	wai5	卉	𠦄	花～，草木統稱		
+D6820		68	w	ai	5	5	ai	wai5	卉	𠦄	花～，草木統稱		
 D6821	Y	68	w	ai	5	5	ai	wai5	韋		柔靭之皮，又姓		
 D6822	Y	68	w	ai	5	5	ai	wai5	偉		大也。奇～		
 D6823	Y	68	w	ai	5	5	ai	wai5	葦		蘆～		
@@ -3354,7 +3354,7 @@ D7052	Y	70	t	ou	2	2	ou	tou2	討		誅～，～論
 D7053	Y	70	t	ou	2	2	ou	tou2	搗		～亂，～藥		
 D7054	Y	70	t	ou	2	2	ou	tou2	禱		～告，祈～		
 D7055	Y	70	t	ou	3	3	ou	tou3	吐		嘔～		
-D7056	Y	70	t	ou	3	3	ou	tou3	兔	兎	獸名		
+D7056		70	t	ou	3	3	ou	tou3	兔	兎	獸名		
 D7057	Y	70	t	ou	3	3	ou	tou3	套		全～，客～		
 D7058	Y	70	t	ou	4	4	ou	tou4	逃		～走		
 D7101	Y	71	t	ou	4	4	ou	tou4	徒		但也，眾也，師～		
@@ -3484,7 +3484,7 @@ D7313	Y	73	s	eoi	1	1	eoi	seoi1	衰		～弱，～微
 D7314	Y	73	s	eoi	1	1	eoi	seoi1	雖		語助詞，～然		
 D7315	Y	73	s	eoi	2	2	eoi	seoi2	水		～火		
 D7316	Y	73	s	eoi	2	2	eoi	seoi2	髓		骨～		
-D7317	Y	73	s	eoi	3	3	eoi	seoi3	稅	税	租～，納～		
+D7317		73	s	eoi	3	3	eoi	seoi3	税	稅	租～，納～		
 D7318	Y	73	s	eoi	3	3	eoi	seoi3	帥		將～，率也		
 D7319	Y	73	s	eoi	3	3	eoi	seoi3	歲	歳	年～		
 D7320	Y	73	s	eoi	3	3	eoi	seoi3	碎		破～，瑣～		
@@ -3508,7 +3508,7 @@ D7337	Y	73	s	eoi	6	6	eoi	seoi6	穗	穂	禾～
 D7338	Y	73	j	eoi	1	1	eoi	jeoi1	錐		針～		
 D7339	Y	73	j	eoi	5	5	eoi	jeoi5	蕊		花～		
 D7340	Y	73	j	eoi	5	5	eoi	jeoi5	餒		飢也，弱也		
-D7341	Y	73	j	eoi	6	6	eoi	jeoi6	銳	鋭	利也，尖也		
+D7341		73	j	eoi	6	6	eoi	jeoi6	銳	鋭	利也，尖也		
 D7342	Y	73	j	eoi	6	6	eoi	jeoi6	裔		後～		
 D7343	Y	73	g	eoi	1	1	eoi	geoi1	居		～住，宅～		
 D7344	Y	73	g	eoi	1	1	eoi	geoi1	車		～馬		
@@ -3541,7 +3541,7 @@ D7417	Y	74	k	eoi	5	5	eoi	keoi5	拒		抗～
 D7418	Y	74	k	eoi	5	5	eoi	keoi5	距		～離		
 D7419	Y	74	k	eoi	5	5	eoi	keoi5	佢		他也		
 D7420	Y	74	d	eoi	1	1	eoi	deoi1	堆		～積，坭～		
-D7421	Y	74	d	eoi	3	3	eoi	deoi3	兌	兑	～換，滙～		
+D7421		74	d	eoi	3	3	eoi	deoi3	兌	兑	～換，滙～		
 D7422	Y	74	d	eoi	3	3	eoi	deoi3	對		～答，～向，成～		
 D7423	Y	74	d	eoi	3	3	eoi	deoi3	碓		臼～		
 D7424	Y	74	d	eoi	6	6	eoi	deoi6	隊		羣也，～伍		
@@ -3550,7 +3550,7 @@ D7426	Y	74	t	eoi	2	2	eoi	teoi2	腿		腳～，大～
 D7427	Y	74	t	eoi	3	3	eoi	teoi3	退		～後，進～		
 D7428	Y	74	t	eoi	4	4	eoi	teoi4	頹	頽	～敗，衰～		
 D7429	Y	74	h	eoi	1	1	eoi	heoi1	吁		感歎		
-D7430	Y	74	h	eoi	1	1	eoi	heoi1	虛	虚	空也		
+D7430		74	h	eoi	1	1	eoi	heoi1	虛	虚	空也		
 D7431	Y	74	h	eoi	1	1	eoi	heoi1	墟		～市，又荒廢也		
 D7432	Y	74	h	eoi	1	1	eoi	heoi1	圩		～市，又荒廢也	Y	
 D7433	Y	74	h	eoi	2	2	eoi	heoi2	許		可也，允也，又姓		
@@ -3647,7 +3647,7 @@ D7623	Y	76	z	yu	6	6	yu	zyu6	箸		筷子
 D7624	Y	76	z	yu	6	6	yu	zyu6	筯		筷子	Y	
 D7625	Y	76	c	yu	2	2	yu	cyu2	處		居～，～置		
 D7626	Y	76	c	yu	3	3	yu	cyu3	處		地方也，辦事～		
-D7627	Y	76	c	yu	4	4	yu	cyu4	㕑	厨|廚|𢊍	庖～，～房		
+D7627		76	c	yu	4	4	yu	cyu4	㕑	厨|廚|𢊍	庖～，～房		
 D7628	Y	76	c	yu	4	4	yu	cyu4	躇		躊～，遲疑不決		
 D7630	Y	76	c	yu	5	5	yu	cyu5	杵		搗～，擂～		
 D7631	Y	76	c	yu	5	5	yu	cyu5	柱		石～，木～		
@@ -3782,31 +3782,31 @@ D7842	Y	78	w	u	4	4	u	wu4	蝴		～蝶
 D7843	Y	78	w	u	4	4	u	wu4	鬍		～鬚		
 D7844	Y	78	w	u	6	6	u	wu6	互		交～，～相		
 D7845	Y	78	w	u	6	6	u	wu6	護	䕶	救～，～衛		
-D7846	Y	78	w	u	6	6	u	wu6	戶	户|戸	門～		
+D7846	Y	78	w	u	6	6	u	wu6	户	戶|戸	門～		
 D7847	Y	78	w	u	6	6	u	wu6	芋		～頭		
 D7848	Y	78	w	u	6	6	u	wu6	滬		～江，上海		
-D7849	Y	78	g	u	1	1	u	gu1	孤		～獨，～寒，～僻		
-D7850	Y	78	g	u	1	1	u	gu1	沽		買也		
-D7851	Y	78	g	u	1	1	u	gu1	姑		翁～，～且，～息		
-D7852	Y	78	g	u	1	1	u	gu1	辜		～負，無～		
-D7853	Y	78	g	u	1	1	u	gu1	菰		冬～，茨～		
-D7854	Y	78	g	u	1	1	u	gu1	菇		冬～，茨～	Y	
-D7855	Y	78	g	u	1	1	u	gu1	鴣		鷓～		
-D7856	Y	78	g	u	2	2	u	gu2	古		～今，故也，老也		
-D7857	Y	78	g	u	2	2	u	gu2	牯		牛～		
-D7858	Y	78	g	u	2	2	u	gu2	鼓		鑼～，～動		
-D7859	Y	78	g	u	2	2	u	gu2	股		大脾也。又～份		
-D7860	Y	78	g	u	2	2	u	gu2	估		～計		
-D7861	Y	78	g	u	2	2	u	gu2	賈		商～		
-D7862	Y	78	g	u	2	2	u	gu2	瞽		盲人		
-D7863	Y	78	g	u	2	2	u	gu2	蠱		～脹，～惑		
-D7864	Y	78	g	u	3	3	u	gu3	僱		～用，～工		
-D7865	Y	78	g	u	3	3	u	gu3	雇		～用，～工	Y	
-D7901	Y	79	g	u	3	3	u	gu3	故		舊也，因也，死也		
-D7902	Y	79	g	u	3	3	u	gu3	固		堅～，～執		
-D7903	Y	79	g	u	3	3	u	gu3	顧		視也，念也，思也		
-D7904	Y	79	k	u	1	1	u	ku1	箍		鐵～，篾～		
-D7905	Y	79	k	u	1	1	u	ku1	骷		～髏，屍骨		
+D7849	Y	78	gw	u	1	1	u	gwu1	孤		～獨，～寒，～僻		
+D7850	Y	78	gw	u	1	1	u	gwu1	沽		買也		
+D7851	Y	78	gw	u	1	1	u	gwu1	姑		翁～，～且，～息		
+D7852	Y	78	gw	u	1	1	u	gwu1	辜		～負，無～		
+D7853	Y	78	gw	u	1	1	u	gwu1	菰		冬～，茨～		
+D7854	Y	78	gw	u	1	1	u	gwu1	菇		冬～，茨～	Y	
+D7855	Y	78	gw	u	1	1	u	gwu1	鴣		鷓～		
+D7856	Y	78	gw	u	2	2	u	gwu2	古		～今，故也，老也		
+D7857	Y	78	gw	u	2	2	u	gwu2	牯		牛～		
+D7858	Y	78	gw	u	2	2	u	gwu2	鼓		鑼～，～動		
+D7859	Y	78	gw	u	2	2	u	gwu2	股		大脾也。又～份		
+D7860	Y	78	gw	u	2	2	u	gwu2	估		～計		
+D7861	Y	78	gw	u	2	2	u	gwu2	賈		商～		
+D7862	Y	78	gw	u	2	2	u	gwu2	瞽		盲人		
+D7863	Y	78	gw	u	2	2	u	gwu2	蠱		～脹，～惑		
+D7864	Y	78	gw	u	3	3	u	gwu3	僱		～用，～工		
+D7865	Y	78	gw	u	3	3	u	gwu3	雇		～用，～工	Y	
+D7901	Y	79	gw	u	3	3	u	gwu3	故		舊也，因也，死也		
+D7902	Y	79	gw	u	3	3	u	gwu3	固		堅～，～執		
+D7903	Y	79	gw	u	3	3	u	gwu3	顧		視也，念也，思也		
+D7904	Y	79	kw	u	1	1	u	kwu1	箍		鐵～，篾～		
+D7905	Y	79	kw	u	1	1	u	kwu1	骷		～髏，屍骨		
 D7906	Y	79	z	iu	1	1	iu	ziu1	招		～徠，～待，又姓		
 D7907	Y	79	z	iu	1	1	iu	ziu1	焦		火燒，～黑也		
 D7908	Y	79	z	iu	1	1	iu	ziu1	朝		晨早		
