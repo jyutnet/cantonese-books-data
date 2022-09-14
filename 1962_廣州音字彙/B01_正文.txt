@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-08-08
+# 資料庫版本: 2022-09-14
 序號	頁	格內次序	原書聲母	原書韻母	原書調名	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	粵拼	字	(輔助檢索用異體)	字條註	校訂註
 1	1	1		a	上平		aa	1	1	aa1	鴉			
 2	1	2		a	上平		aa	1	1	aa1	雅			
@@ -700,7 +700,7 @@
 698	5	17	ts	i	上平	z	i	1	1	zi1	髭			
 699	5	18	ts	i	上平	z	i	1	1	zi1	齜			
 700	5	19	ts	i	上平	z	i	1	1	zi1	𫖠			
-701	5	20	ts	i	上平	z	i	1	1	zi1	淄			
+701	5	20	ts	i	上平	z	i	1	1	zi1	淄	湽		
 702	5	21	ts	i	上平	z	i	1	1	zi1	緇			
 703	5	22	ts	i	上平	z	i	1	1	zi1	輜	輺		
 704	5	23	ts	i	上平	z	i	1	1	zi1	錙			
@@ -2744,7 +2744,7 @@
 2742	15	12	ch'	ou	上去	c	ou	3	3	cou3	糙			
 2743	15	13	ch'	ou	上去	c	ou	3	3	cou3	簉			
 2744	15	1	n	ou	下去	n	ou	6	6	nou6	怒			
-2745	15	2	n	ou	下去	n	ou	6	6	nou6	⿰犭怒			
+2745	15	2	n	ou	下去	n	ou	6	6	nou6	𱮐			
 2746	15	3	n	ou	下去	n	ou	6	6	nou6	臑			
 2747	15	1	l	ou	下去	l	ou	6	6	lou6	路			
 2748	15	2	l	ou	下去	l	ou	6	6	lou6	𤢊			
@@ -3665,7 +3665,7 @@
 3663	21	1	w	ae	上上	w	ai	2	2	wai2	煒			
 3664	21	2	w	ae	上上	w	ai	2	2	wai2	韙			
 3665	21	3	w	ae	上上	w	ai	2	2	wai2	𩋾			
-3666	21	4	w	ae	上上	w	ai	2	2	wai2	卉			
+3666	21	4	w	ae	上上	w	ai	2	2	wai2	卉	𠦄		
 3667	21	5	w	ae	上上	w	ai	2	2	wai2	虺			
 3668	21	6	w	ae	上上	w	ai	2	2	wai2	虫			
 3669	21	7	w	ae	上上	w	ai	2	2	wai2	委			
@@ -6079,7 +6079,7 @@
 6077	37	1	l	um	下上	l	am	5	5	lam5	凜			
 6078	37	2	l	um	下上	l	am	5	5	lam5	稟	禀		
 6079	37	3	l	um	下上	l	am	5	5	lam5	懍	懔		
-6080	37	4	l	um	下上	l	am	5	5	lam5	壈			
+6080	37	4	l	um	下上	l	am	5	5	lam5	壈	𡒄		
 6081	37	5	l	um	下上	l	am	5	5	lam5	廩	廪		
 6082	37	6	l	um	下上	l	am	5	5	lam5	檁			
 6083	37	1	k	um	下上	k	am	5	5	kam5	妗			
@@ -6629,11 +6629,11 @@
 6627	41	4	s	an	上去	s	aan	3	3	saan3	篡	簒		
 6628	41	1	ch	an	中入	z	aat	3	8	zaat3	札			
 6629	41	2	ch	an	中入	z	aat	3	8	zaat3	扎			
-6630	41	3	ch	an	中入	z	aat	3	8	zaat3	紮			
+6630	41	3	ch	an	中入	z	aat	3	8	zaat3	紮	紥		
 6631	41	4	ch	an	中入	z	aat	3	8	zaat3	釓			
 6632	41	5	ch	an	中入	z	aat	3	8	zaat3	軋			
 6633	41	6	ch	an	中入	z	aat	3	8	zaat3	哳			
-6634	41	7	ch	an	中入	z	aat	3	8	zaat3	紥			
+6634	41	7	ch	an	中入	z	aat	3	8	zaat3	紥	紮		
 6635	41	8	ch	an	中入	z	aat	3	8	zaat3	拶			
 6636	41	9	ch	an	中入	z	aat	3	8	zaat3	鍘			
 6637	41	10	ch	an	中入	z	aat	3	8	zaat3	劄		又讀	
@@ -11334,7 +11334,7 @@
 11332	74	11	ch	ung	上平	z	ung	1	1	zung1	妐			
 11333	74	12	ch	ung	上平	z	ung	1	1	zung1	終			
 11334	74	13	ch	ung	上平	z	ung	1	1	zung1	螽			
-11335	74	14	ch	ung	上平	z	ung	1	1	zung1	潀			
+11335	74	14	ch	ung	上平	z	ung	1	1	zung1	潀	潨		
 11336	74	15	ch	ung	上平	z	ung	1	1	zung1	夂			
 11337	74	16	ch	ung	上平	z	ung	1	1	zung1	衷			
 11338	74	17	ch	ung	上平	z	ung	1	1	zung1	𩩺			
