@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-08-22
+# 資料庫版本: 2022-09-14
 卷二粵語音典字號	卷一道漢字典字號	道字典字號	粵語音典頁碼	粵拼聲母	粵拼韻母	粵拼聲調	九聲聲調	韻母組	粵拼讀音	字形	(輔助檢索用異體)	字形標記	字形描述	校訂註
 B01A01	A11002	D0101	1	z	i	1	1	i	zi1	之				
 B01A02	A14068	D0106	1	z	i	1	1	i	zi1	支				
@@ -1432,9 +1432,9 @@ B06N11	A49048		6	l	oi	4	4	oi	loi4	鯠
 B06N12	A39128		6	l	oi	6	6	oi	loi6	耒				
 B06N13	A46020	D0840	6	l	oi	6	6	oi	loi6	徠				
 B06N14			6	l	oi	6	6	oi	loi6	𧶛				
-B06N15			6	l	oi	6	6	oi	loi6	⿳木人貝				
+B06N15	A17155		6	l	oi	6	6	oi	loi6	⿳木人貝				
 B06N16	A07014		6	l	oi	6	6	oi	loi6	誄				
-B06N17	A17155,A18207		6	l	oi	6	6	oi	loi6	賚				
+B06N17	A18207		6	l	oi	6	6	oi	loi6	賚				
 	A33180		6	l	oi	6	6	oi	loi6	睞				
 B07A01	A37205		7	l	u	1	1	u	lu1	銣				
 B07A02	A34249		7	l	u	1	1	u	lu1	氀				
@@ -1753,7 +1753,7 @@ B10A11	A27115		10	z	ing	1	1	ing	zing1	菁
 B10A12	A03056		10	z	ing	1	1	ing	zing1	湞				
 B10A13	A11159	D1209	10	z	ing	1	1	ing	zing1	禎				
 B10A14	A33178	D1207	10	z	ing	1	1	ing	zing1	睛				
-B10A15	A06223		10	z	ing	1	1	ing	zing1	⿸疒征				
+B10A15	A06223		10	z	ing	1	1	ing	zing1	𱱗				
 B10A16	A37132		10	z	ing	1	1	ing	zing1	鉦				
 B10A17	A17233		10	z	ing	1	1	ing	zing1	楨				
 B10A18	A28034	D1208	10	z	ing	1	1	ing	zing1	蒸				
@@ -7249,7 +7249,7 @@ B33H25	A19057		33	m	ong	5	5	ong	mong5	輞
 B33H26	A07143		33	m	ong	5	5	ong	mong5	誷				
 B33H27	A35199		33	m	ong	5	5	ong	mong5	蟒				
 B33H28	A44204		33	m	ong	5	5	ong	mong5	魍				
-B33H29	A38234		33	m	ong	5	5	ong	mong5	⿰飠莽				
+B33H29	A38234		33	m	ong	5	5	ong	mong5	𲋟				
 B33H30	A05069		33	m	ong	6	6	ong	mong6	妄				
 B33H31	A06093	D4752	33	m	ong	6	6	ong	mong6	望				
 B33I01	A47209,A54110		33	m	ok	1	7	ong	mok1	剝	剥			
@@ -8463,7 +8463,7 @@ B40M04	A30026	D5544	40	j	oek	6	9	oeng	joek6	曰
 B40M05	A11021		40	j	oek	6	9	oeng	joek6	礿				
 B40M06	A26117	D5547	40	j	oek	6	9	oeng	joek6	虐				
 B40M07	A26131	D5545	40	j	oek	6	9	oeng	joek6	若				
-B40M08	A26149		40	j	oek	6	9	oeng	joek6	⿱艹乐				
+B40M08	A26149		40	j	oek	6	9	oeng	joek6	𱽚				
 B40M09	A51086	D5546	40	j	oek	6	9	oeng	joek6	弱				
 B40M10	A27152		40	j	oek	6	9	oeng	joek6	鄀				
 B40M11	A27213	D5549	40	j	oek	6	9	oeng	joek6	葯				
@@ -10183,7 +10183,7 @@ B50M25	A50028		50	ng	ai	6	6	ai	ngai6	羿
 B50M26	A43177	D6639	50	ng	ai	6	6	ai	ngai6	偽	僞			
 B50M27	A16213		50	ng	ai	6	6	ai	ngai6	埶				
 B50M28	A07011		50	ng	ai	6	6	ai	ngai6	詣				
-B50M29	A27008		50	ng	ai	6	6	ai	ngai6	⿱艹执				
+B50M29	A27008		50	ng	ai	6	6	ai	ngai6	𱽜				
 B50M30	A07160	D6641	50	ng	ai	6	6	ai	ngai6	毅				
 B50M31	A28074		50	ng	ai	6	6	ai	ngai6	蓺				
 B50M32	A04164		50	ng	ai	6	6	ai	ngai6	寱				
