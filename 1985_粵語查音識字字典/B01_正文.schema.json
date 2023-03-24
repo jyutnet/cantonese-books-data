@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jyut.net/chan1985.schema.json",
+  "title": "粵語查音識字字典",
+  "description": "粵語查音識字字典讀音資料",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "(非原書資料) 字號。格式為PPP-nn，PPP為頁碼，nn為該字條在頁中序號",
+        "type": "string"
+      },
+      "page": {
+        "description": "頁碼",
+        "type": "integer"
+      },
+      "data": {
+        "description": "(非原書資料) 是否已數碼化，若否即是未獲收錄的簡體字條",
+        "type": "boolean"
+      },
+      "word": {
+        "type": "object",
+        "description": "單字",
+        "properties": {
+          "type": {
+            "description": "字形種類。E=已編碼字;U=未編碼/必須以IDS描述式表達;X=字形屬異體，與正體在Unicode視為等同但差異細微難以用IDS描述式表達，故懸空",
+            "type": "string",
+            "enum": [
+              "E",
+              "U",
+              "X"
+            ]
+          },
+          "word": {
+            "description": "實際字形",
+            "type": "string"
+          },
+          "ids": {
+            "description": "字形描述",
+            "type": "string"
+          }
+        },
+        "required": [
+          "type"
+        ]
+      },
+      "properties": {
+        "description": "屬性",
+        "type": "object",
+        "properties": {
+          "cantonese": {
+            "description": "書中標記為粵語俗字",
+            "type": "boolean"
+          },
+          "simplificationOf": {
+            "description": "書中標記為簡體字，對應之正體",
+            "type": [
+              "array",
+              "null"
+            ],
+            "items": [
+              {
+                "description": "字號",
+                "type": "string"
+              },
+              {
+                "description": "字",
+                "type": "string"
+              }
+            ]
+          },
+          "variantOf": {
+            "description": "書中標記為異體字，對應之正體",
+            "type": [
+              "array",
+              "null"
+            ],
+            "items": [
+              {
+                "description": "字號",
+                "type": "string"
+              },
+              {
+                "description": "字",
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "required": [
+          "cantonese",
+          "simplificationOf",
+          "variantOf"
+        ]
+      },
+      "pronunciation": {
+        "description": "讀音資料",
+        "type": "object",
+        "properties": {
+          "jyutping": {
+            "description": "粵拼讀音",
+            "type": "string"
+          },
+          "flag": {
+            "description": "讀音標記。A=又讀;L=讀音;V=語音;O=原讀;C=習讀/俗音/俗讀;F=常讀",
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              null,
+              "A",
+              "L",
+              "V",
+              "O",
+              "C",
+              "F"
+            ]
+          }
+        },
+        "required": [
+          "jyutping",
+          "flag"
+        ]
+      },
+      "supplementary": {
+        "description": "(非原書資料) 是否數碼化補收字條",
+        "type": "boolean"
+      },
+      "remarks": {
+        "description": "(非原書資料) 數碼化備註",
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "page",
+      "data"
+    ],
+    "dependentRequired": {
+      "word": [
+        "properties",
+        "pronunciation",
+        "supplementary",
+        "remarks"
+      ]
+    }
+  }
+}
