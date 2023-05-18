@@ -1187,12 +1187,12 @@
 1185	7	daat6	噠				d	aat	6	9		
 1186	7	daat6	繨				d	aat	6	9		
 1187	7	daat6	鐽				d	aat	6	9		
-1188	7	zaat3	紥				z	aat	3	8	1	
+1188	7	zaat3	紥	紮			z	aat	3	8	1	
 1189	8	zaat3	拶				z	aat	3	8	1	
 1190	8	zaat3	扎				z	aat	3	8	2	
 1191	8	zaat3	札				z	aat	3	8	2	
-1192	8	zaat3	紥				z	aat	3	8	2	
-1193	8	zaat3	紮				z	aat	3	8	2	
+1192	8	zaat3	紥	紮			z	aat	3	8	2	
+1193	8	zaat3	紮	紥			z	aat	3	8	2	
 1194	8	zaat3	軋				z	aat	3	8	2	
 1195	8	zaat3	哳				z	aat	3	8	2	
 1196	8	zaat3	鍘				z	aat	3	8	2	
@@ -1545,7 +1545,7 @@
 1543	10	kwai4	頯				kw	ai	4	4		
 1544	10	kwai4	逵				kw	ai	4	4		
 1545	10	kwai4	馗				kw	ai	4	4		
-1546	10	kwai4	夔				kw	ai	4	4		
+1546	10	kwai4	夔	𡖂			kw	ai	4	4		
 1547	10	kwai2	跬				kw	ai	2	2		
 1548	10	kwai2	蹞				kw	ai	2	2		
 1549	10	kwai2	頍				kw	ai	2	2		
@@ -1723,7 +1723,7 @@
 1721	10	wai4	圩			鄉村也，又田岸也	w	ai	4	4		
 1722	10	wai2	毀	毁			w	ai	2	2		
 1723	10	wai2	燬				w	ai	2	2		
-1724	10	wai2	卉				w	ai	2	2		
+1724	10	wai2	卉	𠦄			w	ai	2	2		
 1725	10	wai2	虫				w	ai	2	2		
 1726	10	wai2	虺				w	ai	2	2		
 1727	10	wai2	委				w	ai	2	2		
@@ -2381,7 +2381,7 @@
 2379	14	lam4	臨				l	am	4	4		
 2380	14	lam5	稟	禀		賜穀也	l	am	5	5		
 2381	14	lam5	凜				l	am	5	5		
-2382	14	lam5	壈				l	am	5	5		
+2382	14	lam5	壈	𡒄			l	am	5	5		
 2383	14	lam5	廩	廪			l	am	5	5		
 2384	14	lam5	懍	懔			l	am	5	5		
 2385	14	lam5	檁				l	am	5	5		
@@ -3935,7 +3935,7 @@
 3933	22	zi1	諮				z	i	1	1	1	
 3934	22	zi1	資				z	i	1	1	1	
 3935	22	zi1	趑				z	i	1	1	1	
-3936	22	zi1	淄				z	i	1	1	1	
+3936	22	zi1	淄	湽			z	i	1	1	1	
 3937	22	zi1	緇				z	i	1	1	1	
 3938	22	zi1	菑	葘			z	i	1	1	1	
 3939	22	zi1	輜	輺			z	i	1	1	1	
@@ -8583,7 +8583,7 @@
 8581	47	zung1	鐘				z	ung	1	1	2	
 8582	47	zung1	舂				z	ung	1	1	2	
 8583	47	zung1	憃				z	ung	1	1	2	
-8584	47	zung1	潀				z	ung	1	1	2	
+8584	47	zung1	潀	潨			z	ung	1	1	2	
 8585	47	zung2	種				z	ung	2	2	2	
 8586	47	zung2	腫				z	ung	2	2	2	
 8587	47	zung2	歱				z	ung	2	2	2	
