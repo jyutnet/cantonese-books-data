@@ -1,4 +1,4 @@
-# 資料庫版本: 2021-06-29
+# 資料庫版本: 2023-05-07
 序號	頁	粵拼	粵拼韻母	粵拼聲母	粵拼聲調	聲調(九聲)	字	(輔助檢索用異體)	可疑條目	據原書勘誤表修正	數碼化校訂者修正	校訂註
 1	1	m4	m		4	4	唔					
 2	1	ng4	ng		4	4	吾					
@@ -258,7 +258,7 @@
 256	10	saai2	aai	s	2	2	葸					
 257	10	saai2	aai	s	2	2	璽					
 258	10	saai2	aai	s	2	2	屣					
-259	10	saai5	aai	s	5	5	舐					
+259	10	saai5	aai	s	5	5	舐	䑛				
 260	10	saai6	aai	s	6	6	晒					
 261	10	saai6	aai	s	6	6	曬					
 262	10	waai1	aai	w	1	1	歪					
@@ -392,7 +392,7 @@
 390	14	naam4	aam	n	4	4	喃					
 391	14	naam4	aam	n	4	4	男					
 392	14	naam6	aam	n	6	6	腩					
-393	15	laam2	aam	l	2	2	欖					
+393	15	laam2	aam	l	2	2	欖	㰖				
 394	15	laam2	aam	l	2	2	攬	𭣄				
 395	15	laam4	aam	l	4	4	藍					
 396	15	laam4	aam	l	4	4	籃					
@@ -768,8 +768,8 @@
 766	27	so1	o	s	1	1	唆					
 767	27	so1	o	s	1	1	娑					
 768	27	so2	o	s	2	2	所					
-769	28	so2	o	s	2	2	瑣					
-770	28	so2	o	s	2	2	鎖					
+769	28	so2	o	s	2	2	瑣	𤨏				
+770	28	so2	o	s	2	2	鎖	鎻				
 771	28	so3	o	s	3	3	疎					
 772	28	so3	o	s	3	3	疏					
 773	28	wo1	o	w	1	1	窩					
@@ -1501,7 +1501,7 @@
 1499	46	jai6	ai	j	6	6	泄					
 1500	46	wai1	ai	w	1	1	威					
 1501	46	wai2	ai	w	2	2	唯					
-1502	46	wai2	ai	w	2	2	卉					
+1502	46	wai2	ai	w	2	2	卉	𠦄				
 1503	46	wai2	ai	w	2	2	委					
 1504	46	wai2	ai	w	2	2	諉					
 1505	46	wai2	ai	w	2	2	萎					
@@ -2990,8 +2990,8 @@
 2988	89	jeoi5	eoi	j	5	5	蕋					
 2989	89	jeoi5	eoi	j	5	5	蕊					
 2990	89	jeoi5	eoi	j	5	5	餒					
-2991	89	jeoi6	eoi	j	6	6	睿					
-2992	89	jeoi6	eoi	j	6	6	叡					
+2991	89	jeoi6	eoi	j	6	6	睿	𥈠				
+2992	89	jeoi6	eoi	j	6	6	叡	𠮉				
 2993	89	jeoi6	eoi	j	6	6	裔					
 2994	89	jeoi6	eoi	j	6	6	蕤	㽔				
 2995	89	jeoi6	eoi	j	6	6	銳	鋭				
@@ -5420,7 +5420,7 @@
 5418	163	duk6	uk	d	6	9	黷					
 5419	163	duk6	uk	d	6	9	櫝					
 5420	163	duk6	uk	d	6	9	讟					
-5421	163	duk6	uk	d	6	9	匱					
+5421	163	duk6	uk	d	6	9	匵				Y	原書誤植「匱」
 5422	163	duk6	uk	d	6	9	毒					
 5423	163	duk6	uk	d	6	9	纛					
 5424	163	tuk1	uk	t	1	7	禿	秃				
