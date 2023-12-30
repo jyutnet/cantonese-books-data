@@ -1,0 +1,185 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "https://jyut.net/books/fung1967.schema.json",
+  "title": "部身字典",
+  "description": "馮思禹部身字典資料檔格式",
+  "type": "object",
+  "properties": {
+    "version": {
+      "description": "資料檔版本",
+      "type": "string"
+    },
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "page": {
+            "description": "頁數",
+            "type": "integer"
+          },
+          "column": {
+            "description": "列數",
+            "type": "integer"
+          },
+          "code": {
+            "description": "檢號",
+            "type": "integer"
+          },
+          "headword": {
+            "description": "字頭",
+            "type": "object",
+            "properties": {
+              "type": {
+                "description": "字頭種類",
+                "type": "string",
+                "enum": [
+                  "words",
+                  "composition",
+                  "placeholder"
+                ]
+              },
+              "description": {
+                "description": "字形描述",
+                "type": "string"
+              },
+              "words": {
+                "description": "字頭",
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              }
+            },
+            "required": [
+              "type"
+            ]
+          },
+          "definitions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "description": "釋義種類",
+                  "type": "string",
+                  "enum": [
+                    "pronunciation",
+                    "reference"
+                  ]
+                },
+                "meaning": {
+                  "description": "釋義",
+                  "type": "string"
+                },
+                "pronunciations": {
+                  "description": "讀音",
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "description": "讀音類型",
+                        "type": "string",
+                        "enum": [
+                          "roman",
+                          "direct"
+                        ]
+                      },
+                      "pronunciation": {
+                        "description": "原書注音",
+                        "type": "string"
+                      },
+                      "jyutping": {
+                        "description": "粵拼讀音",
+                        "type": "object",
+                        "properties": {
+                          "initial": {
+                            "description": "聲母",
+                            "type": "string"
+                          },
+                          "final": {
+                            "description": "韻母",
+                            "type": "string"
+                          },
+                          "tone": {
+                            "description": "聲調",
+                            "type": "integer"
+                          }
+                        },
+                        "required": [
+                          "initial",
+                          "final",
+                          "tone"
+                        ]
+                      },
+                      "category": {
+                        "description": "讀音分類",
+                        "type": "string",
+                        "enum": [
+                          "正讀",
+                          "又讀",
+                          "語音",
+                          "通讀",
+                          "誤讀",
+                          "原讀"
+                        ]
+                      },
+                      "revised": {
+                        "description": "經修正讀音",
+                        "type": "boolean"
+                      },
+                      "suspicious": {
+                        "description": "可疑讀音",
+                        "type": "boolean"
+                      },
+                      "addendum": {
+                        "description": "補充讀音",
+                        "type": "boolean"
+                      },
+                      "collatorRemarks": {
+                        "description": "校訂註",
+                        "type": "string"
+                      },
+                      "word": {
+                        "description": "直音字",
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "type"
+                    ]
+                  }
+                },
+                "referenceWord": {
+                  "description": "參照字",
+                  "type": "string"
+                },
+                "collatorRemarks": {
+                  "description": "校訂註",
+                  "type": "string"
+                }
+              },
+              "required": [
+                "type"
+              ]
+            }
+          }
+        },
+        "required": [
+          "page",
+          "column",
+          "code",
+          "headword",
+          "definitions"
+        ]
+      }
+    }
+  },
+  "required": [
+    "version",
+    "data"
+  ]
+}
