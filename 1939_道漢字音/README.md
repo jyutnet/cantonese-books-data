@@ -8,7 +8,7 @@
 承印：香港惠來印務公司 <br>
 年份：1939 年 8 月初版<br>
 
-[典籍專頁](https://chan1939.jyut.net) | [全書字條 (Google Sheet)](https://goo.gl/BRvB3v)
+[典籍專頁](https://chan1939.jyut.net)
 
 編輯工作人員
 ------------
