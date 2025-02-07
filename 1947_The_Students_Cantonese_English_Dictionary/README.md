@@ -18,3 +18,13 @@ Theodore F. Wempe
 數碼資料説明
 --------
 資料檔據 1978 年香港公教真理學會 (Catholic Truth Society of Hong Kong) 重印本錄入。
+
+### 讀音標記
+以下是資料檔中讀音標記的説明：
+
+| 標記  | 原書字眼               | 界説                                                        |
+|-----|--------------------|-----------------------------------------------------------|
+| AP  | a.p. (讀音)          | Also pronounced. (見於原書 Explanatory Notes)                 |
+| UP  | u.p.  (讀音)         | 原書未有提及，只出現一次（P.221 轎），可能是 Usually pronounced，也可能是 a.p. 誤植 |
+| CAN | Cantonese use (讀音) | 原書未有提及，只出現一次（P.547 刷）                                     |
+
