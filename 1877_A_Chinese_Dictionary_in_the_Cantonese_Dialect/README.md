@@ -67,11 +67,15 @@ James Dyer Ball（波乃耶）在 1888 年的 *Cantonese Made Easy*  指，《�
 
 增訂版對初版最容易察覺的改進應是在排版方面。初版排印方式大體沿襲《英華分韻撮要》，釋義不設分段。增訂版的排印方式則跟同期字典（例如 1903 年 Syllabic Dictionary of the Chinese Language）相似，釋義和例句字間均會斷行，而例句之間也會另起新行，閱讀上方便得多。亦因如此，新版比初版尺寸更大，頁數也更多。即使例句改用小字印刷，新版仍比舊版多出逾四百頁。
 
-音系方面，雖然 Ball 曾參與此書修訂工作，他在 *Cantonese Made Easy* 也批評過此書不符標準廣州音系，但此一增訂版的音系最終跟原版並無分別。Genähr 在第二版前言有交代：
+音系方面，既然 Ball 在 *Cantonese Made Easy* 批評過此書音系，他在着手修訂此書時不可能視若無睹。然而，增訂版音系與原版無異。Genähr 在第二版前言有交代：
 
-A difficulty seemed to me to lie especially in the Orthography adopted by Mr. Ball, and I proposed to have the portion already done, reprinted in line with Dr. Eitel's Orthography, which, tough far from being perfect, seemed to me and to others more natrual, and preferable to that of Mr. Ball.
+> A difficulty seemed to me to lie especially in the Orthography adopted by Mr. Ball, and I proposed to have the portion already done, reprinted in line with Dr. Eitel's Orthography, which, though far from being perfect, seemed to me and to others more natural, and preferable to that of Mr. Ball.
 
-可見 Ball 確曾想對 Eitel 原書音系做修改，但未竟全功，Genähr 接手時將之還原。黃錫凌在《粵音韻彙》提及此書時，也有指「Genähr 氏於 1910 年將 Eitel 氏書再版時，猶斤斤於『述而不作』……可見《分韻撮要》一書，當時受到過份的推崇，而不知其誤」。
+ （就我而言，困難主要在於波乃耶先生所採用的拼寫方法，因此我建議將已經完成的部份按照歐德理的拼寫法重印。歐德理的拼寫法雖然未臻完善，但在我和其他人看來，它比波乃耶先生所用的拼法更自然和可取。）
+
+可見 Ball 確有對 Eitel 原書音系做過修改，惜未竟全功，Genähr 接手時未能適應改變，最終將之還原。
+
+黃錫凌在《粵音韻彙》提及此書時批評：「Genähr 氏於 1910 年將 Eitel 氏書再版時，猶斤斤於『述而不作』……可見《分韻撮要》一書，當時受到過份的推崇，而不知其誤」。
 
 數碼化説明及侷限
 ----------------
