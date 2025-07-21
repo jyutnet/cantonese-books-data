@@ -28,7 +28,7 @@
 
 本目錄的《分韻撮要》檔案內容以 poem 錄入的福文本為底本（茲將此數碼本稱為「初校本」，並鳴謝 poem 所做工作），再根據壁魚堂梓行的《分韻撮要》單行本（下稱「壁魚本」）逐條覆核、對照，並參校其他刊本而成。
 
-壁魚本由岑堯昊在《〈分韻撮要〉版本與音系新論》（岑堯昊2020）一文發見，暫時是目前考得最早存世版本。原書屬巴伐利亞州立圖書館館藏並在 2014 年數碼化，目前可在 [Das Münchener DigitalisierungsZentrum (慕尼黑數碼化中心)](https://www.digitale-sammlungen.de/en/details/bsb00093581) 免費閱讀及下載。另外，[Google Books](https://www.google.com.hk/books/edition/%E5%88%86%E9%9F%BB%E6%92%AE%E8%A6%81/UFhkMHJjzyMC?hl=zh-TW&gbpv=0) 也有提供此書，來源相同。岑文認為「單行本不獨在校讎為佳，在保存清代粵語原貌，更比諸合刻本而優。」
+壁魚本由岑堯昊在《〈分韻撮要〉版本與音系新論》（岑堯昊2020）一文發見，暫時是目前考得最早存世版本。原書屬巴伐利亞州立圖書館館藏並在 2014 年數碼化，目前可在 [Das Münchener DigitalisierungsZentrum (慕尼黑數碼化中心)](https://www.digitale-sammlungen.de/en/details/bsb00093581) 免費閱讀及下載。另外，[Google Books](https://www.google.com.hk/books/edition/%E5%88%86%E9%9F%BB%E6%92%AE%E8%A6%81/UFhkMHJjzyMC?hl=zh-TW&gbpv=0) 也有提供此書，來源相同。岑文認為「單行本不獨在校讎為佳，在保存清代粵語原貌，更比諸合刻本而優」，「上文考察傳世《分韻》版本，發現流傳海外的壁魚本最為佳本」。
 
 壁魚本沒有鐫刻年份，亦無序言，故出版年期不詳。惟因此書屬單行本，推斷此書出版不會晚於合刻本暫時最早發現的 1782 年。
 
